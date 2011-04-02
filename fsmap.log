@@ -11,8 +11,12 @@
 # x->y means: x was corrected with y. y is in its place now.
 
 
-2011-04-02 The proyect is now at savanna's git: 
+2011-04-02 The proyect is now at savannah's git: 
 2011-04-02 http://git.savannah.gnu.org/gitweb/?p=fsmap.git;a=tree;hb=22bc09efdfd451ef3ef037e154e39fdc89aa5909
+2011-03-22 fsmap-ca.svg -es -en -fr  and map-contents.svg have added the copyright notice.
+2011-03-22 readme file is now README file and it has the copyright notice added.
+2011-03-22 added COPYING file with the GFDL 1.3 .
+2011-02-13 The proyect was proposed to savannah. 
 2011-01-17 all the maps go to GFDL v1.3
 2011-01-17 added form to translate it from spanish version in mallorcaweb.net/rene/svg/fsmap-tra-es-cl.html
 2011-01-17 fsmap-es.svg moved some mm the words under SOPORTE and "CafeLug," ->"CafeLug" 
