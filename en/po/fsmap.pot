@@ -1,0 +1,1151 @@
+# Free software concept map pot file 
+# Copyright (C) 2010 René Mérou.
+# This file is distributed under GFDL.
+# René Mérou <h@es.gnu.org>, 2010.
+#
+#translators need to see the fsmap in
+#http://es.gnu.org/~reneme/fsmap/en/fsmap-en.svg
+#It's better to edit that imagesi with inkscape
+#Other way to traslate is this web form:
+#http://www.mallorcaweb.net/rene/svg/fsmap-tra-en-cl.html
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fsmap 4\n"
+"POT-Creation-Date: 2010-08-22 17:41+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: UTF-8"
+
+#. type: Content of: <svg:svg><svg:metadata><rdf:RDF><cc:Work><dc:format>
+#: fsmap-en.svg:34612
+#, no-wrap
+msgid "image/svg+xml"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:34663
+#, no-wrap
+msgid "Ktouch"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:34857
+#, no-wrap
+msgid "Trisquel"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:34884
+#, no-wrap
+msgid "OpenBSD"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:34899 fsmap-en.svg:35936
+#, no-wrap
+msgid "Apache,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35095
+#, no-wrap
+msgid "from OASIS"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35111
+#, no-wrap
+msgid "Foundacions like FSF,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:35122
+#, no-wrap
+msgid "EVENTS:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:35135
+#, no-wrap
+msgid "BLOGOSPHERE:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:35145
+#, no-wrap
+msgid "FORUMS:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:35155
+#, no-wrap
+msgid "MAILING LISTS:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35196
+#, no-wrap
+msgid "89% of the TOP500 supercomputers"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35217
+#, no-wrap
+msgid "OSWC,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35234
+#, no-wrap
+msgid "RMLL,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35251
+#, no-wrap
+msgid "GHM"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35268
+#, no-wrap
+msgid "planet gnu,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35285
+#, no-wrap
+msgid "blog.ofset.org"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35302
+#, no-wrap
+msgid "Linux Forums,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35319
+#, no-wrap
+msgid "LinuxQuestions"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35340
+#, no-wrap
+msgid "debian-i18n,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35357
+#, no-wrap
+msgid "blag-users"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35374
+#, no-wrap
+msgid "GNU Herds"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35409
+#, no-wrap
+msgid "PostgreSQL,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35427
+#, no-wrap
+msgid "Scribus,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35445
+#, no-wrap
+msgid "Inkscape,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35463
+#, no-wrap
+msgid "OpenOffice.org,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35481
+#, no-wrap
+msgid "K3b"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35499
+#, no-wrap
+msgid "Firefox,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35530
+#, no-wrap
+msgid "100%"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35548
+#, no-wrap
+msgid "Blender,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35567
+#, no-wrap
+msgid "Icecat"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35585
+#, no-wrap
+msgid "Audacity,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35603
+#, no-wrap
+msgid "GIMP,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35621
+#, no-wrap
+msgid "Free"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35667
+#, no-wrap
+msgid "Ubuntu"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35687
+#, no-wrap
+msgid "OpenSolaris"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35713
+#, no-wrap
+msgid "Debian"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35729
+#, no-wrap
+msgid "gNewSense"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35745
+#, no-wrap
+msgid "Ututo"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35761
+#, no-wrap
+msgid "Fosdem,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35777
+#, no-wrap
+msgid "GLLUG,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35793
+#, no-wrap
+msgid "SLUG,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35809
+#, no-wrap
+msgid "LILUG"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35825
+#, no-wrap
+msgid "emacswiki,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35841
+#, no-wrap
+msgid "wiki.debian.org"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35857
+#, no-wrap
+msgid "OFTC,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35873
+#, no-wrap
+msgid "freenode"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35889
+#, no-wrap
+msgid "X.org,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35905
+#, no-wrap
+msgid "MySQL"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35920
+#, no-wrap
+msgid "PHP,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35956
+#, no-wrap
+msgid "Gnome,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35972
+#, no-wrap
+msgid "Window Maker,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:35988
+#, no-wrap
+msgid "Linux kernel,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36004
+#, no-wrap
+msgid "KDE,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36020
+#, no-wrap
+msgid "Enlightenment,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36036
+#, no-wrap
+msgid "GNU,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36051
+#, no-wrap
+msgid "GPL"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36066
+#, no-wrap
+msgid "BSD,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36081
+#, no-wrap
+msgid "Creative Commons"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36085
+#, no-wrap
+msgid "       (Share Alike)"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36100
+#, no-wrap
+msgid "(Copyleft    ),"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36111
+#, no-wrap
+msgid "and projects like:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36126
+#, no-wrap
+msgid "Berkeley"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36137
+#, no-wrap
+msgid "Extremadura"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36147
+#, no-wrap
+msgid "France, Chine, Brazil, Germany "
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36162
+#, no-wrap
+msgid "MIT, "
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36178
+#, no-wrap
+msgid "SUN,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36194
+#, no-wrap
+msgid "Nokia"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36210
+#, no-wrap
+msgid "IBM,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36226
+#, no-wrap
+msgid "Google,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36241
+#, no-wrap
+msgid "NASA"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36257
+#, no-wrap
+msgid "Wikipedia,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36273
+#, no-wrap
+msgid " Greenpeace"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36289
+#, no-wrap
+msgid "UNESCO,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36305
+#, no-wrap
+msgid "and ISO"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36321
+#, no-wrap
+msgid "OpenDocument"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36337
+#, no-wrap
+msgid "from W3C"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36353
+#, no-wrap
+msgid "HTML,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36369
+#, no-wrap
+msgid "XML"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36385
+#, no-wrap
+msgid "UTF-8"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36404
+#, no-wrap
+msgid "Author: René Mérou ("
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36418
+#, no-wrap
+msgid " 2010-08-21"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36461
+#, no-wrap
+msgid "ASSOCIATIONS:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36484
+#, no-wrap
+msgid "faqs.org lists over 1800, with 81 local to UK."
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36500
+#, no-wrap
+msgid "Linux.org.uk has 45"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36511
+#, no-wrap
+msgid "CONSULTANTS:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36524
+#, no-wrap
+msgid "MEETINGS:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36534
+#, no-wrap
+msgid "LUGS:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36544
+#, no-wrap
+msgid "WIKIES:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36554
+#, no-wrap
+msgid "IRC (Chats):"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36569
+#, no-wrap
+msgid "from IETF"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36586
+#, no-wrap
+msgid "aKademy,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:36605
+#, no-wrap
+msgid ") didactic Material"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36620
+#, no-wrap
+msgid "compiled"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36633
+#, no-wrap
+msgid "instructions"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36646
+#, no-wrap
+msgid "with"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36660
+#, no-wrap
+msgid "that allow"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36674
+#, no-wrap
+msgid "needs"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36687
+#, no-wrap
+msgid "USE"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36703
+#, no-wrap
+msgid "REDISTRIBUTE"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36717
+#, no-wrap
+msgid "DISTRIBUTIONS"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36731
+#, no-wrap
+msgid "respect"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36741
+#, no-wrap
+msgid "for any "
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36745
+#, no-wrap
+msgid "purpose"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36749
+#, no-wrap
+msgid "(freedom "
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan><svg:tspan>
+#: fsmap-en.svg:36751
+#, no-wrap
+msgid "0"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36751
+#, no-wrap
+msgid ")"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36761
+#, no-wrap
+msgid "to make the program"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36765
+#, no-wrap
+msgid "do what you wish"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36769
+#, no-wrap
+msgid "(freedom 1)"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36779
+#, no-wrap
+msgid "copies for everybody"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36783
+#, no-wrap
+msgid "(freedom 2)"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36793
+#, no-wrap
+msgid "OPEN"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36797
+#, no-wrap
+msgid "STANDARDS"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36807
+#, no-wrap
+msgid "LEARN"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36811
+#, no-wrap
+msgid "ADAPT"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36821 fsmap-en.svg:36859
+#, no-wrap
+msgid "FREE"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36825
+#, no-wrap
+msgid "LICENCES"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36835
+#, no-wrap
+msgid "SOURCE"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36839
+#, no-wrap
+msgid "CODE"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36849
+#, no-wrap
+msgid "BINARIES"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36863
+#, no-wrap
+msgid "CONTENT"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36875
+#, no-wrap
+msgid "gathered"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36879
+#, no-wrap
+msgid "in"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36893
+#, no-wrap
+msgid "distributes"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36904
+#, no-wrap
+msgid "FREE SOFTWARE"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36918
+#, no-wrap
+msgid "requires"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36931
+#, no-wrap
+msgid "is"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36945
+#, no-wrap
+msgid "expresses"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36958
+#, no-wrap
+msgid "for"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36971
+#, no-wrap
+msgid "SUPPORT"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:36984
+#, no-wrap
+msgid "cooperate"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:37001
+#, no-wrap
+msgid "(netiquete)"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37015
+#, no-wrap
+msgid "choose"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37025
+#, no-wrap
+msgid "so that the whole"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37029
+#, no-wrap
+msgid "community benefits"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37033
+#, no-wrap
+msgid "(freedom 3)"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37043
+#, no-wrap
+msgid "AN ETHICAL WAY"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37047
+#, no-wrap
+msgid "TO UNDERSTAND"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37051
+#, no-wrap
+msgid "SOFTWARE"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37061
+#, no-wrap
+msgid "In its development,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37065
+#, no-wrap
+msgid "commercialization, "
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37069
+#, no-wrap
+msgid "distribution and use"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37079
+#, no-wrap
+msgid "fonts, translations, localizations,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37083
+#, no-wrap
+msgid "templates, sounds, images,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37087
+#, no-wrap
+msgid "FAQs, guides, mans, infos"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37097
+#, no-wrap
+msgid "DEVELOPERS"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37107
+#, no-wrap
+msgid "produce and"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37111
+#, no-wrap
+msgid "debug"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37121
+#, no-wrap
+msgid "RELEASE"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37125
+#, no-wrap
+msgid "IMPROVEMENTS"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37138
+#, no-wrap
+msgid "VALUES"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37148
+#, no-wrap
+msgid "USERS"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37158
+#, no-wrap
+msgid "give and"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37162
+#, no-wrap
+msgid "receive"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37172
+#, no-wrap
+msgid "Ethics, creativity,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37176
+#, no-wrap
+msgid "efficiency, science,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37180
+#, no-wrap
+msgid "non discrimination,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37184
+#, no-wrap
+msgid "competitiveness, privacy,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37188
+#, no-wrap
+msgid "cooperation, transparency,"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37192
+#, no-wrap
+msgid "security, solidarity, and"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37196
+#, no-wrap
+msgid "most importantly, freedom"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37206
+#, no-wrap
+msgid "NGOs:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37210
+#, no-wrap
+msgid "INSTITUTIONS: "
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37214
+#, no-wrap
+msgid "COMPANIES: "
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37218
+#, no-wrap
+msgid "COUNTRIES-REGIONS:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37226
+#, no-wrap
+msgid "UNIVERSITIES: "
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:37244
+#, no-wrap
+msgid "Latest version of the concept map of free software ("
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:37263
+#, no-wrap
+msgid "GFDL"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37277
+#, no-wrap
+msgid ") at:"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:37295
+#, no-wrap
+msgid "es.gnu.org/~reneme/fsmap/en"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37309
+#, no-wrap
+msgid ") translation: Leonardo G. De Luca ("
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37322
+#, no-wrap
+msgid "leo@kde.org.ar"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
+#: fsmap-en.svg:37335
+#, no-wrap
+msgid "h@es.gnu.org"
+msgstr ""
+
+#. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
+#: fsmap-en.svg:47550
+#, no-wrap
+msgid "translations and comments"
+msgstr ""
+
+#, no-wrap
+msgid "click here for translations (we have some done and a formulary to eassyly translate or send any comment)"
+msgstr ""
+
+#, no-wrap
+msgid "). See the 4 zones"
+msgstr ""
+
+#, no-wrap
+msgid "Exercise: write a few examples from each term."
+msgstr ""
+
+#, no-wrap
+msgid "See the Errors Hunting exercise"
+msgstr ""
+
+#, no-wrap
+msgid "9 out of 8 of the TOP500 supercomputers"
+msgstr ""
+
+#, no-wrap
+msgid "Google photos..."
+msgstr ""
+
+#, no-wrap
+msgid "In its development, aggressive marketing, distribution and us"
+msgstr ""
+
+#, no-wrap
+msgid "one licence per PC for non military use(freedom 0)"
+msgstr ""
+
+#, no-wrap
+msgid "after the revelsalengineering(freedom 1)"
+msgstr ""
+
+#, no-wrap
+msgid "strictly free copiesfor everybody(freedom 2)"
+msgstr ""
+
+#, no-wrap
+msgid "allways required to benefit the whole community(freedom 3)"
+msgstr ""
+
+#, no-wrap
+msgid "RIAA,"
+msgstr ""
+
+#, no-wrap
+msgid "Bill and Melinda Gates foundation, and projects like:"
+msgstr ""
+
+#, no-wrap
+msgid "A FREAKY WAYTO UNDERSTAND SOFTWARE"
+msgstr ""
+
+#, no-wrap
+msgid "Bug hunting, find out 29 errors"
+msgstr ""
+
+#, no-wrap
+msgid "obfuscated"
+msgstr ""
+
+#, no-wrap
+msgid "Latest version of the concept map of pirate software ("
+msgstr ""
+
+#, no-wrap
+msgid "See the web page of IBM"
+msgstr ""
+
+#, no-wrap
+msgid "oficial web page of apache"
+msgstr ""
+
+
+
+
