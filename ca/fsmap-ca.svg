@@ -6661,9 +6661,9 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="0.7578583"
-   inkscape:cx="544.20045"
-   inkscape:cy="418.6921"
+   inkscape:zoom="3.0314332"
+   inkscape:cx="924.80832"
+   inkscape:cy="120.38657"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
@@ -8294,7 +8294,7 @@
        style="font-size:9px"
        id="tspan4310-9-7-1-9-0-6-7-6-1"
        y="806.01715"
-       x="797.07843">2011-05-02</svg:tspan></svg:text>
+       x="797.07843">2011-05-04</svg:tspan></svg:text>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      xml:space="preserve"
@@ -9174,10 +9174,10 @@
        id="tspan5303-9-2"
        style="font-size:24px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">respecten</svg:tspan></svg:text>
   <svg:a
-     xlink:href="maps-ca.svg"
-     transform="translate(-7.62006,-7.433208)"
+     xlink:href="maps-guide-ca.svg"
+     xlink:title="mapes i exercicis [enllaç relatiu]"
      id="a18624"
-     xlink:title="mapes i exercicis [enllaç relatiu]">
+     transform="translate(-7.62006,-7.433208)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"

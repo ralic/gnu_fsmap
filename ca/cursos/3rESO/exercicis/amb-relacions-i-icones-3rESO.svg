@@ -40548,11 +40548,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="579.15647"
-     inkscape:cy="253.82624"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="659.80693"
+     inkscape:cy="218.53142"
      inkscape:document-units="px"
-     inkscape:current-layer="capa1"
+     inkscape:current-layer="g18749"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="990"
@@ -41379,9 +41379,9 @@
     </svg:a>
     <svg:a
        xlink:href="4zones-3rESO.svg"
-       transform="matrix(0.87568314,0,0,0.87568314,124.20651,74.932105)"
+       xlink:title="Veure el exercici amb les 4 zones"
        id="a18624"
-       xlink:title="Veure el exercici amb les 4 zones">
+       transform="matrix(0.87568314,0,0,0.87568314,124.20651,74.932105)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -41398,9 +41398,9 @@
     </svg:a>
     <svg:a
        xlink:href="../fsmap-ca-3rESO.svg"
-       id="a18624-2"
+       xlink:title="Hipermapa conceptual del programari lliure"
        transform="matrix(0.87568314,0,0,0.87568314,162.40903,61.095645)"
-       xlink:title="Hipermapa conceptual del programari lliure">
+       id="a18624-2">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -41417,9 +41417,9 @@
     </svg:a>
     <svg:a
        xlink:href="troba-els-errors-3rESO.svg"
-       id="a18624-2-6"
+       xlink:title="exercici troba els errors"
        transform="matrix(0.87568314,0,0,0.87568314,138.67923,84.543603)"
-       xlink:title="exercici troba els errors">
+       id="a18624-2-6">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -41499,16 +41499,16 @@
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
          inkscape:export-filename=""
-         x="-138.23837"
+         x="-51.971348"
          y="417.18991"
          id="text3262-1"
          xml:space="preserve"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif Bold"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif Bold"
          sodipodi:linespacing="125%"><svg:tspan
-           x="-138.23837"
+           x="-51.971348"
            y="417.18991"
            id="tspan3267-0-0"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif Bold">DISTRIBUCIONS</svg:tspan></svg:text>
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif Bold">DISTRIBUCIONS</svg:tspan></svg:text>
     </svg:g>
     <svg:path
        sodipodi:nodetypes="ccccccc"
