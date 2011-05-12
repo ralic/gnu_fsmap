@@ -15,7 +15,7 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="amb-relacions-i-icones-2nESO.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/ca/map-ca-12000.png"
    inkscape:export-xdpi="1033.4735"
@@ -35036,7 +35036,7 @@
      inkscape:window-width="1050"
      inkscape:window-height="962"
      inkscape:window-x="598"
-     inkscape:window-y="40"
+     inkscape:window-y="20"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -39735,9 +39735,9 @@
     </svg:a>
     <svg:a
        xlink:href="4zones-2nESO.svg"
-       xlink:title="Veure el exercici amb les 4 zones"
+       transform="translate(-29.41639,-29.31963)"
        id="a18624"
-       transform="translate(-29.41639,-29.31963)">
+       xlink:title="Veure el exercici amb les 4 zones">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -39754,9 +39754,9 @@
     </svg:a>
     <svg:a
        xlink:href="../fsmap-ca-2nESO.svg"
-       xlink:title="Hipermapa conceptual del programari lliure"
+       id="a18624-2"
        transform="translate(17.3453,-45.12039)"
-       id="a18624-2">
+       xlink:title="Hipermapa conceptual del programari lliure">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -39773,9 +39773,9 @@
     </svg:a>
     <svg:a
        xlink:href="troba-els-errors-2nESO.svg"
-       xlink:title="exercici troba els errors"
+       id="a18624-2-6"
        transform="translate(-23.4569,-18.34363)"
-       id="a18624-2-6">
+       xlink:title="exercici troba els errors">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -39814,7 +39814,7 @@
          x="-166.4411"
          y="784.6142"
          id="tspan10280-0-0-6"
-         style="font-size:9px;text-align:start;text-anchor:start;fill:#550000">Examen: afegiu exemples al termes anomenats i explicacions</svg:tspan></svg:text>
+         style="font-size:9px;text-align:start;text-anchor:start;fill:#550000">Exercici: afegiu exemples al termes anomenats i explicacions</svg:tspan></svg:text>
     <svg:text
        x="-166.4411"
        y="796.33228"
