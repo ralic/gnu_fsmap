@@ -39399,7 +39399,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="362.57407"
+     inkscape:cx="607.16667"
      inkscape:cy="116.87731"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
@@ -39861,24 +39861,11 @@
          y="390.26004"
          id="tspan3281-6-4"
          style="font-size:26.28454781px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold">DESENVOLUPADORS/ES</svg:tspan></svg:text>
-    <svg:text
-       x="521.87897"
-       y="681.42853"
-       xml:space="preserve"
-       style="font-size:23.36404228px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       id="text6661"
-       inkscape:export-filename="ejercicios/map-ca-exercici-800-troba-els-errors.png"
-       inkscape:export-xdpi="69.204079"
-       inkscape:export-ydpi="69.204079"><svg:tspan
-         x="521.87897"
-         y="769.0437"
-         style="font-size:17.52303123px;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;-inkscape-font-specification:DejaVu Serif"
-         id="tspan6663">Associacions i empreses</svg:tspan></svg:text>
     <svg:a
        xlink:href="4zones-3rESO.svg"
-       transform="matrix(2.6031434,0,0,2.6031434,-1203.2227,-1284.6415)"
+       id="a42070"
        xlink:title="Tornar a veure les 4 zones"
-       id="a42070">
+       transform="matrix(2.6031434,0,0,2.6031434,-1203.2227,-1284.6415)">
       <svg:text
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
          xml:space="preserve"
@@ -39895,9 +39882,9 @@
     </svg:a>
     <svg:a
        xlink:href="amb-relacions-i-icones-3rESO.svg"
-       xlink:title="Tornar a veure el exercici"
+       transform="matrix(1.0648741,0,0,1.0648741,-50.58044,-35.92867)"
        id="a6966"
-       transform="matrix(1.0648741,0,0,1.0648741,-50.58044,-35.92867)">
+       xlink:title="Tornar a veure el exercici">
       <svg:text
          style="font-size:37.74631119px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
          xml:space="preserve"
@@ -44935,5 +44922,19 @@
            id="tspan4310-9-7-06-6-5"
            style="font-size:12px">Sugar</svg:tspan></svg:text>
     </svg:a>
+    <svg:text
+       xml:space="preserve"
+       style="font-size:17.85210609px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker"
+       x="412.42505"
+       y="763.58325"
+       id="text19039"><svg:tspan
+         sodipodi:role="line"
+         id="tspan19041"
+         x="412.42505"
+         y="763.58325">Associacions i empreses,</svg:tspan><svg:tspan
+         sodipodi:role="line"
+         x="412.42505"
+         y="785.89838"
+         id="tspan19043">viquies, blogs, forums, ...</svg:tspan></svg:text>
   </svg:g>
 </svg:svg>
