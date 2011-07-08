@@ -6662,16 +6662,16 @@
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
    inkscape:zoom="3.0314332"
-   inkscape:cx="924.80832"
-   inkscape:cy="120.38657"
+   inkscape:cx="907.59065"
+   inkscape:cy="97.114904"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
-   inkscape:window-width="940"
-   inkscape:window-height="901"
-   inkscape:window-x="972"
-   inkscape:window-y="0"
-   inkscape:window-maximized="0"
+   inkscape:window-width="1920"
+   inkscape:window-height="990"
+   inkscape:window-x="-4"
+   inkscape:window-y="-3"
+   inkscape:window-maximized="1"
    showguides="true"
    inkscape:guide-bbox="true" />
 <svg:metadata
@@ -6701,7 +6701,7 @@
      x="-186.56616"
      y="101.4172"
      id="rect2476-8-2"
-     style="font-size:8px;fill:#ffffff;fill-opacity:1;stroke:#c4aa32;stroke-width:1.95427668;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     style="font-size:8px;fill:none;fill-opacity:1;stroke:#c4aa32;stroke-width:1.95427667999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308" />
@@ -8294,7 +8294,7 @@
        style="font-size:9px"
        id="tspan4310-9-7-1-9-0-6-7-6-1"
        y="806.01715"
-       x="797.07843">2011-05-04</svg:tspan></svg:text>
+       x="797.07843">2011-07-07</svg:tspan></svg:text>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      xml:space="preserve"
@@ -9175,9 +9175,9 @@
        style="font-size:24px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">respecten</svg:tspan></svg:text>
   <svg:a
      xlink:href="maps-guide-ca.svg"
-     xlink:title="mapes i exercicis [enllaç relatiu]"
+     transform="translate(-7.62006,-7.433208)"
      id="a18624"
-     transform="translate(-7.62006,-7.433208)">
+     xlink:title="mapes i exercicis [enllaç relatiu]">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
