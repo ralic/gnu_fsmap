@@ -16,7 +16,7 @@
    id="svg5694"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="fsmap-ca.svg"
+   sodipodi:docname="zona-valors.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/ca/fsmap-ca-600.png"
    inkscape:export-xdpi="51.655361"
    inkscape:export-ydpi="51.655361"> Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
@@ -6662,8 +6662,8 @@
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
    inkscape:zoom="3.0314332"
-   inkscape:cx="907.59065"
-   inkscape:cy="97.114904"
+   inkscape:cx="830.16099"
+   inkscape:cy="221.14649"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
@@ -6682,7 +6682,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title />
+      <dc:title></dc:title>
       <cc:license
          rdf:resource="" />
     </cc:Work>
@@ -7247,18 +7247,6 @@
        x="532.97052"
        y="775.91138"
        id="tspan5588-3" /></svg:text>
-  <svg:rect
-     style="fill:#f6fbfb;fill-opacity:1;stroke:#2e2dff;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:0.99117641;stroke-dasharray:none;stroke-dashoffset:0"
-     id="rect2397-8"
-     y="118.32931"
-     x="692.6571"
-     ry="15.000964"
-     rx="25.8258"
-     height="47.973331"
-     width="121.91602"
-     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-     inkscape:export-xdpi="259.6308"
-     inkscape:export-ydpi="259.6308" />
   <svg:rect
      width="140.32288"
      height="47.569248"
@@ -8294,7 +8282,7 @@
        style="font-size:9px"
        id="tspan4310-9-7-1-9-0-6-7-6-1"
        y="806.01715"
-       x="797.07843">2011-07-07</svg:tspan></svg:text>
+       x="797.07843">2011-07-10</svg:tspan></svg:text>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      xml:space="preserve"
@@ -8572,19 +8560,39 @@
        y="364.37265"
        id="tspan3621-8"
        style="font-size:24px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">per a</svg:tspan></svg:text>
-  <svg:text
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     xml:space="preserve"
-     id="text2399-3"
-     y="148.86823"
-     x="712.79871"
-     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-     inkscape:export-xdpi="259.6308"
-     inkscape:export-ydpi="259.6308"><svg:tspan
-       style="font-size:18px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold"
-       id="tspan2401-8"
-       y="148.86823"
-       x="712.79871">VALORS</svg:tspan></svg:text>
+  <svg:a
+     xlink:href="hipermapa/valors.svg"
+     id="a15550"
+     xlink:title="mostrar els valors">
+    <svg:g
+       id="g15545">
+      <svg:rect
+         style="fill:#f6fbfb;fill-opacity:1;stroke:#2e2dff;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:0.99117641;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect2397-8"
+         y="118.32931"
+         x="692.6571"
+         ry="15.000964"
+         rx="25.8258"
+         height="47.973331"
+         width="121.91602"
+         inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
+         inkscape:export-xdpi="259.6308"
+         inkscape:export-ydpi="259.6308" />
+      <svg:text
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+         xml:space="preserve"
+         id="text2399-3"
+         y="148.86823"
+         x="712.79871"
+         inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
+         inkscape:export-xdpi="259.6308"
+         inkscape:export-ydpi="259.6308"><svg:tspan
+           style="font-size:18px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold"
+           id="tspan2401-8"
+           y="148.86823"
+           x="712.79871">VALORS</svg:tspan></svg:text>
+    </svg:g>
+  </svg:a>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      xml:space="preserve"
