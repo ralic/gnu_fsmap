@@ -39884,7 +39884,7 @@
    inkscape:window-width="1044"
    inkscape:window-height="927"
    inkscape:window-x="323"
-   inkscape:window-y="73"
+   inkscape:window-y="56"
    inkscape:window-maximized="0" />
 <svg:metadata
    id="metadata5699">
@@ -39894,7 +39894,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -39905,10 +39905,10 @@
    transform="translate(200.4423,-84.695028)">
   <svg:a
      xlink:href="zone-des-valeurs.svg"
-     xlink:title="Extension de la zone des valeurs du logiciel libre"
-     transform="matrix(0.69192692,0,0,0.45501747,536.63958,-56.498279)"
+     id="a34744-7-2"
      style="fill:url(#radialGradient8490-6);fill-opacity:1"
-     id="a34744-7-2">
+     transform="matrix(0.69192692,0,0,0.45501747,536.63958,-56.498279)"
+     xlink:title="Extension de la zone des valeurs du logiciel libre">
     <svg:rect
        style="opacity:0.92000002;fill:url(#radialGradient11042);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect33423-5-4"
@@ -39921,10 +39921,10 @@
   </svg:a>
   <svg:a
      xlink:href="zone-de-les-libertés.svg"
-     xlink:title="élargir la zone de les libertés"
-     transform="matrix(1.0370169,0,0,0.48916691,75.770609,-83.231007)"
+     id="a34744-7-2-8"
      style="fill:url(#radialGradient8490-6-7);fill-opacity:1"
-     id="a34744-7-2-8">
+     transform="matrix(1.0370169,0,0,0.48916691,75.770609,-83.231007)"
+     xlink:title="élargir la zone de les libertés">
     <svg:rect
        style="opacity:0.92000002;fill:url(#radialGradient36195-4-5-7);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect33423-5-4-8"
@@ -39936,11 +39936,11 @@
        ry="8.0331545" />
   </svg:a>
   <svg:a
-     xlink:href="distributions-zone.svg"
-     xlink:title="Extension de la zone des logiciels et des distributions"
-     transform="matrix(0.759624,0,0,0.765466,1.7944987,109.77328)"
+     xlink:href="zone-de-les-distributions.svg"
+     id="a34744"
      style="fill:url(#radialGradient8873);fill-opacity:1"
-     id="a34744">
+     transform="matrix(0.759624,0,0,0.765466,1.7944987,109.77328)"
+     xlink:title="Extension de la zone des logiciels et des distributions">
     <svg:rect
        style="opacity:0.92000002;fill:url(#radialGradient36195);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect33423"
@@ -39953,10 +39953,10 @@
   </svg:a>
   <svg:a
      xlink:href="zone-utilisateurs.svg"
-     xlink:title="Extension de la zone d'utilisateurs et de développeurs"
-     id="a34744-7"
+     transform="matrix(0.80318239,0,0,0.77350116,541.45692,137.56962)"
      style="fill:url(#radialGradient8490);fill-opacity:1"
-     transform="matrix(0.80318239,0,0,0.77350116,541.45692,137.56962)">
+     id="a34744-7"
+     xlink:title="Extension de la zone d'utilisateurs et de développeurs">
     <svg:rect
        style="opacity:0.92000002;fill:url(#radialGradient36195-4);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect33423-5"
@@ -46058,9 +46058,9 @@
        style="font-size:22px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">avec</svg:tspan></svg:text>
   <svg:a
      xlink:href="../fsmap-fr.svg"
-     xlink:title="Hypercarte conceptuelle du logiciel libre"
+     transform="translate(16.995102,-40.05899)"
      id="a18624-2"
-     transform="translate(16.995102,-40.05899)">
+     xlink:title="Hypercarte conceptuelle du logiciel libre">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -46077,9 +46077,9 @@
   </svg:a>
   <svg:a
      xlink:href="avec-relations-et-icônes.svg"
-     xlink:title="Retour a le premier exercice"
+     transform="translate(20.501202,12.68437)"
      id="a18624"
-     transform="translate(20.501202,12.68437)">
+     xlink:title="Retour a le premier exercice">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
