@@ -41447,7 +41447,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -43897,7 +43897,7 @@
        style="font-size:9px"
        id="tspan4310-9-7-1-9-0-6-7-6-1-9"
        y="804.10498"
-       x="794.1546">V.5 2010-07-11</svg:tspan></svg:text>
+       x="794.1546">V.5 2011-07-11</svg:tspan></svg:text>
   <svg:a
      id="a18624-3"
      xlink:href="http://es.gnu.org/~reneme/fsmap/fr/exercices/avec-relations-et-icônes.svg"
