@@ -26665,15 +26665,6 @@
        style="stop-color:#404040"
        id="midPointStop623" />
   </svg:linearGradient>
-  <svg:filter
-     id="filter3366-2-3-8"
-     inkscape:collect="always"
-     color-interpolation-filters="sRGB">
-    <svg:feGaussianBlur
-       id="feGaussianBlur3368-0-0-5"
-       stdDeviation="14.173227"
-       inkscape:collect="always" />
-  </svg:filter>
   <svg:clipPath
      id="clipPath3311-2-5-9"
      clipPathUnits="userSpaceOnUse">
@@ -39704,8 +39695,8 @@
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="1180"
-   inkscape:window-x="1916"
+   inkscape:window-height="990"
+   inkscape:window-x="-4"
    inkscape:window-y="-3"
    inkscape:window-maximized="1" />
 <svg:metadata
@@ -39716,7 +39707,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -40083,7 +40074,7 @@
        sodipodi:role="line"
        x="-124.33702"
        y="200.50652"
-       id="tspan14558-5">n'importequel but</svg:tspan></svg:text>
+       id="tspan14558-5">n'importe quel but</svg:tspan></svg:text>
   <svg:text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
