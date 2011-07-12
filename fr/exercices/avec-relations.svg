@@ -15,7 +15,7 @@
    id="svg5694"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="avec-relations-et-icônes.svg"
+   sodipodi:docname="avec-relations.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/fr/fsmap-fr-3000.png"
    inkscape:export-xdpi="258.3732"
    inkscape:export-ydpi="258.3732">Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
@@ -26682,15 +26682,6 @@
        style="stop-color:#404040"
        id="midPointStop623" />
   </svg:linearGradient>
-  <svg:filter
-     id="filter3366-2-3-8"
-     inkscape:collect="always"
-     color-interpolation-filters="sRGB">
-    <svg:feGaussianBlur
-       id="feGaussianBlur3368-0-0-5"
-       stdDeviation="14.173227"
-       inkscape:collect="always" />
-  </svg:filter>
   <svg:clipPath
      id="clipPath3311-2-5-9"
      clipPathUnits="userSpaceOnUse">
@@ -27568,24 +27559,6 @@
        style="stop-color:#FF6D00"
        offset="1" />
   </svg:linearGradient>
-  <svg:filter
-     id="filter3182-4-8-4-2"
-     inkscape:collect="always"
-     color-interpolation-filters="sRGB">
-    <svg:feGaussianBlur
-       id="feGaussianBlur3184-8-2-1-2"
-       stdDeviation="1.0503269"
-       inkscape:collect="always" />
-  </svg:filter>
-  <svg:filter
-     id="filter7699-8-9-6-4"
-     inkscape:collect="always"
-     color-interpolation-filters="sRGB">
-    <svg:feGaussianBlur
-       id="feGaussianBlur7701-7-6-1-3"
-       stdDeviation="0.26542242"
-       inkscape:collect="always" />
-  </svg:filter>
   <svg:linearGradient
      y2="28.935303"
      x2="8.2490902"
@@ -27607,28 +27580,6 @@
        offset="1"
        id="stop10711-9-3-0-6" />
   </svg:linearGradient>
-  <svg:filter
-     id="filter3338-1-7-4-7"
-     height="1.172207"
-     y="-0.086103506"
-     width="1.2483627"
-     x="-0.12418137"
-     inkscape:collect="always"
-     color-interpolation-filters="sRGB">
-    <svg:feGaussianBlur
-       id="feGaussianBlur3340-0-8-9-4"
-       stdDeviation="0.22176256"
-       inkscape:collect="always" />
-  </svg:filter>
-  <svg:filter
-     id="filter5746-7-2-6-6"
-     inkscape:collect="always"
-     color-interpolation-filters="sRGB">
-    <svg:feGaussianBlur
-       id="feGaussianBlur5748-5-8-9-2"
-       stdDeviation="0.61997365"
-       inkscape:collect="always" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient619-1-2-0-9"
@@ -28961,19 +28912,6 @@
        offset="1"
        id="stop2988-2-7-9-1" />
   </svg:linearGradient>
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4026-3-9-7"
-     x="-0.13895153"
-     width="1.277903"
-     y="-0.058858164"
-     height="1.1177163">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4028-4-2-5" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-8-9"
@@ -28983,19 +28921,6 @@
      y1="153.1756"
      x2="174.34512"
      y2="-94.264137" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4022-1-5-8"
-     x="-0.10276632"
-     width="1.2055326"
-     y="-0.064448982"
-     height="1.128898">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4024-3-4-0" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-8-9"
@@ -29005,15 +28930,6 @@
      y1="153.1756"
      x2="78.715927"
      y2="-18.500385" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4018-4-1-7">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4020-2-0-3" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-8-9"
@@ -29023,19 +28939,6 @@
      y1="153.1756"
      x2="32.773327"
      y2="140.3024" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4014-6-2-6"
-     x="-0.058925331"
-     width="1.1178507"
-     y="-0.24591757"
-     height="1.4918351">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4016-4-4-5" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-8-9"
@@ -29045,19 +28948,6 @@
      y1="153.1756"
      x2="581.50769"
      y2="145.16879" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4010-8-9-5"
-     x="-0.058953892"
-     width="1.1179078"
-     y="-0.45821804"
-     height="1.9164361">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4012-4-2-8" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-8-9"
@@ -29106,15 +28996,6 @@
        offset="1"
        id="stop4340-4-6-1" />
   </svg:linearGradient>
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4380-0-9-5">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.4811503"
-       id="feGaussianBlur4382-5-6-0" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2959-0-99-6"
@@ -41434,8 +41315,8 @@
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="1180"
-   inkscape:window-x="1916"
+   inkscape:window-height="990"
+   inkscape:window-x="-4"
    inkscape:window-y="-3"
    inkscape:window-maximized="1" />
 <svg:metadata
@@ -42525,61 +42406,77 @@
        y="795.7937"
        id="tspan10280-0-0"
        style="font-size:13px;text-align:start;text-anchor:start;fill:#550000">Exercice: écrire quelques exemples pour chaque terme.</svg:tspan></svg:text>
-  <svg:a
-     xlink:href="4zones.svg"
-     transform="translate(-81.198568,-38.665503)"
-     xlink:title="Voir les 4 zones"
-     id="a18624">
-    <svg:text
-       inkscape:export-ydpi="259.6308"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       x="855.37384"
-       y="790.09802"
-       id="text4306-65-54-43-4-0-2-8-9-6-2"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-         x="855.37384"
-         y="805.09802"
-         id="tspan4310-9-7-1-9-0-6-7-6-1-0"
-         style="font-size:13px">Voir les 4 zones</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
-     xlink:href="chasse-erreurs.svg"
-     xlink:title="exercice de chasse aux erreurs"
-     transform="translate(4.8815425,-59.085433)"
-     id="a18624-2-6">
-    <svg:text
-       inkscape:export-ydpi="259.6308"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       x="706.38049"
-       y="843.74225"
-       id="text4306-65-54-43-4-0-2-8-9-6-2-0-3"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-         x="706.38049"
-         y="858.74225"
-         id="tspan4310-9-7-1-9-0-6-7-6-1-0-6-8"
-         style="font-size:13px">Voir l'exercice de chasse aux errors</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
-     xlink:href="../fsmap-fr.svg"
-     xlink:show="Retour a l'hypercarte"
-     id="a17653">
-    <svg:text
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text4306-65-54-43-4-0-2-8-9-6-2-0"
-       y="767.76202"
-       x="756.8374"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-ydpi="259.6308"><svg:tspan
-         style="font-size:13px"
-         id="tspan4310-9-7-1-9-0-6-7-6-1-0-6"
-         y="782.76202"
-         x="756.8374">Retour à l'hypercarte</svg:tspan></svg:text>
-  </svg:a>
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-4-9-6-4"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 161.59935,470.19543 -3.02165,0.57252 3.02165,1.26068 69.75277,0 2.91382,-0.69695 -10.25221,-1.13625 -62.41438,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-4-9-6-7"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 182.09495,630.78222 -3.02165,0.57252 3.02165,1.26068 69.75277,0 2.91382,-0.69695 -10.25221,-1.13625 -62.41438,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-4-9-6-6-47"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#245b26;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 190.11947,772.18095 -3.02165,0.57252 3.02165,1.26068 69.75277,0 2.91382,-0.69695 -10.25221,-1.13625 -62.41438,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-4-9-6-5"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ca7777;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m -160.64276,188.96212 -3.02165,0.57252 3.02165,1.26068 69.75277,0 2.91382,-0.69695 -10.25222,-1.13625 -62.41437,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-4-9-6-5-6"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ca7777;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m -28.21762,191.51747 -3.02165,0.57252 3.02165,1.26068 69.75277,0 2.91382,-0.69695 -10.25221,-1.13625 -62.41438,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-4-9-6-5-9"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ca7777;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 122.80501,190.70552 -3.02165,0.57252 3.02165,1.26068 69.75277,0 2.91382,-0.69695 -10.25221,-1.13625 -62.41438,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-4-9-6-5-3"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ca7777;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 317.67292,189.08162 -3.02165,0.57252 3.02165,1.26068 69.75277,0 2.91382,-0.69695 -10.25221,-1.13625 -62.41438,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-4-9-6-5-7"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ca7777;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 84.08804,329.92501 -3.02165,0.57252 3.02165,1.26068 69.75277,0 2.91382,-0.69695 -10.25221,-1.13625 -62.41438,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-4-9-6-5-4"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#6986d8;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 533.65152,204.50866 -3.02165,0.57252 3.02165,1.26068 69.75277,0 2.91382,-0.69695 -10.25221,-1.13625 -62.41438,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-4-9-6-5-4-5"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#6986d8;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 730.02384,176.09043 -3.02165,0.57252 3.02165,1.26068 69.75277,0 2.91382,-0.69695 -10.25221,-1.13625 -62.41438,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-4-3-4"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffd83b;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 719.04977,473.26399 -2.71611,0.57252 2.71611,1.26068 62.69883,0 2.61915,-0.69695 -9.21537,-1.13625 -56.10261,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-4-3-7"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffd83b;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 593.19758,733.08787 -2.71611,0.57252 2.71611,1.26068 62.69883,0 2.61915,-0.69695 -9.21537,-1.13625 -56.10261,0"
+     inkscape:connector-curvature="0" />
 </svg:g>
 </svg:svg>

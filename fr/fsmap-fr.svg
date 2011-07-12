@@ -41428,11 +41428,11 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="1.7417504"
-   inkscape:cx="546.86796"
-   inkscape:cy="260.29975"
+   inkscape:zoom="9.8528281"
+   inkscape:cx="981.70989"
+   inkscape:cy="50.702053"
    inkscape:document-units="px"
-   inkscape:current-layer="a9363"
+   inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
    inkscape:window-height="990"
@@ -43831,7 +43831,7 @@
   <svg:a
      id="a35993"
      xlink:href="http://es.gnu.org/~reneme/fsmap/fr/fsmap-fr.svg"
-     transform="translate(15.105869,-78.116321)"
+     transform="translate(19.105869,-78.116321)"
      xlink:title="Voire la dernière version de cette hypercarte conceptuelle">
     <svg:text
        inkscape:export-ydpi="259.6308"
@@ -43849,7 +43849,7 @@
   </svg:a>
   <svg:a
      id="a14140"
-     transform="translate(255.08764,-60.037891)"
+     transform="translate(257.08764,-60.037891)"
      xlink:title="voire la carte conceptuelle du logiciel libre et la documentation"
      xlink:href="http://es.gnu.org/~reneme/fsmap/fr/">
     <svg:text
@@ -43883,7 +43883,7 @@
          x="464.065"
          y="885.92297"
          id="tspan4310-9-7-1-9-0-6-7-6-9-9"
-         style="font-size:9px">Auteur: René Mérou (</svg:tspan></svg:text>
+         style="font-size:9px">Auteur : René Mérou (</svg:tspan></svg:text>
   </svg:a>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -43897,7 +43897,7 @@
        style="font-size:9px"
        id="tspan4310-9-7-1-9-0-6-7-6-1-9"
        y="804.10498"
-       x="794.1546">V.5 2011-07-11</svg:tspan></svg:text>
+       x="794.1546">V.5 2011-07-12</svg:tspan></svg:text>
   <svg:a
      id="a18624-3"
      xlink:href="http://es.gnu.org/~reneme/fsmap/fr/maps-guide-fr.svg"
@@ -43946,8 +43946,8 @@
   <svg:a
      id="a18624-2-2"
      transform="translate(-57.554791,-10.258835)"
-     xlink:title="cliquez ici pour la traduction (nos avons un formulaire pour traduire facilment o pour envoyer commentaires et errors)"
-     xlink:href="http://es.gnu.org/~reneme/fsmap/en/translations.html">
+     xlink:title="cliquez ici pour la traduction (formulaire pour traduire facilement ou pour envoyer des commentaires et signaler des erreurs)"
+     xlink:href="http://www.mallorcaweb.net/rene/svg/fsmap-tra-en-cl.html">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
