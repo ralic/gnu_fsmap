@@ -41428,11 +41428,11 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="2.463207"
-   inkscape:cx="891.17939"
-   inkscape:cy="23.629035"
+   inkscape:zoom="1.7417504"
+   inkscape:cx="546.86796"
+   inkscape:cy="260.29975"
    inkscape:document-units="px"
-   inkscape:current-layer="capa1"
+   inkscape:current-layer="a9363"
    showgrid="false"
    inkscape:window-width="1920"
    inkscape:window-height="990"
@@ -41447,7 +41447,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -52847,7 +52847,7 @@
            style="font-size:12px">Sugar</svg:tspan></svg:text>
     </svg:a>
     <svg:a
-       transform="matrix(0.8623113,0,0,0.8623113,33.483129,-14.915653)"
+       transform="matrix(0.8623113,0,0,0.8623113,36.932375,-14.915653)"
        id="a13414"
        xlink:href="http://fr.wikipedia.org/wiki/Sugar_(IHM)"
        xlink:title="Wikipédia: Sugar est une interface homme-machine développée pour le projet One Laptop per Child (OLPC) ">
