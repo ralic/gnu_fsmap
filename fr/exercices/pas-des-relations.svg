@@ -15,7 +15,7 @@
    id="svg5694"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="avec-relations.svg"
+   sodipodi:docname="pas-des-relations.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/fr/fsmap-fr-3000.png"
    inkscape:export-xdpi="258.3732"
    inkscape:export-ydpi="258.3732">Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
@@ -26664,15 +26664,6 @@
        style="stop-color:#404040"
        id="midPointStop623" />
   </svg:linearGradient>
-  <svg:filter
-     id="filter3366-2-3-8"
-     inkscape:collect="always"
-     color-interpolation-filters="sRGB">
-    <svg:feGaussianBlur
-       id="feGaussianBlur3368-0-0-5"
-       stdDeviation="14.173227"
-       inkscape:collect="always" />
-  </svg:filter>
   <svg:clipPath
      id="clipPath3311-2-5-9"
      clipPathUnits="userSpaceOnUse">
@@ -38963,14 +38954,14 @@
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
    inkscape:zoom="0.87087519"
-   inkscape:cx="913.51694"
-   inkscape:cy="268.27257"
+   inkscape:cx="652.85961"
+   inkscape:cy="176.41096"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="1180"
-   inkscape:window-x="1916"
+   inkscape:window-height="990"
+   inkscape:window-x="-4"
    inkscape:window-y="-3"
    inkscape:window-maximized="1" />
 <svg:metadata
@@ -38981,7 +38972,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -39789,62 +39780,6 @@
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"
      sodipodi:nodetypes="cc" />
-  <svg:a
-     xlink:href="4zones.svg"
-     transform="translate(-81.198568,-38.665503)"
-     xlink:title="Voir les 4 zones"
-     id="a18624">
-    <svg:text
-       inkscape:export-ydpi="259.6308"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       x="855.37384"
-       y="790.09802"
-       id="text4306-65-54-43-4-0-2-8-9-6-2"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-         x="855.37384"
-         y="805.09802"
-         id="tspan4310-9-7-1-9-0-6-7-6-1-0"
-         style="font-size:13px">Voir les 4 zones</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
-     xlink:href="chasse-erreurs.svg"
-     xlink:title="exercice de chasse aux erreurs"
-     transform="translate(4.8815425,-59.085433)"
-     id="a18624-2-6">
-    <svg:text
-       inkscape:export-ydpi="259.6308"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       x="706.38049"
-       y="843.74225"
-       id="text4306-65-54-43-4-0-2-8-9-6-2-0-3"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-         x="706.38049"
-         y="858.74225"
-         id="tspan4310-9-7-1-9-0-6-7-6-1-0-6-8"
-         style="font-size:13px">Voir l'exercice de chasse aux errors</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
-     xlink:href="../fsmap-fr.svg"
-     xlink:show="Retour a l'hypercarte"
-     id="a17653">
-    <svg:text
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text4306-65-54-43-4-0-2-8-9-6-2-0"
-       y="767.76202"
-       x="756.8374"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-ydpi="259.6308"><svg:tspan
-         style="font-size:13px"
-         id="tspan4310-9-7-1-9-0-6-7-6-1-0-6"
-         y="782.76202"
-         x="756.8374">Retour à l'hypercarte</svg:tspan></svg:text>
-  </svg:a>
   <svg:rect
      style="fill:#ffffff;stroke:#000000;stroke-width:0.62356675;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect6399"
@@ -39870,5 +39805,83 @@
        y="794.50635"
        id="tspan10280-0-0"
        style="font-size:13px;text-align:start;text-anchor:start;fill:#550000">Exercice: ajouter tout ce qui reste</svg:tspan></svg:text>
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-47"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffd83b;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 413.56227,467.11122 -3.51516,0.57252 3.51516,1.26068 81.14435,0 3.38967,-0.69695 -11.92647,-1.13625 -72.60755,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-65"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffd83b;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 705.22289,474.00084 -3.51516,0.57252 3.51516,1.26068 81.14435,0 3.38967,-0.69695 -11.92647,-1.13625 -72.60755,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-69"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffd83b;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 572.02355,716.28584 -3.51516,0.57252 3.51516,1.26068 81.14435,0 3.38967,-0.69695 -11.92647,-1.13625 -72.60755,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-3"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#3badff;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 515.75831,205.30562 -3.51516,0.57252 3.51516,1.26068 81.14435,0 3.38967,-0.69695 -11.92647,-1.13625 -72.60755,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-3-7"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#3badff;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 714.40905,177.74713 -3.51516,0.57252 3.51516,1.26068 81.14435,0 3.38967,-0.69695 -11.92647,-1.13625 -72.60755,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-3-4"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff3beb;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m -164.57282,185.78503 -3.51516,0.57252 3.51516,1.26068 81.144352,0 3.38967,-0.69695 -11.92647,-1.13625 -72.607552,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-3-4-5"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff3beb;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m -38.856181,182.34022 -3.51516,0.57252 3.51516,1.26068 81.14435,0 3.38967,-0.69695 -11.92647,-1.13625 -72.60755,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-3-4-2"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff3beb;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 118.45683,184.59886 -3.51516,0.57252 3.51516,1.26068 81.14435,0 3.38967,-0.69695 -11.92647,-1.13625 -72.60755,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-3-4-54"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff3beb;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 304.4766,186.34022 -3.51516,0.57252 3.51516,1.26068 81.14435,0 3.38967,-0.69695 -11.92647,-1.13625 -72.60755,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-3-4-7"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff3beb;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 83.453538,333.35669 -3.51516,0.57252 3.51516,1.26068 81.144352,0 3.38967,-0.69695 -11.92647,-1.13625 -72.607552,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-43"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 159.12302,475.14911 -3.27454,0.57252 3.27454,1.26068 75.58922,0 3.15764,-0.69695 -11.10998,-1.13625 -67.63688,0" />
+  <svg:path
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-0"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 172.90226,630.16558 -3.27454,0.57252 3.27454,1.26068 75.58922,0 3.15764,-0.69695 -11.10998,-1.13625 -67.63688,0" />
+  <svg:path
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-8-1-7"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#358864;fill-opacity:0.65294117;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 191.49534,769.10627 -3.27454,0.57252 3.27454,1.26068 75.58922,0 3.15764,-0.69695 -11.10998,-1.13625 -67.63688,0" />
 </svg:g>
 </svg:svg>

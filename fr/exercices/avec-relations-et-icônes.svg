@@ -41447,7 +41447,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -51575,6 +51575,12 @@
      id="path60492-5-4-4-3-7"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffd83b;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
      d="m 593.19758,733.08787 -2.71611,0.57252 2.71611,1.26068 62.69883,0 2.61915,-0.69695 -9.21537,-1.13625 -56.10261,0"
+     inkscape:connector-curvature="0" />
+  <svg:path
+     sodipodi:nodetypes="ccccccc"
+     id="path60492-5-4-4-3-4-4"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffd83b;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
+     d="m 423.84325,470.55603 -2.71611,0.57252 2.71611,1.26068 62.69883,0 2.61915,-0.69695 -9.21537,-1.13625 -56.10261,0"
      inkscape:connector-curvature="0" />
 </svg:g>
 </svg:svg>
