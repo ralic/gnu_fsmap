@@ -1,13 +1,17 @@
-# To do things for the maps
+# To do things for the maps  first line is firt to be done:
 
-* add V.5 to all updated versions
-* remove the word competitivity, its correct but its not well understood
-* Change scribus by Moodle for new maps k12 or so, its more used than scribus
-* Update all the main maps with the change ktouch -> Moodle
-* Update all derived maps with the change ktouch -> Moodle    [specialy ES]
+
 * Update the english translation to the version 5
+* Update translation formulary from english
+* Update translation for taiwan
 * Update all the translations and try to archieve version 5 for then
 * Link savannah to es.gnu.org so es.gnu.org refects the updated changes of savannah
 * update translation formularies 
-* Update the french translation to the version 5 -> working on that
-* change the fast link of maps-guide-fr.svg to the french version.
+
+
+Simultaneous detalls to be done in every map reedited:
+* add V.5 to all updated versions
+* remove the word competitivity, it can be correct but there is not eassy consens on that
+* Change scribus by Moodle for new maps k12 or so, its more used than scribus
+* Update all the main maps with the change ktouch -> Moodle
+* Update all derived maps with the change ktouch -> Moodle    [specialy ES]

@@ -10,7 +10,8 @@
 # The shortname of traslations are CA for catalan fsmap-ca.svg, ES for spanish fsmap-es.svg, etc.
 # x->y means: x was corrected with y. y is in its place now.
 
-
+2011-08-09 updated TODO file to priorice english and chinesse translations.
+2011-08-08 gr -> el (the correct shortname for the lange of Greace).  This map is still not at savannah, it's V.4.
 2011-04-02 The proyect is now at savannah's git: 
 2011-04-02 http://git.savannah.gnu.org/gitweb/?p=fsmap.git;a=tree;hb=22bc09efdfd451ef3ef037e154e39fdc89aa5909
 2011-03-22 fsmap-ca.svg -es -en -fr  and map-contents.svg have added the copyright notice.
