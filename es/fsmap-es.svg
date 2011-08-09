@@ -33713,15 +33713,15 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="3.0547014"
-   inkscape:cx="611.7418"
-   inkscape:cy="139.71348"
+   inkscape:zoom="1.5273507"
+   inkscape:cx="558.04268"
+   inkscape:cy="246.46183"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="1180"
-   inkscape:window-x="1916"
+   inkscape:window-height="1003"
+   inkscape:window-x="-2"
    inkscape:window-y="-3"
    inkscape:window-maximized="1" />
 <svg:metadata
@@ -34200,14 +34200,14 @@
      xml:space="preserve"
      id="text4306-65-54-43-4-0-2-8-9-6-3-1"
      y="787.9574"
-     x="648.05066"
+     x="630.05066"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:9px;fill:#0000ff"
        id="tspan4310-9-7-1-9-0-6-7-6-1-2-5"
        y="802.9574"
-       x="648.05066">h@es.gnu.org</svg:tspan></svg:text>
+       x="630.05066">h@es.gnu.org</svg:tspan></svg:text>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      xml:space="preserve"
@@ -35715,7 +35715,7 @@
      id="a13790"
      xlink:href="http://h.says.it"
      xlink:title="Web de René [es]"
-     transform="translate(101.10092,-82.700528)">
+     transform="translate(83.10092,-82.700528)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -35730,19 +35730,24 @@
          id="tspan4310-9-7-1-9-0-6-7-6-8"
          style="font-size:9px">Autor: René Mérou (</svg:tspan></svg:text>
   </svg:a>
-  <svg:text
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     xml:space="preserve"
-     id="text4306-65-54-43-4-0-2-8-9-6-0"
-     y="788.69525"
-     x="797.58667"
-     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-     inkscape:export-xdpi="259.6308"
-     inkscape:export-ydpi="259.6308"><svg:tspan
-       style="font-size:9px"
-       id="tspan4310-9-7-1-9-0-6-7-6-1-5"
-       y="803.69525"
-       x="797.58667"> 2011-04-06</svg:tspan></svg:text>
+  <svg:a
+     id="a11242"
+     xlink:title="Ejercicio para iniciar la unidad didáctica [enlace absoluto]"
+     xlink:href="http://es.gnu.org/~reneme/fsmap/es/maps-guide-es.svg">
+    <svg:text
+       inkscape:export-ydpi="259.6308"
+       inkscape:export-xdpi="259.6308"
+       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
+       x="791.58667"
+       y="788.69525"
+       id="text4306-65-54-43-4-0-2-8-9-6-0"
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
+         x="791.58667"
+         y="803.69525"
+         id="tspan4310-9-7-1-9-0-6-7-6-1-5"
+         style="font-size:9px">V.5 2011-08-09</svg:tspan></svg:text>
+  </svg:a>
   <svg:a
      transform="translate(-9.0773102,-7.4943817)"
      id="a16610"
@@ -35926,9 +35931,9 @@
   </svg:a>
   <svg:a
      xlink:href="maps-guide-es.svg"
-     transform="translate(6.443724,7.751577)"
+     xlink:title="Ejercicio para iniciar la unidad didáctica (puede ser útil darlo impreso para poder tomar notas sobre él)"
      id="a18624-4"
-     xlink:title="Ejercicio para iniciar la unidad didáctica (puede ser útil darlo impreso para poder tomar notas sobre él)">
+     transform="translate(-11.556276,7.751577)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
