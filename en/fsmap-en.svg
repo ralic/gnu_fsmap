@@ -35324,19 +35324,6 @@
          offset="1"
          id="stop2988-2-7-8" />
     </svg:linearGradient>
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4026-3-6"
-       x="-0.13895153"
-       width="1.277903"
-       y="-0.058858164"
-       height="1.1177163">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.9996441"
-         id="feGaussianBlur4028-4-7" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2984-9-1-7"
@@ -35346,19 +35333,6 @@
        y1="153.1756"
        x2="174.34512"
        y2="-94.264137" />
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4022-1-4"
-       x="-0.10276632"
-       width="1.2055326"
-       y="-0.064448982"
-       height="1.128898">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.9996441"
-         id="feGaussianBlur4024-3-8" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2984-9-1-7"
@@ -35368,15 +35342,6 @@
        y1="153.1756"
        x2="78.715927"
        y2="-18.500385" />
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4018-4-8">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.9996441"
-         id="feGaussianBlur4020-2-1" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2984-9-1-7"
@@ -35386,19 +35351,6 @@
        y1="153.1756"
        x2="32.773327"
        y2="140.3024" />
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4014-6-5"
-       x="-0.058925331"
-       width="1.1178507"
-       y="-0.24591757"
-       height="1.4918351">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.9996441"
-         id="feGaussianBlur4016-4-2" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2984-9-1-7"
@@ -35408,19 +35360,6 @@
        y1="153.1756"
        x2="581.50769"
        y2="145.16879" />
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4010-8-9"
-       x="-0.058953892"
-       width="1.1179078"
-       y="-0.45821804"
-       height="1.9164361">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.9996441"
-         id="feGaussianBlur4012-4-6" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2984-9-1-7"
@@ -35469,15 +35408,6 @@
          offset="1"
          id="stop4340-4-8" />
     </svg:linearGradient>
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4380-0-9">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.4811503"
-         id="feGaussianBlur4382-5-3" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2959-0-4-7"
@@ -37212,24 +37142,6 @@
          offset="1.00000000"
          style="stop-color:#2c2c2c;stop-opacity:1;" />
     </svg:linearGradient>
-    <svg:filter
-       id="filter3182-4-8-3"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <svg:feGaussianBlur
-         id="feGaussianBlur3184-8-2-3"
-         stdDeviation="1.0503269"
-         inkscape:collect="always" />
-    </svg:filter>
-    <svg:filter
-       id="filter7699-8-9-3"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <svg:feGaussianBlur
-         id="feGaussianBlur7701-7-6-8-2"
-         stdDeviation="0.26542242"
-         inkscape:collect="always" />
-    </svg:filter>
     <svg:linearGradient
        y2="28.935303"
        x2="8.2490902"
@@ -37251,28 +37163,6 @@
          offset="1"
          id="stop10711-9-3-8-2" />
     </svg:linearGradient>
-    <svg:filter
-       id="filter3338-1-7-7"
-       height="1.172207"
-       y="-0.086103506"
-       width="1.2483627"
-       x="-0.12418137"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <svg:feGaussianBlur
-         id="feGaussianBlur3340-0-8-6"
-         stdDeviation="0.22176256"
-         inkscape:collect="always" />
-    </svg:filter>
-    <svg:filter
-       id="filter5746-7-2-3"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <svg:feGaussianBlur
-         id="feGaussianBlur5748-5-8-5"
-         stdDeviation="0.61997365"
-         inkscape:collect="always" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#XMLID_1_-0-0-8-0"
@@ -37563,15 +37453,6 @@
        id="linearGradient12522-2-3-2-6-84"
        xlink:href="#20"
        gradientUnits="userSpaceOnUse" />
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       id="filter3366-2-2-0"
-       inkscape:collect="always">
-      <svg:feGaussianBlur
-         id="feGaussianBlur3368-0-0-4"
-         stdDeviation="14.173227"
-         inkscape:collect="always" />
-    </svg:filter>
     <svg:radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3262-4-1-8-9"
@@ -43226,15 +43107,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2316035"
-     inkscape:cx="434.67029"
-     inkscape:cy="259.08674"
+     inkscape:zoom="1.5157166"
+     inkscape:cx="1008.2965"
+     inkscape:cy="259.89739"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
-     inkscape:window-width="1834"
-     inkscape:window-height="846"
-     inkscape:window-x="0"
+     inkscape:window-width="1388"
+     inkscape:window-height="1034"
+     inkscape:window-x="2406"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <svg:metadata
@@ -43245,7 +43126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
@@ -43421,13 +43302,14 @@
        inkscape:export-ydpi="259.6308"
        sodipodi:nodetypes="cc" />
     <svg:path
-       style="fill: rgb(250, 229, 253); fill-opacity: 1; stroke: rgb(100, 0, 208); stroke-width: 3; stroke-miterlimit: 4; stroke-opacity: 1; stroke-dasharray: none;"
-       d="m -86.97076,394.72821 109.524603,0 c 23.4693,0 42.3634,3.62464 42.3634,8.12701 l 0,47.22524 c -6.5004,-0.2141 -18.8941,0.34484 -42.3634,0.34484 l -109.524603,0 c -23.4693,0 -36.3634,-0.24964 -42.1134,-0.25201 l -0.25,-47.31807 c 0,-4.50237 18.8941,-8.12701 42.3634,-8.12701 z"
+       style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -88.97076,390.72821 109.524603,0 c 23.4693,0 42.3634,3.62464 42.3634,8.12701 l 0,47.22524 c -6.5004,-0.2141 -18.8941,0.34484 -42.3634,0.34484 l -109.524603,0 c -23.4693,0 -36.3634,-0.24964 -42.1134,-0.25201 l -0.25,-47.31807 c 0,-4.50237 18.8941,-8.12701 42.3634,-8.12701 z"
        id="rect3472-1-0"
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
-       inkscape:export-ydpi="259.6308" />
+       inkscape:export-ydpi="259.6308"
+       inkscape:connector-curvature="0" />
     <svg:g
        transform="matrix(0.173469, 0, 0, 0.173469, 904.959, 354.761)"
        id="g21393-1"
@@ -43459,7 +43341,7 @@
        id="a45419"
        xlink:title="Trisquel web page"
        xlink:href="http://trisquel.info/en"
-       transform="translate(18.26481,-3.5994575)">
+       transform="translate(16.26481,-7.5994575)">
       <svg:text
          id="text15103-2"
          y="492.853"
@@ -43483,7 +43365,7 @@
        id="a13794"
        xlink:href="http://www.openbsd.org/"
        xlink:title="OpenBSD web page"
-       transform="translate(-72.458949,-8.9332943)">
+       transform="translate(-74.458949,-12.933294)">
       <svg:text
          id="text15103-5-2"
          y="488.23999"
@@ -44207,7 +44089,7 @@
          id="tspan37908" /></svg:text>
     <svg:a
        id="a38057"
-       transform="translate(127.55721,-19.736493)"
+       transform="translate(125.55721,-23.736493)"
        xlink:href="http://www.ubuntu.com/"
        xlink:title="Ubuntu official website">
       <svg:text
@@ -44227,7 +44109,7 @@
     </svg:a>
     <svg:a
        id="a38062"
-       transform="translate(-50.867261,15.385717)"
+       transform="translate(-52.867261,11.385717)"
        xlink:href="http://www.openbsd.org/"
        xlink:title="OpenSolaris Official website">
       <svg:text
@@ -44257,7 +44139,7 @@
          id="tspan8796-5-3" /></svg:text>
     <svg:a
        id="a38053"
-       transform="translate(-48.370967,-4.7266046)"
+       transform="translate(-50.370967,-8.7266046)"
        xlink:href="http://www.debian.org/"
        xlink:title="Debian proyect site">
       <svg:text
@@ -44273,7 +44155,7 @@
     </svg:a>
     <svg:a
        id="a45415"
-       transform="translate(-0.7851435,41.644257)"
+       transform="translate(-2.7851435,37.644257)"
        xlink:href="http://www.gnewsense.org/"
        xlink:title="gNewSense web page">
       <svg:text
@@ -44926,7 +44808,7 @@
        id="a13790"
        xlink:href="http://h.says.it"
        xlink:title="René Mérou's web page"
-       transform="translate(-127.005,-71.8581)">
+       transform="translate(-143.005,-71.8581)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -44941,19 +44823,24 @@
            id="tspan4310-9-7-1-9-0-6-7-6"
            style="font-size:9px">Author: René Mérou (</svg:tspan></svg:text>
     </svg:a>
-    <svg:text
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
-       xml:space="preserve"
-       id="text4306-65-54-43-4-0-2-8-9-6"
-       y="798.93597"
-       x="804.495"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-ydpi="259.6308"><svg:tspan
-         style="font-size:9px"
-         id="tspan4310-9-7-1-9-0-6-7-6-1"
-         y="813.93597"
-         x="804.495"> 2010-07-07</svg:tspan></svg:text>
+    <svg:a
+       id="a12899"
+       xlink:href="http://es.gnu.org/~reneme/fsmap/en/exercises/with-relations-and-icons.svg"
+       xlink:title="First exercise of the didactic unit [absolute link]">
+      <svg:text
+         inkscape:export-ydpi="259.6308"
+         inkscape:export-xdpi="259.6308"
+         inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
+         x="798.495"
+         y="798.93597"
+         id="text4306-65-54-43-4-0-2-8-9-6"
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"><svg:tspan
+           x="798.495"
+           y="813.93597"
+           id="tspan4310-9-7-1-9-0-6-7-6-1"
+           style="font-size:9px">V.4 2011-08-09</svg:tspan></svg:text>
+    </svg:a>
     <svg:g
        transform="matrix(0.11231,0,0,0.11231,988.09,822.143)"
        id="g21393-9"
@@ -45124,10 +45011,10 @@
            x="778.34302">aKademy,</svg:tspan></svg:text>
     </svg:a>
     <svg:a
-       id="a18624"
-       xlink:href="http://es.gnu.org/~reneme/fsmap/en/exercises/with-relations-and-icons.svg"
-       transform="translate(12.3236,0.470703)"
-       xlink:title="First exercise of the didactic unit (it can be printed to the pupils if necessary)">
+       xlink:href="exercises/with-relations-and-icons.svg"
+       xlink:title="First exercise of the didactic unit [relative link]"
+       transform="translate(-5.6764,0.470703)"
+       id="a18624">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45241,18 +45128,18 @@
            style="font-size: 18px; font-weight: bold;">REDISTRIBUTE</svg:tspan></svg:text>
     </svg:g>
     <svg:text
-       style="font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; font-family: DejaVu Serif;"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        xml:space="preserve"
        id="text3262"
-       y="429.129"
-       x="-117.972"
+       y="425.129"
+       x="-119.972"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         style="font-size: 18px; font-weight: bold;"
+         style="font-size:18px;font-weight:bold"
          id="tspan3267"
-         y="429.129"
-         x="-117.972">DISTRIBUTIONS</svg:tspan></svg:text>
+         y="425.129"
+         x="-119.972">DISTRIBUTIONS</svg:tspan></svg:text>
     <svg:text
        x="441.185"
        y="434.288"
@@ -45837,42 +45724,42 @@
        xml:space="preserve"
        id="text4306-65-54-43-4-0-2-8-9-0"
        y="798.37799"
-       x="534.935"
+       x="518.935"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
          style="font-size:9px"
          id="tspan4310-9-7-1-9-0-6-7-6-2"
          y="813.37799"
-         x="534.935">) translation: Leonardo G. De Luca (</svg:tspan></svg:text>
+         x="518.935">) translation: Leonardo G. De Luca (</svg:tspan></svg:text>
     <svg:text
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        xml:space="preserve"
        id="text4306-65-54-43-4-0-2-8-9-6-3"
        y="798.07898"
-       x="653.54102"
+       x="637.54102"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
          style="font-size:9px;fill:#0000ff"
          id="tspan4310-9-7-1-9-0-6-7-6-1-2"
          y="813.07898"
-         x="653.54102">leo@kde.org.ar</svg:tspan></svg:text>
+         x="637.54102">leo@kde.org.ar</svg:tspan></svg:text>
     <svg:text
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        xml:space="preserve"
        id="text4306-65-54-43-4-0-2-8-9-6-3-1"
        y="798.07898"
-       x="419.89001"
+       x="403.89001"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
          style="font-size:9px;fill:#0000ff"
          id="tspan4310-9-7-1-9-0-6-7-6-1-2-5"
          y="813.07898"
-         x="419.89001">h@es.gnu.org</svg:tspan></svg:text>
+         x="403.89001">h@es.gnu.org</svg:tspan></svg:text>
     <svg:a
-       transform="matrix(1.13303,0,0,1.13303,160.52599,313.23711)"
+       transform="matrix(1.13303,0,0,1.13303,158.52599,309.23711)"
        style="display:inline"
        id="a16463"
        xlink:href="http://www.gnewsense.org/"
@@ -45972,7 +45859,7 @@
       </svg:g>
     </svg:a>
     <svg:a
-       transform="matrix(1.07249,0,0,1.07249,91.775763,241.22046)"
+       transform="matrix(1.07249,0,0,1.07249,89.775763,237.22046)"
        style="display:inline"
        id="a16494"
        xlink:href="http://www.openbsd.org/"
@@ -53629,7 +53516,7 @@
        id="a45035"
        xlink:href="http://www.opensolaris.com/"
        xlink:title="Solaris home site"
-       transform="matrix(0.880339,0,0,0.880339,53.063516,43.300218)">
+       transform="matrix(0.880339,0,0,0.880339,51.063516,39.300218)">
       <svg:g
          id="layer2"
          inkscape:label="Kreise"
@@ -53730,7 +53617,7 @@
        id="a45350"
        xlink:href="http://trisquel.info/en"
        xlink:title="Trisquel web page"
-       transform="matrix(1.15266,0,0,1.15266,33.923335,-70.310646)">
+       transform="matrix(1.15266,0,0,1.15266,31.923335,-74.310646)">
       <svg:g
          transform="matrix(0.439043,0,0,0.439043,-51.7062,477.759)"
          id="g2712"
@@ -55532,7 +55419,7 @@
        id="a13509-4"
        xlink:href="http://debian.org"
        xlink:title="Debian proyect site"
-       transform="matrix(1.10158,0,0,1.10158,85.626477,-53.186276)">
+       transform="matrix(1.10158,0,0,1.10158,83.626477,-57.186276)">
       <svg:g
          i:rgbTrio="#4F008000FFFF"
          i:dimmedPercent="50"
@@ -55708,7 +55595,7 @@
     <svg:a
        id="a45423-9"
        xlink:href="http://www.uclinux.org/"
-       transform="translate(-8.8101199,37.32107)"
+       transform="translate(-10.81012,33.32107)"
        xlink:title="Oficial web site of uClinux">
       <svg:text
          id="text15103-2-8-9"
@@ -55723,7 +55610,7 @@
     </svg:a>
     <svg:a
        id="a45423-9-1"
-       transform="translate(-59.98982,42.63551)"
+       transform="translate(-61.98982,38.63551)"
        xlink:href="http://fedoraproject.org/"
        xlink:title="Oficial web site ofFedora">
       <svg:text
@@ -55739,7 +55626,7 @@
     </svg:a>
     <svg:a
        id="a45423-9-1-5"
-       transform="translate(-122.96922,38.15385)"
+       transform="translate(-124.96922,34.15385)"
        xlink:href="http://www.opensuse.org/en/"
        xlink:title="Open Suse web page">
       <svg:text
@@ -55758,41 +55645,41 @@
        sodipodi:nodetypes="ccccccc"
        id="path60492-5-4-8-1"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-       d="m -163.81737,470.61389 -3.27454,0.57252 3.27454,1.26068 75.58922,0 3.15764,-0.69695 -11.10998,-1.13625 -67.63688,0" />
+       d="m -165.81737,466.61389 -3.27454,0.57252 3.27454,1.26068 75.58922,0 3.15764,-0.69695 -11.10998,-1.13625 -67.63688,0" />
     <svg:path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
        id="path60492-5-4-8-1-4"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-       d="m -166.05372,499.0222 -2.42164,0.57252 2.42164,1.26068 55.90194,0 2.33522,-0.69695 -8.21642,-1.13625 -50.02074,0" />
+       d="m -168.05372,495.0222 -2.42164,0.57252 2.42164,1.26068 55.90194,0 2.33522,-0.69695 -8.21642,-1.13625 -50.02074,0" />
     <svg:path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
        id="path60492-5-4-8-1-4-9"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-       d="m -165.00504,522.41014 -3.41623,0.57252 3.41623,1.26068 78.86132,0 3.29432,-0.69695 -11.59098,-1.13625 -70.56466,0" />
+       d="m -167.00504,518.41014 -3.41623,0.57252 3.41623,1.26068 78.86132,0 3.29432,-0.69695 -11.59098,-1.13625 -70.56466,0" />
     <svg:path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
        id="path60492-5-4-8-1-2"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-       d="m 51.06184,470.36491 2.82394,0.57252 -2.82394,1.26068 -65.18759,0 -2.72313,-0.69695 9.5811601,-1.13625 58.3295599,0" />
+       d="m 49.06184,466.36491 2.82394,0.57252 -2.82394,1.26068 -65.18759,0 -2.72313,-0.69695 9.5811601,-1.13625 58.3295599,0" />
     <svg:path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
        id="path60492-5-4-8-1-2-0"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-       d="m 51.79314,495.27933 2.09264,0.57252 -2.09264,1.26068 -48.3062299,0 -2.01794,-0.69695 7.09998,-1.13625 43.2241899,0" />
+       d="m 49.79314,491.27933 2.09264,0.57252 -2.09264,1.26068 -48.3062299,0 -2.01794,-0.69695 7.09998,-1.13625 43.2241899,0" />
     <svg:path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
        id="path60492-5-4-8-1-2-6"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-       d="m 50.83282,521.42236 3.05296,0.57252 -3.05296,1.26068 -70.47406,0 -2.94397,-0.69695 10.35816,-1.13625 63.05987,0" />
+       d="m 48.83282,517.42236 3.05296,0.57252 -3.05296,1.26068 -70.47406,0 -2.94397,-0.69695 10.35816,-1.13625 63.05987,0" />
     <svg:g
        id="layer1-7"
        inkscape:label="Layer 1"
-       transform="matrix(0.05002952,0,0,0.05002952,-49.39693,454.1528)">
+       transform="matrix(0.05002952,0,0,0.05002952,-51.39693,450.1528)">
       <svg:path
          inkscape:connector-curvature="0"
          id="path6304"
