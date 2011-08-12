@@ -10,7 +10,7 @@
 # The shortname of traslations are CA for catalan fsmap-ca.svg, ES for spanish fsmap-es.svg, etc.
 # x->y means: x was corrected with y. y is in its place now.
 
-2011-08-12 added curses/12/fsmap-en.svg to en, working for V.5.
+2011-08-12 added curses/12/fsmap-en.svg and 13 to en to en, working for V.5.
 2011-08-12 We return to the debian traditional logo. The people is not using the new one.
 2011-08-09 added V.x  to ES CA and EN versions with absolute and relative links.
 2011-08-09 updated TODO file to priorice english and chinesse translations.
