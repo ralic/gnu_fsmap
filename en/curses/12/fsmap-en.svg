@@ -28411,15 +28411,6 @@
          style="stop-color: rgb(255, 255, 255); stop-opacity: 0.168627;"
          offset="0.5" />
     </svg:radialGradient>
-    <svg:filter
-       id="filter3366-2-2"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <svg:feGaussianBlur
-         id="feGaussianBlur3368-0-4"
-         stdDeviation="14.173227"
-         inkscape:collect="always" />
-    </svg:filter>
     <svg:clipPath
        id="clipPath3311-2-7"
        clipPathUnits="userSpaceOnUse">
@@ -43023,9 +43014,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0717735"
-     inkscape:cx="513.0833"
-     inkscape:cy="361.75458"
+     inkscape:zoom="0.75785831"
+     inkscape:cx="725.16758"
+     inkscape:cy="305.69778"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
@@ -43042,7 +43033,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
@@ -43146,13 +43137,14 @@
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308" />
     <svg:path
-       d="M 137.34764,484.88695 61.896743,554.52743"
+       d="M 133.34764,478.88695 57.896743,548.52743"
        id="path5385-2"
-       style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.74925; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-dasharray: none; marker-end: url(#TriangleOutL); display: inline;"
+       style="fill:none;stroke:#000000;stroke-width:1.74925005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
     <svg:g
        transform="matrix(0.937898, 0, 0, 1.00165, 137.035, 414.656)"
        id="g3561-4"
@@ -43167,13 +43159,14 @@
          sodipodi:nodetypes="ccccccccc" />
     </svg:g>
     <svg:path
-       d="m 33.733643,623.50725 85.764547,69.10479"
+       d="m 39.465775,608.44028 82.032415,68.17176"
        id="path5413-3"
-       style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-dasharray: none; marker-end: url(#TriangleOutL); display: inline;"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
     <svg:path
        d="M 97.072243,237.53259 134.19654,210.41091"
        id="path5554-8"
@@ -43972,19 +43965,19 @@
            style="font-size:9px">) didactic Material</svg:tspan></svg:text>
     </svg:a>
     <svg:text
-       x="-317.539"
-       y="439.281"
-       transform="matrix(0.744878, -0.667201, 0.667201, 0.744878, 0, 0)"
+       x="-316.51532"
+       y="432.14304"
+       transform="matrix(0.74487785,-0.66720086,0.66720086,0.74487785,0,0)"
        id="text5301"
        xml:space="preserve"
-       style="font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; font-family: DejaVu Serif;"
+       style="font-size:16.00000381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         x="-317.539"
-         y="439.281"
+         x="-316.51532"
+         y="432.14304"
          id="tspan5303"
-         style="font-size: 24px; font-weight: normal;">compiled</svg:tspan></svg:text>
+         style="font-size:24.00000572px;font-weight:normal">compiled</svg:tspan></svg:text>
     <svg:text
        x="190.508"
        y="468.24"
@@ -44083,19 +44076,19 @@
          y="425.129"
          x="-119.972">DISTRIBUTIONS</svg:tspan></svg:text>
     <svg:text
-       x="441.185"
-       y="434.288"
-       transform="matrix(0.749254, 0.662283, -0.662283, 0.749254, 0, 0)"
+       x="432.08713"
+       y="420.97546"
+       transform="matrix(0.74925388,0.66228289,-0.66228289,0.74925388,0,0)"
        id="text7039"
        xml:space="preserve"
-       style="font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; font-family: DejaVu Serif;"
+       style="font-size:16.00000191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         x="441.185"
-         y="434.288"
+         x="432.08713"
+         y="420.97546"
          id="tspan7041"
-         style="font-size: 24px; font-weight: normal;">respect</svg:tspan></svg:text>
+         style="font-size:24.00000381px;font-weight:normal">respect</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -44335,24 +44328,6 @@
          y="388.40399"
          id="tspan7833"
          style="font-size:22px;font-weight:normal">co-operate</svg:tspan></svg:text>
-    <svg:a
-       id="a23075"
-       xlink:href="http://en.wikipedia.org/wiki/Netiquette"
-       xlink:title="Wikipedia about netiquette, social conventions over networks about people interaction">
-      <svg:text
-         inkscape:export-ydpi="259.6308"
-         inkscape:export-xdpi="259.6308"
-         inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-         style="font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; text-align: center; text-anchor: middle; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; font-family: DejaVu Serif;"
-         xml:space="preserve"
-         id="text7845"
-         y="401.629"
-         x="635.729"><svg:tspan
-           style="font-size: 12px;"
-           id="tspan7851"
-           y="401.629"
-           x="635.729">(netiquete)</svg:tspan></svg:text>
-    </svg:a>
     <svg:text
        x="580.434"
        y="435.755"

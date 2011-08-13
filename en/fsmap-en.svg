@@ -43130,9 +43130,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.5741879"
-     inkscape:cx="963.55217"
-     inkscape:cy="28.960779"
+     inkscape:zoom="2.143547"
+     inkscape:cx="998.16954"
+     inkscape:cy="271.99783"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
@@ -44862,7 +44862,7 @@
            x="798.495"
            y="813.93597"
            id="tspan4310-9-7-1-9-0-6-7-6-1"
-           style="font-size:9px">V.5 2011-08-12</svg:tspan></svg:text>
+           style="font-size:9px">V.5 2011-08-13</svg:tspan></svg:text>
     </svg:a>
     <svg:g
        transform="matrix(0.11231,0,0,0.11231,988.09,822.143)"
@@ -45035,9 +45035,9 @@
     </svg:a>
     <svg:a
        xlink:href="exercises/with-relations-and-icons.svg"
-       id="a18624"
+       xlink:title="First exercise of the didactic unit [relative link]"
        transform="translate(-5.6764,0.470703)"
-       xlink:title="First exercise of the didactic unit [relative link]">
+       id="a18624">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45430,24 +45430,6 @@
          y="388.40399"
          id="tspan7833"
          style="font-size:22px;font-weight:normal">co-operate</svg:tspan></svg:text>
-    <svg:a
-       id="a23075"
-       xlink:href="http://en.wikipedia.org/wiki/Netiquette"
-       xlink:title="Wikipedia about netiquette, social conventions over networks about people interaction">
-      <svg:text
-         inkscape:export-ydpi="259.6308"
-         inkscape:export-xdpi="259.6308"
-         inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-         style="font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; text-align: center; text-anchor: middle; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; font-family: DejaVu Serif;"
-         xml:space="preserve"
-         id="text7845"
-         y="401.629"
-         x="635.729"><svg:tspan
-           style="font-size: 12px;"
-           id="tspan7851"
-           y="401.629"
-           x="635.729">(netiquete)</svg:tspan></svg:text>
-    </svg:a>
     <svg:text
        x="580.434"
        y="435.755"
