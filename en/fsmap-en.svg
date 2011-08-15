@@ -43122,6 +43122,19 @@
          stdDeviation="1.6958684"
          id="feGaussianBlur2863-3" />
     </svg:filter>
+    <svg:marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="TriangleOutL-65"
+       style="overflow:visible">
+      <svg:path
+         inkscape:connector-curvature="0"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(0.8,0.8)"
+         id="path4655-6"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </svg:marker>
   </svg:defs>
   <sodipodi:namedview
      id="base"
@@ -43193,14 +43206,6 @@
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308" />
-    <svg:path
-       d="m 212.89204,492.31183 0,54.13453"
-       id="path5371-7"
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-ydpi="259.6308"
-       inkscape:connector-curvature="0" />
     <svg:rect
        inkscape:export-ydpi="606.47772"
        inkscape:export-xdpi="606.47772"
@@ -45058,9 +45063,9 @@
     </svg:a>
     <svg:a
        xlink:href="exercises/with-relations-and-icons.svg"
-       xlink:title="First exercise of the didactic unit [relative link]"
+       id="a18624"
        transform="translate(-15.6764,-7.529297)"
-       id="a18624">
+       xlink:title="First exercise of the didactic unit [relative link]">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45089,19 +45094,6 @@
          y="460.53998"
          id="tspan5303"
          style="font-size:24.00000572px;font-weight:normal">compiled</svg:tspan></svg:text>
-    <svg:text
-       x="204.508"
-       y="484.23999"
-       id="text5351"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-ydpi="259.6308"><svg:tspan
-         x="204.508"
-         y="484.23999"
-         id="tspan5361"
-         style="font-size:12px">instructions</svg:tspan></svg:text>
     <svg:text
        x="227.142"
        y="525.79901"
@@ -56005,5 +55997,28 @@
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308" />
+    <svg:path
+       d="m 212.64464,503.93999 0.2474,42.50637"
+       id="path5371-7"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
+       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
+       inkscape:export-xdpi="259.6308"
+       inkscape:export-ydpi="259.6308"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <svg:text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
+       x="205.38448"
+       y="483.79669"
+       id="text15103-50-2-8-5"><svg:tspan
+         sodipodi:role="line"
+         x="205.38448"
+         y="483.79669"
+         id="tspan13454-7">readable</svg:tspan><svg:tspan
+         sodipodi:role="line"
+         x="205.38448"
+         y="498.79669"
+         id="tspan13003">instructions</svg:tspan></svg:text>
   </svg:g>
 </svg:svg>
