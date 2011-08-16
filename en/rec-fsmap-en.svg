@@ -15,7 +15,7 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="rec-fsmap-en.svg">
   <defs
      id="defs5696">
@@ -5593,14 +5593,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.93"
-     inkscape:cx="527.12979"
-     inkscape:cy="368.5"
+     inkscape:zoom="1.86"
+     inkscape:cx="756.16726"
+     inkscape:cy="615.02561"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
-     inkscape:window-width="1167"
-     inkscape:window-height="983"
+     inkscape:window-width="1388"
+     inkscape:window-height="996"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -13939,7 +13939,7 @@
          sodipodi:role="line"
          x="440.51544"
          y="466.89612"
-         id="tspan13015-1-7-2">Foundations like FSF,</tspan><tspan
+         id="tspan13015-1-7-2">foundations like FSF,</tspan><tspan
          sodipodi:role="line"
          x="440.51544"
          y="481.89612"
@@ -14157,15 +14157,15 @@
          sodipodi:role="line"
          x="757.24323"
          y="204.66724"
-         id="tspan25840">competitiveness, privacy,</tspan><tspan
+         id="tspan25840">co-operation, privacy,</tspan><tspan
          sodipodi:role="line"
          x="757.24323"
          y="219.66724"
-         id="tspan25842">cooperation, transparency,</tspan><tspan
+         id="tspan25842"> transparency, security,</tspan><tspan
          sodipodi:role="line"
          x="757.24323"
          y="234.66724"
-         id="tspan25844">security, solidarity, and,</tspan><tspan
+         id="tspan25844">solidarity, and,</tspan><tspan
          sodipodi:role="line"
          x="757.24323"
          y="249.66724"
@@ -14221,7 +14221,7 @@
          id="tspan5500">Extremadura</tspan><tspan
          x="835.93597"
          y="531.62366"
-         id="tspan5502">France, China, Brazil, Germany</tspan><tspan
+         id="tspan5502">France, Brazil, Germany</tspan><tspan
          x="835.93597"
          y="546.62366"
          id="tspan5504">MIT, Berkeley</tspan><tspan
@@ -14286,16 +14286,16 @@
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
          xml:space="preserve"
          y="74.715637"
-         x="-392.54773"
+         x="-406.54773"
          id="text29094"><tspan
            style="font-size:9px;text-align:start;text-anchor:start;fill:#000000"
            y="74.715637"
-           x="-392.54773"
+           x="-406.54773"
            id="tspan29096">Author: René Mérou (<tspan
    style="fill:#0000ff"
    id="tspan29092">h@es.gnu.org</tspan>)   translation: Leonardo G. De Luca (<tspan
    id="tspan29082"
-   style="fill:#0000ff">leo@kde.org.ar</tspan>)  2010-04-05</tspan></text>
+   style="fill:#0000ff">leo@kde.org.ar</tspan>)  V3.5 2010-08-16</tspan></text>
     </a>
     <text
        x="622.56061"

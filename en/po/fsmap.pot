@@ -407,7 +407,7 @@ msgstr ""
 #. type: Content of: <svg:svg><svg:g><svg:text><svg:tspan>
 #: fsmap-en.svg:36147
 #, no-wrap
-msgid "France, Chine, Brazil, Germany "
+msgid "France, Brazil, Germany "
 msgstr ""
 
 #. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>

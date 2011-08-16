@@ -15,8 +15,8 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="errors-hunting-corrections.svg"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="errors-hunting.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/en/fsmap-en-1038.png"
    inkscape:export-xdpi="89.903137"
    inkscape:export-ydpi="89.903137">
@@ -34728,12 +34728,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0074671"
      inkscape:cx="582.12619"
-     inkscape:cy="277.78449"
+     inkscape:cy="396.89508"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1340"
-     inkscape:window-height="1139"
+     inkscape:window-height="996"
      inkscape:window-x="1920"
      inkscape:window-y="34"
      inkscape:window-maximized="0" />
@@ -34745,7 +34745,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
@@ -35979,7 +35979,7 @@
        id="text21484"><svg:tspan
          x="835.63898"
          y="520.48297"
-         id="tspan21486">France, Chine, Brazil, Germany </svg:tspan></svg:text>
+         id="tspan21486">France, Brazil, Germany </svg:tspan></svg:text>
     <svg:a
        id="a7727"
        xlink:href="http://opensource.mit.edu/online_papers.php"
@@ -36873,15 +36873,15 @@
          sodipodi:role="line"
          x="759.078"
          y="207.776"
-         id="tspan25840">competitiveness, privacy,</svg:tspan><svg:tspan
+         id="tspan25840">co-operation, privacy,</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="759.078"
          y="222.776"
-         id="tspan25842">co-operation, transparency,</svg:tspan><svg:tspan
+         id="tspan25844"> transparency, security,</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="759.078"
          y="237.776"
-         id="tspan25844">security, solidarity and</svg:tspan><svg:tspan
+         id="tspan11603">solidarity and</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="759.078"
          y="252.776"
