@@ -43144,16 +43144,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.143547"
-     inkscape:cx="694.51645"
-     inkscape:cy="184.58701"
+     inkscape:cx="721.16085"
+     inkscape:cy="160.39239"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
-     inkscape:window-width="1388"
-     inkscape:window-height="1013"
-     inkscape:window-x="2406"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1060"
+     inkscape:window-x="1918"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
   <svg:metadata
      id="metadata5699">
     <rdf:RDF>
@@ -44892,7 +44892,7 @@
            style="font-size:9px">V.5 2011-08-13</svg:tspan></svg:text>
     </svg:a>
     <svg:g
-       transform="matrix(0.11231,0,0,0.11231,978.09,814.143)"
+       transform="matrix(0.11231,0,0,0.11231,974.09,814.143)"
        id="g21393-9"
        style="stroke:#000cff;stroke-opacity:1"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -45063,9 +45063,9 @@
     </svg:a>
     <svg:a
        xlink:href="maps-guide-en.svg"
-       xlink:title="see the maps guide"
+       id="a18624"
        transform="translate(-15.6764,-7.529297)"
-       id="a18624">
+       xlink:title="see the maps guide">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45673,7 +45673,7 @@
        id="a9876"
        xlink:href="http://es.gnu.org/~reneme/fsmap/en/fsmap-en.svg"
        xlink:title="Latest version of this concept hypermap"
-       transform="translate(-137.40373,-8.702726)">
+       transform="translate(-141.40373,-8.702726)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45692,7 +45692,7 @@
        id="a14136-6"
        xlink:href="http://es.gnu.org/~reneme/fsmap/fsmap-contents.svg"
        xlink:title="Read about the licence of the map and its contents"
-       transform="translate(152.056,-56.6889)">
+       transform="translate(148.056,-56.6889)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45712,19 +45712,19 @@
        xml:space="preserve"
        id="text4306-65-54-43-4-0-2-8-2"
        y="779.02002"
-       x="550.66101"
+       x="546.66101"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
          style="font-size:9px"
          id="tspan4310-9-7-1-9-0-6-7-0"
          y="794.02002"
-         x="550.66101">) at:</svg:tspan></svg:text>
+         x="546.66101">) at:</svg:tspan></svg:text>
     <svg:a
        id="a14140"
        xlink:href="http://es.gnu.org/~reneme/fsmap/en"
        xlink:title="Englis traslation, exercices, ..."
-       transform="translate(127.451,-59.2301)">
+       transform="translate(123.451,-59.2301)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -55438,7 +55438,7 @@
     <svg:a
        id="a18624-2"
        xlink:href="http://es.gnu.org/~reneme/fsmap/en/translations.html"
-       transform="translate(24.283287,-19.831564)"
+       transform="translate(20.283287,-19.831564)"
        xlink:title="click here for traslations (we have some done and a formulary to easily translate or send any comment)">
       <svg:text
          inkscape:export-ydpi="259.6308"
