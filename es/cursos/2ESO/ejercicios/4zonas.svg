@@ -34732,7 +34732,7 @@
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308" />
     <svg:a
-       xlink:href="/home/h/zona-usuarios.svg"
+       xlink:href="zona-usuarios.svg"
        transform="matrix(0.86199521,0,0,0.77350116,532.82872,115.01206)"
        style="fill:url(#radialGradient8490);fill-opacity:1"
        xlink:title="Ampliar zona de usuarios y desarrolladores"
@@ -34754,7 +34754,7 @@
       </svg:a>
     </svg:a>
     <svg:a
-       xlink:href="/home/h/zona-distribuciones.svg"
+       xlink:href="zona-distribuciones.svg"
        transform="matrix(0.759624,0,0,0.765466,-1.1556573,94.33726)"
        style="fill:url(#radialGradient55903);fill-opacity:1"
        xlink:title="Ampliar zona de software y distribuciones"
@@ -34776,7 +34776,7 @@
       </svg:a>
     </svg:a>
     <svg:a
-       xlink:href="/home/h/zona-valores.svg"
+       xlink:href="zona-valores.svg"
        transform="matrix(0.69192692,0,0,0.45501747,593.48301,-91.66331)"
        style="fill:url(#radialGradient8490-6);fill-opacity:1"
        xlink:title="Ampliar zona de los valores del software libre"
@@ -34798,7 +34798,7 @@
       </svg:a>
     </svg:a>
     <svg:a
-       xlink:href="/home/h/zona-libertades.svg"
+       xlink:href="zona-libertades.svg"
        transform="matrix(1.0370169,0,0,0.48916691,69.821753,-98.51374)"
        style="fill:url(#radialGradient8490-6-7);fill-opacity:1"
        xlink:title="Ampliar zona de las libertades"

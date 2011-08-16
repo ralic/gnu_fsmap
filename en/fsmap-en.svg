@@ -43143,14 +43143,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.287094"
-     inkscape:cx="908.00546"
-     inkscape:cy="562.93098"
+     inkscape:zoom="2.143547"
+     inkscape:cx="694.51645"
+     inkscape:cy="184.58701"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1388"
-     inkscape:window-height="996"
+     inkscape:window-height="1013"
      inkscape:window-x="2406"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -45062,10 +45062,10 @@
            x="778.34302">aKademy,</svg:tspan></svg:text>
     </svg:a>
     <svg:a
-       xlink:href="exercises/with-relations-and-icons.svg"
-       id="a18624"
+       xlink:href="maps-guide-en.svg"
+       xlink:title="see the maps guide"
        transform="translate(-15.6764,-7.529297)"
-       xlink:title="First exercise of the didactic unit [relative link]">
+       id="a18624">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"

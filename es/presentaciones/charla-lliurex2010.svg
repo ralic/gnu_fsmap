@@ -24031,7 +24031,7 @@
          id="g13650"
          transform="translate(0,-9.8850762)">
         <svg:a
-           xlink:href="/home/h/ventajas.svg"
+           xlink:href="ventajas.svg"
            transform="matrix(0.89589604,0,0,0.84543344,322.21503,-257.83893)"
            xlink:title="Ver las ventajas de usar hipermapas conceptuales"
            id="a34356">
@@ -24093,7 +24093,7 @@
              style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif Bold"
              id="tspan13437">DIDÁCTICAS</svg:tspan></svg:text>
         <svg:a
-           xlink:href="/home/h/ventajas.svg"
+           xlink:href="ventajas.svg"
            transform="translate(306.56625,-400.59982)"
            id="a11678"
            xlink:title="Ver las ventajas de usar hipermapas conceptuales">
@@ -24115,7 +24115,7 @@
       <svg:g
          id="g13675">
         <svg:a
-           xlink:href="/home/h/../ejercicios/4zonas.svg"
+           xlink:href="../ejercicios/4zonas.svg"
            transform="matrix(1.0518168,0,0,1.1226871,8.8109224,-146.73685)"
            xlink:title="Ver material didáctico preparado"
            id="a56104">
@@ -24184,7 +24184,7 @@
          xlink:title="Ver las traducciones de las diferentes versiones"
          id="a67595"
          transform="matrix(1.5000423,0,0,1.2647833,827.52219,207.30091)"
-         xlink:href="/home/h/traducciones.svg">
+         xlink:href="traducciones.svg">
         <svg:g
            id="g5604"
            transform="matrix(1.1011762,0,0,1.061211,-197.02454,6.7818699)">

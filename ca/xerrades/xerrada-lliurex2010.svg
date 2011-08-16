@@ -24110,7 +24110,7 @@
       <svg:g
          id="g13675">
         <svg:a
-           xlink:href="/home/h/../ejercicios/4zonas.svg"
+           xlink:href="../ejercicios/4zonas.svg"
            transform="matrix(1.0518168,0,0,1.1226871,8.8109224,-146.73685)"
            xlink:title="Ver material didáctico preparado"
            id="a56104">
@@ -24179,7 +24179,7 @@
          xlink:title="Ver las traducciones de las diferentes versiones"
          id="a67595"
          transform="matrix(1.5000423,0,0,1.2647833,827.52219,207.30091)"
-         xlink:href="/home/h/traducciones.svg">
+         xlink:href="traducciones.svg">
         <svg:g
            id="g5604"
            transform="matrix(1.1011762,0,0,1.061211,-197.02454,6.7818699)">
