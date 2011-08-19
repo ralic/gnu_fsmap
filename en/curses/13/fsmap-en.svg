@@ -43107,16 +43107,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5157166"
-     inkscape:cx="511.47945"
-     inkscape:cy="252.73441"
+     inkscape:cx="801.77118"
+     inkscape:cy="15.222991"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1060"
-     inkscape:window-x="1918"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="573"
+     inkscape:window-height="421"
+     inkscape:window-x="3001"
+     inkscape:window-y="232"
+     inkscape:window-maximized="0" />
   <svg:metadata
      id="metadata5699">
     <rdf:RDF>
@@ -43935,10 +43935,10 @@
        transform="translate(13.8353, 329.377)"
        id="g5725" />
     <svg:a
-       xlink:href="exercises/with-relations-and-icons.svg"
-       id="a18624"
+       xlink:href="../../maps-guide-en.svg"
+       xlink:title="see the maps guide"
        transform="translate(-15.6764,-11.529297)"
-       xlink:title="First exercise of the didactic unit [relative link]">
+       id="a18624">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"

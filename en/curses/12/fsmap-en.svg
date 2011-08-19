@@ -43231,16 +43231,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.0314332"
-     inkscape:cx="669.77816"
-     inkscape:cy="342.73486"
+     inkscape:zoom="6.0628664"
+     inkscape:cx="909.48897"
+     inkscape:cy="69.16375"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1388"
-     inkscape:window-height="1034"
+     inkscape:window-height="895"
      inkscape:window-x="2406"
-     inkscape:window-y="0"
+     inkscape:window-y="139"
      inkscape:window-maximized="0" />
   <svg:metadata
      id="metadata5699">
@@ -44113,10 +44113,10 @@
          style="font-size:12px;font-weight:normal;text-anchor:end;fill:#000000;fill-opacity:1;-inkscape-font-specification:DejaVu Serif"
          id="tspan6663">Associations and companies</svg:tspan></svg:text>
     <svg:a
-       xlink:href="exercises/with-relations-and-icons.svg"
-       xlink:title="First exercise of the didactic unit [relative link]"
-       transform="translate(-13.6764,-11.529297)"
-       id="a18624">
+       xlink:href="../../maps-guide-en.svg"
+       xlink:title="see the maps guide"
+       id="a18624"
+       transform="translate(-13.6764,-11.529297)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
