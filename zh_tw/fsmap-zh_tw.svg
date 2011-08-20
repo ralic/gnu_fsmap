@@ -43150,8 +43150,8 @@
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1060"
-     inkscape:window-x="1918"
+     inkscape:window-height="1003"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <svg:metadata
@@ -43162,7 +43162,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
@@ -43197,7 +43197,7 @@
        x="432.18817"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        xml:space="preserve"><svg:tspan
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'"
          y="333.58136"
          x="432.18817"
          id="tspan13368"
@@ -44974,12 +44974,12 @@
          id="tspan5579-8-3-8">會議 :</svg:tspan></svg:text>
     <svg:text
        sodipodi:linespacing="125%"
-       x="324.01999"
+       x="322.01999"
        y="739.711"
        id="text5640-2-4-7-8"
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#aa4400;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"><svg:tspan
-         x="324.01999"
+         x="322.01999"
          y="739.711"
          id="tspan5579-8-3-8-8">Linux 使用者社群 :</svg:tspan></svg:text>
     <svg:text
@@ -45037,9 +45037,9 @@
     </svg:a>
     <svg:a
        xlink:href="maps-guide-en.svg"
-       id="a18624"
+       xlink:title="see the maps guide"
        transform="translate(8.3236,-7.529297)"
-       xlink:title="see the maps guide">
+       id="a18624">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45118,7 +45118,7 @@
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'"
          id="tspan3246-8"
          y="151.24876"
          x="-136.64497">使用</svg:tspan></svg:text>
@@ -45137,7 +45137,7 @@
            x="-158.48851"
            y="-268.94724"
            id="tspan3276-2"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'">再散佈</svg:tspan></svg:text>
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'">再散佈</svg:tspan></svg:text>
     </svg:g>
     <svg:text
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45148,7 +45148,7 @@
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'"
          id="tspan3267"
          y="442.50024"
          x="-71.417778">散佈</svg:tspan></svg:text>
@@ -45220,7 +45220,7 @@
          x="220.09409"
          y="718.81409"
          id="tspan28786"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'">開放標準</svg:tspan></svg:text>
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'">開放標準</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45231,7 +45231,7 @@
          x="43.438126"
          y="151.96751"
          id="tspan22960"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'">研究與修改</svg:tspan></svg:text>
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'">研究與修改</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45242,7 +45242,7 @@
          x="164.64099"
          y="304.92599"
          id="tspan25884"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'">自由軟體授權條款</svg:tspan></svg:text>
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'">自由軟體授權條款</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45253,7 +45253,7 @@
          x="208.08032"
          y="453.5769"
          id="tspan25916"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'">原始碼</svg:tspan></svg:text>
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'">原始碼</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45264,7 +45264,7 @@
          x="-14.3002"
          y="603.534"
          id="tspan25916-4"
-         style="font-size:32px;-inkscape-font-specification:'文泉驛正黑 Bold';font-family:'文泉驛正黑';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">可執行檔</svg:tspan></svg:text>
+         style="font-size:32px;-inkscape-font-specification:'文泉驛正黑 Medium';font-family:'文泉驛正黑';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal">可執行檔</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45275,7 +45275,7 @@
          x="210.08267"
          y="603.21368"
          id="tspan25978"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'">自由內容</svg:tspan></svg:text>
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'">自由內容</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45329,7 +45329,7 @@
          x="396.55899"
          y="247.993"
          id="tspan5590"
-         style="font-size:24px;font-weight:normal">is</svg:tspan></svg:text>
+         style="font-size:24px;font-weight:normal">是</svg:tspan></svg:text>
     <svg:text
        x="245.82607"
        y="689.54382"
@@ -45420,11 +45420,11 @@
          x="557.25598"
          y="143.336"
          id="tspan22746"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'">能以合乎倫理道</svg:tspan><svg:tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'">能以合乎倫理道</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="557.25598"
          y="183.336"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'"
          id="tspan22894">德的方式來了解</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
@@ -45463,7 +45463,7 @@
          x="414.70923"
          y="447.21237"
          id="tspan3275"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'">開發者</svg:tspan></svg:text>
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'">開發者</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45484,7 +45484,7 @@
          x="344.02777"
          y="152.07689"
          id="tspan22928"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'">改良</svg:tspan></svg:text>
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'">改良</svg:tspan></svg:text>
     <svg:text
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        xml:space="preserve"
@@ -45494,7 +45494,7 @@
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Bold'"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'"
          id="tspan2401"
          y="150.64803"
          x="738.76935">價值</svg:tspan></svg:text>
@@ -45507,7 +45507,7 @@
          x="720.17499"
          y="440.573"
          id="tspan3281"
-         style="font-size:32px;font-weight:bold;-inkscape-font-specification:'文泉驛正黑 Bold';font-family:'文泉驛正黑';font-style:normal;font-stretch:normal;font-variant:normal">使用者</svg:tspan></svg:text>
+         style="font-size:32px;font-weight:500;-inkscape-font-specification:'文泉驛正黑 Medium';font-family:'文泉驛正黑';font-style:normal;font-stretch:normal;font-variant:normal">使用者</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
