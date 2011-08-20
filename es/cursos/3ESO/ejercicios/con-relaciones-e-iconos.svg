@@ -15,7 +15,7 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="con-relaciones-e-iconos.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/cursos/3ESO/ejercicios/con-relaciones-e-iconos.png"
    inkscape:export-xdpi="51.674641"
@@ -37466,14 +37466,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.5273507"
      inkscape:cx="562.21099"
-     inkscape:cy="127.50144"
+     inkscape:cy="284.63627"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
-     inkscape:window-width="1912"
-     inkscape:window-height="983"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <svg:metadata
      id="metadata5699">
@@ -38225,19 +38225,6 @@
          id="tspan7833"
          style="font-size:22px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">colaboran</svg:tspan></svg:text>
     <svg:text
-       x="622.63824"
-       y="407.93198"
-       id="text7845"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
-       inkscape:export-xdpi="259.51529"
-       inkscape:export-ydpi="259.51529"><svg:tspan
-         x="622.63824"
-         y="407.93198"
-         id="tspan7851"
-         style="font-size:12px">(netiqueta)</svg:tspan></svg:text>
-    <svg:text
        x="633.51416"
        y="604.67566"
        id="text10303-5"
@@ -38406,9 +38393,9 @@
     </svg:g>
     <svg:a
        xlink:href="4zonas.svg"
-       id="a18624"
+       xlink:title="Ver el ejercicio con las cuatro zonas"
        transform="translate(36.095818,-7.371669)"
-       xlink:title="Ver el ejercicio con las cuatro zonas">
+       id="a18624">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -38425,9 +38412,9 @@
     </svg:a>
     <svg:a
        xlink:href="../fsmap-es-3ESO.svg"
-       xlink:title="Volver al hipermapa conceptual del software libre"
+       id="a18624-2"
        transform="matrix(1.0553713,0,0,1.0553713,5.982542,-94.88839)"
-       id="a18624-2">
+       xlink:title="Volver al hipermapa conceptual del software libre">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -38444,9 +38431,9 @@
     </svg:a>
     <svg:a
        xlink:href="cazagazapos.svg"
-       transform="matrix(1.0553713,0,0,1.0553713,-14.077838,-77.150526)"
+       xlink:title="ir al ejercicio cazagazapos"
        id="a18624-2-6"
-       xlink:title="ir al ejercicio cazagazapos">
+       transform="matrix(1.0553713,0,0,1.0553713,-14.077838,-77.150526)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"

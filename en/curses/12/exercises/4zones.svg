@@ -43208,8 +43208,8 @@
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1060"
-     inkscape:window-x="1918"
+     inkscape:window-height="1003"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <svg:metadata
@@ -43231,10 +43231,10 @@
      transform="translate(200.442, -84.695)">
     <svg:a
        xlink:href="values-zone.svg"
-       xlink:title="exten the values zone"
-       id="a34744-7-2"
+       transform="matrix(0.7555811,0,0,0.51910724,560.34544,-101.74028)"
        style="fill:url(#radialGradient8490-6);fill-opacity:1"
-       transform="matrix(0.7555811,0,0,0.51910724,560.34544,-101.74028)">
+       id="a34744-7-2"
+       xlink:title="exten the values zone">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient70407);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423-5-4"
@@ -43247,10 +43247,10 @@
     </svg:a>
     <svg:a
        xlink:href="freedoms-zone.svg"
-       xlink:title="exten the freedoms zone"
-       id="a34744-7-2-8"
+       transform="matrix(0.97775266,0,0,0.57729034,53.355871,-122.22909)"
        style="fill:url(#radialGradient8490-6-7);fill-opacity:1"
-       transform="matrix(0.97775266,0,0,0.57729034,53.355871,-122.22909)">
+       id="a34744-7-2-8"
+       xlink:title="exten the freedoms zone">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient36195-4-5-7);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423-5-4-8"
@@ -43263,10 +43263,10 @@
     </svg:a>
     <svg:a
        xlink:href="distributions-zone.svg"
-       xlink:title="Exten the distributions zone"
-       id="a34744"
+       transform="matrix(0.83205808,0,0,0.85358943,11.110583,39.107007)"
        style="fill:url(#radialGradient8873);fill-opacity:1"
-       transform="matrix(0.83205808,0,0,0.85358943,11.110583,39.107007)">
+       id="a34744"
+       xlink:title="Exten the distributions zone">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient36195);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423"
@@ -43279,10 +43279,10 @@
     </svg:a>
     <svg:a
        xlink:href="users-zone.svg"
-       xlink:title="Extend the users and developers zone"
-       transform="matrix(0.88055515,0,0,0.9390664,523.91053,-30.30551)"
+       id="a34744-7"
        style="fill:url(#radialGradient8490);fill-opacity:1"
-       id="a34744-7">
+       transform="matrix(0.88055515,0,0,0.9390664,523.91053,-30.30551)"
+       xlink:title="Extend the users and developers zone">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient36195-4);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423-5"
@@ -44508,25 +44508,6 @@
          y="400.40399"
          id="tspan7833"
          style="font-size:22px;font-weight:normal">co-operate</svg:tspan></svg:text>
-    <svg:a
-       id="a23075"
-       xlink:href="http://en.wikipedia.org/wiki/Netiquette"
-       xlink:title="Wikipedia about netiquette, social conventions over networks about people interaction"
-       transform="translate(12,12)">
-      <svg:text
-         inkscape:export-ydpi="259.6308"
-         inkscape:export-xdpi="259.6308"
-         inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
-         xml:space="preserve"
-         id="text7845"
-         y="401.629"
-         x="635.729"><svg:tspan
-           style="font-size:12px"
-           id="tspan7851"
-           y="401.629"
-           x="635.729">(netiquete)</svg:tspan></svg:text>
-    </svg:a>
     <svg:text
        x="592.43402"
        y="447.755"

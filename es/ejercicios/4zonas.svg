@@ -15,7 +15,7 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="4zonas.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/fsmap-es-500.png"
    inkscape:export-xdpi="43.062202"
@@ -34592,10 +34592,10 @@
        inkscape:export-ydpi="259.6308" />
     <svg:a
        xlink:href="zona-distribuciones.svg"
-       transform="matrix(0.759624,0,0,0.765466,-1.1556573,94.337252)"
-       style="fill:url(#radialGradient55903);fill-opacity:1"
+       id="a34744"
        xlink:title="Ampliar zona de software y distribuciones"
-       id="a34744">
+       style="fill:url(#radialGradient55903);fill-opacity:1"
+       transform="matrix(0.759624,0,0,0.765466,-1.1556573,94.337252)">
       <svg:a
          style="fill:url(#radialGradient27715)"
          id="a36197"
@@ -34626,10 +34626,10 @@
        inkscape:export-ydpi="259.6308" />
     <svg:a
        xlink:href="zona-libertades.svg"
-       transform="matrix(1.0370169,0,0,0.48916691,69.821753,-98.513738)"
-       style="fill:url(#radialGradient8490-6-7);fill-opacity:1"
+       id="a34744-7-2-8"
        xlink:title="Ampliar zona de las libertades"
-       id="a34744-7-2-8">
+       style="fill:url(#radialGradient8490-6-7);fill-opacity:1"
+       transform="matrix(1.0370169,0,0,0.48916691,69.821753,-98.513738)">
       <svg:a
          style="fill:url(#radialGradient55826)"
          id="a36197-6-5-6"
@@ -34660,10 +34660,10 @@
        inkscape:export-ydpi="259.6308" />
     <svg:a
        xlink:href="zona-usuarios.svg"
-       transform="matrix(0.86199521,0,0,0.77350116,532.82872,115.01206)"
-       style="fill:url(#radialGradient8490);fill-opacity:1"
+       id="a34744-7"
        xlink:title="Ampliar zona de usuarios y desarrolladores"
-       id="a34744-7">
+       style="fill:url(#radialGradient8490);fill-opacity:1"
+       transform="matrix(0.86199521,0,0,0.77350116,532.82872,115.01206)">
       <svg:a
          style="fill:url(#radialGradient55713)"
          id="a36197-6"
@@ -34689,10 +34689,10 @@
        inkscape:export-ydpi="259.6308" />
     <svg:a
        xlink:href="zona-valores.svg"
-       transform="matrix(0.69192692,0,0,0.45501747,593.48301,-91.66331)"
-       style="fill:url(#radialGradient8490-6);fill-opacity:1"
+       id="a34744-7-2"
        xlink:title="Ampliar zona de los valores del software libre"
-       id="a34744-7-2">
+       style="fill:url(#radialGradient8490-6);fill-opacity:1"
+       transform="matrix(0.69192692,0,0,0.45501747,593.48301,-91.66331)">
       <svg:a
          style="fill:url(#radialGradient55618)"
          id="a36197-6-5"
@@ -35398,19 +35398,6 @@
          y="393.47934"
          id="tspan7833"
          style="font-size:22px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">colaboran</svg:tspan></svg:text>
-    <svg:text
-       x="622.63824"
-       y="407.93198"
-       id="text7845"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
-       inkscape:export-xdpi="259.51529"
-       inkscape:export-ydpi="259.51529"><svg:tspan
-         x="622.63824"
-         y="407.93198"
-         id="tspan7851"
-         style="font-size:12px">(netiqueta)</svg:tspan></svg:text>
     <svg:text
        x="633.51416"
        y="604.67566"
@@ -45430,9 +45417,9 @@
     </svg:g>
     <svg:a
        xlink:href="../fsmap-es.svg"
-       xlink:title="Volver al hipermapa conceptual del software libre"
+       id="a18624-2"
        transform="matrix(1.0553713,0,0,1.0553713,-30.017458,-56.88839)"
-       id="a18624-2">
+       xlink:title="Volver al hipermapa conceptual del software libre">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45449,9 +45436,9 @@
     </svg:a>
     <svg:a
        xlink:href="con-relaciones-e-iconos.svg"
-       id="a18624-20"
+       xlink:title="Ver el primer ejercicio para presentar la unidad didáctica"
        transform="translate(49.977945,-12.277994)"
-       xlink:title="Ver el primer ejercicio para presentar la unidad didáctica">
+       id="a18624-20">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"

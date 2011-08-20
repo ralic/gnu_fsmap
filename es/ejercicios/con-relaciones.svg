@@ -14,8 +14,8 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="sin-relaciones.svg"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="con-relaciones.svg"
    inkscape:export-xdpi="43.062202"
    inkscape:export-ydpi="43.062202">
   <svg:defs
@@ -23218,15 +23218,6 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       id="filter3366-2-2"
-       inkscape:collect="always">
-      <svg:feGaussianBlur
-         id="feGaussianBlur3368-0-0"
-         stdDeviation="14.173227"
-         inkscape:collect="always" />
-    </svg:filter>
     <svg:radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3262-4-1"
@@ -34156,8 +34147,8 @@
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1180"
-     inkscape:window-x="1916"
+     inkscape:window-height="1003"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <svg:metadata
@@ -34168,7 +34159,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
@@ -34535,7 +34526,6 @@
     <svg:text
        inkscape:export-ydpi="259.51529"
        inkscape:export-xdpi="259.51529"
-
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#010100;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        xml:space="preserve"
        id="text2466"
@@ -34555,7 +34545,6 @@
        id="text3273"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="315.94589"
@@ -34568,7 +34557,6 @@
        id="text3279"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="670.68091"
@@ -34581,7 +34569,6 @@
        id="text3350-2"
        y="584.53491"
        x="-126.45432"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          style="font-size:18px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold"
@@ -34599,7 +34586,6 @@
        id="text4505"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="-59.665604"
@@ -34613,7 +34599,6 @@
        id="text5301"
        xml:space="preserve"
        style="font-size:16.00000191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="-341.46805"
@@ -34627,7 +34612,6 @@
        id="text5307-6"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="-175.30034"
@@ -34640,7 +34624,6 @@
        id="text5375"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="207.85597"
@@ -34650,7 +34633,6 @@
     <svg:g
        transform="translate(-1472.3537,210.74459)"
        id="g7051"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"
        style="fill:#f2ffff;fill-opacity:1">
@@ -34675,7 +34657,6 @@
        id="text5550"
        xml:space="preserve"
        style="font-size:15.99996281px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="218.93471"
@@ -34689,7 +34670,6 @@
        id="text5568"
        xml:space="preserve"
        style="font-size:15.99995422px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="139.80739"
@@ -34703,7 +34683,6 @@
        id="text5580"
        xml:space="preserve"
        style="font-size:15.99996185px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="178.06509"
@@ -34716,7 +34695,6 @@
        id="text5588"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="390.12958"
@@ -34730,7 +34708,6 @@
        id="text5596"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="205.86578"
@@ -34743,7 +34720,6 @@
        id="text3616"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="661.75073"
@@ -34756,7 +34732,6 @@
        id="text3252-0"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="-94.326233"
@@ -34773,7 +34748,6 @@
        id="text3260-4"
        y="131.68195"
        x="262.25101"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          style="font-size:18px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold"
@@ -34790,7 +34764,6 @@
        id="text2399"
        y="139.98965"
        x="706.84692"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          style="font-size:18px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold"
@@ -34803,7 +34776,6 @@
        id="text3603"
        y="671.23743"
        x="575.09558"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          style="font-size:18px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold"
@@ -34816,7 +34788,6 @@
        id="text3262"
        y="410.81723"
        x="-130.79745"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          style="font-size:18px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold"
@@ -34829,7 +34800,6 @@
        id="text3344-9"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="155.76041"
@@ -34846,7 +34816,6 @@
        id="text4338-6"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="201.29761"
@@ -34863,7 +34832,6 @@
        id="text7829"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="563.04059"
@@ -34871,25 +34839,11 @@
          id="tspan7833"
          style="font-size:22px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">colaboran</svg:tspan></svg:text>
     <svg:text
-       x="622.63824"
-       y="407.93198"
-       id="text7845"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
-       inkscape:export-xdpi="259.51529"
-       inkscape:export-ydpi="259.51529"><svg:tspan
-         x="622.63824"
-         y="407.93198"
-         id="tspan7851"
-         style="font-size:12px">(netiqueta)</svg:tspan></svg:text>
-    <svg:text
        x="633.51416"
        y="604.67566"
        id="text10303-5"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="633.51416"
@@ -34907,7 +34861,6 @@
        id="text7039"
        xml:space="preserve"
        style="font-size:15.99997234px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="427.17996"
@@ -34920,7 +34873,6 @@
        id="text7829-9"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          x="586.51245"
@@ -34933,7 +34885,6 @@
        x="543.02124"
        y="135.66702"
        id="text13223"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          sodipodi:role="line"
@@ -34954,7 +34905,6 @@
        x="209.93512"
        y="711.14911"
        id="text13223-3"
-
        inkscape:export-xdpi="259.51529"
        inkscape:export-ydpi="259.51529"><svg:tspan
          sodipodi:role="line"

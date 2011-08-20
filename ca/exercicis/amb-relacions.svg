@@ -14,8 +14,8 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="amb-relacions-i-icones.svg"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="amb-relacions.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/ca/exercicis/amb-relacions-i-icones-600.png"
    inkscape:export-xdpi="51.674641"
    inkscape:export-ydpi="51.674641">
@@ -39164,15 +39164,6 @@
          style="stop-color:#DADADA"
          offset="1" />
     </svg:linearGradient>
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       id="filter3366-2-2-0"
-       inkscape:collect="always">
-      <svg:feGaussianBlur
-         id="feGaussianBlur3368-0-0-4"
-         stdDeviation="14.173227"
-         inkscape:collect="always" />
-    </svg:filter>
     <svg:radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3262-4-1-8-9"
@@ -47086,19 +47077,6 @@
          offset="1"
          id="stop2988-2-7-8" />
     </svg:linearGradient>
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4026-3-6"
-       x="-0.13895153"
-       width="1.277903"
-       y="-0.058858164"
-       height="1.1177163">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.9996441"
-         id="feGaussianBlur4028-4-7" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2984-9-1-7"
@@ -47108,19 +47086,6 @@
        y1="153.1756"
        x2="174.34512"
        y2="-94.264137" />
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4022-1-4"
-       x="-0.10276632"
-       width="1.2055326"
-       y="-0.064448982"
-       height="1.128898">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.9996441"
-         id="feGaussianBlur4024-3-8" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2984-9-1-7"
@@ -47130,15 +47095,6 @@
        y1="153.1756"
        x2="78.715927"
        y2="-18.500385" />
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4018-4-8">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.9996441"
-         id="feGaussianBlur4020-2-1" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2984-9-1-7"
@@ -47148,19 +47104,6 @@
        y1="153.1756"
        x2="32.773327"
        y2="140.3024" />
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4014-6-5"
-       x="-0.058925331"
-       width="1.1178507"
-       y="-0.24591757"
-       height="1.4918351">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.9996441"
-         id="feGaussianBlur4016-4-2" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2984-9-1-7"
@@ -47170,19 +47113,6 @@
        y1="153.1756"
        x2="581.50769"
        y2="145.16879" />
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4010-8-9"
-       x="-0.058953892"
-       width="1.1179078"
-       y="-0.45821804"
-       height="1.9164361">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.9996441"
-         id="feGaussianBlur4012-4-6" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2984-9-1-7"
@@ -47231,15 +47161,6 @@
          offset="1"
          id="stop4340-4-8" />
     </svg:linearGradient>
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4380-0-9">
-      <svg:feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.4811503"
-         id="feGaussianBlur4382-5-3" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2959-0-4-7"
@@ -48974,24 +48895,6 @@
          offset="1.00000000"
          style="stop-color:#2c2c2c;stop-opacity:1;" />
     </svg:linearGradient>
-    <svg:filter
-       id="filter3182-4-8-3"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <svg:feGaussianBlur
-         id="feGaussianBlur3184-8-2-3"
-         stdDeviation="1.0503269"
-         inkscape:collect="always" />
-    </svg:filter>
-    <svg:filter
-       id="filter7699-8-9-3"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <svg:feGaussianBlur
-         id="feGaussianBlur7701-7-6-8"
-         stdDeviation="0.26542242"
-         inkscape:collect="always" />
-    </svg:filter>
     <svg:linearGradient
        y2="28.935303"
        x2="8.2490902"
@@ -49013,28 +48916,6 @@
          offset="1"
          id="stop10711-9-3-8-2" />
     </svg:linearGradient>
-    <svg:filter
-       id="filter3338-1-7-7"
-       height="1.172207"
-       y="-0.086103506"
-       width="1.2483627"
-       x="-0.12418137"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <svg:feGaussianBlur
-         id="feGaussianBlur3340-0-8-6"
-         stdDeviation="0.22176256"
-         inkscape:collect="always" />
-    </svg:filter>
-    <svg:filter
-       id="filter5746-7-2-3"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <svg:feGaussianBlur
-         id="feGaussianBlur5748-5-8-5"
-         stdDeviation="0.61997365"
-         inkscape:collect="always" />
-    </svg:filter>
     <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#XMLID_1_-0-0-8-0"
@@ -49418,7 +49299,7 @@
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1598"
-     inkscape:window-height="1114"
+     inkscape:window-height="996"
      inkscape:window-x="2089"
      inkscape:window-y="15"
      inkscape:window-maximized="0"
@@ -49432,7 +49313,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
@@ -50054,19 +49935,6 @@
          id="tspan7833-0"
          style="font-size:20px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">col·laboren</svg:tspan></svg:text>
     <svg:text
-       x="643.57587"
-       y="416.54379"
-       id="text7845-3"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-ydpi="259.6308"><svg:tspan
-         x="643.57587"
-         y="416.54379"
-         id="tspan7851-1-9"
-         style="font-size:12px">(netiquette)</svg:tspan></svg:text>
-    <svg:text
        x="278.49765"
        y="380.00964"
        id="text10112"
@@ -50466,9 +50334,9 @@
          style="font-size:13px;text-align:start;text-anchor:start;fill:#550000">Exercici: afegiu exemples o explicacions als termes anomenats. </svg:tspan></svg:text>
     <svg:a
        xlink:href="4zones.svg"
-       transform="translate(-11.30084,-34.618239)"
+       xlink:title="Veure el exercici amb les 4 zones"
        id="a18624"
-       xlink:title="Veure el exercici amb les 4 zones">
+       transform="translate(-11.30084,-34.618239)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -50485,9 +50353,9 @@
     </svg:a>
     <svg:a
        xlink:href="fsmap-ca.svg"
-       id="a18624-2"
+       xlink:title="Hipermapa conceptual del programari lliure"
        transform="translate(35.460851,-50.418999)"
-       xlink:title="Hipermapa conceptual del programari lliure">
+       id="a18624-2">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -50504,9 +50372,9 @@
     </svg:a>
     <svg:a
        xlink:href="troba-els-errors.svg"
-       id="a18624-2-6"
+       xlink:title="exercici troba els errors"
        transform="translate(-5.3413501,-23.642239)"
-       xlink:title="exercici troba els errors">
+       id="a18624-2-6">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"

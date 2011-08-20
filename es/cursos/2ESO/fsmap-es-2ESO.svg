@@ -15,7 +15,7 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="fsmap-es-2ESO.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/cursos/2ESO/fsmap-es-2ESO-500.png"
    inkscape:export-xdpi="43.062202"
@@ -32037,8 +32037,8 @@
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1180"
-     inkscape:window-x="1916"
+     inkscape:window-height="1003"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <svg:metadata
@@ -32049,7 +32049,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
@@ -32960,19 +32960,6 @@
          y="393.47934"
          id="tspan7833"
          style="font-size:22px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">colaboran</svg:tspan></svg:text>
-    <svg:text
-       x="622.63824"
-       y="407.93198"
-       id="text7845"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
-       inkscape:export-xdpi="259.51529"
-       inkscape:export-ydpi="259.51529"><svg:tspan
-         x="622.63824"
-         y="407.93198"
-         id="tspan7851"
-         style="font-size:12px">(netiqueta)</svg:tspan></svg:text>
     <svg:text
        x="269.52286"
        y="368.8681"

@@ -14,8 +14,8 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="zona-distribuciones.svg"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="zona-usuarios.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/zona-distribuciones.png"
    inkscape:export-xdpi="43.062202"
    inkscape:export-ydpi="43.062202">
@@ -34496,7 +34496,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
@@ -34712,19 +34712,6 @@
          y="325.14551"
          id="tspan7833"
          style="font-size:33.48196793px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">colaboran</svg:tspan></svg:text>
-    <svg:text
-       x="325.0574"
-       y="347.14111"
-       id="text7845"
-       xml:space="preserve"
-       style="font-size:24.35052109px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
-       inkscape:export-xdpi="259.51529"
-       inkscape:export-ydpi="259.51529"><svg:tspan
-         x="325.0574"
-         y="347.14111"
-         id="tspan7851"
-         style="font-size:18.26289177px">(netiqueta)</svg:tspan></svg:text>
     <svg:text
        x="341.60953"
        y="646.56683"
@@ -42099,9 +42086,9 @@
     </svg:a>
     <svg:a
        xlink:href="con-relaciones-e-iconos.svg"
-       id="a18624"
+       xlink:title="Ver el primer ejercicio para presentar la unidad didáctica"
        transform="translate(10.583228,-25.632607)"
-       xlink:title="Ver el primer ejercicio para presentar la unidad didáctica">
+       id="a18624">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -42118,9 +42105,9 @@
     </svg:a>
     <svg:a
        xlink:href="4zonas.svg"
-       transform="matrix(2.2031289,0,0,2.2031289,-918.84809,-969.44466)"
+       id="a42070"
        xlink:title="Volver a ver las 4 zonas"
-       id="a42070">
+       transform="matrix(2.2031289,0,0,2.2031289,-918.84809,-969.44466)">
       <svg:text
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
          xml:space="preserve"

@@ -15,7 +15,7 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="amb-relacions-i-icones.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/ca/fsmap-ca-600.png"
    inkscape:export-xdpi="51.655361"
@@ -49426,7 +49426,7 @@
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1598"
-     inkscape:window-height="1053"
+     inkscape:window-height="996"
      inkscape:window-x="144"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -50061,19 +50061,6 @@
          y="401.06894"
          id="tspan7833-0"
          style="font-size:20px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">col·laboren</svg:tspan></svg:text>
-    <svg:text
-       x="643.57587"
-       y="416.54379"
-       id="text7845-3"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-ydpi="259.6308"><svg:tspan
-         x="643.57587"
-         y="416.54379"
-         id="tspan7851-1-9"
-         style="font-size:12px">(netiquette)</svg:tspan></svg:text>
     <svg:text
        x="278.49765"
        y="380.00964"
@@ -60164,9 +60151,9 @@
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">reunits en</svg:tspan></svg:text>
     <svg:a
        xlink:href="4zones.svg"
-       xlink:title="Veure el exercici amb les 4 zones"
+       transform="translate(-11.30084,-34.618239)"
        id="a18624"
-       transform="translate(-11.30084,-34.618239)">
+       xlink:title="Veure el exercici amb les 4 zones">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -60183,9 +60170,9 @@
     </svg:a>
     <svg:a
        xlink:href="fsmap-ca.svg"
-       xlink:title="Hipermapa conceptual del programari lliure"
+       id="a18624-2"
        transform="translate(35.460851,-50.418999)"
-       id="a18624-2">
+       xlink:title="Hipermapa conceptual del programari lliure">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -60202,9 +60189,9 @@
     </svg:a>
     <svg:a
        xlink:href="troba-els-errors.svg"
-       xlink:title="exercici troba els errors"
+       id="a18624-2-6"
        transform="translate(-5.3413501,-23.642239)"
-       id="a18624-2-6">
+       xlink:title="exercici troba els errors">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"

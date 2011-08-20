@@ -15,7 +15,7 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="con-relaciones-e-iconos.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/con-relaciones-e-iconos-500.png"
    inkscape:export-xdpi="43.062202"
@@ -23220,15 +23220,6 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
-    <svg:filter
-       color-interpolation-filters="sRGB"
-       id="filter3366-2-2"
-       inkscape:collect="always">
-      <svg:feGaussianBlur
-         id="feGaussianBlur3368-0-0"
-         stdDeviation="14.173227"
-         inkscape:collect="always" />
-    </svg:filter>
     <svg:radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3262-4-1"
@@ -32797,8 +32788,8 @@
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="990"
-     inkscape:window-x="-4"
+     inkscape:window-height="1003"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <svg:metadata
@@ -33551,19 +33542,6 @@
          id="tspan7833"
          style="font-size:22px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">colaboran</svg:tspan></svg:text>
     <svg:text
-       x="622.63824"
-       y="407.93198"
-       id="text7845"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
-       inkscape:export-xdpi="259.51529"
-       inkscape:export-ydpi="259.51529"><svg:tspan
-         x="622.63824"
-         y="407.93198"
-         id="tspan7851"
-         style="font-size:12px">(netiqueta)</svg:tspan></svg:text>
-    <svg:text
        x="633.51416"
        y="604.67566"
        id="text10303-5"
@@ -33732,9 +33710,9 @@
     </svg:g>
     <svg:a
        xlink:href="4zonas.svg"
-       xlink:title="Ver el ejercicio con las cuatro zonas"
+       id="a18624"
        transform="translate(36.095818,-7.371669)"
-       id="a18624">
+       xlink:title="Ver el ejercicio con las cuatro zonas">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -33751,9 +33729,9 @@
     </svg:a>
     <svg:a
        xlink:href="../../../fsmap-es.svg"
-       id="a18624-2"
+       xlink:title="Volver al hipermapa conceptual del software libre"
        transform="matrix(1.0553713,0,0,1.0553713,5.982542,-94.88839)"
-       xlink:title="Volver al hipermapa conceptual del software libre">
+       id="a18624-2">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -33770,9 +33748,9 @@
     </svg:a>
     <svg:a
        xlink:href="cazagazapos.svg"
-       xlink:title="ir al ejercicio cazagazapos"
+       transform="matrix(1.0553713,0,0,1.0553713,-14.077838,-77.150526)"
        id="a18624-2-6"
-       transform="matrix(1.0553713,0,0,1.0553713,-14.077838,-77.150526)">
+       xlink:title="ir al ejercicio cazagazapos">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
