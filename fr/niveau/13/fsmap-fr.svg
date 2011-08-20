@@ -44148,7 +44148,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -45502,7 +45502,7 @@
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan5494-9-0-5-8"
          y="502.24622"
-         x="758.96991">IBM,</svg:tspan></svg:text>
+         x="758.96991">IBM</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a21500"

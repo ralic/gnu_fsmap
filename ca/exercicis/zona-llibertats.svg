@@ -6661,16 +6661,16 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="0.7578583"
-   inkscape:cx="518.23572"
-   inkscape:cy="418.6921"
+   inkscape:zoom="6.0628664"
+   inkscape:cx="982.9524"
+   inkscape:cy="329.50977"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="940"
    inkscape:window-height="901"
    inkscape:window-x="2302"
-   inkscape:window-y="152"
+   inkscape:window-y="95"
    inkscape:window-maximized="0"
    showguides="true"
    inkscape:guide-bbox="true" />
@@ -8152,26 +8152,10 @@
          x="778.1507">MIT, </svg:tspan></svg:text>
   </svg:a>
   <svg:a
-     id="a21512"
-     xlink:href="http://www.nokia.com/"
-     xlink:title="Nokia web site [en]"
-     transform="translate(-5.62006,6.5667895)">
-    <svg:text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text7642-0-3-8-7"
-       y="503.05112"
-       x="836.03961"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan5494-9-0-5-5"
-         y="503.05112"
-         x="836.03961">Nokia</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
      id="a21504"
      xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
      xlink:title="IBM Open source projects"
-     transform="translate(30.37994,6.5667895)">
+     transform="translate(70.37994,6.5667895)">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        xml:space="preserve"
@@ -8181,11 +8165,11 @@
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan5494-9-0-5-8"
          y="502.24622"
-         x="758.96991">IBM,</svg:tspan></svg:text>
+         x="758.96991">IBM</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a21500"
-     transform="translate(30.37994,6.5667895)"
+     transform="translate(74.37994,6.5667895)"
      xlink:href="http://www.google.cat/"
      xlink:title="Pàgina de Google, el cercador més utilitzat [ca]">
     <svg:text
@@ -9175,9 +9159,9 @@
        style="font-size:24px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">respecten</svg:tspan></svg:text>
   <svg:a
      xlink:href="maps-ca.svg"
-     xlink:title="mapes i exercicis [enllaç relatiu]"
+     transform="translate(-7.62006,-7.433208)"
      id="a18624"
-     transform="translate(-7.62006,-7.433208)">
+     xlink:title="mapes i exercicis [enllaç relatiu]">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"

@@ -15,7 +15,7 @@
    id="svg5694"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="zone-des-valeurs.svg"
+   sodipodi:docname="zone-utilisateurs.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/fr/niveau/12/exercices/zone-des-valeurs-500.svg.png"
    inkscape:export-xdpi="43.062202"
    inkscape:export-ydpi="43.062202">Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
@@ -28666,19 +28666,6 @@
        offset="1"
        id="stop2988-2-7-9-1" />
   </svg:linearGradient>
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4026-3-9-7"
-     x="-0.13895153"
-     width="1.277903"
-     y="-0.058858164"
-     height="1.1177163">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4028-4-2-5" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-8-9"
@@ -28688,19 +28675,6 @@
      y1="153.1756"
      x2="174.34512"
      y2="-94.264137" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4022-1-5-8"
-     x="-0.10276632"
-     width="1.2055326"
-     y="-0.064448982"
-     height="1.128898">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4024-3-4-0" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-8-9"
@@ -28710,15 +28684,6 @@
      y1="153.1756"
      x2="78.715927"
      y2="-18.500385" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4018-4-1-7">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4020-2-0-3" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-8-9"
@@ -28728,19 +28693,6 @@
      y1="153.1756"
      x2="32.773327"
      y2="140.3024" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4014-6-2-6"
-     x="-0.058925331"
-     width="1.1178507"
-     y="-0.24591757"
-     height="1.4918351">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4016-4-4-5" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-8-9"
@@ -28750,19 +28702,6 @@
      y1="153.1756"
      x2="581.50769"
      y2="145.16879" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4010-8-9-5"
-     x="-0.058953892"
-     width="1.1179078"
-     y="-0.45821804"
-     height="1.9164361">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4012-4-2-8" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-8-9"
@@ -28811,15 +28750,6 @@
        offset="1"
        id="stop4340-4-6-1" />
   </svg:linearGradient>
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4380-0-9-5">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.4811503"
-       id="feGaussianBlur4382-5-6-0" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2959-0-99-6"
@@ -39893,7 +39823,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -40315,7 +40245,7 @@
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan5494-9-0-5-8"
          y="502.24622"
-         x="758.96991">IBM,</svg:tspan></svg:text>
+         x="758.96991">IBM</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a21500"
@@ -44334,9 +44264,9 @@
        style="font-size:31.46888733px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">avec</svg:tspan></svg:text>
   <svg:a
      xlink:href="../fsmap-fr.svg"
-     xlink:title="Hypercarte conceptuelle du logiciel libre"
+     transform="translate(16.995102,-40.05899)"
      id="a18624-2"
-     transform="translate(16.995102,-40.05899)">
+     xlink:title="Hypercarte conceptuelle du logiciel libre">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -44353,9 +44283,9 @@
   </svg:a>
   <svg:a
      xlink:href="avec-relations-et-icônes.svg"
-     xlink:title="Retour a le premier exercice"
+     transform="translate(20.501202,12.68437)"
      id="a18624"
-     transform="translate(20.501202,12.68437)">
+     xlink:title="Retour a le premier exercice">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"

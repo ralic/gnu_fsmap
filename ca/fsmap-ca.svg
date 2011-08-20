@@ -6668,7 +6668,7 @@
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1177"
-   inkscape:window-height="1053"
+   inkscape:window-height="996"
    inkscape:window-x="1920"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -8140,22 +8140,6 @@
          x="778.1507">MIT, </svg:tspan></svg:text>
   </svg:a>
   <svg:a
-     id="a21512"
-     xlink:href="http://www.nokia.com/"
-     xlink:title="Nokia web site [en]"
-     transform="translate(-5.62006,6.5667895)">
-    <svg:text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text7642-0-3-8-7"
-       y="503.05112"
-       x="836.03961"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan5494-9-0-5-5"
-         y="503.05112"
-         x="836.03961">Nokia</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
      id="a21504"
      xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
      xlink:title="IBM Open source projects"
@@ -8165,15 +8149,15 @@
        xml:space="preserve"
        id="text7642-0-3-8-3"
        y="502.24622"
-       x="758.96991"
+       x="796.96991"
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan5494-9-0-5-8"
          y="502.24622"
-         x="758.96991">IBM,</svg:tspan></svg:text>
+         x="796.96991">IBM</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a21500"
-     transform="translate(30.37994,6.5667895)"
+     transform="translate(72.37994,6.5667895)"
      xlink:href="http://www.google.cat/"
      xlink:title="Pàgina de Google, el cercador més utilitzat [ca]">
     <svg:text
@@ -8567,8 +8551,8 @@
        style="font-size:24px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">per a</svg:tspan></svg:text>
   <svg:a
      xlink:href="hipermapa/valors.svg"
-     xlink:title="mostrar els valors"
-     id="a15550">
+     id="a15550"
+     xlink:title="mostrar els valors">
     <svg:g
        id="g15545">
       <svg:rect
@@ -8612,16 +8596,16 @@
        y="425.20801"
        x="-142.31339">DISTRIBUCIONS</svg:tspan></svg:text>
   <svg:text
-     x="575.09393"
-     y="401.06894"
+     x="577.09393"
+     y="405.06894"
      id="text7829-5"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       x="575.09393"
-       y="401.06894"
+       x="577.09393"
+       y="405.06894"
        id="tspan7833-0"
        style="font-size:20px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">col·laboren</svg:tspan></svg:text>
   <svg:text
@@ -9188,9 +9172,9 @@
        style="font-size:24px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">respecten</svg:tspan></svg:text>
   <svg:a
      xlink:href="maps-guide-ca.svg"
-     xlink:title="mapes i exercicis [enllaç relatiu]"
+     transform="translate(-11.62006,-7.433208)"
      id="a18624"
-     transform="translate(-11.62006,-7.433208)">
+     xlink:title="mapes i exercicis [enllaç relatiu]">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"

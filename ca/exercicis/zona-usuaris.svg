@@ -15,7 +15,7 @@
    id="svg5694"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="zona-distribucions.svg"
+   sodipodi:docname="zona-usuaris.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/ca/fsmap-ca-600.png"
    inkscape:export-xdpi="51.655361"
    inkscape:export-ydpi="51.655361"> Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
@@ -5213,19 +5213,6 @@
        offset="1"
        id="stop2988-2-7-8" />
   </svg:linearGradient>
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4026-3-6"
-     x="-0.13895153"
-     width="1.277903"
-     y="-0.058858164"
-     height="1.1177163">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4028-4-7" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-7"
@@ -5235,19 +5222,6 @@
      y1="153.1756"
      x2="174.34512"
      y2="-94.264137" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4022-1-4"
-     x="-0.10276632"
-     width="1.2055326"
-     y="-0.064448982"
-     height="1.128898">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4024-3-8" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-7"
@@ -5257,15 +5231,6 @@
      y1="153.1756"
      x2="78.715927"
      y2="-18.500385" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4018-4-8">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4020-2-1" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-7"
@@ -5275,19 +5240,6 @@
      y1="153.1756"
      x2="32.773327"
      y2="140.3024" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4014-6-5"
-     x="-0.058925331"
-     width="1.1178507"
-     y="-0.24591757"
-     height="1.4918351">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4016-4-2" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-7"
@@ -5297,19 +5249,6 @@
      y1="153.1756"
      x2="581.50769"
      y2="145.16879" />
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4010-8-9"
-     x="-0.058953892"
-     width="1.1179078"
-     y="-0.45821804"
-     height="1.9164361">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.9996441"
-       id="feGaussianBlur4012-4-6" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2984-9-1-7"
@@ -5358,15 +5297,6 @@
        offset="1"
        id="stop4340-4-8" />
   </svg:linearGradient>
-  <svg:filter
-     color-interpolation-filters="sRGB"
-     inkscape:collect="always"
-     id="filter4380-0-9">
-    <svg:feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="5.4811503"
-       id="feGaussianBlur4382-5-3" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient2959-0-4-7"
@@ -6496,24 +6426,6 @@
        offset="1.00000000"
        style="stop-color:#2c2c2c;stop-opacity:1;" />
   </svg:linearGradient>
-  <svg:filter
-     id="filter3182-4-8-3"
-     inkscape:collect="always"
-     color-interpolation-filters="sRGB">
-    <svg:feGaussianBlur
-       id="feGaussianBlur3184-8-2-3"
-       stdDeviation="1.0503269"
-       inkscape:collect="always" />
-  </svg:filter>
-  <svg:filter
-     id="filter7699-8-9-3"
-     inkscape:collect="always"
-     color-interpolation-filters="sRGB">
-    <svg:feGaussianBlur
-       id="feGaussianBlur7701-7-6-8"
-       stdDeviation="0.26542242"
-       inkscape:collect="always" />
-  </svg:filter>
   <svg:linearGradient
      y2="28.935303"
      x2="8.2490902"
@@ -6535,28 +6447,6 @@
        offset="1"
        id="stop10711-9-3-8-2" />
   </svg:linearGradient>
-  <svg:filter
-     id="filter3338-1-7-7"
-     height="1.172207"
-     y="-0.086103506"
-     width="1.2483627"
-     x="-0.12418137"
-     inkscape:collect="always"
-     color-interpolation-filters="sRGB">
-    <svg:feGaussianBlur
-       id="feGaussianBlur3340-0-8-6"
-       stdDeviation="0.22176256"
-       inkscape:collect="always" />
-  </svg:filter>
-  <svg:filter
-     id="filter5746-7-2-3"
-     inkscape:collect="always"
-     color-interpolation-filters="sRGB">
-    <svg:feGaussianBlur
-       id="feGaussianBlur5748-5-8-5"
-       stdDeviation="0.61997365"
-       inkscape:collect="always" />
-  </svg:filter>
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#XMLID_1_-0-0-8-0"
@@ -6691,15 +6581,15 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="0.7578583"
-   inkscape:cx="997.44747"
-   inkscape:cy="418.6921"
+   inkscape:zoom="1.5157166"
+   inkscape:cx="763.47201"
+   inkscape:cy="355.27672"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="1180"
-   inkscape:window-x="1916"
+   inkscape:window-height="1003"
+   inkscape:window-x="-2"
    inkscape:window-y="-3"
    inkscape:window-maximized="1"
    showguides="true"
@@ -6712,7 +6602,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
       <cc:license
          rdf:resource="" />
     </cc:Work>
@@ -6731,7 +6621,7 @@
      x="-186.56616"
      y="101.4172"
      id="rect2476-8-2"
-     style="font-size:8px;fill:#ffffff;fill-opacity:1;stroke:#c4aa32;stroke-width:1.95427668;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     style="font-size:8px;fill:none;fill-opacity:1;stroke:#c4aa32;stroke-width:1.95427667999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308" />
@@ -7540,26 +7430,10 @@
          x="778.1507">MIT, </svg:tspan></svg:text>
   </svg:a>
   <svg:a
-     id="a21512"
-     xlink:href="http://www.nokia.com/"
-     xlink:title="Nokia web site [en]"
-     transform="matrix(1.3626348,0,0,1.3626348,-435.71319,-250.49694)">
-    <svg:text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text7642-0-3-8-7"
-       y="503.05112"
-       x="836.03961"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan5494-9-0-5-5"
-         y="503.05112"
-         x="836.03961">Nokia</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
      id="a21504"
      xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
      xlink:title="IBM Open source projects"
-     transform="matrix(1.3626348,0,0,1.3626348,-386.65834,-250.49694)">
+     transform="matrix(1.3626348,0,0,1.3626348,-334.65834,-250.49694)">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        xml:space="preserve"
@@ -7569,11 +7443,11 @@
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan5494-9-0-5-8"
          y="502.24622"
-         x="758.96991">IBM,</svg:tspan></svg:text>
+         x="758.96991">IBM</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a21500"
-     transform="matrix(1.3626348,0,0,1.3626348,-386.65834,-250.49694)"
+     transform="matrix(1.3626348,0,0,1.3626348,-334.65834,-250.49694)"
      xlink:href="http://www.google.cat/"
      xlink:title="Pàgina de Google, el cercador més utilitzat [ca]">
     <svg:text

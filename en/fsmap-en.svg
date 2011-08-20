@@ -43145,13 +43145,13 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.143547"
      inkscape:cx="721.16085"
-     inkscape:cy="160.39239"
+     inkscape:cy="235.03503"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1060"
-     inkscape:window-x="1918"
+     inkscape:window-height="1003"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <svg:metadata
@@ -44646,22 +44646,6 @@
        xlink:title="SUN website"
        transform="translate(0, -12)" />
     <svg:a
-       id="a21512"
-       xlink:href="http://www.nokia.com/"
-       xlink:title="Nokia web site"
-       transform="translate(-4,4)">
-      <svg:text
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
-         xml:space="preserve"
-         id="text7642-0-3-8-7"
-         y="503.05099"
-         x="836.03998"
-         sodipodi:linespacing="125%"><svg:tspan
-           id="tspan5494-9-0-5-5"
-           y="503.05099"
-           x="836.03998">Nokia</svg:tspan></svg:text>
-    </svg:a>
-    <svg:a
        id="a21504"
        xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
        xlink:title="IBM Open source projects"
@@ -44671,15 +44655,15 @@
          xml:space="preserve"
          id="text7642-0-3-8-3"
          y="502.246"
-         x="758.96997"
+         x="798.96997"
          sodipodi:linespacing="125%"><svg:tspan
            id="tspan5494-9-0-5-8"
            y="502.246"
-           x="758.96997">IBM,</svg:tspan></svg:text>
+           x="798.96997">IBM</svg:tspan></svg:text>
     </svg:a>
     <svg:a
        id="a21500"
-       transform="translate(30,4)"
+       transform="translate(74,4)"
        xlink:href="http://www.google.com"
        xlink:title="Google web page">
       <svg:text
@@ -45063,9 +45047,9 @@
     </svg:a>
     <svg:a
        xlink:href="maps-guide-en.svg"
-       id="a18624"
+       xlink:title="see the maps guide"
        transform="translate(-15.6764,-7.529297)"
-       xlink:title="see the maps guide">
+       id="a18624">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"

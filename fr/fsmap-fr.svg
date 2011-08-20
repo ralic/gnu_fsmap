@@ -41430,13 +41430,13 @@
    inkscape:pageshadow="2"
    inkscape:zoom="3.4835008"
    inkscape:cx="811.89225"
-   inkscape:cy="51.677217"
+   inkscape:cy="419.12367"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="990"
-   inkscape:window-x="-4"
+   inkscape:window-height="1003"
+   inkscape:window-x="-2"
    inkscape:window-y="-3"
    inkscape:window-maximized="1" />
 <svg:metadata
@@ -43549,22 +43549,22 @@
   </svg:a>
   <svg:text
      sodipodi:linespacing="125%"
-     x="831.63922"
+     x="829.63922"
      y="467.48291"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      id="text21484"><svg:tspan
-       x="831.63922"
+       x="829.63922"
        y="512.48285"
        id="tspan21486">Espagne, France, La Chine,</svg:tspan></svg:text>
   <svg:text
      sodipodi:linespacing="125%"
-     x="769.63922"
+     x="767.63922"
      y="481.48291"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      id="text38168"><svg:tspan
-       x="769.63922"
+       x="767.63922"
        y="526.48285"
        id="tspan38170">Brésil, Allemagne </svg:tspan></svg:text>
   <svg:a
@@ -43584,26 +43584,10 @@
          x="778.1507">MIT, </svg:tspan></svg:text>
   </svg:a>
   <svg:a
-     id="a21512"
-     xlink:href="http://www.nokia.com/"
-     xlink:title="Nokia web site [en]"
-     transform="translate(-6,-6)">
-    <svg:text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text7642-0-3-8-7"
-       y="503.05112"
-       x="836.03961"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan5494-9-0-5-5"
-         y="503.05112"
-         x="836.03961">Nokia</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
      id="a21504"
      xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
      xlink:title="IBM Open source projects"
-     transform="translate(34,-6)">
+     transform="translate(70,-6)">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        xml:space="preserve"
@@ -43613,13 +43597,13 @@
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan5494-9-0-5-8"
          y="502.24622"
-         x="758.96991">IBM,</svg:tspan></svg:text>
+         x="758.96991">IBM</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a21500"
      xlink:href="http://code.google.com/intl/fr/opensource/"
      xlink:title="Google and Open Source"
-     transform="translate(34,-6)">
+     transform="translate(74,-6)">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        xml:space="preserve"

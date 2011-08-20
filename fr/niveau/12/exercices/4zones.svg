@@ -39875,9 +39875,9 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="0.87087519"
-   inkscape:cx="809.88316"
-   inkscape:cy="367.36152"
+   inkscape:zoom="6.9670015"
+   inkscape:cx="977.98519"
+   inkscape:cy="358.40849"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
@@ -39905,10 +39905,10 @@
    transform="translate(200.4423,-84.695028)">
   <svg:a
      xlink:href="zone-des-valeurs.svg"
-     id="a34744-7-2"
-     style="fill:url(#radialGradient8490-6);fill-opacity:1"
+     xlink:title="Extension de la zone des valeurs du logiciel libre"
      transform="matrix(0.69192692,0,0,0.45501747,536.63958,-56.498279)"
-     xlink:title="Extension de la zone des valeurs du logiciel libre">
+     style="fill:url(#radialGradient8490-6);fill-opacity:1"
+     id="a34744-7-2">
     <svg:rect
        style="opacity:0.92000002;fill:url(#radialGradient11042);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect33423-5-4"
@@ -39921,10 +39921,10 @@
   </svg:a>
   <svg:a
      xlink:href="zone-de-les-libertés.svg"
-     id="a34744-7-2-8"
-     style="fill:url(#radialGradient8490-6-7);fill-opacity:1"
+     xlink:title="élargir la zone de les libertés"
      transform="matrix(1.0370169,0,0,0.48916691,75.770609,-83.231007)"
-     xlink:title="élargir la zone de les libertés">
+     style="fill:url(#radialGradient8490-6-7);fill-opacity:1"
+     id="a34744-7-2-8">
     <svg:rect
        style="opacity:0.92000002;fill:url(#radialGradient36195-4-5-7);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect33423-5-4-8"
@@ -39937,10 +39937,10 @@
   </svg:a>
   <svg:a
      xlink:href="zone-de-les-distributions.svg"
-     id="a34744"
-     style="fill:url(#radialGradient8873);fill-opacity:1"
+     xlink:title="Extension de la zone des logiciels et des distributions"
      transform="matrix(0.759624,0,0,0.765466,1.7944987,109.77328)"
-     xlink:title="Extension de la zone des logiciels et des distributions">
+     style="fill:url(#radialGradient8873);fill-opacity:1"
+     id="a34744">
     <svg:rect
        style="opacity:0.92000002;fill:url(#radialGradient36195);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect33423"
@@ -39953,10 +39953,10 @@
   </svg:a>
   <svg:a
      xlink:href="zone-utilisateurs.svg"
-     transform="matrix(0.80318239,0,0,0.77350116,541.45692,137.56962)"
-     style="fill:url(#radialGradient8490);fill-opacity:1"
+     xlink:title="Extension de la zone d'utilisateurs et de développeurs"
      id="a34744-7"
-     xlink:title="Extension de la zone d'utilisateurs et de développeurs">
+     style="fill:url(#radialGradient8490);fill-opacity:1"
+     transform="matrix(0.80318239,0,0,0.77350116,541.45692,137.56962)">
     <svg:rect
        style="opacity:0.92000002;fill:url(#radialGradient36195-4);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect33423-5"
@@ -41224,11 +41224,11 @@
        xml:space="preserve"
        id="text7642-0-3-8-3"
        y="502.24622"
-       x="758.96991"
+       x="756.96991"
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan5494-9-0-5-8"
          y="502.24622"
-         x="758.96991">IBM,</svg:tspan></svg:text>
+         x="756.96991">IBM</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a21500"
@@ -46058,9 +46058,9 @@
        style="font-size:22px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">avec</svg:tspan></svg:text>
   <svg:a
      xlink:href="../fsmap-fr.svg"
-     transform="translate(16.995102,-40.05899)"
+     xlink:title="Hypercarte conceptuelle du logiciel libre"
      id="a18624-2"
-     xlink:title="Hypercarte conceptuelle du logiciel libre">
+     transform="translate(16.995102,-40.05899)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -46077,9 +46077,9 @@
   </svg:a>
   <svg:a
      xlink:href="avec-relations-et-icônes.svg"
-     transform="translate(20.501202,12.68437)"
+     xlink:title="Retour a le premier exercice"
      id="a18624"
-     xlink:title="Retour a le premier exercice">
+     transform="translate(20.501202,12.68437)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"

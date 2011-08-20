@@ -39690,16 +39690,16 @@
        inkscape:export-ydpi="259.6308"
        sodipodi:nodetypes="cc" />
     <svg:text
-       x="558.67523"
-       y="396.33911"
+       x="544.19714"
+       y="406.40421"
        id="text7829-6"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         x="558.67523"
-         y="396.33911"
+         x="544.19714"
+         y="406.40421"
          id="tspan7833-2"
          style="font-size:22px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">collaborent</svg:tspan></svg:text>
     <svg:path
@@ -39750,7 +39750,7 @@
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308" />
     <svg:text
-       x="552.13495"
+       x="548.13495"
        y="445.69086"
        id="text7829-9-5"
        xml:space="preserve"
@@ -39758,7 +39758,7 @@
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         x="552.13495"
+         x="548.13495"
          y="445.69086"
          id="tspan7833-4-5"
          style="font-size:20px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">choisissent</svg:tspan></svg:text>
@@ -39974,10 +39974,10 @@
        height="47.38718"
        rx="15.895491"
        ry="15.461204"
-       x="668.67902"
+       x="662.67902"
        y="402.32703"
        id="rect3404-0"
-       style="fill:#fbfbbd;fill-opacity:1;stroke:#c8a200;stroke-width:2.30815028999999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#fbfbbd;fill-opacity:1;stroke:#c8a200;stroke-width:2.30815029;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308" />
@@ -39995,12 +39995,12 @@
          y="140.30142"
          x="715.1485">VALEURS</svg:tspan></svg:text>
     <svg:text
-       x="674.53003"
+       x="668.53003"
        y="432.57288"
        id="text3279-2"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-         x="674.53003"
+         x="668.53003"
          y="432.57288"
          id="tspan3281-1"
          style="font-size:18px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold">UTILISATEURS</svg:tspan></svg:text>
@@ -40943,26 +40943,10 @@
            x="778.1507">MIT, </svg:tspan></svg:text>
     </svg:a>
     <svg:a
-       id="a21512"
-       xlink:href="http://www.nokia.com/"
-       xlink:title="Nokia web site [en]"
-       transform="translate(-6,-6)">
-      <svg:text
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-         xml:space="preserve"
-         id="text7642-0-3-8-7"
-         y="503.05112"
-         x="836.03961"
-         sodipodi:linespacing="125%"><svg:tspan
-           id="tspan5494-9-0-5-5"
-           y="503.05112"
-           x="836.03961">Nokia</svg:tspan></svg:text>
-    </svg:a>
-    <svg:a
        id="a21504"
        xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
        xlink:title="IBM Open source projects"
-       transform="translate(34,-6)">
+       transform="translate(68,-6)">
       <svg:text
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
          xml:space="preserve"
@@ -40972,13 +40956,13 @@
          sodipodi:linespacing="125%"><svg:tspan
            id="tspan5494-9-0-5-8"
            y="502.24622"
-           x="758.96991">IBM,</svg:tspan></svg:text>
+           x="758.96991">IBM</svg:tspan></svg:text>
     </svg:a>
     <svg:a
        id="a21500"
        xlink:href="http://code.google.com/intl/fr/opensource/"
        xlink:title="Google and Open Source"
-       transform="translate(34,-6)">
+       transform="translate(68,-6)">
       <svg:text
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
          xml:space="preserve"

@@ -43144,8 +43144,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0717735"
-     inkscape:cx="668.37168"
-     inkscape:cy="348.70454"
+     inkscape:cx="723.54338"
+     inkscape:cy="386.02586"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
@@ -44639,23 +44639,12 @@
        id="a21512"
        xlink:href="http://www.nokia.com/"
        xlink:title="Nokia web site"
-       transform="translate(-4,16)">
-      <svg:text
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
-         xml:space="preserve"
-         id="text7642-0-3-8-7"
-         y="503.05099"
-         x="836.03998"
-         sodipodi:linespacing="125%"><svg:tspan
-           id="tspan5494-9-0-5-5"
-           y="503.05099"
-           x="836.03998">Nokia</svg:tspan></svg:text>
-    </svg:a>
+       transform="translate(-4,16)" />
     <svg:a
        id="a21504"
        xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
-       xlink:title="IBM Open source projects"
-       transform="translate(32,16)">
+       transform="translate(72,16)"
+       xlink:title="IBM 首頁">
       <svg:text
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
          xml:space="preserve"
@@ -44665,11 +44654,11 @@
          sodipodi:linespacing="125%"><svg:tspan
            id="tspan5494-9-0-5-8"
            y="502.246"
-           x="758.96997">IBM,</svg:tspan></svg:text>
+           x="758.96997">IBM</svg:tspan></svg:text>
     </svg:a>
     <svg:a
        id="a21500"
-       transform="translate(30,16)"
+       transform="translate(76,16)"
        xlink:href="http://www.google.com"
        xlink:title="Google web page">
       <svg:text
@@ -45053,9 +45042,9 @@
     </svg:a>
     <svg:a
        xlink:href="maps-guide-en.svg"
-       xlink:title="see the maps guide"
+       id="a18624"
        transform="translate(8.3236,-7.529297)"
-       id="a18624">
+       xlink:title="see the maps guide">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45186,15 +45175,15 @@
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        x="-125.435"
-       y="190.005"
+       y="185.73228"
        id="text15103-55"><svg:tspan
          sodipodi:role="line"
          x="-125.435"
-         y="190.005"
+         y="185.73228"
          id="tspan25801">不論任何目的</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="-125.435"
-         y="204.20625"
+         y="199.93353"
          id="tspan14558">(freedom <svg:tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace"
    id="tspan14562">0</svg:tspan>)</svg:tspan></svg:text>
@@ -45202,29 +45191,29 @@
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        x="0.50489998"
-       y="189.36501"
+       y="185.73814"
        id="text15103-50"><svg:tspan
          sodipodi:role="line"
          x="0.50489998"
-         y="189.36501"
+         y="185.73814"
          id="tspan25799">達到所希望的功能</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="0.50489998"
-         y="203.56625"
+         y="199.93939"
          id="tspan13015">(freedom 1)</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        x="159.576"
-       y="185.75301"
+       y="185.72057"
        id="text15103-50-2"><svg:tspan
          sodipodi:role="line"
          x="159.576"
-         y="185.75301"
+         y="185.72057"
          id="tspan13013-6">任何副本</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="159.576"
-         y="199.95425"
+         y="199.92181"
          id="tspan13015-1">(freedom 2)</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
@@ -45364,7 +45353,7 @@
          x="178.84808"
          y="629.30157"
          id="tspan5598"
-         style="font-size:21.0108242px;font-weight:normal">expresses</svg:tspan></svg:text>
+         style="font-size:21.0108242px;font-weight:normal">呈現</svg:tspan></svg:text>
     <svg:text
        x="705.461"
        y="370.60999"
@@ -45377,7 +45366,7 @@
          x="705.461"
          y="370.60999"
          id="tspan3621"
-         style="font-size:24px;font-weight:normal">for</svg:tspan></svg:text>
+         style="font-size:24px;font-weight:normal">為了</svg:tspan></svg:text>
     <svg:text
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        xml:space="preserve"
@@ -45390,7 +45379,7 @@
          style="font-size:18px;font-weight:bold"
          id="tspan3605"
          y="676.71399"
-         x="583.42102">SUPPORT</svg:tspan></svg:text>
+         x="583.42102">支援</svg:tspan></svg:text>
     <svg:text
        x="578.104"
        y="412.40399"
@@ -45403,7 +45392,7 @@
          x="578.104"
          y="412.40399"
          id="tspan7833"
-         style="font-size:22px;font-weight:normal">co-operate</svg:tspan></svg:text>
+         style="font-size:22px;font-weight:normal">合作</svg:tspan></svg:text>
     <svg:text
        x="594.43402"
        y="451.755"
@@ -45416,20 +45405,20 @@
          x="594.43402"
          y="451.755"
          id="tspan7833-4"
-         style="font-size:22px;font-weight:normal">choose</svg:tspan></svg:text>
+         style="font-size:22px;font-weight:normal">選擇</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        x="343.64886"
-       y="181.483"
+       y="185.744"
        id="text15103-50-2-5"><svg:tspan
          sodipodi:role="line"
          x="343.64886"
-         y="181.483"
+         y="185.744"
          id="tspan13157">整體社群利益</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="343.64886"
-         y="195.68425"
+         y="199.94525"
          id="tspan13015-1-7">(freedom 3)</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
@@ -45440,15 +45429,7 @@
          sodipodi:role="line"
          x="557.10699"
          y="133.336"
-         id="tspan8411">AN ETHICAL WAY</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="557.10699"
-         y="155.836"
-         id="tspan22744">TO UNDERSTAND</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="557.10699"
-         y="178.336"
-         id="tspan22746">SOFTWARE</svg:tspan></svg:text>
+         id="tspan22746">能以合乎倫理道德的方式來了解</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45458,15 +45439,7 @@
          sodipodi:role="line"
          x="540.90997"
          y="202.35699"
-         id="tspan13015-1-7-8">In its development,</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="542.82013"
-         y="217.35699"
-         id="tspan13310">commercialization, </svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="540.90997"
-         y="232.35699"
-         id="tspan13308">distribution and use</svg:tspan></svg:text>
+         id="tspan13308">在軟體本身的開發、散布 、商業化與使用上</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45476,15 +45449,7 @@
          sodipodi:role="line"
          x="212.021"
          y="637.10602"
-         id="tspan13450">fonts, translations, localizations,</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="212.021"
-         y="652.10602"
-         id="tspan13452">templates, sounds, images,</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="212.021"
-         y="667.10602"
-         id="tspan13454">FAQs, guides, mans, infos</svg:tspan></svg:text>
+         id="tspan13454">字型,翻譯,本土化,範本,聲音,影像, FAQs, 手冊</svg:tspan></svg:text>
     <svg:text
        x="402.61301"
        y="442.54401"
@@ -45494,7 +45459,7 @@
          x="402.61301"
          y="442.54401"
          id="tspan3275"
-         style="font-size:18px;font-weight:bold">DEVELOPERS</svg:tspan></svg:text>
+         style="font-size:18px;font-weight:bold">開發者</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45502,13 +45467,9 @@
        y="403.293"
        id="text22848"><svg:tspan
          sodipodi:role="line"
-         id="tspan22850"
          x="290.05701"
-         y="403.293">produce and</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="290.05701"
-         y="433.293"
-         id="tspan22852">debug</svg:tspan></svg:text>
+         y="403.293"
+         id="tspan22852">產出與除錯</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45518,11 +45479,7 @@
          sodipodi:role="line"
          x="343.76001"
          y="135.57199"
-         id="tspan22746-3">RELEASE</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="343.76001"
-         y="158.07199"
-         id="tspan22928">IMPROVEMENTS</svg:tspan></svg:text>
+         id="tspan22928">改良</svg:tspan></svg:text>
     <svg:text
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        xml:space="preserve"
@@ -45535,7 +45492,7 @@
          style="font-size:18px;font-weight:bold"
          id="tspan2401"
          y="148.009"
-         x="705.64697">VALUES</svg:tspan></svg:text>
+         x="705.64697">價值</svg:tspan></svg:text>
     <svg:text
        x="720.17499"
        y="440.573"
@@ -45545,7 +45502,7 @@
          x="720.17499"
          y="440.573"
          id="tspan3281"
-         style="font-size:18px;font-weight:bold">USERS</svg:tspan></svg:text>
+         style="font-size:18px;font-weight:bold">使用者</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45555,11 +45512,7 @@
          sodipodi:role="line"
          x="661.33398"
          y="602.44501"
-         id="tspan22852-7">give and</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="661.33398"
-         y="632.44501"
-         id="tspan22889">receive</svg:tspan></svg:text>
+         id="tspan22889">提供並取得</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45569,31 +45522,7 @@
          sodipodi:role="line"
          x="749.078"
          y="178.776"
-         id="tspan13308-4">Ethics, creativity,</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="749.078"
-         y="193.776"
-         id="tspan25838">efficiency, science,</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="749.078"
-         y="208.776"
-         id="tspan25852">non-discrimination,</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="749.078"
-         y="223.776"
-         id="tspan25842">co-operation, privacy,</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="749.078"
-         y="238.776"
-         id="tspan12888">transparency, security,</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="749.078"
-         y="253.776"
-         id="tspan12892">solidarity and</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="749.078"
-         y="268.776"
-         id="tspan25846">most importantly freedom</svg:tspan></svg:text>
+         id="tspan25846">道德, 創造, 效率, 科學, 無歧視性, 競爭, 隱私, 合作, 通透性, 安全, 一致性, 自由性</svg:tspan></svg:text>
     <svg:text
        x="625.63672"
        y="473.98074"
@@ -45603,56 +45532,56 @@
          x="625.63672"
          y="473.98074"
          id="tspan5508"
-         style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400">NGOs:</svg:tspan></svg:text>
+         style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400">非政府組織 :</svg:tspan></svg:text>
     <svg:text
-       x="590.01001"
+       x="638.01001"
        y="501.95999"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        id="text12920"><svg:tspan
-         x="590.01001"
+         x="638.01001"
          y="501.95999"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
-         id="tspan12922">INSTITUTIONS:</svg:tspan></svg:text>
+         id="tspan12922">機關:</svg:tspan></svg:text>
     <svg:text
-       x="590.01001"
+       x="638.01001"
        y="517.95996"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        id="text12916"><svg:tspan
-         x="590.01001"
+         x="638.01001"
          y="517.95996"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
-         id="tspan12918">COMPANIES: </svg:tspan></svg:text>
+         id="tspan12918">公司: </svg:tspan></svg:text>
     <svg:text
-       x="590.01001"
+       x="638.01001"
        y="533.95996"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        id="text12912"><svg:tspan
-         x="590.01001"
+         x="638.01001"
          y="533.95996"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
-         id="tspan12914">COUNTRIES:</svg:tspan></svg:text>
+         id="tspan12914">國家:</svg:tspan></svg:text>
     <svg:text
-       x="590.01001"
+       x="638.01001"
        y="549.95996"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        id="text12907"><svg:tspan
-         x="590.01001"
+         x="638.01001"
          y="549.95996"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
-         id="tspan12909">Universities:</svg:tspan><svg:tspan
-         x="590.01001"
+         id="tspan12909">大學:</svg:tspan><svg:tspan
+         x="638.01001"
          y="549.95996"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
          id="tspan12905" /></svg:text>
     <svg:a
        id="a9876"
-       xlink:href="http://es.gnu.org/~reneme/fsmap/en/fsmap-en.svg"
-       xlink:title="Latest version of this concept hypermap"
-       transform="translate(-69.40373,-8.702726)">
+       xlink:href="http://es.gnu.org/~reneme/fsmap/zh_tw/fsmap-zh_tw.svg"
+       transform="translate(-69.40373,-8.702726)"
+       xlink:title="最新版本之概念描述圖">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -55416,7 +55345,7 @@
     </svg:a>
     <svg:a
        id="a18624-2"
-       xlink:href="http://es.gnu.org/~reneme/fsmap/en/translations.html"
+       xlink:href="http://es.gnu.org/~reneme/fsmap/zh_tw/translations.html"
        transform="translate(58.283287,-19.831564)"
        xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
       <svg:text

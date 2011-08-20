@@ -34336,9 +34336,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.08"
-     inkscape:cx="479.35726"
-     inkscape:cy="393.0381"
+     inkscape:zoom="1.5273506"
+     inkscape:cx="624.41597"
+     inkscape:cy="306.99953"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
@@ -35573,26 +35573,10 @@
            x="778.1507">MIT, </svg:tspan></svg:text>
     </svg:a>
     <svg:a
-       id="a21512"
-       xlink:href="http://www.nokia.com/"
-       xlink:title="Web de Nokia[en]"
-       transform="translate(-7.885858,-0.1036179)">
-      <svg:text
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-         xml:space="preserve"
-         id="text7642-0-3-8-7"
-         y="503.05112"
-         x="836.03961"
-         sodipodi:linespacing="125%"><svg:tspan
-           id="tspan5494-9-0-5-5"
-           y="503.05112"
-           x="836.03961">Nokia</svg:tspan></svg:text>
-    </svg:a>
-    <svg:a
        id="a21504"
        xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
        xlink:title="Proyectos de fuentes abiertas de IBM[en]"
-       transform="translate(30.539104,2.3963878)">
+       transform="translate(72.539104,2.3963878)">
       <svg:text
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
          xml:space="preserve"
@@ -35602,11 +35586,11 @@
          sodipodi:linespacing="125%"><svg:tspan
            id="tspan5494-9-0-5-8"
            y="502.24622"
-           x="758.96991">IBM,</svg:tspan></svg:text>
+           x="758.96991">IBM</svg:tspan></svg:text>
     </svg:a>
     <svg:a
        id="a21500"
-       transform="translate(30.539104,2.3963878)"
+       transform="translate(74.539104,2.3963878)"
        xlink:href="http://www.google.es/"
        xlink:title="Página de Google, el buscador más usado">
       <svg:text
@@ -36306,9 +36290,9 @@
     </svg:a>
     <svg:a
        xlink:href="ejercicios/con-relaciones-e-iconos.svg"
-       transform="translate(6.443724,7.751577)"
+       xlink:title="Ejercicio para iniciar la unidad didáctica (puede ser útil darlo impreso para poder tomar notas sobre él)"
        id="a18624-4"
-       xlink:title="Ejercicio para iniciar la unidad didáctica (puede ser útil darlo impreso para poder tomar notas sobre él)">
+       transform="translate(6.443724,7.751577)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
