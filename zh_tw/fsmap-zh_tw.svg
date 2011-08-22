@@ -45037,9 +45037,9 @@
     </svg:a>
     <svg:a
        xlink:href="maps-guide-en.svg"
-       xlink:title="see the maps guide"
+       id="a18624"
        transform="translate(8.3236,-7.529297)"
-       id="a18624">
+       xlink:title="see the maps guide">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -55948,11 +55948,7 @@
          sodipodi:role="line"
          x="205.38448"
          y="483.79669"
-         id="tspan13003">Readable</svg:tspan><svg:tspan
-         sodipodi:role="line"
-         x="205.38448"
-         y="499.59543"
-         id="tspan29531">指令</svg:tspan></svg:text>
+         id="tspan29531">可閱讀之指令</svg:tspan></svg:text>
     <svg:a
        id="a21488-6"
        transform="translate(9.0343314,15.045456)"
