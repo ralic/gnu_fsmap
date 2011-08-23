@@ -43143,15 +43143,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0717735"
-     inkscape:cx="704.11935"
-     inkscape:cy="341.9054"
+     inkscape:zoom="2.143547"
+     inkscape:cx="687.90637"
+     inkscape:cy="361.20431"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
-     inkscape:window-x="-2"
+     inkscape:window-height="1060"
+     inkscape:window-x="1918"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <svg:metadata
@@ -43425,7 +43425,7 @@
     <svg:a
        id="a13794"
        xlink:href="http://www.openbsd.org/"
-       xlink:title="OpenBSD web page"
+       xlink:title="OpenBSD 首頁"
        transform="translate(-60.458949,3.066706)">
       <svg:text
          id="text15103-5-2"
@@ -44196,7 +44196,7 @@
        id="a38053"
        transform="translate(-36.370967,7.2733954)"
        xlink:href="http://www.debian.org/"
-       xlink:title="Debian proyect site">
+       xlink:title="Debian 首頁">
       <svg:text
          id="text15103-5-2-8"
          y="473.00601"
@@ -45070,7 +45070,7 @@
          style="font-size:24.00000572px;font-weight:normal">編譯</svg:tspan></svg:text>
     <svg:text
        x="227.142"
-       y="525.79901"
+       y="529.79901"
        id="text5375"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45078,7 +45078,7 @@
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
          x="227.142"
-         y="525.79901"
+         y="529.79901"
          id="tspan5377"
          style="font-size:24px;font-weight:normal">伴隨</svg:tspan></svg:text>
     <svg:text
@@ -55965,5 +55965,15 @@
            y="472.37201"
            x="745.88098">Wikileaks,</svg:tspan></svg:text>
     </svg:a>
+    <svg:text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
+       x="236.12411"
+       y="500.62509"
+       id="text15103-50-2-8-5-6"><svg:tspan
+         sodipodi:role="line"
+         x="236.12411"
+         y="500.62509"
+         id="tspan29531-3">創用 CC (相同方式分享)</svg:tspan></svg:text>
   </svg:g>
 </svg:svg>
