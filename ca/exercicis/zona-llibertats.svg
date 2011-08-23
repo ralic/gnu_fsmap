@@ -6661,16 +6661,16 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="6.0628664"
-   inkscape:cx="982.9524"
-   inkscape:cy="329.50977"
+   inkscape:zoom="1.5157166"
+   inkscape:cx="950.12917"
+   inkscape:cy="538.41629"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="940"
    inkscape:window-height="901"
    inkscape:window-x="2302"
-   inkscape:window-y="95"
+   inkscape:window-y="89"
    inkscape:window-maximized="0"
    showguides="true"
    inkscape:guide-bbox="true" />
@@ -8785,46 +8785,6 @@
        id="tspan2474-6"
        style="font-size:18px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold">   LLIURE</svg:tspan></svg:text>
   <svg:text
-     x="746.63153"
-     y="180.87059"
-     id="text2615"
-     xml:space="preserve"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-       x="748.54169"
-       y="180.87059"
-       id="tspan2627"
-       style="font-size:12px">     Ètica, creativitat, </svg:tspan><svg:tspan
-       x="746.63153"
-       y="195.87059"
-       id="tspan3559"
-       style="font-size:12px">    eficiència, ciència,</svg:tspan><svg:tspan
-       x="746.63153"
-       y="210.87059"
-       id="tspan3561"
-       style="font-size:12px">    solidaridad, col·laboració,</svg:tspan><svg:tspan
-       x="746.63153"
-       y="225.87059"
-       id="tspan3525"
-       style="font-size:12px">     transparència, seguretat, </svg:tspan><svg:tspan
-       x="746.63153"
-       y="240.87061"
-       id="tspan2441"
-       style="font-size:12px">   competitivitat, privadesa,</svg:tspan><svg:tspan
-       x="746.63153"
-       y="255.87057"
-       id="tspan3545"
-       style="font-size:12px">no discriminació i sobretot</svg:tspan></svg:text>
-  <svg:text
-     x="756.63153"
-     y="198.87059"
-     xml:space="preserve"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     id="text15430"><svg:tspan
-       x="756.63153"
-       y="273.87054"
-       style="font-size:12px"
-       id="tspan15432"> llibertat</svg:tspan></svg:text>
-  <svg:text
      x="197.49258"
      y="430.73721"
      id="text3344"
@@ -9159,9 +9119,9 @@
        style="font-size:24px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">respecten</svg:tspan></svg:text>
   <svg:a
      xlink:href="maps-ca.svg"
-     transform="translate(-7.62006,-7.433208)"
+     xlink:title="mapes i exercicis [enllaç relatiu]"
      id="a18624"
-     xlink:title="mapes i exercicis [enllaç relatiu]">
+     transform="translate(-7.62006,-7.433208)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -17758,5 +17718,35 @@
          id="tspan4310-9-7-06-6-5"
          style="font-size:12px">Sugar</svg:tspan></svg:text>
   </svg:a>
+  <svg:text
+     x="746.63153"
+     y="180.87059"
+     id="text2615-6"
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
+       x="748.54169"
+       y="180.87059"
+       id="tspan2627-3"
+       style="font-size:12px">     Ètica, creativitat, </svg:tspan><svg:tspan
+       x="746.63153"
+       y="195.87059"
+       id="tspan3559-2"
+       style="font-size:12px">    eficiència, ciència,</svg:tspan><svg:tspan
+       x="746.63153"
+       y="210.87059"
+       id="tspan3561-0"
+       style="font-size:12px">    solidaridad, col·laboració,</svg:tspan><svg:tspan
+       x="746.63153"
+       y="225.87059"
+       id="tspan3525-6"
+       style="font-size:12px">     transparència, seguretat, </svg:tspan><svg:tspan
+       x="746.63153"
+       y="240.87061"
+       id="tspan2441-1"
+       style="font-size:12px">privadesa, no discriminació</svg:tspan><svg:tspan
+       x="746.63153"
+       y="255.87057"
+       id="tspan3545-5"
+       style="font-size:12px"> i sobretot llibertat</svg:tspan></svg:text>
 </svg:g>
 </svg:svg>

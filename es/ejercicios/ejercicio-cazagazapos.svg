@@ -34338,12 +34338,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.5273506"
      inkscape:cx="624.41597"
-     inkscape:cy="306.99953"
+     inkscape:cy="516.51266"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="997"
      inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
@@ -34372,7 +34372,7 @@
        x="-186.56616"
        y="101.4172"
        id="rect2476-8-2"
-       style="font-size:8px;fill:#ffffff;fill-opacity:1;stroke:#c4aa32;stroke-width:1.95427668;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="font-size:8px;fill:none;fill-opacity:1;stroke:#c4aa32;stroke-width:1.95427667999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308" />
@@ -34888,43 +34888,6 @@
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308" />
-    <svg:text
-       x="750.80298"
-       y="172.3627"
-       id="text2615-3"
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
-       inkscape:export-xdpi="259.51529"
-       inkscape:export-ydpi="259.51529"><svg:tspan
-         x="752.71313"
-         y="172.3627"
-         id="tspan2627-3"
-         style="font-size:12px">Ética, creatividad, </svg:tspan><svg:tspan
-         x="750.80298"
-         y="187.3627"
-         id="tspan3559-3"
-         style="font-size:12px">eficiencia, colaboración,</svg:tspan><svg:tspan
-         x="750.80298"
-         y="202.3627"
-         id="tspan3561-7"
-         style="font-size:12px">no discrimación, ciencia,</svg:tspan><svg:tspan
-         x="750.80298"
-         y="217.3627"
-         id="tspan3525-9"
-         style="font-size:12px">transparencia, seguridad,</svg:tspan><svg:tspan
-         x="750.80298"
-         y="232.3627"
-         id="tspan2441-8"
-         style="font-size:12px">competitividad, privacidad,</svg:tspan><svg:tspan
-         x="750.80298"
-         y="247.36272"
-         id="tspan2635"
-         style="font-size:12px">solidaridad,y sobre todo,</svg:tspan><svg:tspan
-         x="750.80298"
-         y="262.36273"
-         id="tspan3545-6"
-         style="font-size:12px"> libertad</svg:tspan></svg:text>
     <svg:text
        inkscape:export-ydpi="259.51529"
        inkscape:export-xdpi="259.51529"
@@ -36290,9 +36253,9 @@
     </svg:a>
     <svg:a
        xlink:href="ejercicios/con-relaciones-e-iconos.svg"
-       xlink:title="Ejercicio para iniciar la unidad didáctica (puede ser útil darlo impreso para poder tomar notas sobre él)"
+       transform="translate(6.443724,7.751577)"
        id="a18624-4"
-       transform="translate(6.443724,7.751577)">
+       xlink:title="Ejercicio para iniciar la unidad didáctica (puede ser útil darlo impreso para poder tomar notas sobre él)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -47006,5 +46969,42 @@
          y="797.42059"
          id="tspan10280-0-0"
          style="font-size:9px;text-align:start;text-anchor:start;fill:#550000">Ejercicio: cazar los 25 gazapos</svg:tspan></svg:text>
+    <svg:text
+       x="750.80298"
+       y="172.3627"
+       id="text2615-3"
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
+       inkscape:export-xdpi="259.51529"
+       inkscape:export-ydpi="259.51529"><svg:tspan
+         x="752.71313"
+         y="172.3627"
+         id="tspan2627-3"
+         style="font-size:12px">Ética, creatividad, </svg:tspan><svg:tspan
+         x="750.80298"
+         y="187.3627"
+         id="tspan3559-3"
+         style="font-size:12px">eficiencia, colaboración,</svg:tspan><svg:tspan
+         x="750.80298"
+         y="202.3627"
+         id="tspan3561-7"
+         style="font-size:12px">no discrimación, ciencia,</svg:tspan><svg:tspan
+         x="750.80298"
+         y="217.36269"
+         id="tspan3525-9"
+         style="font-size:12px">transparencia, seguridad,</svg:tspan><svg:tspan
+         x="750.80298"
+         y="232.36269"
+         id="tspan2441-8"
+         style="font-size:12px"> privacidad, solidaridad</svg:tspan><svg:tspan
+         x="750.80298"
+         y="247.3627"
+         id="tspan2635"
+         style="font-size:12px">y sobre todo, libertad </svg:tspan><svg:tspan
+         x="750.80298"
+         y="262.36273"
+         id="tspan3545-6"
+         style="font-size:12px" /></svg:text>
   </svg:g>
 </svg:svg>
