@@ -43143,17 +43143,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.143547"
-     inkscape:cx="687.90637"
-     inkscape:cy="361.20431"
+     inkscape:zoom="1.0717735"
+     inkscape:cx="548.68309"
+     inkscape:cy="424.2612"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1060"
-     inkscape:window-x="1918"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1315"
+     inkscape:window-height="777"
+     inkscape:window-x="2131"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <svg:metadata
      id="metadata5699">
     <rdf:RDF>
@@ -44655,7 +44655,7 @@
        id="a21500"
        transform="translate(76,16)"
        xlink:href="http://www.google.com"
-       xlink:title="Google web page">
+       xlink:title="Google 首頁">
       <svg:text
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
          xml:space="preserve"
@@ -44703,7 +44703,7 @@
        id="a21492"
        transform="translate(-4,16)"
        xlink:href="http://www.greenpeace.org/"
-       xlink:title="Geenpeace home page">
+       xlink:title="Geenpeace 首頁">
       <svg:text
          id="text21480"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
@@ -45037,9 +45037,9 @@
     </svg:a>
     <svg:a
        xlink:href="maps-guide-en.svg"
-       id="a18624"
+       xlink:title="see the maps guide"
        transform="translate(8.3236,-7.529297)"
-       xlink:title="see the maps guide">
+       id="a18624">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
