@@ -21,6 +21,19 @@
    inkscape:export-ydpi="258.39893">
   <svg:defs
      id="defs5696">
+    <svg:marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker24349"
+       style="overflow:visible">
+      <svg:path
+         id="path24235"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8)" />
+    </svg:marker>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 526.18109 : 1"
@@ -43135,6 +43148,19 @@
          id="path4655-6"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
     </svg:marker>
+    <svg:marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="TriangleOutL-63"
+       style="overflow:visible">
+      <svg:path
+         inkscape:connector-curvature="0"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(0.8,0.8)"
+         id="path4655-2"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </svg:marker>
   </svg:defs>
   <sodipodi:namedview
      id="base"
@@ -43143,9 +43169,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.143547"
-     inkscape:cx="739.08813"
-     inkscape:cy="125.9545"
+     inkscape:zoom="1.0717735"
+     inkscape:cx="786.28912"
+     inkscape:cy="376.07661"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
@@ -43540,7 +43566,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0" />
     <svg:path
-       d="m 637.93554,349.43803 1.95,7.54055 69.295,39.2432"
+       d="m 623.93554,349.43803 1.95,7.54055 69.295,39.2432"
        id="path3612-6"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -43549,7 +43575,7 @@
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0" />
     <svg:path
-       d="m 639.51054,356.85358 -78.4235,40.91754"
+       d="m 625.51054,356.85358 -78.4235,40.91754"
        id="path3623-1"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -43570,7 +43596,7 @@
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308" />
     <svg:path
-       d="m 674.24774,429.66768 -93.1408,0.625"
+       d="m 674.24774,419.66768 -93.1408,0.625"
        id="path7823-7"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -45037,9 +45063,9 @@
     </svg:a>
     <svg:a
        xlink:href="maps-guide-en.svg"
-       xlink:title="see the maps guide"
+       id="a18624"
        transform="translate(8.3236,-7.529297)"
-       id="a18624">
+       xlink:title="see the maps guide">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45343,7 +45369,7 @@
          id="tspan5598"
          style="font-size:21.0108242px;font-weight:normal">呈現</svg:tspan></svg:text>
     <svg:text
-       x="687.7334"
+       x="673.7334"
        y="366.87787"
        id="text3616"
        xml:space="preserve"
@@ -45351,7 +45377,7 @@
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         x="687.7334"
+         x="673.7334"
          y="366.87787"
          id="tspan3621"
          style="font-size:24px;font-weight:normal">為了</svg:tspan></svg:text>
@@ -45382,16 +45408,16 @@
          id="tspan7833"
          style="font-size:22px;font-weight:normal">合作</svg:tspan></svg:text>
     <svg:text
-       x="610.76208"
-       y="453.15454"
+       x="596.76208"
+       y="459.15454"
        id="text7829-9"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         x="610.76208"
-         y="453.15454"
+         x="596.76208"
+         y="459.15454"
          id="tspan7833-4"
          style="font-size:22px;font-weight:normal">選擇</svg:tspan></svg:text>
     <svg:text
@@ -45547,56 +45573,56 @@
          y="258.18719"
          id="tspan22900">一致性, 自由性</svg:tspan></svg:text>
     <svg:text
-       x="625.63672"
-       y="473.98074"
+       x="621.63672"
+       y="479.98074"
        id="text5506"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"><svg:tspan
-         x="625.63672"
-         y="473.98074"
+         x="621.63672"
+         y="479.98074"
          id="tspan5508"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400">非政府組織 :</svg:tspan></svg:text>
     <svg:text
-       x="638.01001"
+       x="662.01001"
        y="501.95999"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        id="text12920"><svg:tspan
-         x="638.01001"
+         x="662.01001"
          y="501.95999"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
          id="tspan12922">機關:</svg:tspan></svg:text>
     <svg:text
-       x="638.01001"
+       x="662.01001"
        y="517.95996"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        id="text12916"><svg:tspan
-         x="638.01001"
+         x="662.01001"
          y="517.95996"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
          id="tspan12918">公司: </svg:tspan></svg:text>
     <svg:text
-       x="638.01001"
+       x="662.01001"
        y="533.95996"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        id="text12912"><svg:tspan
-         x="638.01001"
+         x="662.01001"
          y="533.95996"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
          id="tspan12914">國家:</svg:tspan></svg:text>
     <svg:text
-       x="638.01001"
+       x="662.01001"
        y="549.95996"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        id="text12907"><svg:tspan
-         x="638.01001"
+         x="662.01001"
          y="549.95996"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
          id="tspan12909">大學:</svg:tspan><svg:tspan
-         x="638.01001"
+         x="662.01001"
          y="549.95996"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
          id="tspan12905" /></svg:text>
@@ -55963,5 +55989,14 @@
            y="472.37201"
            x="745.88098">Wikileaks,</svg:tspan></svg:text>
     </svg:a>
+    <svg:path
+       d="m 682.07469,435.43442 -124.74729,0.0419"
+       id="path7823-7-0"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInL-0);marker-end:url(#TriangleOutL);display:inline"
+       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
+       inkscape:export-xdpi="259.6308"
+       inkscape:export-ydpi="259.6308"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
   </svg:g>
 </svg:svg>
