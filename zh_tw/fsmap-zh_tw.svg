@@ -43143,9 +43143,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0717735"
-     inkscape:cx="548.68309"
-     inkscape:cy="424.2612"
+     inkscape:zoom="2.143547"
+     inkscape:cx="739.08813"
+     inkscape:cy="125.9545"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
@@ -43570,7 +43570,7 @@
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308" />
     <svg:path
-       d="m 674.24774,431.66768 -93.1408,0.625"
+       d="m 674.24774,429.66768 -93.1408,0.625"
        id="path7823-7"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -43649,7 +43649,7 @@
        id="a15364"
        xlink:href="http://www.fsf.org/"
        xlink:title="Free Software Foundation  首頁"
-       transform="translate(30,4)">
+       transform="translate(10,4)">
       <svg:text
          id="text15103-50-2-5-2-6"
          y="471.20801"
@@ -44576,11 +44576,11 @@
     <svg:text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
-       x="486.13699"
+       x="466.13699"
        y="488.49399"
        id="text15103-50-2-5-2-6-7"><svg:tspan
          sodipodi:role="line"
-         x="486.13699"
+         x="466.13699"
          y="488.49399"
          id="tspan13671-4-7">和專案, 如 :</svg:tspan></svg:text>
     <svg:a
@@ -45037,9 +45037,9 @@
     </svg:a>
     <svg:a
        xlink:href="maps-guide-en.svg"
-       id="a18624"
+       xlink:title="see the maps guide"
        transform="translate(8.3236,-7.529297)"
-       xlink:title="see the maps guide">
+       id="a18624">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45178,10 +45178,8 @@
          id="tspan25801">不論任何目的</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="-106.34419"
-         y="199.93353"
-         id="tspan14558">(freedom <svg:tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace"
-   id="tspan14562">0</svg:tspan>)</svg:tspan></svg:text>
+         y="200.73228"
+         id="tspan14558">(自由之零)</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45194,8 +45192,8 @@
          id="tspan25799">達到所希望的功能</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="43.016251"
-         y="199.93939"
-         id="tspan13015">(freedom 1)</svg:tspan></svg:text>
+         y="200.73814"
+         id="tspan13015">(自由之一)</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45208,8 +45206,8 @@
          id="tspan13013-6">任何副本</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="209.65758"
-         y="199.92181"
-         id="tspan13015-1">(freedom 2)</svg:tspan></svg:text>
+         y="200.72057"
+         id="tspan13015-1">(自由之二)</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45371,29 +45369,29 @@
          y="676.71399"
          x="583.42102">支援</svg:tspan></svg:text>
     <svg:text
-       x="607.02802"
-       y="417.06915"
+       x="611.22668"
+       y="413.80353"
        id="text7829"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         x="607.02802"
-         y="417.06915"
+         x="611.22668"
+         y="413.80353"
          id="tspan7833"
          style="font-size:22px;font-weight:normal">合作</svg:tspan></svg:text>
     <svg:text
-       x="598.16614"
-       y="458.28622"
+       x="610.76208"
+       y="453.15454"
        id="text7829-9"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
-         x="598.16614"
-         y="458.28622"
+         x="610.76208"
+         y="453.15454"
          id="tspan7833-4"
          style="font-size:22px;font-weight:normal">選擇</svg:tspan></svg:text>
     <svg:text
@@ -45408,8 +45406,8 @@
          id="tspan13157">整體社群利益</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="343.63715"
-         y="199.94525"
-         id="tspan13015-1-7">(freedom 3)</svg:tspan></svg:text>
+         y="200.744"
+         id="tspan13015-1-7">(自由之三)</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -45473,7 +45471,7 @@
          sodipodi:role="line"
          x="278.05701"
          y="429.293"
-         id="tspan22852">產出與除錯</svg:tspan></svg:text>
+         id="tspan22852">開發與除錯</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -55965,15 +55963,5 @@
            y="472.37201"
            x="745.88098">Wikileaks,</svg:tspan></svg:text>
     </svg:a>
-    <svg:text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
-       x="236.12411"
-       y="500.62509"
-       id="text15103-50-2-8-5-6"><svg:tspan
-         sodipodi:role="line"
-         x="236.12411"
-         y="500.62509"
-         id="tspan29531-3">創用 CC (相同方式分享)</svg:tspan></svg:text>
   </svg:g>
 </svg:svg>
