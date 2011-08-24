@@ -1,9 +1,12 @@
 # free software concept map log
 # By René Mérou h@es.gnu.org
-# distributed under licence GFDL 1.3 without invariant parts 
+# distributed under licence GFDL>= 1.3 without invariant parts 
 # located at http://es.gnu.org/~reneme/fsmap
 # using utf-8
-# you can find this log at http://es.gnu.org/~reneme/fsmap/fsmap.log
+# you can find this log at http://es.gnu.org/~reneme/fsmap/fsmap.log 
+# the commits for this log are at: 
+# http://git.savannah.gnu.org/gitweb/?p=fsmap.git;a=log;h=refs/heads/master
+
 # forms for translations: http://www.mallorcaweb.net/rene/svg/fsmap-tra-en-cl.html
 # fsmap-en.svg  (aka EN) for english version has several exercises and tests. 
 #     All traslations will have it too.

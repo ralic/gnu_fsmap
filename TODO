@@ -1,20 +1,16 @@
 # To do things for the maps  first line is firt to be done:
 
-
-* Update the english translation to the version 5
-* Update translation formulary from english
 * Update translation for taiwan
 * Update all the translations and try to archieve version 5 for then
-* Link savannah to es.gnu.org so es.gnu.org refects the updated changes of savannah
 * update translation formularies 
-* upgrade to V5 the exercice chasse-erreurs.svg, it's in v4.x
+* upgrade to V5 the fr exercice chasse-erreurs.svg, it's in v4.x
+* think about wiki for translations.
 
 Simultaneous detalls to be done in every map reedited:
 * add V.5 to all updated versions with relative and absolute link.   ES, CA, EN done.
-* Change scribus by Moodle for new maps k12 or so, its more used than scribus
-* Update all the main maps with the change ktouch -> Moodle
-* Update all derived maps with the change ktouch -> Moodle    [specialy ES]
+* Change scribus by Moodle for new maps k12 or so, its more used.
 * change in all maps the new debian logo to the old one.
 * Remove the helping links from all V5 because with maps-guide they arent necessary
 
 * remove the word competitivity in all new V5, it's considered countervalue too
+* Update all new V.5 maps with the change ktouch -> Moodle
