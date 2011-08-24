@@ -15,7 +15,7 @@
    id="svg5694"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="fistributions-zone.svg"
+   sodipodi:docname="distributions-zone.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/en/curses/14/exercises/distributions-zone-3000.png"
    inkscape:export-xdpi="258.3732"
    inkscape:export-ydpi="258.3732">
@@ -27543,15 +27543,6 @@
          style="stop-color: rgb(255, 255, 255); stop-opacity: 0.168627;"
          offset="0.5" />
     </svg:radialGradient>
-    <svg:filter
-       id="filter3366-2-2"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <svg:feGaussianBlur
-         id="feGaussianBlur3368-0-4"
-         stdDeviation="14.173227"
-         inkscape:collect="always" />
-    </svg:filter>
     <svg:clipPath
        id="clipPath3311-2-7"
        clipPathUnits="userSpaceOnUse">
@@ -41748,7 +41739,7 @@
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1388"
-     inkscape:window-height="996"
+     inkscape:window-height="961"
      inkscape:window-x="2406"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -41760,7 +41751,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
@@ -41865,7 +41856,7 @@
            sodipodi:role="line">Trisquel</svg:tspan></svg:text>
     </svg:a>
     <svg:path
-       d="m -71.324219,517.36421 c 0,0 -64.819921,25.80826 -81.927701,11.61524 -10.31252,-8.55559 8.09594,-31.99035 17.67381,-44.31247"
+       d="m -53.337736,524.82847 c 0,0 -114.669794,24.3663 -123.914184,4.15098 -10.31252,-22.55108 3.43078,-30.12428 17.67381,-44.31247"
        id="path5578-0-0"
        style="fill:none;stroke:#000000;stroke-width:2.6870923;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -43995,7 +43986,7 @@
     </svg:a>
     <svg:a
        id="a45423-9-1-5"
-       transform="matrix(1.3435462,0,0,1.3435462,-89.828558,-208.98644)"
+       transform="matrix(1.3435462,0,0,1.3435462,-113.82856,-208.98644)"
        xlink:href="http://www.opensuse.org/en/"
        xlink:title="Open Suse web page">
       <svg:text
@@ -44007,7 +43998,7 @@
            id="tspan15109-3-8-6-5-9"
            y="506.56094"
            x="-22.728714"
-           sodipodi:role="line">i OpenSUSE,</svg:tspan></svg:text>
+           sodipodi:role="line">and OpenSUSE,</svg:tspan></svg:text>
     </svg:a>
     <svg:path
        inkscape:connector-curvature="0"

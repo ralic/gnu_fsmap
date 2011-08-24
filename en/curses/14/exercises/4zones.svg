@@ -43362,13 +43362,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.143547"
-     inkscape:cx="372.41491"
-     inkscape:cy="110.90081"
+     inkscape:cx="215.44327"
+     inkscape:cy="297.5074"
      inkscape:document-units="px"
-     inkscape:current-layer="g6024"
+     inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1388"
-     inkscape:window-height="996"
+     inkscape:window-height="961"
      inkscape:window-x="2406"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -43380,7 +43380,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
@@ -43391,10 +43391,10 @@
      transform="translate(200.442, -84.695)">
     <svg:a
        xlink:href="values-zone.svg"
-       xlink:title="exten the values zone"
-       id="a34744-7-2"
+       transform="matrix(0.7555811,0,0,0.51910724,560.34544,-101.74028)"
        style="fill:url(#radialGradient130659);fill-opacity:1"
-       transform="matrix(0.7555811,0,0,0.51910724,560.34544,-101.74028)">
+       id="a34744-7-2"
+       xlink:title="exten the values zone">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient130570);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423-5-4"
@@ -43407,10 +43407,10 @@
     </svg:a>
     <svg:a
        xlink:href="freedoms-zone.svg"
-       xlink:title="exten the freedoms zone"
-       id="a34744-7-2-8"
+       transform="matrix(0.97775266,0,0,0.57729034,53.355873,-122.22909)"
        style="fill:url(#radialGradient130661);fill-opacity:1"
-       transform="matrix(0.97775266,0,0,0.57729034,53.355873,-122.22909)">
+       id="a34744-7-2-8"
+       xlink:title="exten the freedoms zone">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient36195-4-5-7);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423-5-4-8"
@@ -43423,10 +43423,10 @@
     </svg:a>
     <svg:a
        xlink:href="distributions-zone.svg"
-       xlink:title="Exten the distributions zone"
-       id="a34744"
+       transform="matrix(0.83205808,0,0,0.85358943,11.110583,39.107013)"
        style="fill:url(#radialGradient130663);fill-opacity:1"
-       transform="matrix(0.83205808,0,0,0.85358943,11.110583,39.107013)">
+       id="a34744"
+       xlink:title="Exten the distributions zone">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient36195);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423"
@@ -43439,10 +43439,10 @@
     </svg:a>
     <svg:a
        xlink:href="users-zone.svg"
-       xlink:title="Extend the users and developers zone"
-       transform="matrix(0.88055515,0,0,0.9390664,523.91053,-30.305507)"
+       id="a34744-7"
        style="fill:url(#radialGradient130665);fill-opacity:1"
-       id="a34744-7">
+       transform="matrix(0.88055515,0,0,0.9390664,523.91053,-30.305507)"
+       xlink:title="Extend the users and developers zone">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient36195-4);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423-5"
@@ -43674,7 +43674,7 @@
            sodipodi:role="line">Trisquel</svg:tspan></svg:text>
     </svg:a>
     <svg:path
-       d="m -97.19646,590.77587 c 0,0 -48.2454,19.20906 -60.9787,8.64521 -7.6756,-6.36792 6.0258,-23.81039 13.1546,-32.98173"
+       d="m -94.471087,598.70665 c 0,0 -79.054483,15.86417 -85.704073,0.71443 -6.27605,-14.2987 4.15973,-24.27691 13.1546,-32.98173"
        id="path5578-0-0"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -55261,7 +55261,7 @@
     </svg:a>
     <svg:a
        id="a45423-9-1-5"
-       transform="translate(-110.96922,50.15385)"
+       transform="translate(-130.96922,50.15385)"
        xlink:href="http://www.opensuse.org/en/"
        xlink:title="Open Suse web page">
       <svg:text
@@ -55273,7 +55273,7 @@
            id="tspan15109-3-8-6-5-9"
            y="506.56094"
            x="-22.728714"
-           sodipodi:role="line">i OpenSUSE,</svg:tspan></svg:text>
+           sodipodi:role="line">and OpenSUSE,</svg:tspan></svg:text>
     </svg:a>
     <svg:path
        inkscape:connector-curvature="0"
