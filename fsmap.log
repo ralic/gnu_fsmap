@@ -11,13 +11,69 @@
 # x->y means: x was corrected with y. y is in its place now.
 
 
-2011-08-13 removed "netiquete" in EN, added exercices and test for en/curses/12
+2011-08-24 removed from all the V5 versions the word ktouch to have a common criteria
+2011-08-23 removed from all the V5 versions the word competitivity
+2011-08-23 doble arrow added in the place of co-operation for fsmap-zh_tw.svg
+2011-08-23 cc duplicated fixed and freedoms in chinese for fsmap-zh_tw.svg
+2011-08-23 added stil more links with 首頁 in fsmap-zh_tw.svg
+2011-08-23 added some more links with 首頁 in fsmap-zh_tw.svg
+2011-08-23 added some links with 首頁 in fsmap-zh_tw.svg
+2011-08-22 readable in chinese at fsmap-zh_tw.svg
+2011-08-20 minor stetic changes in fsmap-zh_tw.svg
+2011-08-20 fsmap-zh_tw.svg is near to be ended
+2011-08-20 removed Nokia for all the maps, reason: the change of point of view and support of free software
+2011-08-20 removed 'netiquete' from all the maps V5.X
+2011-08-19 fixed some links and ended v5.5 EN,  added ZH_TW
+2011-08-18 ended EN v5.5b, i need to check everything
+2011-08-16 added exercises/with-relations-and-icons.svg and updated guides-map-en
+2011-08-16 removed a big amount of /home/h absolute links
+2011-08-16 In EN Chine and China removed, competiteness removed, fondation->foundation and more work on V5.5
+2011-08-15 didactical unit modified for 14 years old, maps-guide-en.svg and added correct short link
+2011-08-14 removed  and arranged the orange to fix the printing zone in all the english versions
+2011-08-13 added en/curses/12/tests
+2011-08-13 removed  in EN, added exercices and test for en/curses/12
 2011-08-12 changed 3 maps and links for maps-guide-en.svg
-2011-08-12 added curses/12/fsmap-en.svg and 13 to en to en, working for V.5.
-2011-08-12 We return to the debian traditional logo. The people is not using the new one.
-2011-08-09 added V.x  to ES CA and EN versions with absolute and relative links.
-2011-08-09 updated TODO file to priorice english and chinesse translations.
+2011-08-12 added 13 to en, working for V.5
+2011-08-12 added 12 to en, working for V.5 and started to return to the old debian logo
+2011-08-09 added version number  V.5 to the ES  map with absolute link
+2011-08-09 last commit comented in fsmap.log and updated TODO
+2011-08-09 added version number  V.5 or V.4 to the ES CA EN maps with absolute link and removed || in CA
+2011-08-09 Updated TODO file to priorice english and chinesse translations.
 2011-08-08 gr -> el (the correct shortname for the lange of Greace).  This map is still not at savannah, it's V.4.
+2011-07-13 fr -> added talk RMLL2011
+2011-07-13 maps-guide-fr.svg link fixed
+2011-07-13 maps-guide-fr.svg ended => fsmap-fr is now V.5
+2011-07-12 maps-guide-fr.svg updated with fixed ortography
+2011-07-12 maps-guide-fr.svg updated with links to different versions of avec-relations-et-icônes.svg
+2011-07-12 todo << fix link to fr version in map-guide-fr.svg
+2011-07-12 fr/exercices/avech-relations-et-icônes.svg added lines for answers
+2011-07-12 maps-guide-fr.svg improved and related inexistent maps created
+2011-07-12 fi version added
+2011-07-11 fr/maps-guide-fr.svg improved/fixed errors
+2011-07-11 maps-guide-ca.svg more updated and more submaps
+2011-07-11 started fr/niveau/13
+2011-07-11 todo.txt updated
+2011-07-11 maps-guide-ca.svg more updated and V. 5 start to be noted at maps
+2011-07-10 maps-guide-ca.svg more updated
+2011-07-10 maps-guide-ca.svg more updated
+2011-07-10 fsmap-ca has first derived map for the hypermap in ca/hipermapa/valors.svg and links
+2011-07-10 fsmap-fr to version5 with 1 test for k12 and with niveau
+2011-07-08 fsmap-fr to version 5 with exercices k12
+2011-07-08 fsmap-fr.svg and exercicies updated
+2011-07-07 fsmap-en.svg version updated
+2011-06-05 ca/cursos/3ESO/exercicis/zona-usuaris @ suport is now more complex than 2ESO
+2011-05-12 examen->exercici at ca/...amb-relaciona-i-icones-2nESO.svg
+2011-05-04 fsmap-ca now links to maps-guide-ca.svg
+2011-05-04 updated all fsmaps in ca/exercicis
+2011-05-03 sugar icon in exercices and exams at ca/cursos/3eso removen kde icon.
+2011-05-03 fsmap-contents.svg has now the Sugar amd Moodle icons and fsmap-ca.svg too
+2011-04-09 fixed catalan link error xerrades in maps-guide-es.svg
+2011-04-08 added Sugar to fsmap-es.svg
+2011-04-06 fsmap-contents.svg and fsmap-es.svg:  Moodle icon bug fixed
+2011-04-06 ES: ktouch removed , added Moodle. TODO added, moodle added to fsmap-contents.svg
+2011-04-02 updated fsmap.log with updates to copyright notices added to the maps
+2011-04-02 added reference to fsmap-log to this git repository at savanna
+2011-04-02 Initial import in git.
 2011-04-02 The proyect is now at savannah's git: 
 2011-04-02 http://git.savannah.gnu.org/gitweb/?p=fsmap.git;a=tree;hb=22bc09efdfd451ef3ef037e154e39fdc89aa5909
 2011-03-22 fsmap-ca.svg -es -en -fr  and map-contents.svg have added the copyright notice.
