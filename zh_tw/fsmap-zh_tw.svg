@@ -43175,9 +43175,9 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="3.0314332"
-   inkscape:cx="798.44107"
-   inkscape:cy="35.58241"
+   inkscape:zoom="1.5157166"
+   inkscape:cx="517.91229"
+   inkscape:cy="230.01648"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
@@ -43194,7 +43194,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -44882,7 +44882,7 @@
          x="792.495"
          y="813.93597"
          id="tspan4310-9-7-1-9-0-6-7-6-1"
-         style="font-size:9px">V.5.5 2011-08-19</svg:tspan></svg:text>
+         style="font-size:9px">V.5.5 2011-08-24</svg:tspan></svg:text>
   </svg:a>
   <svg:g
      transform="matrix(0.11231,0,0,0.11231,986.09,814.143)"
@@ -45056,9 +45056,9 @@
   </svg:a>
   <svg:a
      xlink:href="maps-guide-en.svg"
-     xlink:title="see the maps guide"
+     id="a18624"
      transform="translate(8.3236,-7.529297)"
-     id="a18624">
+     xlink:title="see the maps guide">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -45170,7 +45170,7 @@
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'"
        id="tspan3267"
        y="442.50024"
-       x="-71.417778">散佈</svg:tspan></svg:text>
+       x="-71.417778">版本</svg:tspan></svg:text>
   <svg:text
      x="467.89584"
      y="414.22772"
@@ -45388,29 +45388,29 @@
        y="676.71399"
        x="583.42102">支援</svg:tspan></svg:text>
   <svg:text
-     x="611.22668"
-     y="413.80353"
+     x="596.7121"
+     y="458.66681"
      id="text7829"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       x="611.22668"
-       y="413.80353"
+       x="596.7121"
+       y="458.66681"
        id="tspan7833"
        style="font-size:22px;font-weight:normal">合作</svg:tspan></svg:text>
   <svg:text
-     x="596.76208"
-     y="459.15454"
+     x="598.0816"
+     y="412.97177"
      id="text7829-9"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       x="596.76208"
-       y="459.15454"
+       x="598.0816"
+       y="412.97177"
        id="tspan7833-4"
        style="font-size:22px;font-weight:normal">選擇</svg:tspan></svg:text>
   <svg:text
