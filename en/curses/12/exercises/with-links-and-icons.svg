@@ -43361,9 +43361,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0717735"
-     inkscape:cx="597.09449"
-     inkscape:cy="386.19823"
+     inkscape:zoom="3.0314332"
+     inkscape:cx="732.24789"
+     inkscape:cy="101.19228"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
@@ -45111,7 +45111,7 @@
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffd83b;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
        d="m 662.11466,726.54207 1.81884,0.57252 -1.81884,1.26068 -41.98677,0 -1.75394,-0.69695 6.17115,-1.13625 37.56956,0" />
     <svg:g
-       transform="matrix(0.12405662,0,0,0.12405662,1130.3061,823.19863)"
+       transform="matrix(0.12405662,0,0,0.12405662,1128.3061,823.19863)"
        id="g21393-9"
        style="stroke:#000cff;stroke-opacity:1"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -45142,7 +45142,7 @@
        id="a9876"
        xlink:href="http://es.gnu.org/~reneme/fsmap/en/fsmap-en.svg"
        xlink:title="Latest version of this concept hypermap"
-       transform="matrix(1.104591,0,0,1.104591,-101.85832,-85.709392)">
+       transform="matrix(1.104591,0,0,1.104591,-105.85832,-85.709392)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45161,7 +45161,7 @@
        id="a14136-6"
        xlink:href="http://es.gnu.org/~reneme/fsmap/fsmap-contents.svg"
        xlink:title="Read about the licence of the map and its contents"
-       transform="matrix(1.104591,0,0,1.104591,217.87631,-138.71449)">
+       transform="matrix(1.104591,0,0,1.104591,213.87631,-138.71449)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45181,14 +45181,14 @@
        xml:space="preserve"
        id="text4306-65-54-43-4-0-2-8-2"
        y="784.4021"
-       x="658.17181"
+       x="654.17181"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
          style="font-size:9.94131947px"
          id="tspan4310-9-7-1-9-0-6-7-0"
          y="800.97095"
-         x="658.17181">) at:</svg:tspan></svg:text>
+         x="654.17181">) at:</svg:tspan></svg:text>
     <svg:a
        id="a14140"
        xlink:href="http://es.gnu.org/~reneme/fsmap/en"
