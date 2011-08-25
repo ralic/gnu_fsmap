@@ -5,6 +5,7 @@
 * update translation formularies 
 * upgrade to V5 the fr exercice chasse-erreurs.svg, it's in v4.x
 * think about wiki for translations.
+* "instrucions" ->"readable instructions" in EO and starting V.5 transformations. 
 
 Simultaneous detalls to be done in every map reedited:
 * add V.5 to all updated versions with relative and absolute link.   ES, CA, EN done.
@@ -14,3 +15,11 @@ Simultaneous detalls to be done in every map reedited:
 
 * remove the word competitivity in all new V5, it's considered countervalue too
 * Update all new V.5 maps with the change ktouch -> Moodle
+
+Maps versions:   
+V.2 icons:	Added some icons and much more colored and ed efect.
+V.3 logos: 	The icons are changed by logos and its all made with inkscape.
+V.3.5 wikipedia:The maps follow all the possible the standards for images for the wikipedia.
+V.4 hypermap:  	There must be some hypermaps linked. Usually one presentation, some maps and some exercice for diferent ages.
+V.5 didactical unit:  maps-guide complete with all derived hipermaps.
+V.5.5 :        	The V5 was upgraded. Different directories, 14 added, didactical addaptation improved.
