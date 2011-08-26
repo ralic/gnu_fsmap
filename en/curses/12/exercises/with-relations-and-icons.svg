@@ -43361,15 +43361,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.0314332"
-     inkscape:cx="732.24789"
-     inkscape:cy="101.19228"
+     inkscape:zoom="1.5157166"
+     inkscape:cx="477.54046"
+     inkscape:cy="191.17679"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1060"
-     inkscape:window-x="1918"
+     inkscape:window-height="968"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <svg:metadata
@@ -44050,20 +44050,20 @@
          id="tspan25978">CONTENT</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
-       x="-173.3775"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
+       x="-128.70465"
        y="625.29047"
        id="text22848-9"
        sodipodi:linespacing="125%"><svg:tspan
          sodipodi:role="line"
-         x="-173.3775"
+         x="-128.70465"
          y="625.29047"
          id="tspan22852-6"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;text-anchor:start;font-family:DejaVu Serif">gathered</svg:tspan><svg:tspan
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:center;line-height:125%;text-anchor:middle;font-family:DejaVu Serif">gathered</svg:tspan><svg:tspan
          sodipodi:role="line"
-         x="-173.3775"
+         x="-124.88434"
          y="654.78394"
-         id="tspan28818">in</svg:tspan></svg:text>
+         id="tspan28818">in     </svg:tspan></svg:text>
     <svg:text
        x="-72.997765"
        y="447.07205"
@@ -45111,7 +45111,7 @@
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffd83b;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
        d="m 662.11466,726.54207 1.81884,0.57252 -1.81884,1.26068 -41.98677,0 -1.75394,-0.69695 6.17115,-1.13625 37.56956,0" />
     <svg:g
-       transform="matrix(0.12405662,0,0,0.12405662,1128.3061,823.19863)"
+       transform="matrix(0.12405662,0,0,0.12405662,1134.3061,823.19863)"
        id="g21393-9"
        style="stroke:#000cff;stroke-opacity:1"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -45142,7 +45142,7 @@
        id="a9876"
        xlink:href="http://es.gnu.org/~reneme/fsmap/en/fsmap-en.svg"
        xlink:title="Latest version of this concept hypermap"
-       transform="matrix(1.104591,0,0,1.104591,-105.85832,-85.709392)">
+       transform="matrix(1.104591,0,0,1.104591,-99.85832,-85.709392)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45161,7 +45161,7 @@
        id="a14136-6"
        xlink:href="http://es.gnu.org/~reneme/fsmap/fsmap-contents.svg"
        xlink:title="Read about the licence of the map and its contents"
-       transform="matrix(1.104591,0,0,1.104591,213.87631,-138.71449)">
+       transform="matrix(1.104591,0,0,1.104591,221.87631,-138.71449)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -45181,14 +45181,14 @@
        xml:space="preserve"
        id="text4306-65-54-43-4-0-2-8-2"
        y="784.4021"
-       x="654.17181"
+       x="660.17181"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><svg:tspan
          style="font-size:9.94131947px"
          id="tspan4310-9-7-1-9-0-6-7-0"
          y="800.97095"
-         x="654.17181">) at:</svg:tspan></svg:text>
+         x="660.17181">) at:</svg:tspan></svg:text>
     <svg:a
        id="a14140"
        xlink:href="http://es.gnu.org/~reneme/fsmap/en"
