@@ -42323,7 +42323,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -50073,10 +50073,10 @@
     </svg:g>
   </svg:a>
   <svg:a
-     id="a18624-2"
-     xlink:href="http://es.gnu.org/~reneme/fsmap/zh_tw/translations.html"
+     xlink:href="../../presentations/translations.svg"
+     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)"
      transform="translate(58.283287,-13.261881)"
-     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
+     id="a18624-2">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
