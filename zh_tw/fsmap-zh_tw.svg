@@ -43175,9 +43175,9 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="1.0824912"
-   inkscape:cx="581.30415"
-   inkscape:cy="338.22643"
+   inkscape:zoom="2.1649824"
+   inkscape:cx="759.01376"
+   inkscape:cy="161.24269"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
@@ -43956,14 +43956,14 @@
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        xml:space="preserve"
        y="708.91699"
-       x="813.578"
+       x="863.578"
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan45898"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;font-family:DejaVu Serif"
          y="783.91699"
-         x="813.578">SLAT <svg:tspan
+         x="863.578">SLAT 中華民國軟體自由協會<svg:tspan
    style="font-size:14px"
-   id="tspan12957">軟體自由協會</svg:tspan></svg:tspan></svg:text>
+   id="tspan12957" /></svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a29086"
@@ -44869,7 +44869,7 @@
      id="a13790"
      xlink:href="http://h.says.it"
      xlink:title="René Mérou's web page"
-     transform="translate(-235.005,-80.223514)">
+     transform="translate(-251.005,-80.223514)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -44935,7 +44935,7 @@
      transform="translate(13.8353, 329.377)"
      id="g5725" />
   <svg:text
-     x="654.53558"
+     x="662.53558"
      y="722.08698"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -44943,7 +44943,7 @@
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/ca/ejercicios/map-ca-exercici-800-troba-els-errors.png"
      inkscape:export-xdpi="69.204079"
      inkscape:export-ydpi="69.204079"><svg:tspan
-       x="654.53558"
+       x="662.53558"
        y="782.08698"
        style="font-size:14px;font-weight:normal;text-anchor:end;fill:#aa4400;-inkscape-font-specification:DejaVu Serif"
        id="tspan6663">協會 :</svg:tspan></svg:text>
@@ -45071,9 +45071,9 @@
   </svg:a>
   <svg:a
      xlink:href="maps-guide-en.svg"
-     id="a18624"
+     xlink:title="see the maps guide"
      transform="translate(6.3236,-7.3000522)"
-     xlink:title="see the maps guide">
+     id="a18624">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -45727,40 +45727,40 @@
      xml:space="preserve"
      id="text4306-65-54-43-4-0-2-8-9-0"
      y="790.72144"
-     x="394.935"
+     x="378.935"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:9px"
        id="tspan4310-9-7-1-9-0-6-7-6-2"
        y="805.72144"
-       x="394.935">) 繁體中文版本，翻譯 ：</svg:tspan></svg:text>
+       x="378.935">) 繁體中文版本，翻譯 ：</svg:tspan></svg:text>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
      xml:space="preserve"
      id="text4306-65-54-43-4-0-2-8-9-6-3"
      y="790.00073"
-     x="573.54102"
+     x="565.54102"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:9px;fill:#0000ff"
        id="tspan4310-9-7-1-9-0-6-7-6-1-2"
        y="805.00073"
-       x="573.54102">ceasar@gmail.com</svg:tspan></svg:text>
+       x="565.54102">ceasar.sun@gmail.com</svg:tspan></svg:text>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
      xml:space="preserve"
      id="text4306-65-54-43-4-0-2-8-9-6-3-1"
      y="790.00073"
-     x="311.89001"
+     x="295.89001"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:9px;fill:#0000ff"
        id="tspan4310-9-7-1-9-0-6-7-6-1-2-5"
        y="805.00073"
-       x="311.89001">h@es.gnu.org</svg:tspan></svg:text>
+       x="295.89001">h@es.gnu.org</svg:tspan></svg:text>
   <svg:a
      transform="matrix(1.13303,0,0,1.13303,172.52599,325.23711)"
      style="display:inline"
@@ -55420,9 +55420,9 @@
   </svg:a>
   <svg:a
      xlink:href="presentations/translations.svg"
-     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)"
+     id="a18624-2"
      transform="translate(58.283287,-19.261881)"
-     id="a18624-2">
+     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -56029,7 +56029,7 @@
      id="a12897"
      xlink:href="http://ceasarfree.blogspot.com/"
      xlink:title="孫振凱"
-     transform="translate(54,-29.704654)">
+     transform="translate(38,-29.704654)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
