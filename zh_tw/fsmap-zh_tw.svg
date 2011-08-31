@@ -44751,7 +44751,7 @@
      id="a8151"
      xlink:href="http://www.w3.org/"
      xlink:title="World Wide Web Consortium 首頁"
-     transform="translate(-16,-7.32846)">
+     transform="translate(-22,-7.32846)">
     <svg:text
        id="text15103-50-2-85-1-9"
        y="771.73901"
@@ -44766,7 +44766,7 @@
   <svg:a
      id="a8131"
      xlink:title="Home page of the standard HTML, Hypertext Markup Language"
-     transform="translate(22.30692,-6.589094)"
+     transform="translate(16.30692,-6.589094)"
      xlink:href="http://www.w3c.org/MarkUp/">
     <svg:text
        id="text15103-50-2-85-1-54"
@@ -44781,7 +44781,7 @@
   </svg:a>
   <svg:a
      id="a8135"
-     transform="translate(22.33237,-6.626594)"
+     transform="translate(16.33237,-6.626594)"
      xlink:href="http://www.w3.org/XML/"
      xlink:title="Home page of the standar XML, Extensible Markup Language">
     <svg:text
@@ -44797,7 +44797,7 @@
   </svg:a>
   <svg:a
      id="a8127"
-     transform="translate(6,-8.34354)"
+     transform="translate(0,-8.34354)"
      xlink:href="http://www.utf-8.com/"
      xlink:title="UTF-8 and Unicode Standards">
     <svg:text
@@ -44847,7 +44847,7 @@
          x="792.495"
          y="813.93597"
          id="tspan4310-9-7-1-9-0-6-7-6-1"
-         style="font-size:9px">V.5.5 2011-08-25</svg:tspan></svg:text>
+         style="font-size:9px">V.5.5 2011-08-31</svg:tspan></svg:text>
   </svg:a>
   <svg:g
      transform="matrix(0.11231,0,0,0.11231,986.09,814.54752)"
@@ -44932,7 +44932,7 @@
      id="a8155"
      xlink:title="Internet Engineering Task Force 首頁"
      xlink:href="http://www.ietf.org/"
-     transform="translate(4.335144,-7.76193)">
+     transform="translate(-1.664856,-7.76193)">
     <svg:text
        id="text15103-50-2-85-1-3"
        y="757.40198"
@@ -44946,9 +44946,9 @@
   </svg:a>
   <svg:a
      xlink:href="maps-guide-en.svg"
-     xlink:title="see the maps guide"
+     id="a18624"
      transform="translate(6.3236,-7.3000522)"
-     id="a18624">
+     xlink:title="see the maps guide">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -55295,9 +55295,9 @@
   </svg:a>
   <svg:a
      xlink:href="presentations/translations.svg"
-     id="a18624-2"
+     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)"
      transform="translate(58.283287,-19.261881)"
-     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
+     id="a18624-2">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
