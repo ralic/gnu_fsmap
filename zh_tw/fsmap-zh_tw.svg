@@ -43785,7 +43785,7 @@
   </svg:a>
   <svg:a
      id="a45813"
-     transform="translate(-162.59474,193.94305)"
+     transform="translate(-116.59474,193.94305)"
      xlink:href="http://icos.org.tw/"
      xlink:title="ICOS(國際開放源碼研討會)">
     <svg:text
@@ -43798,7 +43798,7 @@
          id="tspan45794"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;font-family:DejaVu Serif"
          y="512.24597"
-         x="708.36603">國際開放源碼研討會,</svg:tspan></svg:text>
+         x="708.36603">ICOS (開放源碼國際研討會)</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a45836"
@@ -43836,7 +43836,7 @@
   </svg:a>
   <svg:a
      id="a45857"
-     transform="translate(-117.42,-6.8394)"
+     transform="translate(-117.42,-8.8394)"
      xlink:title="Linux Forums, a comprehensive Linux Forum"
      xlink:href="http://www.linuxforums.org/">
     <svg:text
@@ -43857,7 +43857,7 @@
      id="a45869"
      xlink:href="http://www.linuxquestions.org/"
      xlink:title="LinuxQuestions.org, where Linux users come for help"
-     transform="translate(34.9915,-29.29837)">
+     transform="translate(34.9915,-31.29837)">
     <svg:text
        id="text45851"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
@@ -43910,7 +43910,7 @@
   </svg:a>
   <svg:a
      id="a45905"
-     transform="translate(6.0484995,-78.173774)"
+     transform="translate(6.048499,-78.173774)"
      xlink:href="http://slat.org/slat/"
      xlink:title="SLAT ,中華民國軟體自由協會">
     <svg:text
@@ -44234,17 +44234,15 @@
        xml:space="preserve"
        id="text5522-8-7"
        y="739.70502"
-       x="387.87201"
+       x="389.87201"
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan5541-0-6"
          y="739.70502"
-         x="387.87201"><svg:tspan
+         x="389.87201"><svg:tspan
            style="font-size:14px"
            id="tspan12967"><svg:tspan
-   style="font-size:12px"
-   id="tspan86792">TLUG,</svg:tspan>臺灣 <svg:tspan
-   style="font-size:12px"
-   id="tspan86790">Linux</svg:tspan> 使用者社群</svg:tspan></svg:tspan></svg:text>
+             style="font-size:12px"
+             id="tspan86792">TLUG (臺灣Linux社群)</svg:tspan></svg:tspan></svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a45683"
@@ -44895,12 +44893,12 @@
        id="tspan6663">協會:</svg:tspan></svg:text>
   <svg:text
      sodipodi:linespacing="125%"
-     x="344.01999"
+     x="370.01999"
      y="721.14203"
      id="text5640-2-4-7-8"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#aa4400;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"><svg:tspan
-       x="344.01999"
+       x="370.01999"
        y="721.14203"
        id="tspan5579-8-3-8-8"
        style="font-weight:normal;-inkscape-font-specification:DejaVu Serif"><svg:tspan
@@ -44946,9 +44944,9 @@
   </svg:a>
   <svg:a
      xlink:href="maps-guide-en.svg"
-     id="a18624"
+     xlink:title="see the maps guide"
      transform="translate(6.3236,-7.3000522)"
-     xlink:title="see the maps guide">
+     id="a18624">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -55295,9 +55293,9 @@
   </svg:a>
   <svg:a
      xlink:href="presentations/translations.svg"
-     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)"
+     id="a18624-2"
      transform="translate(58.283287,-19.261881)"
-     id="a18624-2">
+     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -55954,25 +55952,8 @@
        y="805.69507"
        x="632.43756">) , 來自</svg:tspan></svg:text>
   <svg:a
-     id="a45813-6"
-     transform="translate(-148.35491,143.4522)"
-     xlink:href="http://2011.rmll.info/"
-     xlink:title="LSM (自由軟體會議)">
-    <svg:text
-       id="text45792-3"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
-       xml:space="preserve"
-       y="548.05475"
-       x="821.18488"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan45794-2"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;font-family:DejaVu Serif"
-         y="563.05469"
-         x="821.18488">自由軟體會議</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
      id="a45879-0"
-     transform="translate(-164.92244,67.637744)"
+     transform="translate(-94.92244,67.637744)"
      xlink:href="http://osdc.tw/"
      xlink:title="臺灣開放原始碼開發者會議 (Open Source Developers' Conference, Taiwan )">
     <svg:text
@@ -55980,12 +55961,12 @@
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        xml:space="preserve"
        y="578.18103"
-       x="748.27289"
+       x="746.27289"
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan45866-1"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;font-family:DejaVu Serif"
          y="638.18103"
-         x="752.0929">OSDC,</svg:tspan></svg:text>
+         x="750.0929">OSDC.TW</svg:tspan></svg:text>
   </svg:a>
 </svg:g>
 </svg:svg>

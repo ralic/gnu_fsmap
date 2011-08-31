@@ -43175,15 +43175,15 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="3.0617474"
-   inkscape:cx="517.9743"
-   inkscape:cy="127.52839"
+   inkscape:zoom="1.0824912"
+   inkscape:cx="557.93441"
+   inkscape:cy="353.67051"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="968"
-   inkscape:window-x="-2"
+   inkscape:window-height="1060"
+   inkscape:window-x="1918"
    inkscape:window-y="-3"
    inkscape:window-maximized="1" />
 <svg:metadata
@@ -54799,9 +54799,9 @@
   </svg:a>
   <svg:a
      xlink:href="presentations/translations.svg"
-     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)"
+     id="a18624-2"
      transform="translate(58.283287,-11.261881)"
-     id="a18624-2">
+     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -55406,35 +55406,35 @@
      inkscape:connector-curvature="0" />
   <svg:text
      sodipodi:linespacing="125%"
-     x="428.68622"
-     y="710.52057"
-     id="text5640-2-6"
+     x="380.68622"
+     y="706.52057"
+     id="text5640-2"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#aa4400;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"><svg:tspan
-       x="428.68622"
-       y="710.52057"
-       id="tspan5579-8-32"
+       x="380.68622"
+       y="706.52057"
+       id="tspan5579-8"
        style="font-size:14px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">會議 :</svg:tspan></svg:text>
   <svg:a
-     id="a45813-0"
-     transform="translate(-110.59474,197.94305)"
+     id="a45813"
+     transform="translate(-106.59474,193.94305)"
      xlink:href="http://icos.org.tw/"
      xlink:title="ICOS(國際開放源碼研討會)">
     <svg:text
-       id="text45792-6"
+       id="text45792"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        xml:space="preserve"
        y="497.246"
        x="708.36603"
        sodipodi:linespacing="125%"><svg:tspan
-         id="tspan45794-1"
+         id="tspan45794"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;font-family:DejaVu Serif"
          y="512.24597"
-         x="708.36603">國際開放源碼研討會,</svg:tspan></svg:text>
+         x="708.36603">ICOS (開放源碼國際研討會)</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a45905"
-     transform="translate(-27.951499,-74.173771)"
+     transform="translate(2.0485013,-78.173771)"
      xlink:href="http://slat.org/slat/"
      xlink:title="SLAT ,中華民國軟體自由協會">
     <svg:text
@@ -55450,21 +55450,21 @@
          x="823.578">中華民國軟體自由協會</svg:tspan></svg:text>
   </svg:a>
   <svg:text
-     x="675.9798"
-     y="650.52057"
+     x="705.9798"
+     y="646.52057"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
      id="text6661"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/ca/ejercicios/map-ca-exercici-800-troba-els-errors.png"
      inkscape:export-xdpi="69.204079"
      inkscape:export-ydpi="69.204079"><svg:tspan
-       x="675.9798"
-       y="710.52057"
+       x="705.9798"
+       y="706.52057"
        style="font-size:14px;font-weight:normal;text-anchor:end;fill:#aa4400;-inkscape-font-specification:DejaVu Serif"
        id="tspan6663">協會:</svg:tspan></svg:text>
   <svg:a
      id="a45879-0"
-     transform="translate(-112.92244,71.63774)"
+     transform="translate(-84.922439,67.637739)"
      xlink:href="http://osdc.tw/"
      xlink:title="臺灣開放原始碼開發者會議 (Open Source Developers' Conference, Taiwan )">
     <svg:text
@@ -55477,7 +55477,7 @@
          id="tspan45866-1"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;font-family:DejaVu Serif"
          y="638.18103"
-         x="750.0929">OSDC</svg:tspan></svg:text>
+         x="750.0929">OSDC.TW</svg:tspan></svg:text>
   </svg:a>
 </svg:g>
 </svg:svg>
