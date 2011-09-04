@@ -6846,7 +6846,7 @@
   <svg:a
      transform="matrix(1.3626348,0,0,1.3626348,-435.71319,-231.42006)"
      id="a23087"
-     xlink:href="http://www.top500.org/stats/list/34/osfam"
+     xlink:href="http://www.top500.org/stats/list/37/osfam"
      xlink:title="Estatístiques dels 500 més potents superordinadors, top500.org [en]">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
@@ -6857,7 +6857,7 @@
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan5494-9"
          y="548.76709"
-         x="835.13165">El 89% del TOP500</svg:tspan></svg:text>
+         x="835.13165">El 91% del TOP500</svg:tspan></svg:text>
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        xml:space="preserve"
