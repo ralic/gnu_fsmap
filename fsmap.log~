@@ -1,0 +1,279 @@
+# free software concept map log
+# By René Mérou h@es.gnu.org
+# distributed under licence GFDL>= 1.3 without invariant parts 
+# located at http://es.gnu.org/~reneme/fsmap
+# using utf-8
+# you can find this log at http://es.gnu.org/~reneme/fsmap/fsmap.log 
+# the commits for this log are at: 
+# http://git.savannah.gnu.org/gitweb/?p=fsmap.git;a=log;h=refs/heads/master
+
+# forms for translations: http://www.mallorcaweb.net/rene/svg/fsmap-tra-en-cl.html
+# fsmap-en.svg  (aka EN) for english version has several exercises and tests. 
+#     All traslations will have it too.
+# The shortname of traslations are CA for catalan fsmap-ca.svg, ES for spanish fsmap-es.svg, etc.
+# x->y means: x was corrected with y. y is in its place now.
+
+
+2011-08-24 removed from all the V5 versions the word ktouch to have a common criteria
+2011-08-23 removed from all the V5 versions the word competitivity
+2011-08-23 doble arrow added in the place of co-operation for fsmap-zh_tw.svg
+2011-08-23 cc duplicated fixed and freedoms in chinese for fsmap-zh_tw.svg
+2011-08-23 added stil more links with 首頁 in fsmap-zh_tw.svg
+2011-08-23 added some more links with 首頁 in fsmap-zh_tw.svg
+2011-08-23 added some links with 首頁 in fsmap-zh_tw.svg
+2011-08-22 readable in chinese at fsmap-zh_tw.svg
+2011-08-20 minor stetic changes in fsmap-zh_tw.svg
+2011-08-20 fsmap-zh_tw.svg is near to be ended
+2011-08-20 removed Nokia for all the maps, reason: the change of point of view and support of free software
+2011-08-20 removed 'netiquete' from all the maps V5.X
+2011-08-19 fixed some links and ended v5.5 EN,  added ZH_TW
+2011-08-18 ended EN v5.5b, i need to check everything
+2011-08-16 added exercises/with-relations-and-icons.svg and updated guides-map-en
+2011-08-16 removed a big amount of /home/h absolute links
+2011-08-16 In EN Chine and China removed, competiteness removed, fondation->foundation and more work on V5.5
+2011-08-15 didactical unit modified for 14 years old, maps-guide-en.svg and added correct short link
+2011-08-14 removed  and arranged the orange to fix the printing zone in all the english versions
+2011-08-13 added en/curses/12/tests
+2011-08-13 removed  in EN, added exercices and test for en/curses/12
+2011-08-12 changed 3 maps and links for maps-guide-en.svg
+2011-08-12 added 13 to en, working for V.5
+2011-08-12 added 12 to en, working for V.5 and started to return to the old debian logo
+2011-08-09 added version number  V.5 to the ES  map with absolute link
+2011-08-09 last commit comented in fsmap.log and updated TODO
+2011-08-09 added version number  V.5 or V.4 to the ES CA EN maps with absolute link and removed || in CA
+2011-08-09 Updated TODO file to priorice english and chinesse translations.
+2011-08-08 gr -> el (the correct shortname for the lange of Greace).  This map is still not at savannah, it's V.4.
+2011-07-13 fr -> added talk RMLL2011
+2011-07-13 maps-guide-fr.svg link fixed
+2011-07-13 maps-guide-fr.svg ended => fsmap-fr is now V.5
+2011-07-12 maps-guide-fr.svg updated with fixed ortography
+2011-07-12 maps-guide-fr.svg updated with links to different versions of avec-relations-et-icônes.svg
+2011-07-12 todo << fix link to fr version in map-guide-fr.svg
+2011-07-12 fr/exercices/avech-relations-et-icônes.svg added lines for answers
+2011-07-12 maps-guide-fr.svg improved and related inexistent maps created
+2011-07-12 fi version added
+2011-07-11 fr/maps-guide-fr.svg improved/fixed errors
+2011-07-11 maps-guide-ca.svg more updated and more submaps
+2011-07-11 started fr/niveau/13
+2011-07-11 todo.txt updated
+2011-07-11 maps-guide-ca.svg more updated and V. 5 start to be noted at maps
+2011-07-10 maps-guide-ca.svg more updated
+2011-07-10 maps-guide-ca.svg more updated
+2011-07-10 fsmap-ca has first derived map for the hypermap in ca/hipermapa/valors.svg and links
+2011-07-10 fsmap-fr to version5 with 1 test for k12 and with niveau
+2011-07-08 fsmap-fr to version 5 with exercices k12
+2011-07-08 fsmap-fr.svg and exercicies updated
+2011-07-07 fsmap-en.svg version updated
+2011-06-05 ca/cursos/3ESO/exercicis/zona-usuaris @ suport is now more complex than 2ESO
+2011-05-12 examen->exercici at ca/...amb-relaciona-i-icones-2nESO.svg
+2011-05-04 fsmap-ca now links to maps-guide-ca.svg
+2011-05-04 updated all fsmaps in ca/exercicis
+2011-05-03 sugar icon in exercices and exams at ca/cursos/3eso removen kde icon.
+2011-05-03 fsmap-contents.svg has now the Sugar amd Moodle icons and fsmap-ca.svg too
+2011-04-09 fixed catalan link error xerrades in maps-guide-es.svg
+2011-04-08 added Sugar to fsmap-es.svg
+2011-04-06 fsmap-contents.svg and fsmap-es.svg:  Moodle icon bug fixed
+2011-04-06 ES: ktouch removed , added Moodle. TODO added, moodle added to fsmap-contents.svg
+2011-04-02 updated fsmap.log with updates to copyright notices added to the maps
+2011-04-02 added reference to fsmap-log to this git repository at savanna
+2011-04-02 Initial import in git.
+2011-04-02 The proyect is now at savannah's git: 
+2011-04-02 http://git.savannah.gnu.org/gitweb/?p=fsmap.git;a=tree;hb=22bc09efdfd451ef3ef037e154e39fdc89aa5909
+2011-03-22 fsmap-ca.svg -es -en -fr  and map-contents.svg have added the copyright notice.
+2011-03-22 readme file is now README file and it has the copyright notice added.
+2011-03-22 added COPYING file with the GFDL 1.3 .
+2011-02-13 The proyect was proposed to savannah. 
+2011-01-17 all the maps go to GFDL v1.3
+2011-01-17 added form to translate it from spanish version in mallorcaweb.net/rene/svg/fsmap-tra-es-cl.html
+2011-01-17 fsmap-es.svg moved some mm the words under SOPORTE and "CafeLug," ->"CafeLug" 
+2011-01-08 es/presentaciones/traducciones.svg fixed es link and maya name for Free Software is visible.
+2011-01-08 fsmap-es.svg break line before superordenadores.
+2011-01-07 fsmap-ca.svg regions & countries separed, Xina removed, wikileaks & Valencia added.
+2011-01-07 es/index.svg added.
+2011-01-06 es/ejercicios/zona-distribuciones.svg  link to "4 zonas" fixed.
+2010-12-31 fsmap-es.svg added wikileaks as a user of free software.
+2010-12-31 es/maps-guide-es.svg updated and link added: ur1.ca/2pn9s
+2010-12-30 es updated all to version 5-RC1
+2010-12-29 ca/.../2ESO/ 4zones.svg updated.
+2010-12-28 ca/maps-guide-ca.svg  arrivar->arribar and removed favicon in the url.
+2010-12-28 updated to version 5-RC1 all the ca/cursos/3ESO maps and some of 2ESO .
+2010-12-27 updated to version 5-RC1 all the ca/exercicies maps.
+2010-12-26 updated to version 5-RC1 all the ca/. maps,
+2010-12-25 fsmap-es.svg  et -> y .
+2010-12-24 added es/ejercicios/con-relaciones-e-inconos.svg, con-relaciones.svg, sin-relaciones.svg and con-casi-nada.svg
+2010-12-24 fsmap-es.svg prepared to be printed with inkscape, instrucciones->programas que se pueden leer.
+2010-12-24 es/ejercicios/* rebuild 4zonas.svg, con-relaciones-e-iconos.svg
+2010-12-24 fsmap-ca.svg instruccions -> programes que podem llegir
+2010-12-23 es/maps-guide-es.svg created. A guide for teachers with the usual steps. Still needs work to be used.
+2010-12-23 fsmap-fr.svg removed reference to regions and to extremadura, added Spain in countries.
+2010-12-23 fsmap-es.svg starting v5.rc1 lines under names, OpenOffice->libreoffice, sorted icons, added new distros,
+2010-12-23 ubuntu-like icon,  separed paises from regiones and added Valencia to regions, open standards =>"["orgs"]" 
+2010-12-19 ca/.. fixed fondacions->fundacions in some cases
+2010-12-16 ca/.. fixed gNewSense-> Trisquel (the correct name of the icon)
+2010-12-06 ca/index-ca.svg fixed broken links.
+2010-11-30 ca/index-ca.svg added, its one index of all catalan maps.
+2010-11-30 oficial public presentation of version 4 spanish hypermap in hispagnulinux.
+2010-11-20 ca/xerrades/xerrada-lliurex2010.svg : added ca translation link and deleted "*"
+2010-11-20 es/presentaciones/charla-lliurex2010.svg : added es translation and link to youtube video
+2010-11-19 ca/xerrades/xerrada-lliurex2010.svg with link to youtube for the video we are all connected, symphony of science
+2010-11-19 ca/xerrades/index.svg created to locate all the maps, talks, ...
+2010-11-19 ca "bug squashing party"-alone, big amount of detected and fixed bugs.
+2010-11-18 ca/fsmap-ca.svg with absolute and relative links for map-ca.svg
+2010-11-18 ca/maps-guide-ca.svg and ca/maps-ca.svg  links fixed and relative
+2010-11-14 ca/maps-guide-ca.svg and ca/maps-ca.svg with 2nESO maps updated.
+2010-11-14 ca/cursos/2nESO/exercicis/correcció-errors-2nESO.svg new error red circle added. 
+2010-11-14 translated congres lliurex presentation to catalan. 
+2010-11-13 added lliure congres 2010 presentation and updates in spanish.
+2010-11-11 ca/maps-guide-ca.svg and ca/maps-ca.svg with more links added.
+2010-11-10 maps-guide-ca.svg  link to xerrades fixed.
+2010-11-10 ca/exercicis/maps-guide-ca.svg created. A guide for teachers with the usual steps.
+2010-11-08 ca/exercicis/maps-ca.svg created, and linked under 'material didàctic' in ca/fsmap-ca.svg
+2010-11-07 ca/cursos/3rESO/* added (like 2nESO)  2nESO renoved all, ca* now can be easyly printed directly from inkscape
+2010-10-27 ca/...fsmap-ca-2nESO.svg (and derivatives)  comercialitzaci->comercialització
+2010-10-27 ca/cursos/2nESO/* changed size of all the maps to be printed well directly by inkscape and laser printer
+2010-10-12 ca/cursos/2nESO/exercicis/fsmap-ca-2nESO.svg changed size of icons
+2010-10-03 ca/cursos/2nESO/exercicis/correcció-errors-2nESO.svg i troba-els-errors.svg, standards between ()
+2010-10-02 CA/cursos/2nESO/fsmap-ca-2nESO.svg for 13 years old pupils.
+2010-10-02 CA -> V4.1  author->autor, removed SUN, OpenOffice.org->LibreOffice (and icons) 
+2010-09-15 GR changed links for Fedora, openSUSE and Κώστας Αντωνάκογλου.
+2010-09-15 Reached 30 translations today. I'm Happy!! :))
+2010-09-15 GR V4.1 translation added (thanks to Κώστας Αντωνάκογλου [Antonakoglou Konstantinos]). 
+2010-09-15 New Version starts here V4.1 --------------------------------------------------------------------
+2010-09-15 V4.1 places the icons in cercles and one line and name for everyone following inspiration from visualiza.info .
+2010-09-15 V4.1 removed ututo, k3b and postgres to make it more clear
+2010-09-15 V4.1 added reference to OpenSuse and Fedora, very used gnu/linux distros in education in some countries.
+2010-09-15 V4.1 added logo like the one of ubuntu, a free logo.
+2010-09-15 I asked to Fedora to evaluate the liberation of their logo.
+2010-09-12 EN the standards organizations now are in between ()
+2010-09-12 IT translation V4 added (thx verdebinario)
+2010-09-11 DE better placed things.
+2010-09-10 DE removed 2 lugs and everything a little better placed for iceweasell.
+2010-09-09 DE sodaß -> so dass, D-A-CHsiehe->D-A-CH siehe, freiheit->Freiheit (thx Trac3R)
+2010-09-09 DE Standards between ()
+2010-09-09 DE WIKIES->WIKIS, freedom => Freiheit, and->und, under->unter, changed lugs->CLT LIVE and #of lugs  (thx Axel Beckert)
+2010-09-08 FR/exercices/* correcter following FR corrections  (thx odile)
+2010-09-08 FR the standards organizations now are in between ()
+2010-09-08 EN/exercises/error-hunting.svg and error-hunting-corrections.svg re-made reversal->reverse.
+2010-09-08 DE distribution improved.
+2010-09-07 DE translation V4 added (thx Axel Beckert)
+2010-09-07 EN icecat link to english wikipedia http://en.wikipedia.org/wiki/GNU_IceCat  and info about Apache link
+2010-09-07 FR Creative commons relocated at same line as others. And updated the pngs and FR-W. 
+2010-09-07 updated translation formulary http://www.mallorcaweb.net/rene/svg/fsmap-tra-fr-cl.html
+2010-09-07 updated translation formulary http://www.mallorcaweb.net/rene/svg/fsmap-tra-en-cl.html
+2010-09-07 forgot to say we have in OFSET a formulary for translations: http://translation.ofset.org/projects/fsmap/
+2010-09-07 FR-W added to wikipedia to the free software page: http://fr.wikipedia.org/wiki/Logiciel_libre
+2010-09-06 FR-W for wikipedia with all letters converted to paths to more good visualization.
+2010-09-06 FR OpenDocument->ODF, SOUTIEN->SUPPORT
+2010-09-06 FR (pays, entreprises, matériel, wikipédia, Extrémadure, starting capital letters, partage à l'identique, thx GL01) 
+2010-09-06 EN Fondations->Foundations non discrimination->non-discrimination, SUN removed, opendocument->ODF (thx esdaniel)
+2010-09-06 EN ", and most importantly, freedom" ->"and most importantly freedom" and cooperation->co-operation
+2010-09-06 FR événemets -> évènemets (more correct) and "des top500" -> "du top500 des", programme->logiciel (thx pti-lu)
+2010-09-06 EN/exercise/errors-hunting.svg and correction allways->alwais.  
+2010-09-01 FR/exercices/avec-relations.svg y avec-relations-et-icônes.svg  bad way to show in firefox solved. 
+2010-08-29 EN/exercise/errors-hunting.svg and correction  revelsal->reversal.
+2010-08-28 in FR/exercices pas-des-relations.svg presque-rien.svg avec-relations.svg 
+2010-08-28 and avec-relations-et-icônes.svg
+2010-08-28 in CA/exercicis sense-relacions.svg amb-relacions.svg amb-relacions-i-icones.svg
+2010-08-28 in CA/exercicis sense-casi-res.svg  all exercices for diferent levels or ages.
+2010-08-28 all CA/exercicis/ greater letters for links and title and better ordre.
+2010-08-28 added link to didactical material in FR and link to translation and comments.
+2010-08-28 changed icons order to make then apear at the end and one link to FR.
+2010-08-28 added translations svg in ES and EN.
+2010-08-28 fixed error "eassyly" -> easily in EN.
+2010-08-21 Fixed one error more in names of countries in EN.
+2010-08-21 Names and contents changed in ES/ejercicios.
+2010-08-20 Added dir ES/presentaciones with RMLL2010 content with the images fixed .
+2010-08-20 Added translation form in http://www.mallorcaweb.net/rene/svg/fsmap-tra-en-cl.html .
+2010-08-20 Fixed mistakes in EN and added link to traslations and comments.
+2010-07-11 Fixed 2 words not in english in EN.
+2010-07-11 Fixed netiquete without accent in FR.
+2010-07-10 Fixed mistakes in FR.
+2010-07-04 Fixed english words in FR version and one typo.
+2010-07-04 fixed some mistakes in CA version.
+2010-07-04 V4 for ES version.
+2010-05-09 All exercises CA changed to sort named and sort links following EN .
+2010-05-02 readme changed, no more warnings about browsers, V4 can be readed with no problems.
+2010-05-02 EN-Errors-hunting and corrections added for V4.
+2010-05-02 EN-4zones and relationated works more clean and greater letters for links.
+2010-05-01 CA and EN with better links.
+2010-05-01 V4 for EN version, 4zones for EN.
+2010-04-28 4zones for CA version and related zones.
+2010-04-25 Beter links for CA and link for icecat added to FR.
+2010-04-25 V4 for CA and FR fixed some bugs.
+2010-04-24 V4 for FR .
+2010-04-24 New Version starts here V4 --------------------------------------------------------------------
+2010-04-24 new in v4: - lots of localized links, now it's a conceptual hypermap.
+2010-04-24      - removed Gento from developers.
+2010-04-24      - logo E17 updated.
+2010-04-24      - New logo for Apache, OpenSolaris and Trisquel.
+2010-04-24      - New swirl for debian, the pixerlgirl version.
+2010-04-24      - Icons sorted in a different way and with links added.
+2010-04-24      - fsmap-contents.svg added to the fsmap directory and a link to that in the maps.
+2010-04-24      - lots of stetical ajustaments. 
+2010-04-23 V4-RC3 for FR with a lot of more links and apache, added too to the fsmap-contents-svg.
+2010-04-22 V4-RC2 for FR with bug fixed and still more links and a word deleted.
+2010-04-21 V4-RC1 for FR version with a lot of new links localized and opensolaris and trisquel logos.
+2010-04-21 fsmap-contents now has trisquel and opensolaris logo added.
+2010-04-20 V4-b for ES and the AST had little changes in position of some words.
+2010-04-18 V4-b for AST .
+2010-04-16 V4-b for CA version.
+2010-04-16 hypermap V.4-beta for EN version.
+2010-04-16  new: - more links.
+2010-04-16       - Removed Gentoo.
+2010-04-16       - Changed to black logo E17.
+2010-04-16       - Al icons have a link to the related proyect.
+2010-04-16       - Added 100% free Icecat icon.
+2010-04-16       - Added link to GFDL to the fsmap-contents.svg explanations.
+2010-04-16 Found beter url for enlightenment logo for the fsmap-contents.
+2010-04-15 Added little explanation about freedoms to fsmap-contents.
+2010-04-14 List of contents and licences inside the fsmap ver.: 4
+2010-04-14 contents url: http://es.gnu.org/~reneme/fsmap/fsmap-contents.svg.
+2010-04-09 Better localizations to JP thanks to Kurose Shushi.
+2010-04-09 fixed bugs in FR and JP and deleted references to UK enterprises.
+2010-04-08 added FR traslation
+2010-04-08 ITP #576881
+2010-04-07 JP and IND versions are now localized.
+2010-04-05 triquel->trisquel, GNUHM->GHM, GNOME, in PT, REN-EN, EN, CA, IND, ES, JA, EU  
+2010-04-05 created rec-fsmap-en (aka REC-EN) recomended fsf free software concept map (v: alfa).
+2010-04-05 corrected the copileft possition.
+2010-04-03 fsmap/x/map-x  is changed to fsmap/x/fsmap-x  in all x langues.
+2010-04-03 colors increase intensiti in en version
+2010-04-03 started to add links to the maps.  The link to this web is changed.
+2010-02-23 new traslation to PT added
+2010-02-23 fixed some bugs in EN and derivaved maps.
+2010-02-18 added bug hunging and resolutions maps for EN version.
+2010-02-09 Localiced a little more the associations of IND version.
+2010-02-03 Traslated to EN version using last traslation from Leo.
+2010-02-02 Fixed bugs in ES ("open standards" and "proósito")
+2010-02-01 Reedited ES versión to make it more easy to traslate.
+2010-02-01 Added errors exercice and correction maps to ES.
+2010-01-07 Reedited all GL and CA maps to remove mistakes.
+2010-01-06 Added CA corrections page to the error hunting exercice.
+2010-01-06 corrected "examen" by "esame" in AST examens.
+2010-01-06 Added CA exercice, 3 examens and one error hunting exercice. 
+2010-01-05 Added AST exercice and 3 examens
+2010-01-05 modified word Softastur in AST and AST-W and the pngs.
+2010-01-05 added exercices and exams in ES
+2010-01-04 added catalan traslation CA and CA-W
+2010-01-04 ES and ES-W changed to remove one bug. ES-W published in wikipedia
+2010-01-03 edited AST and ES to centrate text in figures.  AST-W published in wikipedia.
+2010-01-03 edited AST-W and ES-W wikipedia versions to make text more readable
+2010-01-03 corrected AST and terms centered
+2010-01-03 indonesian traslation added, thx to Benny Ohorella
+2010-01-02 Asturian (AST) traslation added, thx to softastur
+2010-01-02 inserted copyleft sign betwen the parentesis and before GPDL
+2010-01-02 more colors changed and relations fount increased to 24 when possible in ES
+2009-12-20 Changed colors and light to make teachers black and white photocopies look better  in ES
+2009-12-20 No more shadows, that makes bad photocopies  in ES version
+2009-12-20 Added Triquel and Ututu to gNewSense, as 100% free distros
+2009-11-06 added japanish traslation
+2009-11-06 added galician and interlingua traslations
+2009-11-05 edited euskera version to add traslator name
+2009-11-04 published in bulma.net
+2009-11-04 added es.gnu.org/~reneme/fsmap waiting for access to gnu.org/fsmap
+2009-10-17 euskera version added
+2009-10-12 catalan version corrected (more syntax errors)
+2009-10-11 catalan version corrected (syntax errors)
+2009-10-10 catalan traslation added
+2009-10-06 danish traslation received, thanks to  Jonas Smedegaard
+2009-10-04 starting loging with version dated at 2009-10-04 with has es.gnu.org as server
