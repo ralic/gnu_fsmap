@@ -43361,17 +43361,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.143547"
-     inkscape:cx="215.44327"
-     inkscape:cy="297.5074"
+     inkscape:zoom="1.0717735"
+     inkscape:cx="712.5702"
+     inkscape:cy="350.83159"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
-     inkscape:window-width="1388"
-     inkscape:window-height="961"
-     inkscape:window-x="2406"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="968"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
   <svg:metadata
      id="metadata5699">
     <rdf:RDF>
@@ -43391,10 +43391,10 @@
      transform="translate(200.442, -84.695)">
     <svg:a
        xlink:href="values-zone.svg"
-       transform="matrix(0.7555811,0,0,0.51910724,560.34544,-101.74028)"
-       style="fill:url(#radialGradient130659);fill-opacity:1"
+       xlink:title="exten the values zone"
        id="a34744-7-2"
-       xlink:title="exten the values zone">
+       style="fill:url(#radialGradient130659);fill-opacity:1"
+       transform="matrix(0.7555811,0,0,0.51910724,560.34544,-101.74028)">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient130570);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423-5-4"
@@ -43407,10 +43407,10 @@
     </svg:a>
     <svg:a
        xlink:href="freedoms-zone.svg"
-       transform="matrix(0.97775266,0,0,0.57729034,53.355873,-122.22909)"
-       style="fill:url(#radialGradient130661);fill-opacity:1"
+       xlink:title="exten the freedoms zone"
        id="a34744-7-2-8"
-       xlink:title="exten the freedoms zone">
+       style="fill:url(#radialGradient130661);fill-opacity:1"
+       transform="matrix(0.97775266,0,0,0.57729034,53.355873,-122.22909)">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient36195-4-5-7);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423-5-4-8"
@@ -43423,10 +43423,10 @@
     </svg:a>
     <svg:a
        xlink:href="distributions-zone.svg"
-       transform="matrix(0.83205808,0,0,0.85358943,11.110583,39.107013)"
-       style="fill:url(#radialGradient130663);fill-opacity:1"
+       xlink:title="Exten the distributions zone"
        id="a34744"
-       xlink:title="Exten the distributions zone">
+       style="fill:url(#radialGradient130663);fill-opacity:1"
+       transform="matrix(0.82429768,0,0,0.85358943,13.861005,39.107013)">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient36195);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423"
@@ -43439,10 +43439,10 @@
     </svg:a>
     <svg:a
        xlink:href="users-zone.svg"
-       id="a34744-7"
-       style="fill:url(#radialGradient130665);fill-opacity:1"
+       xlink:title="Extend the users and developers zone"
        transform="matrix(0.88055515,0,0,0.9390664,523.91053,-30.305507)"
-       xlink:title="Extend the users and developers zone">
+       style="fill:url(#radialGradient130665);fill-opacity:1"
+       id="a34744-7">
       <svg:rect
          style="opacity:0.92000002;fill:url(#radialGradient36195-4);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect33423-5"
