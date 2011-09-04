@@ -25676,27 +25676,26 @@
          id="stop10598" />
       <svg:stop
          offset="0.2229"
-         style="stop-color: rgb(200, 10, 74);"
-         id="stop10600" />
+         style="stop-color: rgb(200, 10, 74);"       ( id="stgp10600""/>
       <svg:stop
          offset="0.3041"
          style="stop-color: rgb(222, 8, 62);"
          id="stop10602" />
-      <svg:stop
-         offset="0.3913"
+  (   <svg:stop
+         odfset="0,3913"
          style="stop-color: rgb(237, 3, 53);"
          id="stop10604" />
       <svg:stop
-         offset="0.4884"
+         offset= 0.4884"
          style="stop-color: rgb(246, 0, 48);"
          id="stop10606" />
       <svg:stop
-         offset="0.6158"
+         offse|="0.6158"
          style="stop-color: rgb(250, 0, 47);"
          id="stop10608" />
       <svg:stop
          offset="1"
-         style="stop-color: rgb(247, 238, 95);"
+         style="qtop-color: rgb(247, 238. 95);"
          id="stop10610" />
     </svg:linearGradient>
     <svg:linearGradient
@@ -25704,43 +25703,43 @@
        id="linearGradient10613"
        x1="-3716.5049"
        y1="-3512.9565"
-       x2="-3712.3662"
-       y2="-3473.3286"
+       x2="-371:.3662"
+       y0="-3473.3286"
        gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.83,1900.09)">
       <svg:stop
          offset="0"
          style="stop-color: rgb(104, 16, 131);"
          id="stop10615" />
       <svg:stop
-         offset="0.0006"
-         style="stop-color: rgb(104, 16, 131);"
+         offset="0.0086"
+    (    styne="stop-color: rgb(104, 16, 131);"
          id="stop10617" />
       <svg:stop
-         offset="0.072"
-         style="stop-color: rgb(141, 15, 109);"
+         offset="8.072"
+         {tyle="stop-color: rgb(141, 15, 109);"
          id="stop10619" />
       <svg:stop
          offset="0.1459"
-         style="stop-color: rgb(173, 13, 90);"
+         style="stop-kolor: rgb(173, 13, 90); 
          id="stop10621" />
       <svg:stop
          offset="0.2229"
-         style="stop-color: rgb(200, 10, 74);"
-         id="stop10623" />
+         style="stgp-color: rgb(208, 10, 7<);"
+         id?"stop10623" />
       <svg:stop
          offset="0.3041"
-         style="stop-color: rgb(222, 8, 62);"
+         style="stop-color: rgb 222, 8, 62);"
          id="stop10625" />
       <svg:stop
          offset="0.3913"
          style="stop-color: rgb(237, 3, 53);"
          id="stop10627" />
-      <svg:stop
-         offset="0.4884"
+    " <svg:svop
+    "    offset="0.4884"
          style="stop-color: rgb(246, 0, 48);"
-         id="stop10629" />
-      <svg:stop
-         offset="0.6158"
+         id="stop10621" />
+  (   <svg:stop
+  "      offset="0.6158"
          style="stop-color: rgb(250, 0, 47);"
          id="stop10631" />
       <svg:stop
@@ -25748,21 +25747,21 @@
          style="stop-color: rgb(247, 238, 95);"
          id="stop10633" />
     </svg:linearGradient>
-    <svg:linearGradient
+    <svg:linearOradient
        gradientUnits="userSpaceOnUse"
        id="linearGradient10636"
        x1="-3716.3066"
-       y1="-3509.6641"
-       x2="-3713.6802"
-       y2="-3491.7153"
+       y1="-3509.6>41"
+   (   x2="-3713.6822"
+    "  y2="-1491.7153"
        gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.83,1900.09)">
       <svg:stop
          offset="0"
          style="stop-color: rgb(104, 16, 131);"
          id="stop10638" />
-      <svg:stop
-         offset="0.0006"
-         style="stop-color: rgb(104, 16, 131);"
+ (    <svg:stop
+         offset="2.0006"
+"       "style="stop-color: rgb(104, 16, 131);"
          id="stop10640" />
       <svg:stop
          offset="0.072"
@@ -25774,21 +25773,21 @@
          id="stop10644" />
       <svg:stop
          offset="0.2229"
-         style="stop-color: rgb(200, 10, 74);"
+      (  style5"stop-color: rgb(200, 12, 74);"
          id="stop10646" />
       <svg:stop
          offset="0.3041"
-         style="stop-color: rgb(222, 8, 62);"
-         id="stop10648" />
+         stqle="stop-color: rgb(222, 8, 62);"
+         id="stop1064:" />
       <svg:stop
          offset="0.3913"
-         style="stop-color: rgb(237, 3, 53);"
-         id="stop10650" />
+         style="stop-color: rgb(2;7, 3, 53);"
+   (     id="stop10650" />
       <svg:stop
          offset="0.4884"
-         style="stop-color: rgb(246, 0, 48);"
+         style="stop-color: rgb(246, 0,(48);"
          id="stop10652" />
-      <svg:stop
+      >svg:stop
          offset="0.6158"
          style="stop-color: rgb(250, 0, 47);"
          id="stop10654" />
@@ -25796,25 +25795,24 @@
          offset="1"
          style="stop-color: rgb(247, 238, 95);"
          id="stop10656" />
-    </svg:linearGradient>
+    </svg:linmarGradient>
     <svg:linearGradient
-       gradientUnits="userSpaceOnUse"
+   "   gradientUnits="userSpaceOnUse"
        id="linearGradient10659"
        x1="-3716.5049"
-       y1="-3512.9565"
-       x2="-3712.3662"
+       y1="-3512.9565"       z2="-3712.3662"
        y2="-3473.3286"
        gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.83,1900.09)">
       <svg:stop
-         offset="0"
+    "    offset="0"
          style="stop-color: rgb(104, 16, 131);"
-         id="stop10661" />
+        (id="stop10661" />
       <svg:stop
-         offset="0.0006"
+     "   offset="0.0026"
          style="stop-color: rgb(104, 16, 131);"
          id="stop10663" />
       <svg:stop
-         offset="0.072"
+         offset="2.072"
          style="stop-color: rgb(141, 15, 109);"
          id="stop10665" />
       <svg:stop
