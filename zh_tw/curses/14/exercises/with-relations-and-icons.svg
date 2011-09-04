@@ -43318,17 +43318,17 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="3.0617475"
-   inkscape:cx="178.21901"
-   inkscape:cy="122.46154"
+   inkscape:zoom="1.0824912"
+   inkscape:cx="260.87641"
+   inkscape:cy="21.973783"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
-   inkscape:window-width="1920"
-   inkscape:window-height="1060"
-   inkscape:window-x="1918"
-   inkscape:window-y="-3"
-   inkscape:window-maximized="1" />
+   inkscape:window-width="1075"
+   inkscape:window-height="953"
+   inkscape:window-x="1920"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0" />
 <svg:metadata
    id="metadata5699">
   <rdf:RDF>
@@ -43337,7 +43337,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -53993,9 +53993,9 @@
   </svg:a>
   <svg:a
      xlink:href="presentations/translations.svg"
-     id="a18624-2"
+     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)"
      transform="translate(58.283287,-11.261881)"
-     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
+     id="a18624-2">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -54611,7 +54611,7 @@
      inkscape:export-xdpi="259.52716"
      inkscape:export-ydpi="259.52716" />
   <svg:text
-     x="-142.34801"
+     x="-144.34801"
      y="793.76843"
      id="text10274-5"
      xml:space="preserve"
@@ -54619,7 +54619,7 @@
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/en/exercises/map-exercise-add-examples-en-3000.png"
      inkscape:export-xdpi="259.52716"
      inkscape:export-ydpi="259.52716"><svg:tspan
-       x="-142.34801"
+       x="-144.34801"
        y="793.76843"
        id="tspan10280-0-0"
        style="font-size:9px;text-align:start;text-anchor:start;fill:#550000">練習: 對每一個項目寫下範例</svg:tspan></svg:text>
