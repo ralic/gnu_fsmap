@@ -13,7 +13,7 @@
    inkscape:export-ydpi="68.930984"
    inkscape:export-xdpi="68.930984"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/fr/présentations/avantages-800.png"
-   sodipodi:docname="avantages.svg"
+   sodipodi:docname="advantages.svg"
    inkscape:version="0.48.1 r9760"
    version="1.1"
    id="svg10911"
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="349.94442"
-     inkscape:cy="345.2496"
+     inkscape:cx="390.2878"
+     inkscape:cy="345.26913"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
@@ -26891,7 +26891,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
@@ -27359,7 +27359,7 @@
          sodipodi:role="line"
          x="55.45771"
          y="992.95422"
-         style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">without to loose</svg:tspan><svg:tspan
+         style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">without to lose</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="55.45771"
          y="1016.7042"
@@ -27758,7 +27758,7 @@
          y="783.5932"
          x="72.21627"
          sodipodi:role="line"
-         id="tspan8096">AVANTAGES</svg:tspan></svg:text>
+         id="tspan8096">ADVANTAGES</svg:tspan></svg:text>
     <svg:rect
        width="162.5153"
        height="56.007702"
@@ -27811,24 +27811,24 @@
        sodipodi:linespacing="125%"
        xml:space="preserve"
        style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       x="-38.919128"
+       x="-32.919128"
        y="600.453"
        id="text5567-3-8-1-0-7"><svg:tspan
          id="tspan9202"
          sodipodi:role="line"
-         x="-38.919128"
+         x="-32.919128"
          y="600.453"
          style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">have a</svg:tspan><svg:tspan
          sodipodi:role="line"
-         x="-38.919128"
+         x="-32.919128"
          y="624.203"
          style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-         id="tspan8140">more agil</svg:tspan></svg:text>
+         id="tspan8140">more agile</svg:tspan></svg:text>
     <svg:a
        xlink:href="traductions.svg"
-       id="a25210"
+       xlink:title="Voir un exemple de plusieurs traductions sur la carte"
        transform="matrix(1.0655677,0,0,1.0655677,35.346047,-27.919403)"
-       xlink:title="Voir un exemple de plusieurs traductions sur la carte">
+       id="a25210">
       <svg:image
          style="filter:url(#filter25158)"
          y="500.1308"
@@ -28153,7 +28153,7 @@
        sodipodi:cy="326.35269"
        sodipodi:rx="45.456863"
        sodipodi:ry="25.75889"
-       d="m 1194.0003,326.35269 a 45.456863,25.75889 0 1 1 -90.9137,0 45.456863,25.75889 0 1 1 90.9137,0 z"
+       d="m 1194.0003,326.35269 c 0,14.22624 -20.3517,25.75889 -45.4568,25.75889 -25.1052,0 -45.4569,-11.53265 -45.4569,-25.75889 0,-14.22624 20.3517,-25.75889 45.4569,-25.75889 25.1051,0 45.4568,11.53265 45.4568,25.75889 z"
        transform="matrix(0.91992883,0,0,1.0784314,-537.2555,448.92941)" />
     <svg:path
        sodipodi:type="arc"
@@ -28163,7 +28163,7 @@
        sodipodi:cy="326.35269"
        sodipodi:rx="45.456863"
        sodipodi:ry="25.75889"
-       d="m 1194.0003,326.35269 a 45.456863,25.75889 0 1 1 -90.9137,0 45.456863,25.75889 0 1 1 90.9137,0 z"
+       d="m 1194.0003,326.35269 c 0,14.22624 -20.3517,25.75889 -45.4568,25.75889 -25.1052,0 -45.4569,-11.53265 -45.4569,-25.75889 0,-14.22624 20.3517,-25.75889 45.4569,-25.75889 25.1051,0 45.4568,11.53265 45.4568,25.75889 z"
        transform="matrix(0.90833333,0,0,1.064838,-468.60903,455.6073)" />
     <svg:path
        sodipodi:type="arc"
@@ -28173,7 +28173,7 @@
        sodipodi:cy="326.35269"
        sodipodi:rx="45.456863"
        sodipodi:ry="25.75889"
-       d="m 1194.0003,326.35269 a 45.456863,25.75889 0 1 1 -90.9137,0 45.456863,25.75889 0 1 1 90.9137,0 z"
+       d="m 1194.0003,326.35269 c 0,14.22624 -20.3517,25.75889 -45.4568,25.75889 -25.1052,0 -45.4569,-11.53265 -45.4569,-25.75889 0,-14.22624 20.3517,-25.75889 45.4569,-25.75889 25.1051,0 45.4568,11.53265 45.4568,25.75889 z"
        transform="matrix(0.81854838,0,0,0.99509807,-485.6552,470.94843)" />
     <svg:text
        sodipodi:linespacing="125%"
@@ -28356,9 +28356,9 @@
          x="-34.234917">2011-08-30</svg:tspan></svg:text>
     <svg:a
        xlink:href="../ejercicios/"
-       transform="translate(-921.3779,347.71251)"
+       xlink:title="Ejercicios para iniciar la unidad didáctica sobre software libre"
        id="a18624-4"
-       xlink:title="Ejercicios para iniciar la unidad didáctica sobre software libre">
+       transform="translate(-921.3779,347.71251)">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -28375,9 +28375,9 @@
     </svg:a>
     <svg:a
        xlink:href="xerrada-lliurex2010.svg"
-       transform="translate(7.6392786,10.408155)"
+       id="a7924"
        xlink:title="veure xerrada del congres de lliurex 2010"
-       id="a7924">
+       transform="translate(7.6392786,10.408155)">
       <svg:text
          id="text7920"
          y="453.91574"
