@@ -43176,8 +43176,8 @@
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
    inkscape:zoom="1.002826"
-   inkscape:cx="481.79405"
-   inkscape:cy="337.71322"
+   inkscape:cx="397.63616"
+   inkscape:cy="313.44137"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
@@ -43194,7 +43194,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -43281,7 +43281,7 @@
      inkscape:export-ydpi="259.6308"
      inkscape:connector-curvature="0" />
   <svg:path
-     d="M 151.34764,500.88695 75.896743,570.52743"
+     d="M 170.03316,492.77814 94.582267,562.41862"
      id="path5385-2"
      style="fill:none;stroke:#000000;stroke-width:1.74925005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -43371,7 +43371,7 @@
      inkscape:export-ydpi="259.6308"
      inkscape:connector-curvature="0" />
   <svg:g
-     transform="matrix(0.173469,0,0,0.173469,926.959,370.761)"
+     transform="matrix(0.173469,0,0,0.173469,889.81397,370.761)"
      id="g21393-1"
      style="stroke:#000cff;stroke-opacity:1"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -43457,7 +43457,7 @@
          id="tspan11681-6"
          y="339.10599"
          x="78.849602"
-         sodipodi:role="line">Shared source,</svg:tspan></svg:text>
+         sodipodi:role="line">分享原始碼,</svg:tspan></svg:text>
   </svg:a>
   <svg:rect
      width="142.60982"
@@ -43713,9 +43713,10 @@
        sodipodi:linespacing="125%"><svg:tspan
          id="tspan5494-9"
          y="550.76703"
-         x="835.13202">TOP500 <svg:tspan
-   style="font-size:14px"
-   id="tspan12951">超級電腦中佔</svg:tspan> 91%</svg:tspan></svg:text>
+         x="835.13202">在 TOP 500 超級電腦 8 個中有9 個</svg:tspan><svg:tspan
+         y="550.76703"
+         x="835.13202"
+         id="tspan12796" /></svg:text>
   </svg:a>
   <svg:a
      id="a29086"
@@ -44201,7 +44202,7 @@
          id="tspan11681-6-5-8"
          y="323.047"
          x="108.339"
-         sodipodi:role="line">(Copyright    ),</svg:tspan></svg:text>
+         sodipodi:role="line">(版權    ),</svg:tspan></svg:text>
   </svg:a>
   <svg:text
      xml:space="preserve"
@@ -44432,8 +44433,8 @@
        id="tspan5579-8-3-8-8-2"
        style="font-size:14px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">網路即時聊天室 </svg:tspan></svg:text>
   <svg:text
-     x="78.491257"
-     y="514.74353"
+     x="66.943916"
+     y="510.15878"
      transform="matrix(0.99981058,-0.01946307,0.01946307,0.99981058,0,0)"
      id="text5301"
      xml:space="preserve"
@@ -44441,10 +44442,24 @@
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       x="78.491257"
-       y="514.74353"
+       x="66.943916"
+       y="510.15878"
        id="tspan5303"
-       style="font-size:24.00000572px;font-weight:normal">編譯</svg:tspan></svg:text>
+       style="font-size:24.00000572px;font-weight:normal">使其混</svg:tspan></svg:text>
+  <svg:text
+     x="66.476814"
+     y="534.15436"
+     transform="matrix(0.99981058,-0.01946307,0.01946307,0.99981058,0,0)"
+     xml:space="preserve"
+     style="font-size:16.00000381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
+     inkscape:export-xdpi="259.6308"
+     inkscape:export-ydpi="259.6308"
+     id="text14278"><svg:tspan
+       x="66.476814"
+       y="534.15436"
+       style="font-size:24.00000572px;font-weight:normal"
+       id="tspan14280">淆成</svg:tspan></svg:text>
   <svg:text
      x="227.142"
      y="529.79901"
@@ -44553,10 +44568,15 @@
        x="-106.34419"
        y="185.73228"
        id="tspan25801"
-       style="font-size:14px">不論任何目的</svg:tspan><svg:tspan
+       style="font-size:14px">以每台電腦一</svg:tspan><svg:tspan
        sodipodi:role="line"
        x="-106.34419"
-       y="200.73228"
+       y="203.23228"
+       style="font-size:14px"
+       id="tspan14191">個授權在非軍事用途上</svg:tspan><svg:tspan
+       sodipodi:role="line"
+       x="-106.34419"
+       y="220.73228"
        id="tspan14558"
        style="font-size:14px">(自由之零)</svg:tspan></svg:text>
   <svg:text
@@ -44569,10 +44589,10 @@
        x="43.016251"
        y="185.73814"
        id="tspan25799"
-       style="font-size:14px">達到所希望的功能</svg:tspan><svg:tspan
+       style="font-size:14px">透過軟體逆向工程</svg:tspan><svg:tspan
        sodipodi:role="line"
        x="43.016251"
-       y="200.73814"
+       y="203.23814"
        id="tspan13015"
        style="font-size:14px">(自由之一)</svg:tspan></svg:text>
   <svg:text
@@ -44585,10 +44605,10 @@
        x="209.65758"
        y="185.72057"
        id="tspan13013-6"
-       style="font-size:14px">任何副本</svg:tspan><svg:tspan
+       style="font-size:14px">限制自由複製</svg:tspan><svg:tspan
        sodipodi:role="line"
        x="209.65758"
-       y="200.72057"
+       y="203.22057"
        id="tspan13015-1"
        style="font-size:14px">(自由之二)</svg:tspan></svg:text>
   <svg:text
@@ -44724,7 +44744,7 @@
        x="663.06598"
        y="270.33383"
        id="tspan5598"
-       style="font-size:21.0108242px;font-weight:normal">呈現</svg:tspan></svg:text>
+       style="font-size:21.0108242px;font-weight:normal">忽略</svg:tspan></svg:text>
   <svg:text
      x="661.59949"
      y="377.40909"
@@ -44787,10 +44807,15 @@
        x="343.63715"
        y="185.744"
        id="tspan13157"
-       style="font-size:14px">整體社群利益</svg:tspan><svg:tspan
+       style="font-size:14px">需要對</svg:tspan><svg:tspan
        sodipodi:role="line"
        x="343.63715"
-       y="200.744"
+       y="203.244"
+       style="font-size:14px"
+       id="tspan14197">整體社群有益處</svg:tspan><svg:tspan
+       sodipodi:role="line"
+       x="343.63715"
+       y="220.744"
        id="tspan13015-1-7"
        style="font-size:14px">(自由之三)</svg:tspan></svg:text>
   <svg:text
@@ -44802,13 +44827,13 @@
        sodipodi:role="line"
        x="557.25598"
        y="143.336"
-       id="tspan22746"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'">能以合乎倫理道</svg:tspan><svg:tspan
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'"
+       id="tspan22894"> 非正常管道方</svg:tspan><svg:tspan
        sodipodi:role="line"
        x="557.25598"
        y="183.336"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'文泉驛正黑';-inkscape-font-specification:'文泉驛正黑 Medium'"
-       id="tspan22894">德的方式來了解</svg:tspan></svg:text>
+       id="tspan12818">式來認識軟體</svg:tspan></svg:text>
   <svg:text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -44818,13 +44843,13 @@
        sodipodi:role="line"
        x="556.96887"
        y="212.35699"
-       id="tspan13308"
-       style="font-size:14px">在軟體本身的開發、</svg:tspan><svg:tspan
+       id="tspan22898"
+       style="font-size:14px">在本身的開發、</svg:tspan><svg:tspan
        sodipodi:role="line"
        x="556.96887"
-       y="227.35699"
-       id="tspan22898"
-       style="font-size:14px">散布 、商業化與使用上</svg:tspan></svg:text>
+       y="229.85699"
+       style="font-size:14px"
+       id="tspan14171">獨占市場、散佈與使用</svg:tspan></svg:text>
   <svg:text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -44840,7 +44865,12 @@
        x="216.021"
        y="655.63531"
        id="tspan22896"
-       style="font-size:14px">範本,聲音,影像, <svg:tspan
+       style="font-size:14px">範本,聲音,Google 照片,</svg:tspan><svg:tspan
+       sodipodi:role="line"
+       x="216.021"
+       y="674.16455"
+       style="font-size:14px"
+       id="tspan12820"><svg:tspan
    style="font-size:13px"
    id="tspan12963">FAQs</svg:tspan>, 手冊</svg:tspan></svg:text>
   <svg:text
@@ -45000,7 +45030,11 @@
          x="519.49799"
          y="802.85699"
          id="tspan4310-9-7-1-9-0-9"
-         style="font-size:9px">最新版本之自由軟體概念圖 (</svg:tspan></svg:text>
+         style="font-size:9px">最新版本之盜版軟體概念圖 (</svg:tspan><svg:tspan
+         x="519.49799"
+         y="802.85699"
+         style="font-size:9px"
+         id="tspan14145" /></svg:text>
   </svg:a>
   <svg:a
      id="a14136-6"
@@ -54852,7 +54886,7 @@
   <svg:a
      id="a45423-9"
      xlink:href="http://www.uclinux.org/"
-     transform="translate(3.18988,49.32107)"
+     transform="translate(-8.81012,49.32107)"
      xlink:title="Oficial web site of uClinux">
     <svg:text
        id="text15103-2-8-9"
@@ -54864,22 +54898,6 @@
          y="508.06299"
          x="-5.6083002"
          sodipodi:role="line">uClinux...</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
-     id="a45423-9-1"
-     transform="translate(-47.98982,54.63551)"
-     xlink:href="http://fedoraproject.org/"
-     xlink:title="Oficial web site ofFedora">
-    <svg:text
-       id="text15103-2-8-9-5"
-       y="502.06299"
-       x="-3.6083002"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
-       xml:space="preserve"><svg:tspan
-         id="tspan15109-3-8-6-5"
-         y="502.06299"
-         x="-3.6083002"
-         sodipodi:role="line">Fedora,</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a45423-9-1-5"
@@ -54895,7 +54913,7 @@
          id="tspan15109-3-8-6-5-9"
          y="506.56094"
          x="-16.728714"
-         sodipodi:role="line">OpenSUSE,</svg:tspan></svg:text>
+         sodipodi:role="line">Windows 作業系統,</svg:tspan></svg:text>
   </svg:a>
   <svg:path
      inkscape:connector-curvature="0"
@@ -55506,7 +55524,7 @@
   </svg:a>
   <svg:path
      sodipodi:type="arc"
-     style="opacity:0.61242604;fill:none;stroke:#f92326;stroke-width:4.39062309;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     style="opacity:0.61242604000000000;fill:none;stroke:#f92326;stroke-width:2.92708221;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
      id="path5657-55-52"
      sodipodi:cx="-14.289102"
      sodipodi:cy="404.2955"
@@ -55541,8 +55559,8 @@
      sodipodi:cy="404.2955"
      sodipodi:rx="49.046375"
      sodipodi:ry="19.695789"
-     d="m 34.757274,404.2955 a 49.046375,19.695789 0 1 1 -98.092751,0 49.046375,19.695789 0 1 1 98.092751,0 z"
-     transform="matrix(2.323376,0,0,0.52639037,495.92804,256.88942)"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(1.7568186,0,0,0.39803644,487.9749,306.16473)"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
      inkscape:export-xdpi="69.204079"
      inkscape:export-ydpi="69.204079" />
@@ -55555,7 +55573,7 @@
        sodipodi:role="line"
        x="460.98105"
        y="472.4238"
-       id="tspan13671">Bill and Melinda Gates foundation,</svg:tspan></svg:text>
+       id="tspan12787">比爾蓋茲與其發起之基金會</svg:tspan></svg:text>
   <svg:path
      sodipodi:type="arc"
      style="opacity:0.61242604;fill:none;stroke:#f70808;stroke-width:2.01426578;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -55564,7 +55582,7 @@
      sodipodi:cy="404.2955"
      sodipodi:rx="49.046375"
      sodipodi:ry="19.695789"
-     d="m 34.757274,404.2955 a 49.046375,19.695789 0 1 1 -98.092751,0 49.046375,19.695789 0 1 1 98.092751,0 z"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
      transform="matrix(0.83159317,0,0,0.44635752,172.06005,154.42932)"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
      inkscape:export-xdpi="69.204079"
@@ -55577,7 +55595,7 @@
      sodipodi:cy="404.2955"
      sodipodi:rx="49.046375"
      sodipodi:ry="19.695789"
-     d="m 34.757274,404.2955 a 49.046375,19.695789 0 1 1 -98.092751,0 49.046375,19.695789 0 1 1 98.092751,0 z"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
      transform="matrix(1.0542452,0,0,0.42919897,152.57201,176.34255)"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
      inkscape:export-xdpi="69.204079"
@@ -55590,8 +55608,164 @@
      sodipodi:cy="404.2955"
      sodipodi:rx="49.046375"
      sodipodi:ry="19.695789"
-     d="m 34.757274,404.2955 a 49.046375,19.695789 0 1 1 -98.092751,0 49.046375,19.695789 0 1 1 98.092751,0 z"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
      transform="matrix(0.4013524,0,0,0.45445599,813.69322,285.95525)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604;fill:none;stroke:#f70808;stroke-width:1.03417349;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-9-0-9-6"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(2.0866975,0,0,0.39803644,759.87495,387.04421)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604;fill:none;stroke:#f92326;stroke-width:2.9270823;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-52-3"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(0.89460704,0,0,0.5218646,259.59415,440.68233)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604000000000;fill:none;stroke:#f92326;stroke-width:2.18209569;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-52-3-2"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(1.1125755,0,0,0.42472267,464.12257,626.68683)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604;fill:none;stroke:#f92326;stroke-width:2.9270823;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-52-0"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(0.76078275,0,0,0.5218646,526.32363,14.398311)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604000000000;fill:none;stroke:#f92326;stroke-width:1.30398088;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-52-6"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(1.5490655,0,0,0.85422109,-83.450311,-154.62963)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604000000000;fill:none;stroke:#f92326;stroke-width:1.90806967;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-52-1"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(1.3515358,0,0,0.45726347,64.760782,-4.4872124)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604000000000;fill:none;stroke:#f92326;stroke-width:1.90806967;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-52-1-5"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(1.3515358,0,0,0.45726347,230.20779,-4.8611584)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604;fill:none;stroke:#f92326;stroke-width:1.30398083;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-52-6-5"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(1.2856923,0,0,0.90717893,365.38229,-176.28954)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604;fill:none;stroke:#f92326;stroke-width:2.9270823;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-52-3-4"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(0.55363083,0,0,0.540923,694.37669,40.833593)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604;fill:none;stroke:#f92326;stroke-width:2.9270823;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-52-7"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(0.77733809,0,0,1.2859493,123.73614,-10.926602)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604;fill:none;stroke:#f70808;stroke-width:2.0743103;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-4-6-6"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 c 0,10.87769 -21.958811,19.69579 -49.046376,19.69579 -27.087565,0 -49.046375,-8.8181 -49.046375,-19.69579 0,-10.87768 21.95881,-19.69579 49.046375,-19.69579 27.087565,0 49.046376,8.81811 49.046376,19.69579 z"
+     transform="matrix(1.1458323,0,0,0.35861201,-61.008565,407.47065)"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
+     inkscape:export-xdpi="69.204079"
+     inkscape:export-ydpi="69.204079" />
+  <svg:path
+     sodipodi:type="arc"
+     style="opacity:0.61242604;fill:none;stroke:#f92326;stroke-width:1.30398083;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path5657-55-52-6-5-5"
+     sodipodi:cx="-14.289102"
+     sodipodi:cy="404.2955"
+     sodipodi:rx="49.046375"
+     sodipodi:ry="19.695789"
+     d="m 34.757274,404.2955 a 49.046375,19.695789 0 1 1 -98.092751,0 49.046375,19.695789 0 1 1 98.092751,0 z"
+     transform="matrix(2.2158537,0,0,2.238409,587.58309,-755.34071)"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/ejercicios/map-es-corrección-ejercicio-caza-gazapos-800.png"
      inkscape:export-xdpi="69.204079"
      inkscape:export-ydpi="69.204079" />
