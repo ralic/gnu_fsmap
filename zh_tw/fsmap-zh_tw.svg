@@ -43182,8 +43182,8 @@
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="1060"
-   inkscape:window-x="1918"
+   inkscape:window-height="968"
+   inkscape:window-x="-2"
    inkscape:window-y="-3"
    inkscape:window-maximized="1" />
 <svg:metadata
@@ -44943,10 +44943,10 @@
          sodipodi:role="line">(IETF)</svg:tspan></svg:text>
   </svg:a>
   <svg:a
-     xlink:href="maps-guide-en.svg"
-     xlink:title="see the maps guide"
+     xlink:href="maps-guide-zh_tw.svg"
+     id="a18624"
      transform="translate(6.3236,-7.3000522)"
-     id="a18624">
+     xlink:title="see the maps guide">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -55293,9 +55293,9 @@
   </svg:a>
   <svg:a
      xlink:href="presentations/translations.svg"
-     id="a18624-2"
+     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)"
      transform="translate(58.283287,-19.261881)"
-     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
+     id="a18624-2">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
