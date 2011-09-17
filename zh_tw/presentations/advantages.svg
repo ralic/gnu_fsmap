@@ -27788,11 +27788,11 @@
          style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
          id="tspan8140">有更靈活</svg:tspan></svg:text>
     <svg:a
-       xlink:href="traductions.svg"
-       id="a38109"
-       style="filter:url(#filter38112)"
+       xlink:href="translations.svg"
+       xlink:title="翻譯"
        transform="translate(0,-10)"
-       xlink:title="翻譯">
+       style="filter:url(#filter38112)"
+       id="a38109">
       <svg:image
          width="205.71213"
          height="145.48463"
@@ -28294,9 +28294,9 @@
     </svg:a>
     <svg:a
        xlink:href="maps-guide-zh_tw.svg"
-       xlink:title="see the maps guide"
+       id="a18624"
        transform="translate(-565.21001,330.92011)"
-       id="a18624">
+       xlink:title="see the maps guide">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
