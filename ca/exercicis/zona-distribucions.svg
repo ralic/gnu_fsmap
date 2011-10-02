@@ -16,7 +16,7 @@
    id="svg5694"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="fsmap-ca.svg"
+   sodipodi:docname="zona-distribucions.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/ca/fsmap-ca-600.png"
    inkscape:export-xdpi="51.655361"
    inkscape:export-ydpi="51.655361"> Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
@@ -52,17 +52,6 @@
        id="path11568"
        style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
   </svg:marker>
-  <svg:radialGradient
-     inkscape:collect="always"
-     xlink:href="#l1-0-9-6-2-2"
-     id="radialGradient82052-1-8-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(1,0,0,0.283537,0,252.516)"
-     cx="183.53534"
-     cy="352.44836"
-     fx="183.53534"
-     fy="352.44836"
-     r="165.38348" />
   <svg:linearGradient
      id="l1-0-9-6-2-2">
     <svg:stop
@@ -74,17 +63,6 @@
        style="stop-color:#000000;stop-opacity:0"
        offset="1" />
   </svg:linearGradient>
-  <svg:radialGradient
-     inkscape:collect="always"
-     xlink:href="#l1-0-9-6-2-2"
-     id="radialGradient82054-4-3-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(1,0,0,0.283537,0,252.516)"
-     cx="183.53534"
-     cy="352.44836"
-     fx="183.53534"
-     fy="352.44836"
-     r="165.38348" />
   <svg:linearGradient
      x1="137.742"
      y1="108.994"
@@ -373,16 +351,6 @@
        style="font-size:12px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
   </svg:clipPath>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9039-9-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="381.34219"
-     y1="191.93869"
-     x2="383.04688"
-     y2="247.90936" />
-  <svg:linearGradient
      id="linearGradient3509-9-3-3-4">
     <svg:stop
        id="stop3511-5-7-0-8"
@@ -393,227 +361,6 @@
        offset="1"
        style="stop-color:#ffffff;stop-opacity:0;" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9041-5-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="318.69376"
-     y1="198.74815"
-     x2="318.86661"
-     y2="255.63063" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9043-2-5"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="445.7951"
-     y1="198.44858"
-     x2="438.59241"
-     y2="255.81599" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9045-5-4"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="257.7309"
-     y1="240.82478"
-     x2="300.71875"
-     y2="240.82478" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9047-4-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="506.375"
-     y1="218.1875"
-     x2="475.69058"
-     y2="264.98077" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9049-7-5"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="202.37982"
-     y1="249.44212"
-     x2="245.95103"
-     y2="286.28125" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9051-4-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="560.27661"
-     y1="249.84375"
-     x2="514.25"
-     y2="285.78125" />
-  <svg:radialGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="radialGradient9053-4-4"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.03485872,-0.05505735,0.06516473,0.04125805,769.43637,562.98939)"
-     cx="524.92188"
-     cy="558.96472"
-     fx="524.92188"
-     fy="558.96472"
-     r="17.515625" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9055-3-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="154.62117"
-     y1="291.5267"
-     x2="210.60495"
-     y2="315.24637" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9057-0-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="609.40625"
-     y1="291.875"
-     x2="558.26556"
-     y2="319.74561" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3262-4-1-8-9"
-     id="linearGradient9059-7-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="580.92993"
-     y1="653.38116"
-     x2="580.92993"
-     y2="706.513" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9061-8-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="186.59787"
-     y1="653.09375"
-     x2="186.59787"
-     y2="701.6875" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9063-6-4"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="543.8891"
-     y1="690.3689"
-     x2="546.1084"
-     y2="748.35437" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9065-8-7"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="221.06584"
-     y1="690.28125"
-     x2="221.63947"
-     y2="742.41943" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9067-8-7"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="498.71881"
-     y1="722.67517"
-     x2="504.24789"
-     y2="773.81586" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9069-4-5"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="263.92017"
-     y1="719.53125"
-     x2="262.10007"
-     y2="775.99207" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9071-3-4"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="315.32422"
-     y1="739.15625"
-     x2="318.11243"
-     y2="781.1015" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9073-1-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="433.34247"
-     y1="743.75"
-     x2="439.75153"
-     y2="770.08527" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9075-4-1"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="382.35052"
-     y1="749.875"
-     x2="382.35052"
-     y2="779.81976" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9077-9-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="382.54953"
-     y1="280.10577"
-     x2="382.54953"
-     y2="557.28046" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9079-2-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="386.75247"
-     y1="362.86322"
-     x2="386.75247"
-     y2="542.24011" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9081-0-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="419.64124"
-     y1="670.63263"
-     x2="232.28918"
-     y2="457.54633" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3509-9-3-3-4"
-     id="linearGradient9083-6-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.06516473,0,0,0.06516473,789.95287,520.72559)"
-     x1="472.21875"
-     y1="648.46875"
-     x2="499.21875"
-     y2="694.03125" />
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#AIgd1-6"
@@ -707,16 +454,6 @@
        id="stop8289-15" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd3-8"
-     id="linearGradient9219-5-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3817.4316"
-     y1="-3498.7192"
-     x2="-3818.3076"
-     y2="-3475.5176" />
-  <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd3-8"
      x1="-3817.4316"
@@ -799,16 +536,6 @@
        id="stop8331-2" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd3-8"
-     id="linearGradient9221-6-1"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3817.4316"
-     y1="-3498.7192"
-     x2="-3818.3076"
-     y2="-3475.5176" />
-  <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd6-7"
      x1="-3825.4375"
@@ -849,16 +576,6 @@
        style="stop-color:#F7EE5F"
        id="stop8354-3" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd3-8"
-     id="linearGradient9223-3-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3817.4316"
-     y1="-3498.7192"
-     x2="-3818.3076"
-     y2="-3475.5176" />
   <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd8-89"
@@ -901,26 +618,6 @@
        id="stop8377-4" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd3-8"
-     id="linearGradient9225-9-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3817.4316"
-     y1="-3498.7192"
-     x2="-3818.3076"
-     y2="-3475.5176" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd10-7"
-     id="linearGradient9227-4-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3872.1543"
-     y1="-3503.9727"
-     x2="-3872.3848"
-     y2="-3493.1567" />
-  <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd10-7"
      x1="-3872.1543"
@@ -953,16 +650,6 @@
        style="stop-color:#F7EE5F"
        id="stop8396-3" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd11-9"
-     id="linearGradient9229-8-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3878.0732"
-     y1="-3508.4204"
-     x2="-3874.5449"
-     y2="-3484.9487" />
   <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd11-9"
@@ -997,46 +684,6 @@
        id="stop8413-4" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd10-7"
-     id="linearGradient9231-1-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3872.1543"
-     y1="-3503.9727"
-     x2="-3872.3848"
-     y2="-3493.1567" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd11-9"
-     id="linearGradient9233-2-5"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3878.0732"
-     y1="-3508.4204"
-     x2="-3874.5449"
-     y2="-3484.9487" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd10-7"
-     id="linearGradient9235-9-4"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3872.1543"
-     y1="-3503.9727"
-     x2="-3872.3848"
-     y2="-3493.1567" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd10-7"
-     id="linearGradient9237-3-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3872.1543"
-     y1="-3503.9727"
-     x2="-3872.3848"
-     y2="-3493.1567" />
-  <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd16-1"
      x1="-3892.5645"
@@ -1069,26 +716,6 @@
        style="stop-color:#F7EE5F"
        id="stop8438-80" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd10-7"
-     id="linearGradient9239-9-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3872.1543"
-     y1="-3503.9727"
-     x2="-3872.3848"
-     y2="-3493.1567" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9241-0-1"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
   <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd18-10"
@@ -1131,16 +758,6 @@
        id="stop8461-5" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd19-6"
-     id="linearGradient9243-8-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3818.3081"
-     y1="-3506.1616"
-     x2="-3836.2568"
-     y2="-3532.4282" />
-  <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd19-6"
      x1="-3818.3081"
@@ -1181,126 +798,6 @@
        style="stop-color:#F7EE5F"
        id="stop8482-2" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9245-8-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd19-6"
-     id="linearGradient9247-5-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3818.3081"
-     y1="-3506.1616"
-     x2="-3836.2568"
-     y2="-3532.4282" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9249-0-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd19-6"
-     id="linearGradient9251-9-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3818.3081"
-     y1="-3506.1616"
-     x2="-3836.2568"
-     y2="-3532.4282" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9253-6-1"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd10-7"
-     id="linearGradient9255-3-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3872.1543"
-     y1="-3503.9727"
-     x2="-3872.3848"
-     y2="-3493.1567" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd11-9"
-     id="linearGradient9257-8-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3878.0732"
-     y1="-3508.4204"
-     x2="-3874.5449"
-     y2="-3484.9487" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd11-9"
-     id="linearGradient9259-5-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3878.0732"
-     y1="-3508.4204"
-     x2="-3874.5449"
-     y2="-3484.9487" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd11-9"
-     id="linearGradient9261-6-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3878.0732"
-     y1="-3508.4204"
-     x2="-3874.5449"
-     y2="-3484.9487" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd10-7"
-     id="linearGradient9263-1-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3872.1543"
-     y1="-3503.9727"
-     x2="-3872.3848"
-     y2="-3493.1567" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd10-7"
-     id="linearGradient9265-1-5"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3872.1543"
-     y1="-3503.9727"
-     x2="-3872.3848"
-     y2="-3493.1567" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd31-6"
-     id="linearGradient9267-5-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3644.5117"
-     y1="-3531.5527"
-     x2="-3636.6318"
-     y2="-3508.3506" />
   <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd31-6"
@@ -1351,36 +848,6 @@
        id="stop8529-8" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd31-6"
-     id="linearGradient9269-9-7"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3644.5117"
-     y1="-3531.5527"
-     x2="-3636.6318"
-     y2="-3508.3506" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd31-6"
-     id="linearGradient9271-8-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3644.5117"
-     y1="-3531.5527"
-     x2="-3636.6318"
-     y2="-3508.3506" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd31-6"
-     id="linearGradient9273-4-1"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3644.5117"
-     y1="-3531.5527"
-     x2="-3636.6318"
-     y2="-3508.3506" />
-  <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd35-1"
      x1="-3738.23"
@@ -1417,16 +884,6 @@
        style="stop-color:#F7EE5F"
        id="stop8554-0" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd36-2"
-     id="linearGradient9275-8-4"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.3066"
-     y1="-3509.6641"
-     x2="-3713.6802"
-     y2="-3491.7153" />
   <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd36-2"
@@ -1477,26 +934,6 @@
        id="stop8579-2" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd36-2"
-     id="linearGradient9277-1-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.3066"
-     y1="-3509.6641"
-     x2="-3713.6802"
-     y2="-3491.7153" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd38-0"
-     id="linearGradient9279-0-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.5049"
-     y1="-3512.9565"
-     x2="-3712.3662"
-     y2="-3473.3286" />
-  <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd38-0"
      x1="-3716.5049"
@@ -1545,26 +982,6 @@
        style="stop-color:#F7EE5F"
        id="stop8606-9" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd36-2"
-     id="linearGradient9281-3-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.3066"
-     y1="-3509.6641"
-     x2="-3713.6802"
-     y2="-3491.7153" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd38-0"
-     id="linearGradient9283-0-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.5049"
-     y1="-3512.9565"
-     x2="-3712.3662"
-     y2="-3473.3286" />
   <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd41-4"
@@ -1615,16 +1032,6 @@
        id="stop8635-9" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd42-8"
-     id="linearGradient9285-4-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3718.4951"
-     y1="-3510.1016"
-     x2="-3716.7441"
-     y2="-3482.9595" />
-  <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd42-8"
      x1="-3718.4951"
@@ -1674,106 +1081,6 @@
        id="stop8660-4" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd42-8"
-     id="linearGradient9287-4-7"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3718.4951"
-     y1="-3510.1016"
-     x2="-3716.7441"
-     y2="-3482.9595" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd38-0"
-     id="linearGradient9289-4-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.5049"
-     y1="-3512.9565"
-     x2="-3712.3662"
-     y2="-3473.3286" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd38-0"
-     id="linearGradient9291-4-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.5049"
-     y1="-3512.9565"
-     x2="-3712.3662"
-     y2="-3473.3286" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd36-2"
-     id="linearGradient9293-7-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.3066"
-     y1="-3509.6641"
-     x2="-3713.6802"
-     y2="-3491.7153" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd38-0"
-     id="linearGradient9295-6-7"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.5049"
-     y1="-3512.9565"
-     x2="-3712.3662"
-     y2="-3473.3286" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd36-2"
-     id="linearGradient9297-3-4"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.3066"
-     y1="-3509.6641"
-     x2="-3713.6802"
-     y2="-3491.7153" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd38-0"
-     id="linearGradient9299-1-4"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.5049"
-     y1="-3512.9565"
-     x2="-3712.3662"
-     y2="-3473.3286" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd36-2"
-     id="linearGradient9301-7-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.3066"
-     y1="-3509.6641"
-     x2="-3713.6802"
-     y2="-3491.7153" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9303-5-5"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd52-4"
-     id="linearGradient9305-9-7"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3690.9155"
-     y1="-3526.2993"
-     x2="-3702.7354"
-     y2="-3558.2568" />
-  <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd52-4"
      x1="-3690.9155"
@@ -1815,176 +1122,6 @@
        id="stop8699-0" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9307-6-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd52-4"
-     id="linearGradient9309-2-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3690.9155"
-     y1="-3526.2993"
-     x2="-3702.7354"
-     y2="-3558.2568" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9311-1-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd52-4"
-     id="linearGradient9313-7-1"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3690.9155"
-     y1="-3526.2993"
-     x2="-3702.7354"
-     y2="-3558.2568" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9315-8-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9317-5-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd52-4"
-     id="linearGradient9319-7-1"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3690.9155"
-     y1="-3526.2993"
-     x2="-3702.7354"
-     y2="-3558.2568" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9321-4-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd52-4"
-     id="linearGradient9323-1-7"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3690.9155"
-     y1="-3526.2993"
-     x2="-3702.7354"
-     y2="-3558.2568" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9325-8-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd52-4"
-     id="linearGradient9327-5-7"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3690.9155"
-     y1="-3526.2993"
-     x2="-3702.7354"
-     y2="-3558.2568" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9329-9-5"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd52-4"
-     id="linearGradient9331-7-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3690.9155"
-     y1="-3526.2993"
-     x2="-3702.7354"
-     y2="-3558.2568" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9333-5-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9335-3-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd18-10"
-     id="linearGradient9337-8-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3716.793"
-     y1="-3522.1724"
-     x2="-3726.813"
-     y2="-3555.1924" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd69-10"
-     id="linearGradient9339-8-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3772.377"
-     y1="-3509.7163"
-     x2="-3797.2949"
-     y2="-3537.6816" />
-  <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd69-10"
      x1="-3772.377"
@@ -2025,16 +1162,6 @@
        style="stop-color:#F7EE5F"
        id="stop8752-0" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd69-10"
-     id="linearGradient9341-3-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2070.8274,1900.0875)"
-     x1="-3772.377"
-     y1="-3509.7163"
-     x2="-3797.2949"
-     y2="-3537.6816" />
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#AIgd71-3"
@@ -2095,16 +1222,6 @@
        id="stop8779-9" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd72-59"
-     id="linearGradient9343-1-7"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2110.5286,1859.3658)"
-     x1="-3704.9473"
-     y1="-3493.9082"
-     x2="-3688.7896"
-     y2="-3442.3477" />
-  <svg:linearGradient
      gradientUnits="userSpaceOnUse"
      id="AIgd72-59"
      x1="-3704.9473"
@@ -2153,96 +1270,6 @@
        style="stop-color:#D8E7EB"
        id="stop8804-8" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd72-59"
-     id="linearGradient9345-8-7"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2110.5286,1859.3658)"
-     x1="-3704.9473"
-     y1="-3493.9082"
-     x2="-3688.7896"
-     y2="-3442.3477" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd72-59"
-     id="linearGradient9347-9-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2110.5286,1859.3658)"
-     x1="-3704.9473"
-     y1="-3493.9082"
-     x2="-3688.7896"
-     y2="-3442.3477" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd72-59"
-     id="linearGradient9349-6-4"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2110.5286,1859.3658)"
-     x1="-3704.9473"
-     y1="-3493.9082"
-     x2="-3688.7896"
-     y2="-3442.3477" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd72-59"
-     id="linearGradient9351-4-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2110.5286,1859.3658)"
-     x1="-3704.9473"
-     y1="-3493.9082"
-     x2="-3688.7896"
-     y2="-3442.3477" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd72-59"
-     id="linearGradient9353-3-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2110.5286,1859.3658)"
-     x1="-3704.9473"
-     y1="-3493.9082"
-     x2="-3688.7896"
-     y2="-3442.3477" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd72-59"
-     id="linearGradient9355-3-1"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2110.5286,1859.3658)"
-     x1="-3704.9473"
-     y1="-3493.9082"
-     x2="-3688.7896"
-     y2="-3442.3477" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd72-59"
-     id="linearGradient9357-3-7"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2110.5286,1859.3658)"
-     x1="-3704.9473"
-     y1="-3493.9082"
-     x2="-3688.7896"
-     y2="-3442.3477" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd72-59"
-     id="linearGradient9359-8-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2110.5286,1859.3658)"
-     x1="-3704.9473"
-     y1="-3493.9082"
-     x2="-3688.7896"
-     y2="-3442.3477" />
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#AIgd72-59"
-     id="linearGradient9361-6-1"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.5318,4e-4,-4e-4,0.5318,2110.5286,1859.3658)"
-     x1="-3704.9473"
-     y1="-3493.9082"
-     x2="-3688.7896"
-     y2="-3442.3477" />
   <svg:linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient8112-0-1"
@@ -2732,16 +1759,6 @@
        id="feGaussianBlur2906-6-2-2-5" />
   </svg:filter>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_18_-3-3-7-9"
-     id="linearGradient81924-7-0-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(-1,-4.37114e-8,4.37114e-8,-1,133.601,132.4)"
-     x1="9.5995998"
-     y1="68.399902"
-     x2="129.6001"
-     y2="68.399902" />
-  <svg:linearGradient
      x1="9.5995998"
      y1="68.399902"
      x2="129.6001"
@@ -2791,15 +1808,6 @@
        offset="1" />
   </svg:linearGradient>
   <svg:radialGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_20_-9-8-6-0"
-     id="radialGradient81926-5-0-1"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.982456,0,0,0.982456,-4.37895,-3.2)"
-     cx="69.600098"
-     cy="68.399902"
-     r="85" />
-  <svg:radialGradient
      cx="69.600098"
      cy="68.399902"
      r="85"
@@ -2819,15 +1827,6 @@
        style="stop-color:#709dff;stop-opacity:1"
        offset="1" />
   </svg:radialGradient>
-  <svg:radialGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_21_-0-9-5-5"
-     id="radialGradient81928-2-8-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="translate(-5.6,-4.4)"
-     cx="69.600098"
-     cy="145.3999"
-     r="141" />
   <svg:radialGradient
      cx="69.600098"
      cy="145.3999"
@@ -2862,15 +1861,6 @@
        id="use4460-1-2-4-5" />
   </svg:clipPath>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_23_-5-6-2-3"
-     id="linearGradient81930-0-6-9"
-     gradientUnits="userSpaceOnUse"
-     x1="108.00493"
-     y1="72.341148"
-     x2="115.9771"
-     y2="102.0937" />
-  <svg:linearGradient
      x1="115.9771"
      y1="72.399902"
      x2="115.9771"
@@ -2898,15 +1888,6 @@
        stdDeviation="2.4087233"
        id="feGaussianBlur4444-8-4-0-0" />
   </svg:filter>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_23_-5-6-2-3"
-     id="linearGradient81932-4-7-8"
-     gradientUnits="userSpaceOnUse"
-     x1="108.00493"
-     y1="72.341148"
-     x2="115.9771"
-     y2="102.0937" />
   <svg:filter
      color-interpolation-filters="sRGB"
      x="-0.29221493"
@@ -2919,17 +1900,6 @@
        stdDeviation="2.4087233"
        id="feGaussianBlur4448-3-8-0-5" />
   </svg:filter>
-  <svg:radialGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_27_-4-0-3-5"
-     id="radialGradient81934-1-1-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.413669,-0.558744,-0.498993,-0.369432,79.6528,167.077)"
-     cx="110.74259"
-     cy="123.17536"
-     fx="110.74259"
-     fy="123.17536"
-     r="81.292717" />
   <svg:radialGradient
      cx="76.764198"
      cy="58.0625"
@@ -2954,16 +1924,6 @@
        style="stop-color:#cacfd0;stop-opacity:1"
        offset="1" />
   </svg:radialGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_25_-3-8-2-3"
-     id="linearGradient81936-8-5-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="translate(0,2)"
-     x1="67.629204"
-     y1="-2.1941743"
-     x2="67.629204"
-     y2="78.850853" />
   <svg:radialGradient
      cx="66.136703"
      cy="0.75440001"
@@ -2980,15 +1940,6 @@
        style="stop-color:#ffffff;stop-opacity:0.16862699"
        offset="0.5" />
   </svg:radialGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_55_-9-2-8-5"
-     id="linearGradient81938-0-6"
-     gradientUnits="userSpaceOnUse"
-     x1="235.2554"
-     y1="362.52979"
-     x2="209.5681"
-     y2="632.25873" />
   <svg:linearGradient
      x1="235.2554"
      y1="362.52979"
@@ -3015,15 +1966,6 @@
        style="stop-color:#C7C7C7" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_56_-7-5-0-5"
-     id="linearGradient81940-8-1"
-     gradientUnits="userSpaceOnUse"
-     x1="300.28659"
-     y1="361.05811"
-     x2="289.78659"
-     y2="368.49561" />
-  <svg:linearGradient
      x1="300.28659"
      y1="361.05811"
      x2="289.78659"
@@ -3048,15 +1990,6 @@
        offset="1"
        style="stop-color:#158A36" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_57_-1-6-08-1"
-     id="linearGradient81942-6-1"
-     gradientUnits="userSpaceOnUse"
-     x1="195.34129"
-     y1="589.16553"
-     x2="193.7506"
-     y2="613.11407" />
   <svg:linearGradient
      x1="195.34129"
      y1="589.16553"
@@ -3083,15 +2016,6 @@
        style="stop-color:#C7C7C7" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_58_-7-0-46-6"
-     id="linearGradient81944-4-6"
-     gradientUnits="userSpaceOnUse"
-     x1="84.3013"
-     y1="120.7886"
-     x2="100.9264"
-     y2="92.894402" />
-  <svg:linearGradient
      x1="84.3013"
      y1="120.7886"
      x2="100.9264"
@@ -3117,15 +2041,6 @@
        style="stop-color:#C7C7C7" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_59_-5-1-28-0"
-     id="linearGradient81946-8-6"
-     gradientUnits="userSpaceOnUse"
-     x1="318.80521"
-     y1="27.4014"
-     x2="311.4639"
-     y2="104.4878" />
-  <svg:linearGradient
      x1="318.80521"
      y1="27.4014"
      x2="311.4639"
@@ -3150,15 +2065,6 @@
        offset="1"
        style="stop-color:#C7C7C7" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_60_-9-1-4-7"
-     id="linearGradient81948-5-2"
-     gradientUnits="userSpaceOnUse"
-     x1="202.20261"
-     y1="297.02051"
-     x2="198.685"
-     y2="243.81551" />
   <svg:linearGradient
      x1="202.20261"
      y1="297.02051"
@@ -3195,15 +2101,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_61_-1-1-0-2"
-     id="linearGradient81950-1-9"
-     gradientUnits="userSpaceOnUse"
-     x1="241.9888"
-     y1="288.54099"
-     x2="238.8549"
-     y2="241.14011" />
-  <svg:linearGradient
      x1="241.9888"
      y1="288.54099"
      x2="238.8549"
@@ -3239,15 +2136,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_62_-1-5-10-7"
-     id="linearGradient81952-8-1"
-     gradientUnits="userSpaceOnUse"
-     x1="102.7104"
-     y1="218.5977"
-     x2="170.9583"
-     y2="151.6624" />
-  <svg:linearGradient
      x1="102.7104"
      y1="218.5977"
      x2="170.9583"
@@ -3272,15 +2160,6 @@
        offset="1"
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_63_-7-9-3-3"
-     id="linearGradient81954-0-0"
-     gradientUnits="userSpaceOnUse"
-     x1="186.9639"
-     y1="247.4111"
-     x2="186.23219"
-     y2="192.0479" />
   <svg:linearGradient
      x1="186.9639"
      y1="247.4111"
@@ -3317,15 +2196,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_64_-9-0-9-7"
-     id="linearGradient81956-9-6"
-     gradientUnits="userSpaceOnUse"
-     x1="247.7876"
-     y1="236.3506"
-     x2="247.22839"
-     y2="194.0412" />
-  <svg:linearGradient
      x1="247.7876"
      y1="236.3506"
      x2="247.22839"
@@ -3360,15 +2230,6 @@
        offset="1"
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_65_-7-2-5-2"
-     id="linearGradient81958-3-0"
-     gradientUnits="userSpaceOnUse"
-     x1="171.9355"
-     y1="175.4097"
-     x2="171.07739"
-     y2="110.4789" />
   <svg:linearGradient
      x1="171.9355"
      y1="175.4097"
@@ -3405,15 +2266,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_66_-6-6-4-8"
-     id="linearGradient81960-2-0"
-     gradientUnits="userSpaceOnUse"
-     x1="236.0425"
-     y1="140.7383"
-     x2="235.55141"
-     y2="103.5789" />
-  <svg:linearGradient
      x1="236.0425"
      y1="140.7383"
      x2="235.55141"
@@ -3448,15 +2300,6 @@
        offset="1"
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_67_-8-8-5-9"
-     id="linearGradient81962-6-7"
-     gradientUnits="userSpaceOnUse"
-     x1="235.4731"
-     y1="194.3882"
-     x2="234.7554"
-     y2="140.0802" />
   <svg:linearGradient
      x1="235.4731"
      y1="194.3882"
@@ -3493,15 +2336,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_68_-6-5-8-1"
-     id="linearGradient81964-7-2"
-     gradientUnits="userSpaceOnUse"
-     x1="254.32471"
-     y1="303.9014"
-     x2="250.0932"
-     y2="239.8987" />
-  <svg:linearGradient
      x1="254.32471"
      y1="303.9014"
      x2="250.0932"
@@ -3536,15 +2370,6 @@
        offset="1"
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_69_-4-5-2-2"
-     id="linearGradient81966-0-0"
-     gradientUnits="userSpaceOnUse"
-     x1="196.6147"
-     y1="303.74371"
-     x2="192.6407"
-     y2="243.6358" />
   <svg:linearGradient
      x1="196.6147"
      y1="303.74371"
@@ -3581,15 +2406,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_70_-9-5-2-1"
-     id="linearGradient81968-1-3"
-     gradientUnits="userSpaceOnUse"
-     x1="106.9673"
-     y1="61.236801"
-     x2="101.0666"
-     y2="123.1964" />
-  <svg:linearGradient
      x1="106.9673"
      y1="61.236801"
      x2="101.0666"
@@ -3614,15 +2430,6 @@
        offset="1"
        style="stop-color:#C7C7C7" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_71_-7-6-9-7"
-     id="linearGradient81970-9-9"
-     gradientUnits="userSpaceOnUse"
-     x1="334.28561"
-     y1="203.0488"
-     x2="201.6629"
-     y2="110.4466" />
   <svg:linearGradient
      x1="334.28561"
      y1="203.0488"
@@ -3649,15 +2456,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_72_-0-0-1-9"
-     id="linearGradient81972-3-9"
-     gradientUnits="userSpaceOnUse"
-     x1="221.51559"
-     y1="241.26421"
-     x2="198.5816"
-     y2="50.100101" />
-  <svg:linearGradient
      x1="221.51559"
      y1="241.26421"
      x2="198.5816"
@@ -3682,15 +2480,6 @@
        offset="1"
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_73_-7-0-8-3"
-     id="linearGradient81974-6-5"
-     gradientUnits="userSpaceOnUse"
-     x1="237.01221"
-     y1="138.2515"
-     x2="236.51331"
-     y2="100.503" />
   <svg:linearGradient
      x1="237.01221"
      y1="138.2515"
@@ -3727,15 +2516,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_74_-4-8-0-9"
-     id="linearGradient81976-2-8"
-     gradientUnits="userSpaceOnUse"
-     x1="239.64011"
-     y1="191.49271"
-     x2="238.95129"
-     y2="139.3719" />
-  <svg:linearGradient
      x1="239.64011"
      y1="191.49271"
      x2="238.95129"
@@ -3770,17 +2550,6 @@
        offset="1"
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
-  <svg:radialGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_75_-2-4-10-0"
-     id="radialGradient81978-3-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(-0.7334,-0.6797,-0.6799,0.7323,580.625,227.5065)"
-     cx="349.05029"
-     cy="244.3535"
-     fx="349.05029"
-     fy="244.3535"
-     r="13.4613" />
   <svg:radialGradient
      cx="349.05029"
      cy="244.3535"
@@ -3819,17 +2588,6 @@
        style="stop-color:#828282" />
   </svg:radialGradient>
   <svg:radialGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_76_-9-8-0-8"
-     id="radialGradient81980-7-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(-0.2225,0.9749,0.9749,0.2225,-14.9427,10.6072)"
-     cx="89.279297"
-     cy="290.6987"
-     fx="89.279297"
-     fy="290.6987"
-     r="13.4613" />
-  <svg:radialGradient
      cx="89.279297"
      cy="290.6987"
      r="13.4613"
@@ -3867,15 +2625,6 @@
        style="stop-color:#828282" />
   </svg:radialGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_77_-0-8-0-5"
-     id="linearGradient81982-7-9"
-     gradientUnits="userSpaceOnUse"
-     x1="247.7632"
-     y1="166.021"
-     x2="247.68221"
-     y2="159.8907" />
-  <svg:linearGradient
      x1="247.7632"
      y1="166.021"
      x2="247.68221"
@@ -3910,16 +2659,6 @@
        offset="1"
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_78_-8-5-0-9"
-     id="linearGradient81984-2-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(-1,0,0,1,433.8496,0)"
-     x1="275.0112"
-     y1="171.7075"
-     x2="274.93021"
-     y2="165.5768" />
   <svg:linearGradient
      x1="275.0112"
      y1="171.7075"
@@ -3957,15 +2696,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_79_-6-0-9-4"
-     id="linearGradient81986-8-1"
-     gradientUnits="userSpaceOnUse"
-     x1="229.4966"
-     y1="252.53661"
-     x2="203.4669"
-     y2="250.4903" />
-  <svg:linearGradient
      x1="229.4966"
      y1="252.53661"
      x2="203.4669"
@@ -4001,15 +2731,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_80_-9-6-4-8"
-     id="linearGradient81988-5-4"
-     gradientUnits="userSpaceOnUse"
-     x1="238.9487"
-     y1="353.54831"
-     x2="228.8127"
-     y2="340.17831" />
-  <svg:linearGradient
      x1="238.9487"
      y1="353.54831"
      x2="228.8127"
@@ -4035,15 +2756,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_81_-9-1-6-1"
-     id="linearGradient81990-4-3"
-     gradientUnits="userSpaceOnUse"
-     x1="280.99371"
-     y1="337.771"
-     x2="278.52179"
-     y2="322.35419" />
-  <svg:linearGradient
      x1="280.99371"
      y1="337.771"
      x2="278.52179"
@@ -4068,16 +2780,6 @@
        offset="1"
        style="stop-color:#828282" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_82_-5-0-9-9"
-     id="linearGradient81992-3-2"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.7422,-0.6698,0.67,0.7425,-155.7413,244.218)"
-     x1="319.45071"
-     y1="373.74661"
-     x2="303.39041"
-     y2="366.65289" />
   <svg:linearGradient
      x1="319.45071"
      y1="373.74661"
@@ -4105,15 +2807,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_83_-8-0-1-7"
-     id="linearGradient81994-9-5"
-     gradientUnits="userSpaceOnUse"
-     x1="322.23581"
-     y1="347.75241"
-     x2="330.1106"
-     y2="329.37799" />
-  <svg:linearGradient
      x1="322.23581"
      y1="347.75241"
      x2="330.1106"
@@ -4139,15 +2832,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_84_-9-1-1-1"
-     id="linearGradient81996-8-3"
-     gradientUnits="userSpaceOnUse"
-     x1="95.626503"
-     y1="376.73581"
-     x2="114.502"
-     y2="379.36969" />
-  <svg:linearGradient
      x1="95.626503"
      y1="376.73581"
      x2="114.502"
@@ -4172,15 +2856,6 @@
        offset="1"
        style="stop-color:#828282" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_85_-8-8-2-1"
-     id="linearGradient81998-8-4"
-     gradientUnits="userSpaceOnUse"
-     x1="195.2896"
-     y1="558.15192"
-     x2="192.99139"
-     y2="384.26239" />
   <svg:linearGradient
      x1="195.2896"
      y1="558.15192"
@@ -4217,15 +2892,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_86_-9-9-2-0"
-     id="linearGradient82000-8-1"
-     gradientUnits="userSpaceOnUse"
-     x1="299.76901"
-     y1="503.23389"
-     x2="299.20639"
-     y2="460.66171" />
-  <svg:linearGradient
      x1="299.76901"
      y1="503.23389"
      x2="299.20639"
@@ -4261,15 +2927,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_87_-8-2-8-3"
-     id="linearGradient82002-1-2"
-     gradientUnits="userSpaceOnUse"
-     x1="93.6465"
-     y1="574.44379"
-     x2="90.105202"
-     y2="552.35712" />
-  <svg:linearGradient
      x1="93.6465"
      y1="574.44379"
      x2="90.105202"
@@ -4294,15 +2951,6 @@
        offset="1"
        style="stop-color:#828282" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_88_-4-9-8-1"
-     id="linearGradient82004-7-6"
-     gradientUnits="userSpaceOnUse"
-     x1="115.502"
-     y1="556.04248"
-     x2="111.9968"
-     y2="534.18121" />
   <svg:linearGradient
      x1="115.502"
      y1="556.04248"
@@ -4329,15 +2977,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_89_-1-4-3-0"
-     id="linearGradient82006-0-3"
-     gradientUnits="userSpaceOnUse"
-     x1="84.022499"
-     y1="598.94287"
-     x2="80.481102"
-     y2="576.85608" />
-  <svg:linearGradient
      x1="84.022499"
      y1="598.94287"
      x2="80.481102"
@@ -4363,15 +3002,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_90_-0-6-4-1"
-     id="linearGradient82008-7-0"
-     gradientUnits="userSpaceOnUse"
-     x1="75.272903"
-     y1="626.06787"
-     x2="71.731598"
-     y2="603.98108" />
-  <svg:linearGradient
      x1="75.272903"
      y1="626.06787"
      x2="71.731598"
@@ -4396,16 +3026,6 @@
        offset="1"
        style="stop-color:#828282" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_91_-9-6-9-6"
-     id="linearGradient82010-8-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(-1,0,0,1,459.1006,0)"
-     x1="183.7383"
-     y1="575.31787"
-     x2="180.19701"
-     y2="553.23108" />
   <svg:linearGradient
      x1="183.7383"
      y1="575.31787"
@@ -4433,16 +3053,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_92_-2-2-7-2"
-     id="linearGradient82012-5-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(-1,0,0,1,459.1006,0)"
-     x1="175.4521"
-     y1="602.44287"
-     x2="171.911"
-     y2="580.35712" />
-  <svg:linearGradient
      x1="175.4521"
      y1="602.44287"
      x2="171.911"
@@ -4468,16 +3078,6 @@
        offset="1"
        style="stop-color:#828282" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_93_-7-8-3-7"
-     id="linearGradient82014-3-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(-1,0,0,1,459.1006,0)"
-     x1="192.95261"
-     y1="549.94287"
-     x2="189.4115"
-     y2="527.85712" />
   <svg:linearGradient
      x1="192.95261"
      y1="549.94287"
@@ -4505,16 +3105,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_94_-2-5-2-1"
-     id="linearGradient82016-3-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(-1,0,0,1,459.1006,0)"
-     x1="210.84331"
-     y1="530.66748"
-     x2="207.33791"
-     y2="508.80521" />
-  <svg:linearGradient
      x1="210.84331"
      y1="530.66748"
      x2="207.33791"
@@ -4541,15 +3131,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_95_-1-3-6-7"
-     id="linearGradient82018-9-2"
-     gradientUnits="userSpaceOnUse"
-     x1="95.576202"
-     y1="539.8335"
-     x2="90.299698"
-     y2="506.9248" />
-  <svg:linearGradient
      x1="95.576202"
      y1="539.8335"
      x2="90.299698"
@@ -4574,15 +3155,6 @@
        offset="1"
        style="stop-color:#828282" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_96_-1-5-9-9"
-     id="linearGradient82020-2-7"
-     gradientUnits="userSpaceOnUse"
-     x1="73.987297"
-     y1="517.89111"
-     x2="68.711998"
-     y2="484.9895" />
   <svg:linearGradient
      x1="73.987297"
      y1="517.89111"
@@ -4609,15 +3181,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_97_-1-0-1-3"
-     id="linearGradient82022-0-4"
-     gradientUnits="userSpaceOnUse"
-     x1="228.39011"
-     y1="352.6665"
-     x2="227.0302"
-     y2="344.18451" />
-  <svg:linearGradient
      x1="228.39011"
      y1="352.6665"
      x2="227.0302"
@@ -4642,15 +3205,6 @@
        offset="1"
        style="stop-color:#828282" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_98_-1-0-0-7"
-     id="linearGradient82024-8-7"
-     gradientUnits="userSpaceOnUse"
-     x1="218.83591"
-     y1="378.229"
-     x2="216.99429"
-     y2="366.74271" />
   <svg:linearGradient
      x1="218.83591"
      y1="378.229"
@@ -4677,15 +3231,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_99_-0-2-4-2"
-     id="linearGradient82026-7-2"
-     gradientUnits="userSpaceOnUse"
-     x1="232.03661"
-     y1="397.04541"
-     x2="230.7216"
-     y2="388.84351" />
-  <svg:linearGradient
      x1="232.03661"
      y1="397.04541"
      x2="230.7216"
@@ -4711,15 +3256,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_100_-8-8-9-6"
-     id="linearGradient82028-4-3"
-     gradientUnits="userSpaceOnUse"
-     x1="160.4155"
-     y1="514.23682"
-     x2="160.4155"
-     y2="514.23682" />
-  <svg:linearGradient
      x1="160.4155"
      y1="514.23682"
      x2="160.4155"
@@ -4744,16 +3280,6 @@
        offset="1"
        style="stop-color:#828282" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_101_-6-4-0-2"
-     id="linearGradient82030-8-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(-0.9094,-0.4158,-0.4158,0.9095,584.9274,133.9088)"
-     x1="231.68311"
-     y1="553.9458"
-     x2="230.3231"
-     y2="545.46381" />
   <svg:linearGradient
      x1="231.68311"
      y1="553.9458"
@@ -4781,16 +3307,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_102_-1-6-1-6"
-     id="linearGradient82032-9-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(-0.9777,-0.2099,-0.2099,0.9777,526.7366,58.0018)"
-     x1="263.67529"
-     y1="523.59912"
-     x2="261.8335"
-     y2="512.11182" />
-  <svg:linearGradient
      x1="263.67529"
      y1="523.59912"
      x2="261.8335"
@@ -4817,16 +3333,6 @@
        style="stop-color:#828282" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_103_-4-3-2-0"
-     id="linearGradient82034-9-9"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(-0.962,-0.2729,-0.2729,0.962,546.2677,79.5255)"
-     x1="253.2056"
-     y1="538.45361"
-     x2="251.59689"
-     y2="528.42041" />
-  <svg:linearGradient
      x1="253.2056"
      y1="538.45361"
      x2="251.59689"
@@ -4852,15 +3358,6 @@
        offset="1"
        style="stop-color:#828282" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_104_-8-9-9-6"
-     id="linearGradient82036-8-9"
-     gradientUnits="userSpaceOnUse"
-     x1="162.5239"
-     y1="564.72412"
-     x2="162.11169"
-     y2="533.53088" />
   <svg:linearGradient
      x1="162.5239"
      y1="564.72412"
@@ -4897,15 +3394,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_105_-2-1-5-5"
-     id="linearGradient82038-7-3"
-     gradientUnits="userSpaceOnUse"
-     x1="179.6675"
-     y1="568.76508"
-     x2="179.1696"
-     y2="531.09497" />
-  <svg:linearGradient
      x1="179.6675"
      y1="568.76508"
      x2="179.1696"
@@ -4941,15 +3429,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_106_-6-7-99-0"
-     id="linearGradient82040-6-1"
-     gradientUnits="userSpaceOnUse"
-     x1="89.170898"
-     y1="49.848598"
-     x2="90.735397"
-     y2="61.924801" />
-  <svg:linearGradient
      x1="89.170898"
      y1="49.848598"
      x2="90.735397"
@@ -4974,15 +3453,6 @@
        style="stop-color:#888A85"
        offset="1" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_107_-3-9-53-8"
-     id="linearGradient82042-3-2"
-     gradientUnits="userSpaceOnUse"
-     x1="218.522"
-     y1="475.50339"
-     x2="218.0426"
-     y2="439.23059" />
   <svg:linearGradient
      x1="218.522"
      y1="475.50339"
@@ -5019,15 +3489,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#XMLID_108_-4-3-0-2"
-     id="linearGradient82044-7-2"
-     gradientUnits="userSpaceOnUse"
-     x1="197.812"
-     y1="516.44482"
-     x2="197.4995"
-     y2="492.80249" />
-  <svg:linearGradient
      x1="197.812"
      y1="516.44482"
      x2="197.4995"
@@ -5063,16 +3524,6 @@
        style="stop-color:#EDEDED" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient6748-8-3-6-5"
-     id="linearGradient82056-8-2-8"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.7901,0.105699,-0.109273,0.846385,11.9196,-0.306991)"
-     x1="32.169682"
-     y1="32.340691"
-     x2="36.310467"
-     y2="37.614323" />
-  <svg:linearGradient
      id="linearGradient6748-8-3-6-5">
     <svg:stop
        id="stop6750-9-3-1-5"
@@ -5083,15 +3534,6 @@
        style="stop-color:#2b5582;stop-opacity:1"
        offset="1" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient3939-5-1-1-3"
-     id="linearGradient82058-6-6-7"
-     gradientUnits="userSpaceOnUse"
-     x1="6.1471162"
-     y1="20.343424"
-     x2="36.000057"
-     y2="20.343424" />
   <svg:linearGradient
      id="linearGradient3939-5-1-1-3">
     <svg:stop
@@ -5104,16 +3546,6 @@
        offset="1" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient2949-2-6-0-07"
-     id="linearGradient82060-4-9-3"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.772822,0,0,0.80595,10.5367,7.34865)"
-     x1="-5.2845793"
-     y1="19.362175"
-     x2="33.728188"
-     y2="66.499512" />
-  <svg:linearGradient
      id="linearGradient2949-2-6-0-07">
     <svg:stop
        id="stop2951-5-6-9-7"
@@ -5125,16 +3557,6 @@
        offset="1" />
   </svg:linearGradient>
   <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient4152-4-7-1-9"
-     id="linearGradient82062-6-7-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.836591,0,0,0.836591,4.92334,-1.86023)"
-     x1="16.920895"
-     y1="41.527054"
-     x2="14.717065"
-     y2="27.556486" />
-  <svg:linearGradient
      id="linearGradient4152-4-7-1-9">
     <svg:stop
        id="stop4154-9-5-1-11"
@@ -5145,16 +3567,6 @@
        style="stop-color:#fafafa;stop-opacity:1"
        offset="1" />
   </svg:linearGradient>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient2949-2-6-0-07"
-     id="linearGradient82064-4-9-0"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.526765,-0.0511392,0.0476474,0.438551,5.11336,13.8069)"
-     x1="29.425014"
-     y1="33.593369"
-     x2="43.14069"
-     y2="38.189564" />
   <svg:filter
      color-interpolation-filters="sRGB"
      x="-0.16199538"
@@ -5167,16 +3579,6 @@
        stdDeviation="2.0642511"
        id="feGaussianBlur3948-5-0-7-8" />
   </svg:filter>
-  <svg:linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient9948-0-4-7-8"
-     id="linearGradient82046-1-6"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.1099289,0,0,0.1099289,293.17761,545.2345)"
-     x1="305.09821"
-     y1="264.2771"
-     x2="667.75446"
-     y2="264.2771" />
   <svg:linearGradient
      x1="319.20822"
      y1="235.14877"
@@ -6653,6 +5055,19 @@
        style="stop-color:#729fcf;stop-opacity:0"
        offset="1" />
   </svg:linearGradient>
+  <svg:marker
+     refX="0"
+     refY="0"
+     orient="auto"
+     id="TriangleOutL-3"
+     style="overflow:visible">
+    <svg:path
+       inkscape:connector-curvature="0"
+       d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+       transform="scale(0.8,0.8)"
+       id="path4655-7"
+       style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+  </svg:marker>
 </svg:defs>
 <sodipodi:namedview
    id="base"
@@ -6661,15 +5076,15 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="0.7578583"
-   inkscape:cx="544.20045"
-   inkscape:cy="418.6921"
+   inkscape:zoom="1.0717735"
+   inkscape:cx="440.19455"
+   inkscape:cy="357.23655"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="1180"
-   inkscape:window-x="1916"
+   inkscape:window-height="1060"
+   inkscape:window-x="1918"
    inkscape:window-y="-3"
    inkscape:window-maximized="1"
    showguides="true"
@@ -6701,7 +5116,7 @@
      x="-186.56616"
      y="101.4172"
      id="rect2476-8-2"
-     style="font-size:8px;fill:#ffffff;fill-opacity:1;stroke:#c4aa32;stroke-width:1.95427668;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     style="font-size:8px;fill:none;fill-opacity:1;stroke:#c4aa32;stroke-width:1.95427667999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308" />
@@ -6709,7 +5124,7 @@
      id="a45434"
      xlink:href="http://www.blender.org/"
      xlink:title="Pàgina web de la Blender Foundation [en]"
-     transform="matrix(1.4756809,0,0,1.4756809,-32.312683,-344.78181)">
+     transform="matrix(1.2408831,0,0,1.2408831,76.588406,-153.21019)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -6774,7 +5189,7 @@
      id="g5725" />
   <svg:a
      id="a45474"
-     transform="matrix(1.4756809,0,0,1.4756809,-67.842253,-480.65012)"
+     transform="matrix(1.2408831,0,0,1.2408831,46.711998,-267.46028)"
      xlink:title="Entorn d'aprenentatge virtual Moodle, veure la pàgina oficial en català"
      xlink:href="http://moodle.org/?lang=ca">
     <svg:text
@@ -6792,17 +5207,17 @@
          style="font-size:12px">Moodle</svg:tspan></svg:text>
   </svg:a>
   <svg:path
-     d="m 386.20294,359.41358 -0.34421,63.70721"
+     d="m 428.51339,438.93965 -0.28945,53.57064"
      id="path5371-7"
-     style="fill:none;stroke:#000000;stroke-width:2.95136166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
+     style="fill:none;stroke:#000000;stroke-width:2.48176622;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"
      sodipodi:nodetypes="cc"
      inkscape:connector-curvature="0" />
   <svg:path
-     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:4.42704296;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 349.44949,453.01914 121.59684,0 c 27.83075,0 50.23602,5.3875 50.23602,12.0796 l -0.0738,70.5169 c -4.35444,0.12056 -22.33089,0.18899 -50.16164,0.18899 l -121.59684,0 c -27.83076,0 -44.1422,0.0475 -50.00537,0.008 l -0.0723,-69.23931 c 0.31624,-7.79886 22.24707,-13.55529 50.07782,-13.55529 l 0,-1e-5 z"
+     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:3.72264934;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 397.60783,517.65148 102.24939,0 c 23.40256,0 42.24289,4.53029 42.24289,10.1576 l -0.062,59.29685 c -3.6616,0.10138 -18.77779,0.15892 -42.18035,0.15892 l -102.24939,0 c -23.40256,0 -37.11866,0.04 -42.04894,0.007 l -0.0608,-58.22254 c 0.26592,-6.55797 18.7073,-11.39848 42.10986,-11.39848 l 0,-1e-5 z"
      id="rect4356-0"
      sodipodi:nodetypes="cccccccccc"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -6810,8 +5225,8 @@
      inkscape:export-ydpi="259.6308"
      inkscape:connector-curvature="0" />
   <svg:path
-     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:4.42704296;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m -58.0405,490.13223 125.811092,0 c 33.327218,0 60.023028,5.58536 60.093568,10.9975 l -0.15332,71.43477 c -23.71597,-0.0369 -26.74643,0.0676 -59.940248,0.0729 l -125.811092,0 c -33.32722,0 -47.43163,-0.12706 -60.07807,-0.0474 l -0.0797,-70.41907 c 0,-6.66945 26.830247,-12.0387 60.157319,-12.0387 l 0,-8e-5 z"
+     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:3.72264934;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 54.95418,548.85945 105.7931,0 c 28.02448,0 50.47267,4.69667 50.53199,9.24767 l -0.12893,60.06867 c -19.94248,-0.031 -22.49076,0.0568 -50.40306,0.0613 l -105.7931,0 c -28.024477,0 -39.884714,-0.10684 -50.5189581,-0.0398 l -0.067008,-59.21458 c 0,-5.60827 22.5612411,-10.12321 50.5855941,-10.12321 l 0,-7e-5 z"
      id="rect3472-4"
      sodipodi:nodetypes="cccccccccc"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -6819,16 +5234,16 @@
      inkscape:export-ydpi="259.6308"
      inkscape:connector-curvature="0" />
   <svg:path
-     d="M 303.89292,351.56142 192.55146,454.32854"
+     d="m 359.29983,432.33684 -93.62574,86.4157"
      id="path5385-2"
-     style="fill:none;stroke:#000000;stroke-width:2.58133125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
+     style="fill:none;stroke:#000000;stroke-width:2.17061186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"
      sodipodi:nodetypes="cc"
      inkscape:connector-curvature="0" />
   <svg:g
-     transform="matrix(1.3840377,0,0,1.4781137,297.52849,247.9234)"
+     transform="matrix(1.1638215,0,0,1.2429288,353.94805,345.18883)"
      id="g3561-4"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
@@ -6842,17 +5257,17 @@
        inkscape:connector-curvature="0" />
   </svg:g>
   <svg:path
-     d="M 133.28355,547.26666 289.13953,678.53815"
+     d="M 215.83637,596.90314 346.89388,707.28783"
      id="path5413-3"
-     style="fill:none;stroke:#000000;stroke-width:2.95136166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
+     style="fill:none;stroke:#000000;stroke-width:2.48176622;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"
      sodipodi:nodetypes="cc"
      inkscape:connector-curvature="0" />
   <svg:path
-     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:4.42704296;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m -76.67863,199.04813 161.623359,0 c 34.633191,0 62.514861,5.34881 62.514861,11.99287 l 0,69.68938 c -9.59252,-0.31594 -27.88167,0.50888 -62.514861,0.50888 l -161.623359,0 c -34.6332,0 -53.66078,-0.36839 -62.14594,-0.37189 l -0.36892,-69.82637 c 0,-6.64406 27.88166,-11.99287 62.51486,-11.99287 z"
+     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:3.72264934;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 39.28159,304.09017 135.90723,0 c 29.12265,0 52.56802,4.49776 52.56802,10.08467 l 0,58.601 c -8.06623,-0.26567 -23.44537,0.42791 -52.56802,0.42791 l -135.90723,0 c -29.122658,0 -45.122729,-0.30977 -52.257807,-0.31271 l -0.310221,-58.7162 c 0,-5.58691 23.44537,-10.08467 52.568028,-10.08467 z"
      id="rect3472-1-0"
      sodipodi:nodetypes="ccccccccc"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -6863,7 +5278,7 @@
      id="a45419"
      xlink:title="Trisquel web page"
      xlink:href="http://trisquel.info/en"
-     transform="matrix(1.4756809,0,0,1.4756809,114.67653,-383.25366)">
+     transform="matrix(1.2408831,0,0,1.2408831,200.18994,-185.56072)">
     <svg:text
        id="text15103-2"
        y="492.85324"
@@ -6879,7 +5294,7 @@
      id="a13794"
      xlink:href="http://www.openbsd.org/"
      xlink:title="Pàgina web d'OpenBSD"
-     transform="matrix(1.4756809,0,0,1.4756809,-21.034364,-392.18771)">
+     transform="matrix(1.2408831,0,0,1.2408831,86.072215,-193.07326)">
     <svg:text
        id="text15103-5-2"
        y="488.24011"
@@ -6896,28 +5311,19 @@
          sodipodi:role="line">OpenBSD</svg:tspan></svg:text>
   </svg:a>
   <svg:rect
-     width="233.27737"
-     height="82.708748"
-     rx="54.177731"
+     width="196.16026"
+     height="69.548836"
+     rx="45.557434"
      ry="0"
-     x="309.70032"
-     y="649.03247"
+     x="364.18323"
+     y="702.33093"
      id="rect3628-7"
-     style="fill:#f3fdf9;fill-opacity:1;stroke:#015c58;stroke-width:4.36779499;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     style="fill:#f3fdf9;fill-opacity:1;stroke:#015c58;stroke-width:3.67282891;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308" />
-  <svg:path
-     d="m 589.37501,220.32897 -93.78362,39.6092"
-     id="path4503-1"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
-     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-     inkscape:export-xdpi="259.6308"
-     inkscape:export-ydpi="259.6308"
-     sodipodi:nodetypes="cc"
-     inkscape:connector-curvature="0" />
   <svg:g
-     transform="matrix(1.0644411,0,0,1,-377.39303,137.76253)"
+     transform="matrix(1.320847,0,0,1.2408831,-679.03806,140.04157)"
      id="g7051"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
@@ -6940,7 +5346,7 @@
      id="a45450"
      xlink:href="http://www.scribus.net/"
      xlink:title="Pàgina oficial del Scribus [en]"
-     transform="matrix(1.4756809,0,0,1.4756809,-26.04104,-282.06537)">
+     transform="matrix(1.2408831,0,0,1.2408831,81.862159,-100.47265)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -6959,7 +5365,7 @@
      id="a45446"
      xlink:href="http://www.inkscape.org/"
      xlink:title="Web del projecte Inkscape"
-     transform="matrix(1.4756809,0,0,1.4756809,-105.35889,-324.12229)">
+     transform="matrix(1.2408831,0,0,1.2408831,15.164692,-135.83782)">
     <svg:text
        id="text45442"
        inkscape:export-ydpi="259.6308"
@@ -6976,7 +5382,7 @@
   </svg:a>
   <svg:a
      id="a45462"
-     transform="matrix(1.4756809,0,0,1.4756809,420.35242,-435.53619)"
+     transform="matrix(1.2408831,0,0,1.2408831,457.2293,-229.5245)"
      xlink:href="http://www.documentfoundation.org/download/"
      xlink:title="Pàgina official de descarrega del LibreOffice (office lliure) [en]">
     <svg:text
@@ -6997,7 +5403,7 @@
      id="a45466"
      xlink:href="http://www.mozilla-europe.org/ca/products/firefox/"
      xlink:title="Web oficial de Firefox [ca]"
-     transform="matrix(1.4756809,0,0,1.4756809,264.6681,-371.71299)">
+     transform="matrix(1.2408831,0,0,1.2408831,326.31613,-175.85631)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -7016,7 +5422,7 @@
      id="a13677"
      xlink:href="http://es.wikipedia.org/wiki/GNU_IceCat"
      xlink:title="GNU IceCat, explicació de la aparició del icecat (wikipedia) [es]"
-     transform="matrix(1.4756809,0,0,1.4756809,357.35396,-380.88171)">
+     transform="matrix(1.2408831,0,0,1.2408831,404.25461,-183.56617)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -7035,7 +5441,7 @@
      id="a45470"
      xlink:href="http://audacity.sourceforge.net/"
      xlink:title="Audacity, l'editor de so lliure i multiplataforma [en]"
-     transform="matrix(1.4756809,0,0,1.4756809,135.54602,-457.30249)">
+     transform="matrix(1.2408831,0,0,1.2408831,217.73886,-247.82753)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -7054,7 +5460,7 @@
      id="a45438"
      xlink:href="http://www.gimp.org/"
      xlink:title="Web del projecte GIMP"
-     transform="matrix(1.4756809,0,0,1.4756809,184.24349,-341.83045)">
+     transform="matrix(1.2408831,0,0,1.2408831,258.688,-150.72842)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -7070,21 +5476,21 @@
          style="font-size:12px">GIMP</svg:tspan></svg:text>
   </svg:a>
   <svg:text
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      xml:space="preserve"
      id="text4306-65-54-43-4"
-     y="709.03156"
-     x="157.32028"
+     y="732.92938"
+     x="236.0486"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       style="font-size:14.75680923px"
+       style="font-size:12.4088316px"
        id="tspan4310-9-7-1-9"
-       y="731.16681"
-       x="157.32028">lliure</svg:tspan></svg:text>
+       y="751.5426"
+       x="236.0486">lliure</svg:tspan></svg:text>
   <svg:a
      id="a38057"
-     transform="matrix(1.4756809,0,0,1.4756809,273.72774,-408.97154)"
+     transform="matrix(1.2408831,0,0,1.2408831,333.93429,-207.18658)"
      xlink:href="http://www.ubuntu.cat/"
      xlink:title="Web de la comunitat d'usuaris en català [ca]">
     <svg:text
@@ -7104,7 +5510,7 @@
   </svg:a>
   <svg:a
      id="a38062"
-     transform="matrix(1.4756809,0,0,1.4756809,10.838971,-355.94259)"
+     transform="matrix(1.2408831,0,0,1.2408831,112.87414,-162.59516)"
      xlink:href="http://hub.opensolaris.org/bin/view/Community+Group+int_localization/ca_group"
      xlink:title="Grup català de localització a la comunitat d'OpenSolaris [ca]">
     <svg:text
@@ -7124,7 +5530,7 @@
   </svg:a>
   <svg:a
      id="a38053"
-     transform="matrix(1.4756809,0,0,1.4756809,15.634934,-385.54543)"
+     transform="matrix(1.2408831,0,0,1.2408831,116.90701,-187.48785)"
      xlink:href="http://www.debian.org/index.ca.html"
      xlink:title="Pàgina web del projecte Debian[ca]">
     <svg:text
@@ -7140,7 +5546,7 @@
   </svg:a>
   <svg:a
      id="a45415"
-     transform="matrix(1.4756809,0,0,1.4756809,83.266422,-316.91703)"
+     transform="matrix(1.2408831,0,0,1.2408831,173.77755,-129.77901)"
      xlink:href="http://www.gnewsense.org/Main:es/GNewSense"
      xlink:title="Web oficial de gNewSense [es]">
     <svg:text
@@ -7155,241 +5561,227 @@
          sodipodi:role="line">gNewSense</svg:tspan></svg:text>
   </svg:a>
   <svg:text
-     x="345.20755"
-     y="418.77115"
-     transform="matrix(0.92050486,-0.39073112,0.39073112,0.92050486,0,0)"
-     id="text4505-3"
-     xml:space="preserve"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-     inkscape:export-xdpi="259.6308"
-     inkscape:export-ydpi="259.6308"><svg:tspan
-       x="345.20755"
-       y="418.77115"
-       id="tspan4507-3"
-       style="font-size:22px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">distribueix</svg:tspan></svg:text>
-  <svg:text
-     x="-163.54803"
-     y="447.18338"
+     x="-151.45233"
+     y="547.09436"
      transform="matrix(0.74487757,-0.66720117,0.66720117,0.74487757,0,0)"
      id="text5301-8"
      xml:space="preserve"
-     style="font-size:23.61089706px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+     style="font-size:19.8541317px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       x="-163.54803"
-       y="447.18338"
+       x="-151.45233"
+       y="547.09436"
        id="tspan5303-9"
-       style="font-size:35.41634369px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">compilat</svg:tspan></svg:text>
+       style="font-size:29.78119469px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">compilat</svg:tspan></svg:text>
   <svg:text
-     x="404.49734"
-     y="385.58005"
+     x="443.89694"
+     y="460.94275"
      id="text5375-3"
      xml:space="preserve"
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       x="404.49734"
-       y="385.58005"
+       x="443.89694"
+       y="460.94275"
        id="tspan5377-8"
-       style="font-size:35.41634369px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">amb</svg:tspan></svg:text>
+       style="font-size:29.78119469px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">amb</svg:tspan></svg:text>
   <svg:text
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      xml:space="preserve"
      id="text3262-1"
-     y="247.90114"
-     x="-124.11498"
+     y="345.1701"
+     x="-0.60710061"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       style="font-size:26.56225586px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold"
+       style="font-size:22.33589554px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold"
        id="tspan3267-0-0"
-       y="247.90114"
-       x="-124.11498">DISTRIBUCIONS</svg:tspan></svg:text>
+       y="345.1701"
+       x="-0.60710061">DISTRIBUCIONS</svg:tspan></svg:text>
   <svg:text
-     x="405.957"
-     y="160.85231"
+     x="293.00775"
+     y="168.69328"
      id="text4801-3"
      xml:space="preserve"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-       x="405.957"
-       y="160.85231"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
+       x="293.00775"
+       y="168.69328"
        id="tspan4803-0"
-       style="font-size:32px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold">PROGRAMARI LLIURE</svg:tspan></svg:text>
+       style="font-size:39.70825958px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold">PROGRAMARI LLIURE</svg:tspan></svg:text>
   <svg:text
-     x="377.3302"
-     y="256.06049"
+     x="421.0524"
+     y="352.03122"
      id="text3344"
      xml:space="preserve"
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-       x="377.3302"
-       y="256.06049"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
+       x="421.0524"
+       y="352.03122"
        id="tspan3346"
-       style="font-size:26.56225586px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">CODI</svg:tspan><svg:tspan
-       x="377.3302"
-       y="289.26331"
+       style="font-size:22.33589554px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">CODI</svg:tspan><svg:tspan
+       x="421.0524"
+       y="379.95108"
        id="tspan3360"
-       style="font-size:26.56225586px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">FONT</svg:tspan></svg:text>
+       style="font-size:22.33589554px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">FONT</svg:tspan></svg:text>
   <svg:text
-     x="2.5066981"
-     y="525.40485"
+     x="105.86763"
+     y="578.51978"
      id="text3350"
      xml:space="preserve"
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-       x="2.5066981"
-       y="525.40485"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
+       x="105.86763"
+       y="578.51978"
        id="tspan3352"
-       style="font-size:26.56225586px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold"> PROGRAMES</svg:tspan><svg:tspan
-       x="2.5066981"
-       y="558.6076"
+       style="font-size:22.33589554px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold"> PROGRAMES</svg:tspan><svg:tspan
+       x="105.86763"
+       y="606.43964"
        id="tspan3354"
-       style="font-size:26.56225586px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">EXECUTABLES</svg:tspan></svg:text>
+       style="font-size:22.33589554px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">EXECUTABLES</svg:tspan></svg:text>
   <svg:text
-     x="410.57379"
-     y="488.4436"
+     x="449.00659"
+     y="547.43951"
      id="text4338"
      xml:space="preserve"
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-       x="410.57379"
-       y="488.4436"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
+       x="449.00659"
+       y="547.43951"
        id="tspan4348"
-       style="font-size:26.56225586px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">CONTINGUTS</svg:tspan><svg:tspan
-       x="410.57379"
-       y="521.64642"
+       style="font-size:22.33589554px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">CONTINGUTS</svg:tspan><svg:tspan
+       x="449.00659"
+       y="575.35938"
        id="tspan7086"
-       style="font-size:26.56225586px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">LLIURES</svg:tspan></svg:text>
+       style="font-size:22.33589554px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">LLIURES</svg:tspan></svg:text>
   <svg:text
-     x="426.52057"
-     y="680.98346"
+     x="462.41605"
+     y="729.19818"
      id="text3618"
      xml:space="preserve"
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-       x="426.52057"
-       y="680.98346"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
+       x="462.41605"
+       y="729.19818"
        id="tspan3620"
-       style="font-size:26.56225586px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">ESTÀNDARDS</svg:tspan><svg:tspan
-       x="426.52057"
-       y="714.18634"
+       style="font-size:22.33589554px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">ESTÀNDARDS</svg:tspan><svg:tspan
+       x="462.41605"
+       y="757.11804"
        id="tspan3626"
-       style="font-size:26.56225586px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">OBERTS</svg:tspan></svg:text>
+       style="font-size:22.33589554px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Serif Bold">OBERTS</svg:tspan></svg:text>
   <svg:text
-     x="410.93265"
-     y="559.08093"
+     x="449.30832"
+     y="606.83765"
      id="text5419"
      xml:space="preserve"
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-       x="410.93265"
-       y="559.08093"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
+       x="449.30832"
+       y="606.83765"
        id="tspan5423"
-       style="font-size:17.70817184px">fonts tipogràfiques,</svg:tspan><svg:tspan
-       x="410.93265"
-       y="581.21619"
+       style="font-size:14.89059734px">fonts tipogràfiques,</svg:tspan><svg:tspan
+       x="449.30832"
+       y="625.45087"
        id="tspan5524"
-       style="font-size:17.70817184px">traduccions, localitzacions,</svg:tspan><svg:tspan
-       x="410.93265"
-       y="603.35132"
+       style="font-size:14.89059734px">traduccions, localitzacions,</svg:tspan><svg:tspan
+       x="449.30832"
+       y="644.06409"
        id="tspan6581"
-       style="font-size:17.70817184px">plantilles, sons, imatges,</svg:tspan><svg:tspan
-       x="410.93265"
-       y="625.48657"
+       style="font-size:14.89059734px">plantilles, sons, imatges,</svg:tspan><svg:tspan
+       x="449.30832"
+       y="662.67731"
        id="tspan2659"
-       style="font-size:17.70817184px">FAQs, guies, manuals...</svg:tspan></svg:text>
+       style="font-size:14.89059734px">FAQs, guies, manuals...</svg:tspan></svg:text>
   <svg:text
-     x="470.43173"
-     y="313.79004"
+     x="563.51373"
+     y="299.28827"
      transform="matrix(0.75595756,0.65462063,-0.65462063,0.75595756,0,0)"
      id="text5301-8-9"
      xml:space="preserve"
-     style="font-size:23.61089706px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+     style="font-size:19.8541317px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       x="470.43173"
-       y="313.79004"
+       x="563.51373"
+       y="299.28827"
        id="tspan5303-9-2"
-       style="font-size:35.41634369px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">respecten</svg:tspan></svg:text>
+       style="font-size:29.78119469px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">respecten</svg:tspan></svg:text>
   <svg:path
-     d="m 115.52906,710.45736 0.14151,24.17716"
+     d="m 200.90683,734.12833 0.119,20.33029"
      id="path5385-8-2"
-     style="fill:none;stroke:#000000;stroke-width:1.49456954;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
+     style="fill:none;stroke:#000000;stroke-width:1.25676644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"
      sodipodi:nodetypes="cc"
      inkscape:connector-curvature="0" />
   <svg:text
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
      xml:space="preserve"
      id="text4306-65-54-43-5"
-     y="694.05811"
-     x="158.7907"
+     y="720.33832"
+     x="237.28503"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       style="font-size:11.80544662px"
+       style="font-size:9.9270649px"
        id="tspan4310-9-7-1-4"
-       y="716.1933"
-       x="158.7907">100%</svg:tspan></svg:text>
+       y="738.9516"
+       x="237.28503">100%</svg:tspan></svg:text>
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-4-9-6"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m -148.91602,774.02592 -5.89403,0.84485 5.89403,1.86037 136.059348,0 5.6836736,-1.02848 -19.9978956,-1.67674 -121.745126,0"
+     d="m -21.462009,787.5824 -4.956211,0.71043 4.956211,1.56435 114.410752,0 4.779336,-0.86483 -16.816002,-1.40995 -102.374086,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-4-9-6-6"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m -150.81597,735.28929 -3.99408,0.84487 3.99408,1.86035 92.200736,0 3.851542,-1.02847 -13.55159,-1.67675 -82.500688,0"
+     d="m -23.059646,755.00922 -3.358574,0.71043 3.358574,1.56435 77.530539,0 3.238717,-0.86483 -11.395377,-1.40995 -69.373879,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-4-9-6-6-4"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m -151.53765,696.92158 -3.2724,0.84485 3.2724,1.86037 75.541242,0 3.155625,-1.02848 -11.102993,-1.67674 -67.593874,0"
+     d="m -23.666499,722.74624 -2.751721,0.71043 2.751721,1.56436 63.521762,0 2.653529,-0.86483 -9.33638,-1.40996 -56.838911,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-4-9-6-6-9"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m -151.00744,651.72885 -3.80261,0.84485 3.80261,1.86037 87.78088,0 3.666905,-1.02848 -12.901966,-1.67674 -78.545819,0"
+     d="m -23.22065,684.7442 -3.19757,0.71043 3.19757,1.56435 73.813932,0 3.083458,-0.86483 -10.849115,-1.40995 -66.048275,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-4-9-6-6-9-5"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m -149.74081,616.86589 -5.06924,0.84486 5.06924,1.86036 117.019968,0 4.888326,-1.02848 -17.199504,-1.67674 -104.70879,0"
+     d="m -22.155563,655.42833 -4.262657,0.71043 4.262657,1.56436 98.400753,0 4.110537,-0.86483 -14.462865,-1.40996 -88.048425,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-2-6-0"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m 153.82398,613.91453 3.07148,0.84485 -3.07148,1.86037 -70.901614,0 -2.961824,-1.02848 10.421008,-1.67674 63.44243,0"
+     d="m 233.10859,652.94657 2.58277,0.71043 -2.58277,1.56435 -59.62036,0 -2.49056,-0.86483 8.76291,-1.40995 53.34801,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-2-6-0-4"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m 186.98963,654.49575 2.92419,0.84486 -2.92419,1.86036 -67.50173,0 -2.81979,-1.02847 9.92129,-1.67675 60.40023,0"
+     d="m 260.9972,687.07085 2.45892,0.71043 -2.45892,1.56436 -56.76142,0 -2.37114,-0.86483 8.3427,-1.40996 50.78986,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-2-6-0-4-8"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m 186.79745,698.02834 2.74745,0.84486 -2.74745,1.86035 -63.42184,0 -2.64938,-1.02846 9.32164,-1.67675 56.74958,0"
+     d="m 260.8356,723.6769 2.3103,0.71044 -2.3103,1.56435 -53.3307,0 -2.22783,-0.86483 7.83846,-1.40996 47.72007,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-2-6-0-4-7"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m 186.66701,758.9002 3.98465,0.84485 -3.98465,1.86036 -91.980928,0 -3.842393,-1.02848 13.519211,-1.67673 82.30411,0"
+     d="m 260.72592,774.86335 3.35064,0.71043 -3.35064,1.56435 -77.34571,0 -3.23103,-0.86483 11.36816,-1.40995 69.20858,0"
      inkscape:connector-curvature="0" />
   <svg:a
      id="a45423-9"
      xlink:href="http://www.uclinux.org/"
-     transform="matrix(1.4756809,0,0,1.4756809,72.892784,-324.49617)"
+     transform="matrix(1.2408831,0,0,1.2408831,165.05447,-136.15222)"
      xlink:title="Pagina web del projecte uClinux [en]">
     <svg:text
        id="text15103-2-8-9"
@@ -7404,7 +5796,7 @@
   </svg:a>
   <svg:a
      id="a45423-9-1"
-     transform="matrix(1.4756809,0,0,1.4756809,-2.6321213,-316.65375)"
+     transform="matrix(1.2408831,0,0,1.2408831,101.54645,-129.55762)"
      xlink:href="http://fedoraproject.org/ca/"
      xlink:title="Pàgina web de Fedora">
     <svg:text
@@ -7420,7 +5812,7 @@
   </svg:a>
   <svg:a
      id="a45423-9-1-5"
-     transform="matrix(1.4756809,0,0,1.4756809,-95.569614,-323.26726)"
+     transform="matrix(1.2408831,0,0,1.2408831,23.396375,-135.11884)"
      xlink:href="http://www.opensuse.org/en/"
      xlink:title="Pàgina oficial de Open Suse">
     <svg:text
@@ -7438,49 +5830,49 @@
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m -155.84846,314.90576 -4.83217,0.84487 4.83217,1.86035 111.545575,0 4.659669,-1.02847 -16.394785,-1.67675 -99.810459,0"
+     d="m -27.291404,401.51353 -4.063322,0.71043 4.063322,1.56436 93.797387,0 3.918262,-0.86484 -13.786187,-1.40995 -83.929462,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-4"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m -159.14859,356.82737 -3.57357,0.84485 3.57357,1.86036 82.493423,0 3.44604,-1.02847 -12.124815,-1.67674 -73.814648,0"
+     d="m -30.066453,436.76492 -3.004973,0.71043 3.004973,1.56436 69.367773,0 2.897735,-0.86483 -10.195617,-1.40996 -62.069891,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-4-9"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m -157.60107,391.3405 -5.04127,0.84486 5.04127,1.86036 116.374139,0 4.861364,-1.02848 -17.104588,-1.67674 -104.130915,0"
+     d="m -28.765164,465.78662 -4.239142,0.71043 4.239142,1.56436 97.857681,0 4.087866,-0.86483 -14.383052,-1.40996 -87.562495,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-2"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m 161.24469,314.53835 4.16723,0.84486 -4.16723,1.86036 -96.19608,0 -4.018471,-1.02848 14.138735,-1.67674 86.075816,0"
+     d="m 239.34858,401.20458 3.50418,0.71043 -3.50418,1.56435 -80.89018,0 -3.37909,-0.86483 11.8891,-1.40995 72.38017,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-2-0"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m 162.32386,351.30409 3.08806,0.84485 -3.08806,1.86037 -71.284584,0 -2.977836,-1.02848 10.477305,-1.67674 63.785115,0"
+     d="m 240.25604,432.12046 2.59672,0.71043 -2.59672,1.56436 -59.94239,0 -2.50403,-0.86484 8.81025,-1.40995 53.63617,0"
      inkscape:connector-curvature="0" />
   <svg:path
      sodipodi:nodetypes="ccccccc"
      id="path60492-5-4-8-1-2-6"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#b477ca;fill-opacity:0.65294118;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
-     d="m 160.90673,389.88286 4.50519,0.84485 -4.50519,1.86036 -103.997224,0 -4.34436,-1.02848 15.285339,-1.67673 93.056245,0"
+     d="m 239.06439,464.5609 3.78837,0.71043 -3.78837,1.56436 -87.45007,0 -3.65312,-0.86483 12.85326,-1.40996 78.24993,0"
      inkscape:connector-curvature="0" />
   <svg:path
-     d="m -124.66323,507.21689 c 0,0 -27.10543,0.75652 -41.75048,-20.08017 -11.50947,-16.37545 -8.85846,-34.86171 1.64462,-49.81604"
+     d="m -1.0681069,563.22574 c 0,0 -22.7926531,0.63615 -35.1074991,-16.88518 -9.678181,-13.76993 -7.448972,-29.31481 1.382939,-41.88973"
      id="path5578-0"
-     style="fill:none;stroke:#000000;stroke-width:3.09989953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
+     style="fill:none;stroke:#000000;stroke-width:2.6066699;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"
      sodipodi:nodetypes="csz"
      inkscape:connector-curvature="0" />
   <svg:a
-     transform="matrix(1.6719933,0,0,1.6719933,321.3125,79.893702)"
+     transform="matrix(1.40596,0,0,1.40596,373.94777,203.89458)"
      style="display:inline"
      id="a16463"
      xlink:href="http://www.gnewsense.org/"
@@ -7581,7 +5973,7 @@
   </svg:a>
   <svg:a
      id="a13509"
-     transform="matrix(1.4909154,0,0,1.4909154,195.67981,-393.8997)"
+     transform="matrix(1.2536936,0,0,1.2536936,268.30467,-194.51285)"
      xlink:title="Viquipèdia damunt la distribució Debian GNU/Linux"
      xlink:href="http://ca.wikipedia.org/wiki/Debian">
     <svg:g
@@ -7599,7 +5991,7 @@
     </svg:g>
   </svg:a>
   <svg:a
-     transform="matrix(1.582648,0,0,1.582648,224.32979,-24.502459)"
+     transform="matrix(1.3308305,0,0,1.3308305,292.39611,116.10905)"
      style="display:inline"
      id="a16494"
      xlink:href="http://www.openbsd.org/"
@@ -7613,7 +6005,7 @@
        y="220.02713" />
   </svg:a>
   <svg:a
-     transform="matrix(1.9095748,0,0,1.9095748,289.6839,-767.0859)"
+     transform="matrix(1.6057395,0,0,1.6057395,347.35163,-508.32085)"
      style="display:inline"
      id="a18133"
      xlink:href="http://www.blender.org/"
@@ -7714,7 +6106,7 @@
     </svg:g>
   </svg:a>
   <svg:a
-     transform="matrix(1.811717,0,0,1.811717,357.30321,81.942663)"
+     transform="matrix(1.5234521,0,0,1.5234521,404.21194,205.61753)"
      style="display:inline"
      id="a16584"
      xlink:href="http://audacity.sourceforge.net/"
@@ -7780,7 +6172,7 @@
     </svg:g>
   </svg:a>
   <svg:a
-     transform="matrix(1.8357535,0,0,1.8357535,285.27738,149.04191)"
+     transform="matrix(1.5436641,0,0,1.5436641,343.64624,262.04051)"
      style="display:inline"
      id="a16598"
      xlink:href="http://www.scribus.net/"
@@ -7855,7 +6247,7 @@
     </svg:g>
   </svg:a>
   <svg:a
-     transform="matrix(2.1503333,0,0,2.1503333,455.28137,-193.55246)"
+     transform="matrix(1.8081906,0,0,1.8081906,486.60064,-26.04316)"
      style="display:inline"
      id="a16902"
      xlink:href="http://www.gimp.org/"
@@ -7989,7 +6381,7 @@
     </svg:g>
   </svg:a>
   <svg:a
-     transform="matrix(2.2054954,0,0,2.2054954,328.68892,-236.59899)"
+     transform="matrix(1.8545758,0,0,1.8545758,380.15051,-62.24049)"
      style="display:inline"
      id="a16927"
      xlink:href="http://www.inkscape.org/?lang=es"
@@ -8168,7 +6560,7 @@
     </svg:g>
   </svg:a>
   <svg:a
-     transform="matrix(1.9705502,0,0,1.9705502,431.38107,-803.38447)"
+     transform="matrix(1.657013,0,0,1.657013,466.50316,-538.8439)"
      style="display:inline"
      id="a18149"
      xlink:href="http://www.mozilla.com/en-US/firefox"
@@ -8373,7 +6765,7 @@
      id="a45035"
      xlink:href="http://www.opensolaris.com/"
      xlink:title="Solaris home site[en]"
-     transform="matrix(1.2991001,0,0,1.2991001,162.34422,-315.52803)">
+     transform="matrix(1.0923984,0,0,1.0923984,240.27316,-128.61102)">
     <svg:g
        id="layer2"
        inkscape:label="Kreise"
@@ -8474,7 +6866,7 @@
      id="a45350"
      xlink:href="http://trisquel.info/en"
      xlink:title="Trisquel web page"
-     transform="matrix(1.7009628,0,0,1.7009628,137.40353,-481.73187)">
+     transform="matrix(1.4303201,0,0,1.4303201,219.30082,-268.36991)">
     <svg:g
        transform="matrix(0.43904265,0,0,0.43904265,-51.706162,477.75883)"
        id="g2712"
@@ -8503,7 +6895,7 @@
     </svg:g>
   </svg:a>
   <svg:a
-     transform="matrix(2.3162582,0,0,2.3162582,14.232476,-916.18236)"
+     transform="matrix(1.947715,0,0,1.947715,115.7277,-633.69434)"
      id="a18249-3"
      xlink:title="gnu web page about icecat [en]"
      xlink:href="http://www.gnu.org/software/gnuzilla/">
@@ -8875,7 +7267,7 @@
   <svg:g
      id="layer1-7"
      inkscape:label="Layer 1"
-     transform="matrix(0.0738276,0,0,0.0738276,12.999604,290.61445)">
+     transform="matrix(0.06208079,0,0,0.06208079,114.69099,381.08724)">
     <svg:path
        id="path6304"
        d="m 346.56251,329.1875 56.875,56.875 C 433.04174,352.41046 451.03126,308.30913 451.03126,260 c 0,-48.30913 -17.98951,-92.41047 -47.59375,-126.0625 l -56.875,56.875 c 1.87065,2.33705 3.69504,4.70152 5.375,7.1875 1.99349,2.94994 3.85469,6.01376 5.5625,9.15625 1.70781,3.14249 3.284,6.37109 4.6875,9.6875 1.4035,3.31641 2.63819,6.71579 3.71875,10.1875 1.08056,3.47171 1.97975,7.01663 2.71875,10.625 0.739,3.60837 1.30869,7.27358 1.6875,11 0.37881,3.72642 0.59375,7.51792 0.59375,11.34375 0,3.82583 -0.21493,7.61733 -0.59375,11.34375 -0.37882,3.72642 -0.9485,7.39163 -1.6875,11 -0.739,3.60837 -1.63819,7.15329 -2.71875,10.625 -1.08056,3.47171 -2.31525,6.87109 -3.71875,10.1875 -1.4035,3.31641 -2.97969,6.54501 -4.6875,9.6875 -1.70781,3.14249 -3.56901,6.20631 -5.5625,9.15625 -1.67996,2.48598 -3.50435,4.85045 -5.375,7.1875 z"
@@ -8938,7 +7330,7 @@
        sodipodi:type="arc" />
   </svg:g>
   <svg:a
-     transform="matrix(1.3745878,0,0,1.6962116,258.75829,313.86261)"
+     transform="matrix(1.1558751,0,0,1.4263249,321.34664,400.63635)"
      style="display:inline"
      id="a16497"
      xlink:href="http://www.openoffice.org/"
@@ -8995,62 +7387,26 @@
     </svg:g>
   </svg:a>
   <svg:text
-     x="-156.09537"
-     y="476.5683"
+     x="-28.363756"
+     y="538.10571"
      transform="matrix(0.99998009,-0.00631001,0.00631001,0.99998009,0,0)"
      id="text5307-4"
      xml:space="preserve"
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"
      sodipodi:linespacing="100%"><svg:tspan
        sodipodi:role="line"
        id="tspan33486-5"
-       x="-156.09537"
-       y="476.5683"
-       style="font-size:35.41634369px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">reunits en</svg:tspan></svg:text>
-  <svg:g
-     id="g16403"
-     transform="matrix(1.4756809,0,0,1.4756809,25.83183,-386.75102)">
-    <svg:a
-       transform="translate(16,14)"
-       xlink:href="http://www.oasis-open.org/"
-       xlink:title="Organization for the Advancement of Structured Information Standards, web oficial [en]"
-       id="a8143-2">
-      <svg:text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-         x="252.15848"
-         y="786.9483"
-         id="text15103-50-2-85-1-06"><svg:tspan
-           sodipodi:role="line"
-           x="252.15848"
-           y="786.9483"
-           id="tspan13548-7-15">(OASIS i</svg:tspan></svg:text>
-    </svg:a>
-    <svg:a
-       transform="translate(-2,14)"
-       xlink:title="Lloc oficial  de l'ISO [en]"
-       xlink:href="http://www.iso.org/"
-       id="a8147-5">
-      <svg:text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-         x="313.22375"
-         y="786.84283"
-         id="text15103-50-2-85-1-2-4"><svg:tspan
-           sodipodi:role="line"
-           x="313.22375"
-           y="786.84283"
-           id="tspan13548-7-1-7">ISO)</svg:tspan></svg:text>
-    </svg:a>
-  </svg:g>
+       x="-28.363756"
+       y="538.10571"
+       style="font-size:29.78119469px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">reunits en</svg:tspan></svg:text>
   <svg:a
      id="a8139-6"
      xlink:href="http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf"
      xlink:title="El estándar OASIS para el OpenDocument (ODF) [en]"
-     transform="matrix(1.4756809,0,0,1.4756809,80.294577,-366.09149)">
+     transform="matrix(1.2408831,0,0,1.2408831,277.21588,-186.58755)">
     <svg:text
        id="text15103-50-2-85-1-5-5"
        y="786.47498"
@@ -9063,25 +7419,9 @@
          sodipodi:role="line">ODF</svg:tspan></svg:text>
   </svg:a>
   <svg:a
-     id="a8151-9"
-     xlink:href="http://www.w3.org/"
-     xlink:title="World Wide Web Consortium, web oficial [en]"
-     transform="matrix(1.4756809,0,0,1.4756809,55.912787,-366.09149)">
-    <svg:text
-       id="text15103-50-2-85-1-9-3"
-       y="771.73871"
-       x="285.31976"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"><svg:tspan
-         id="tspan13548-7-5-7"
-         y="771.73871"
-         x="285.31976"
-         sodipodi:role="line">(W3C)</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
      id="a8131-4"
      xlink:title="Pàgina oficial del HTML, Hypertext Markup Language [en]"
-     transform="matrix(1.4756809,0,0,1.4756809,132.08085,-366.09149)"
+     transform="matrix(1.2408831,0,0,1.2408831,267.50425,-168.64189)"
      xlink:href="http://www.w3c.org/MarkUp/">
     <svg:text
        id="text15103-50-2-85-1-54-5"
@@ -9095,24 +7435,8 @@
          sodipodi:role="line">HTML,</svg:tspan></svg:text>
   </svg:a>
   <svg:a
-     id="a8135-5"
-     transform="matrix(1.4756809,0,0,1.4756809,132.08085,-366.09149)"
-     xlink:href="http://www.w3.org/XML/1999/XML-in-10-points.ca.html"
-     xlink:title="XML en 10 punts, de la web oficial del W3C [ca] ">
-    <svg:text
-       id="text15103-50-2-85-1-0-4"
-       y="771.6391"
-       x="196.44958"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"><svg:tspan
-         id="tspan13548-7-8-7"
-         y="771.6391"
-         x="196.44958"
-         sodipodi:role="line">XML</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
      id="a8127-4"
-     transform="matrix(1.4756809,0,0,1.4756809,107.91946,-366.09149)"
+     transform="matrix(1.2408831,0,0,1.2408831,194.508,-151.27512)"
      xlink:href="http://www.utf-8.com/"
      xlink:title="UTF-8 and Unicode Standards [en]">
     <svg:text
@@ -9124,63 +7448,47 @@
          id="tspan13548-7-2-4-3"
          y="757.87811"
          x="171.88246"
-         sodipodi:role="line">UTF-8</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
-     id="a8155-0"
-     xlink:title="Internet Engineering Task Force web oficial [en]"
-     xlink:href="http://www.ietf.org/"
-     transform="matrix(1.4756809,0,0,1.4756809,75.715053,-366.09149)">
-    <svg:text
-       id="text15103-50-2-85-1-3-7"
-       y="757.40198"
-       x="271.56085"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"><svg:tspan
-         id="tspan13548-7-2-8"
-         y="757.40198"
-         x="271.56085"
-         sodipodi:role="line">(IETF)</svg:tspan></svg:text>
+         sodipodi:role="line">UTF-8,</svg:tspan></svg:text>
   </svg:a>
   <svg:text
-     x="380.04068"
-     y="347.91873"
+     x="423.33163"
+     y="429.27377"
      id="text5351-5-2"
      xml:space="preserve"
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      inkscape:export-filename=""
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       x="380.04068"
-       y="347.91873"
+       x="423.33163"
+       y="429.27377"
        id="tspan5361-5-0"
-       style="font-size:17.70817184px">podem llegir</svg:tspan></svg:text>
+       style="font-size:14.89059734px">podem llegir</svg:tspan></svg:text>
   <svg:text
-     x="380.59839"
-     y="325.71521"
+     x="423.80063"
+     y="410.60306"
      id="text5351-5"
      xml:space="preserve"
-     style="font-size:23.61089325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      inkscape:export-filename=""
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
-       x="380.59839"
-       y="325.71521"
+       x="423.80063"
+       y="410.60306"
        id="tspan5361-5"
-       style="font-size:17.70817184px">programes que</svg:tspan><svg:tspan
-       x="380.59839"
-       y="325.71521"
-       style="font-size:17.70817184px"
+       style="font-size:14.89059734px">programes que</svg:tspan><svg:tspan
+       x="423.80063"
+       y="410.60306"
+       style="font-size:14.89059734px"
        id="tspan10239" /><svg:tspan
-       x="380.59839"
-       y="325.71521"
-       style="font-size:17.70817184px"
+       x="423.80063"
+       y="410.60306"
+       style="font-size:14.89059734px"
        id="tspan10241" /></svg:text>
   <svg:a
      id="a11235"
      xlink:href="http://ca.wikipedia.org/wiki/Moodle"
      xlink:title="Viquipèdia sobre el programa Moodle"
-     transform="matrix(1.4756809,0,0,1.4756809,75.817164,-376.44804)">
+     transform="matrix(1.2408831,0,0,1.2408831,167.51356,-179.83795)">
     <svg:g
        transform="matrix(0.06973775,0,0,0.06973775,-51.173703,612.56117)"
        id="g36669">
@@ -9231,5 +7539,28 @@
          style="fill:#1744a9" />
     </svg:g>
   </svg:a>
+  <svg:path
+     inkscape:connector-curvature="0"
+     d="m 414.69139,213.6638 2.19699,93.80456"
+     id="path4503-1"
+     style="fill:none;stroke:#000000;stroke-width:2.48176622;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
+     inkscape:export-xdpi="259.6308"
+     inkscape:export-ydpi="259.6308"
+     sodipodi:nodetypes="cc" />
+  <svg:text
+     x="423.63437"
+     y="259.08627"
+     transform="matrix(0.99998593,-0.00530409,0.00530409,0.99998593,0,0)"
+     id="text4505-3"
+     xml:space="preserve"
+     style="font-size:19.85412979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
+     inkscape:export-xdpi="259.6308"
+     inkscape:export-ydpi="259.6308"><svg:tspan
+       x="423.63437"
+       y="259.08627"
+       id="tspan4507-3"
+       style="font-size:27.29942894px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">distribueix</svg:tspan></svg:text>
 </svg:g>
 </svg:svg>
