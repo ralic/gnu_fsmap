@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1317556548265" ID="ID_1987649862" MODIFIED="1317583460251" STYLE="bubble">
+<node COLOR="#000000" CREATED="1317556548265" ID="ID_1987649862" MODIFIED="1317776000181" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17,83 +17,7 @@
 <font NAME="SansSerif" SIZE="20"/>
 <hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
-<node COLOR="#0033ff" CREATED="1317562384615" HGAP="4" ID="ID_1030567000" MODIFIED="1317592308708" POSITION="left" STYLE="fork" VSHIFT="12">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p style="text-align: center">
-      SEGONS
-    </p>
-    <p style="text-align: center">
-      LA LLIC&#200;NCIA
-    </p>
-  </body>
-</html></richcontent>
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1317557286632" HGAP="40" ID="ID_1222249794" MODIFIED="1317582587786" STYLE="bubble" TEXT="PRIVATIU" VSHIFT="7">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-<node COLOR="#00b439" CREATED="1317557306014" HGAP="44" ID="ID_1612727919" LINK="fsmap-ca.svg" MODIFIED="1317584262085" STYLE="bubble" TEXT="LLIURE" VSHIFT="12">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
-<node COLOR="#0033ff" CREATED="1317571183975" HGAP="10" ID="ID_106515795" MODIFIED="1317592335176" POSITION="right" STYLE="fork" VSHIFT="-1">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p style="text-align: center">
-      SEGONS ELS
-    </p>
-    <p style="text-align: center">
-      USUARIS
-    </p>
-  </body>
-</html></richcontent>
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1317581231578" ID="ID_1451528906" MODIFIED="1317581312874" STYLE="bubble">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p style="text-align: center">
-      HORITZONTALS
-    </p>
-    <p style="text-align: center">
-      <font color="#000000" size="3">tothom les utilitza</font>
-    </p>
-  </body>
-</html></richcontent>
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-<node COLOR="#00b439" CREATED="1317581276217" ID="ID_1908999760" MODIFIED="1317581312883" STYLE="bubble">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p style="text-align: center">
-      VERTICALS
-    </p>
-    <p style="text-align: center">
-      <font color="#000000" size="3">p&#250;blic molt especific</font>
-    </p>
-  </body>
-</html></richcontent>
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
-<node COLOR="#0033ff" CREATED="1317569566688" HGAP="1" ID="ID_1459260305" MODIFIED="1317592329697" POSITION="right" STYLE="fork" TEXT="QU&#xc9; &#xc9;S?" VSHIFT="32">
+<node COLOR="#0033ff" CREATED="1317569566688" HGAP="-145" ID="ID_1459260305" MODIFIED="1317774094369" POSITION="right" STYLE="fork" TEXT="ES DIVIDEIX EN" VSHIFT="-5">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1317569656955" HGAP="13" ID="ID_1245517962" MODIFIED="1317583861324" STYLE="bubble" TEXT="PROGRAMES" VSHIFT="21">
@@ -110,7 +34,7 @@
 <node COLOR="#111111" CREATED="1317569693992" HGAP="35" ID="ID_1053285696" MODIFIED="1317581463492" STYLE="bubble" TEXT="FITXERS DE CONFIGURACI&#xd3; ">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1317569704631" HGAP="35" ID="ID_1450936801" MODIFIED="1317581527536" STYLE="bubble" VSHIFT="-5">
+<node COLOR="#111111" CREATED="1317569704631" HGAP="35" ID="ID_1450936801" MODIFIED="1317774474093" STYLE="bubble" VSHIFT="-5">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -120,10 +44,11 @@
       IMATGES
     </p>
     <p>
-      <font size="2">de la aplicaci&#243;n</font>
+      <font size="2">de l'aplicaci&#243;</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#111111" CREATED="1317581487576" HGAP="37" ID="ID_1648688587" MODIFIED="1317583886557" STYLE="bubble" TEXT="..." VSHIFT="-3"/>
@@ -162,7 +87,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1317562424150" HGAP="11" ID="ID_1897817801" MODIFIED="1317592323665" POSITION="left" STYLE="fork" VSHIFT="7">
+<node COLOR="#0033ff" CREATED="1317562424150" HGAP="17" ID="ID_1897817801" MODIFIED="1317774095308" POSITION="left" STYLE="fork" VSHIFT="-16">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -177,6 +102,7 @@
   </body>
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
+<arrowlink COLOR="#009966" DESTINATION="ID_548764214" ENDARROW="None" ENDINCLINATION="-99;-30;" ID="Arrow_ID_1309059699" STARTARROW="Default" STARTINCLINATION="4;29;"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1317557208387" HGAP="24" ID="ID_386212683" MODIFIED="1317573297993" STYLE="bubble" TEXT="DESENVOLUPAMENT" VSHIFT="1">
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -215,6 +141,207 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 <node COLOR="#00b439" CREATED="1317558106315" HGAP="35" ID="ID_1407690739" MODIFIED="1317570272530" STYLE="bubble" TEXT="UTILITATS" VSHIFT="-35">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1317571183975" HGAP="75" ID="ID_106515795" MODIFIED="1317774093638" POSITION="right" STYLE="fork" VSHIFT="-5">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      SEGONS ELS
+    </p>
+    <p style="text-align: center">
+      USUARIS
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1317581231578" HGAP="21" ID="ID_1451528906" MODIFIED="1317775986757" STYLE="bubble" VSHIFT="9">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      HORITZONTALS
+    </p>
+    <p style="text-align: center">
+      <font color="#000000" size="3">tothom les utilitza</font>
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1317581276217" HGAP="19" ID="ID_1908999760" MODIFIED="1317775989357" STYLE="bubble" VSHIFT="7">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      VERTICALS
+    </p>
+    <p style="text-align: center">
+      <font color="#000000" size="3">p&#250;blic molt especific</font>
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1317771885347" HGAP="6" ID="ID_1730301988" MODIFIED="1317775208909" POSITION="left" STYLE="fork" VSHIFT="7">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      SEGONS LA
+    </p>
+    <p style="text-align: center">
+      SEVA FUNCI&#211;
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1317772244503" HGAP="29" ID="ID_548764214" MODIFIED="1317775218333" STYLE="bubble" TEXT="APLICACIONS" VSHIFT="-1">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1317773483990" HGAP="29" ID="ID_1418674016" MODIFIED="1317775218330" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      ENTORNS
+    </p>
+    <p style="text-align: center">
+      D'ESCRIPTORI
+    </p>
+    <p style="text-align: center">
+      I SISTEMES
+    </p>
+    <p style="text-align: center">
+      DE FINESTRES
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1317772250135" HGAP="30" ID="ID_1716703676" MODIFIED="1317775218325" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      BIBLIOTECAS
+    </p>
+    <p style="text-align: center">
+      <i><font color="#333333" size="4">LIBRERIES</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1317772254775" HGAP="24" ID="ID_1793233300" MODIFIED="1317775748445" STYLE="bubble" VSHIFT="-4">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      SISTEMES OPERATIUS
+    </p>
+    <p style="text-align: center">
+      <font size="3" color="#333333">Els &quot;directors d'orquesta&quot; amb els </font>
+    </p>
+    <p style="text-align: center">
+      CONTROLADORS
+    </p>
+    <p style="text-align: center">
+      <i><font color="#333333" size="3">DRIVERS</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1317775115635" HGAP="19" ID="ID_522041508" MODIFIED="1317775218319" STYLE="fork" TEXT="com" VSHIFT="-8">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1317772498317" ID="ID_1122948183" MODIFIED="1317775218323" STYLE="bubble" TEXT="GNU/Linux">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1317772533205" ID="ID_1327590703" MODIFIED="1317775218323" STYLE="bubble" TEXT="GNU/BSD">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1317772537725" ID="ID_1011950726" MODIFIED="1317775218324" STYLE="bubble" TEXT="Unix">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1317772545653" ID="ID_883841067" MODIFIED="1317775218324" STYLE="bubble" TEXT="Windows">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1317775488377" ID="ID_1438059471" MODIFIED="1317776203969" STYLE="bubble" TEXT="Mac OS X"/>
+<node COLOR="#111111" CREATED="1317772795219" ID="ID_1873466868" MODIFIED="1317775218325" STYLE="bubble" TEXT="...">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1317772260471" HGAP="32" ID="ID_876629372" MODIFIED="1317775218309" STYLE="bubble" TEXT="MALWARE">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1317772445517" ID="ID_92824359" MODIFIED="1317775218311" STYLE="fork" TEXT="com" VSHIFT="-7">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1317772414957" ID="ID_1008867969" MODIFIED="1317775218312" STYLE="bubble" TEXT="VIRUS">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1317772419085" ID="ID_874567184" MODIFIED="1317775218312" STYLE="bubble" TEXT="CUCS">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1317772422869" ID="ID_682634563" MODIFIED="1317775218313" STYLE="bubble" TEXT="SPYWARE">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1317772441845" ID="ID_1716561756" MODIFIED="1317775218313" STYLE="bubble" TEXT="...">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1317562384615" HGAP="71" ID="ID_1030567000" MODIFIED="1317774092754" POSITION="right" STYLE="fork" VSHIFT="-118">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      SEGONS
+    </p>
+    <p style="text-align: center">
+      LA LLIC&#200;NCIA
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1317557286632" HGAP="34" ID="ID_1222249794" MODIFIED="1317775996269" STYLE="bubble" TEXT="PRIVATIU" VSHIFT="6">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1317557306014" HGAP="34" ID="ID_1612727919" LINK="fsmap-ca.svg" MODIFIED="1317775998165" STYLE="bubble" TEXT="LLIURE" VSHIFT="12">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
