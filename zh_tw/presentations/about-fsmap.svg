@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="993.87971"
-     inkscape:cy="588.33834"
+     inkscape:zoom="0.70000001"
+     inkscape:cx="451.22925"
+     inkscape:cy="358.65499"
      inkscape:document-units="px"
-     inkscape:current-layer="g178282"
+     inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1139"
      inkscape:window-height="912"
@@ -23715,7 +23715,7 @@
     <svg:a
        id="a7602"
        style="display:inline"
-       transform="matrix(0.98382316,0,0,0.96781837,-10.765646,753.87507)">
+       transform="matrix(0.98192426,0,0,0.96781837,-9.5586771,753.87507)">
       <svg:rect
          style="fill:#fff8dc;fill-opacity:1;stroke:#08ab91;stroke-width:3.04099989;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect2476"
@@ -23734,8 +23734,8 @@
        inkscape:connector-curvature="0" />
     <svg:a
        xlink:href="../fsmap-zh_tw.svg"
-       id="a46141"
-       xlink:title="See version 5.5">
+       xlink:title="See version 5.5"
+       id="a46141">
       <svg:image
          style="filter:url(#filter46133)"
          width="246.72696"
@@ -23747,9 +23747,9 @@
     </svg:a>
     <svg:a
        xlink:href="traducciones.svg"
-       transform="matrix(1.0162473,0,0,1,12.149003,436.50773)"
+       xlink:title="Ver las traducciones de las diferentes versiones"
        id="a67595"
-       xlink:title="Ver las traducciones de las diferentes versiones">
+       transform="matrix(1.0162473,0,0,1,12.149003,436.50773)">
       <svg:g
          transform="matrix(1.1011762,0,0,1.061211,-197.02454,6.7818699)"
          id="g5604">
@@ -23785,9 +23785,9 @@
     </svg:a>
     <svg:a
        xlink:href="mapa-conceptual-del-software-libre-v0.gif"
-       xlink:title="versión 0, la versión más antigua que he encontrado"
+       transform="translate(40,0)"
        id="a15751"
-       transform="translate(40,0)">
+       xlink:title="versión 0, la versión más antigua que he encontrado">
       <svg:g
          transform="translate(6.7142857,5.2857143)"
          id="g178282">
@@ -23843,9 +23843,9 @@
     </svg:a>
     <svg:a
        xlink:href="../fsmap-es.svg"
-       xlink:title="Ver el mapa conceptual"
+       transform="matrix(1.1444913,0,0,1,-97.496506,-12.949237)"
        id="a6110"
-       transform="matrix(1.1444913,0,0,1,-97.496506,-12.949237)">
+       xlink:title="Ver el mapa conceptual">
       <svg:g
          transform="matrix(0.36481037,0,0,1.0829355,389.86668,223.67122)"
          id="g5578-0">
@@ -23923,8 +23923,8 @@
        inkscape:connector-curvature="0" />
     <svg:a
        xlink:href="translations.svg"
-       id="a40960"
-       xlink:title="See the translations">
+       xlink:title="See the translations"
+       id="a40960">
       <svg:image
          style="filter:url(#filter40952)"
          width="214.99629"
@@ -23981,8 +23981,8 @@
     </svg:g>
     <svg:a
        xlink:href="used.svg"
-       id="a60169"
-       xlink:title="see the different uses">
+       xlink:title="see the different uses"
+       id="a60169">
       <svg:image
          width="186.80434"
          height="132.11258"
@@ -23993,9 +23993,9 @@
     </svg:a>
     <svg:a
        xlink:href="../../fr/présentations/mapa-del-software-libre-v1.png"
-       xlink:title="version 1.x, one of the first mapas"
+       transform="translate(-8,0)"
        id="a15748"
-       transform="translate(-8,0)">
+       xlink:title="version 1.x, one of the first mapas">
       <svg:image
          transform="matrix(1.3054526,0,0,1.3054526,-142.01933,-136.88534)"
          style="filter:url(#filter178274)"
@@ -24008,9 +24008,9 @@
     </svg:a>
     <svg:a
        xlink:href="usado.svg"
-       xlink:title="Ver diferentes usos dados"
+       transform="translate(-362.74629,5.9593898)"
        id="a61766"
-       transform="translate(-362.74629,5.9593898)">
+       xlink:title="Ver diferentes usos dados">
       <svg:g
          transform="translate(-96.80553,-664.50456)"
          id="g5769-6">

@@ -6661,9 +6661,9 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="1.5157166"
-   inkscape:cx="959.00796"
-   inkscape:cy="225.69873"
+   inkscape:zoom="0.7578583"
+   inkscape:cx="611.45934"
+   inkscape:cy="408.28335"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
@@ -6693,18 +6693,6 @@
    inkscape:groupmode="layer"
    id="capa1"
    transform="translate(200.4423,-84.695028)">
-  <svg:rect
-     width="1021.1631"
-     height="708.47601"
-     rx="17.594439"
-     ry="11.916421"
-     x="-186.56616"
-     y="101.4172"
-     id="rect2476-8-2"
-     style="font-size:8px;fill:none;fill-opacity:1;stroke:#c4aa32;stroke-width:1.95427667999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-     inkscape:export-xdpi="259.6308"
-     inkscape:export-ydpi="259.6308" />
   <svg:a
      id="a45434"
      xlink:href="http://www.blender.org/"
@@ -6794,8 +6782,8 @@
   <svg:rect
      style="fill:#fceeec;fill-opacity:1;stroke:#b73030;stroke-width:2.34346247;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3468-0"
-     y="107.80415"
-     x="-179.65106"
+     y="107.63921"
+     x="-176.84711"
      ry="4.0178938"
      rx="3.6129794"
      height="56.397491"
@@ -8386,15 +8374,15 @@
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      xml:space="preserve"
      id="text3244"
-     y="142.55515"
-     x="-161.81873"
+     y="142.39021"
+     x="-159.01477"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:18px;font-weight:bold;-inkscape-font-specification:DejaVu Serif Bold"
        id="tspan3246"
-       y="142.55515"
-       x="-161.81873">USAR</svg:tspan></svg:text>
+       y="142.39021"
+       x="-159.01477">USAR</svg:tspan></svg:text>
   <svg:text
      x="-66.997192"
      y="130.84819"
@@ -8551,8 +8539,8 @@
        style="font-size:24px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">per a</svg:tspan></svg:text>
   <svg:a
      xlink:href="hipermapa/valors.svg"
-     id="a15550"
-     xlink:title="mostrar els valors">
+     xlink:title="mostrar els valors"
+     id="a15550">
     <svg:g
        id="g15545">
       <svg:rect
@@ -8654,21 +8642,21 @@
        id="tspan10116-2"
        style="font-size:20px;font-weight:normal;-inkscape-font-specification:DejaVu Serif"> depuren</svg:tspan></svg:text>
   <svg:text
-     x="-132.75623"
-     y="181.45479"
+     x="-129.95227"
+     y="181.28986"
      id="text2575"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><svg:tspan
-       x="-132.75623"
-       y="181.45479"
+       x="-129.95227"
+       y="181.28986"
        id="tspan2579"
        style="font-size:12px">amb qualsevol</svg:tspan><svg:tspan
-       x="-132.75623"
-       y="196.45479"
+       x="-129.95227"
+       y="196.28986"
        id="tspan3286"
        style="font-size:12px">propòsit</svg:tspan><svg:tspan
-       x="-132.75623"
-       y="212.0329"
+       x="-129.95227"
+       y="211.86797"
        id="tspan3288"
        style="font-size:12px">(llibertat <svg:tspan
    id="tspan5464"
@@ -9162,9 +9150,9 @@
        style="font-size:24px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">respecten</svg:tspan></svg:text>
   <svg:a
      xlink:href="maps-guide-ca.svg"
-     transform="translate(-11.62006,-7.433208)"
+     xlink:title="mapes i exercicis [enllaç relatiu]"
      id="a18624"
-     xlink:title="mapes i exercicis [enllaç relatiu]">
+     transform="translate(-11.62006,-7.433208)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -17743,5 +17731,17 @@
          id="tspan4310-9-7-06-6-5"
          style="font-size:12px">Sugar</svg:tspan></svg:text>
   </svg:a>
+  <svg:rect
+     inkscape:export-ydpi="259.6308"
+     inkscape:export-xdpi="259.6308"
+     inkscape:export-filename=""
+     style="font-size:8px;fill:none;stroke:#c4aa32;stroke-width:1.95197308;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect2476-8-2-6"
+     y="101.40643"
+     x="-184.49846"
+     ry="11.916622"
+     rx="17.552689"
+     height="708.48792"
+     width="1018.74" />
 </svg:g>
 </svg:svg>

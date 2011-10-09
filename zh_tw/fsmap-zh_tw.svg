@@ -43175,15 +43175,15 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="1.5308737"
-   inkscape:cx="742.54377"
-   inkscape:cy="186.60054"
+   inkscape:zoom="4.3299647"
+   inkscape:cx="936.29787"
+   inkscape:cy="100.37597"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="968"
-   inkscape:window-x="-2"
+   inkscape:window-height="1060"
+   inkscape:window-x="1918"
    inkscape:window-y="-3"
    inkscape:window-maximized="1" />
 <svg:metadata
@@ -44845,7 +44845,7 @@
          x="792.495"
          y="813.93597"
          id="tspan4310-9-7-1-9-0-6-7-6-1"
-         style="font-size:9px">V.5.5 2011-08-31</svg:tspan></svg:text>
+         style="font-size:9px">V.5.5 2011-10-09</svg:tspan></svg:text>
   </svg:a>
   <svg:g
      transform="matrix(0.11231,0,0,0.11231,986.09,814.54752)"
@@ -44944,9 +44944,9 @@
   </svg:a>
   <svg:a
      xlink:href="maps-guide-zh_tw.svg"
-     id="a18624"
+     xlink:title="see the maps guide"
      transform="translate(6.3236,-7.3000522)"
-     xlink:title="see the maps guide">
+     id="a18624">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -55293,9 +55293,9 @@
   </svg:a>
   <svg:a
      xlink:href="presentations/translations.svg"
-     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)"
+     id="a18624-2"
      transform="translate(58.283287,-19.261881)"
-     id="a18624-2">
+     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -55841,18 +55841,6 @@
       </svg:g>
     </svg:g>
   </svg:a>
-  <svg:rect
-     width="1021.1631"
-     height="708.47601"
-     rx="17.594439"
-     ry="11.916421"
-     x="-186.58682"
-     y="101.33583"
-     id="rect2476-8-2"
-     style="font-size:8px;fill:none;stroke:#c4aa32;stroke-width:1.95427668;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-     inkscape:export-xdpi="259.6308"
-     inkscape:export-ydpi="259.6308" />
   <svg:path
      d="m 212.64464,503.93999 0.2474,42.50637"
      id="path5371-7"
@@ -55968,5 +55956,17 @@
          y="638.18103"
          x="750.0929">OSDC.TW</svg:tspan></svg:text>
   </svg:a>
+  <svg:rect
+     inkscape:export-ydpi="259.6308"
+     inkscape:export-xdpi="259.6308"
+     inkscape:export-filename=""
+     style="font-size:8px;fill:none;stroke:#c4aa32;stroke-width:1.95197308;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect2476-8-2-6"
+     y="101.40641"
+     x="-184.49815"
+     ry="11.916622"
+     rx="17.552689"
+     height="708.48792"
+     width="1018.74" />
 </svg:g>
 </svg:svg>
