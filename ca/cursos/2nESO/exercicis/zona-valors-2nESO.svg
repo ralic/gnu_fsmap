@@ -14,7 +14,7 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="zona-valors-2nESO.svg"
    inkscape:export-filename="map-ca-12000.png"
    inkscape:export-xdpi="1033.4735"
@@ -35340,18 +35340,6 @@
      inkscape:groupmode="layer"
      id="capa1"
      transform="translate(200.4423,-84.695028)">
-    <svg:rect
-       width="1021.1631"
-       height="708.47601"
-       rx="17.594439"
-       ry="11.916421"
-       x="-186.56616"
-       y="101.4172"
-       id="rect2476-8-2"
-       style="font-size:8px;fill:#ffffff;fill-opacity:1;stroke:#c4aa32;stroke-width:1.95427668;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       inkscape:export-filename=""
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-ydpi="259.6308" />
     <svg:text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
@@ -35446,18 +35434,6 @@
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"
        sodipodi:nodetypes="cc" />
-    <svg:rect
-       style="fill:#f6fbfb;fill-opacity:1;stroke:#2e2dff;stroke-width:4.7653451;stroke-miterlimit:4;stroke-opacity:0.99117641;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2397-8"
-       y="145.17758"
-       x="567.81537"
-       ry="28.593908"
-       rx="49.227539"
-       height="91.443794"
-       width="232.38878"
-       inkscape:export-filename=""
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-ydpi="259.6308" />
     <svg:text
        x="-13.008668"
        y="402.2092"
@@ -35485,6 +35461,24 @@
          y="570.65863"
          id="tspan5598-9"
          style="font-size:45.74731445px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">expressa</svg:tspan></svg:text>
+    <svg:a
+       id="a9621"
+       xlink:title="veure una altra forma de mostrar els valors"
+       transform="translate(3.8959503e-6,8.7611846e-6)"
+       xlink:href="/home/h/../../../hipermapa/valors.svg">
+      <svg:rect
+         inkscape:export-ydpi="259.6308"
+         inkscape:export-xdpi="259.6308"
+         inkscape:export-filename=""
+         width="232.38878"
+         height="91.443794"
+         rx="49.227539"
+         ry="28.593908"
+         x="567.81537"
+         y="145.17758"
+         id="rect2397-8"
+         style="fill:#f6fbfb;fill-opacity:1;stroke:#2e2dff;stroke-width:4.7653451;stroke-miterlimit:4;stroke-opacity:0.99117641;stroke-dasharray:none;stroke-dashoffset:0" />
+    </svg:a>
     <svg:text
        style="font-size:30.498209px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        xml:space="preserve"
@@ -35598,9 +35592,9 @@
          id="tspan30308"> i sobretot llibertat</svg:tspan></svg:text>
     <svg:a
        xlink:href="4zones-2nESO.svg"
-       id="a42070"
+       transform="matrix(2.6031434,0,0,2.6031434,-1230.269,-1323.818)"
        xlink:title="Tornar a veure les 4 zones"
-       transform="matrix(2.6031434,0,0,2.6031434,-1230.269,-1323.818)">
+       id="a42070">
       <svg:text
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
          xml:space="preserve"
@@ -35617,9 +35611,9 @@
     </svg:a>
     <svg:a
        xlink:href="amb-relacions-i-icones-2nESO.svg"
-       transform="matrix(1.0648741,0,0,1.0648741,-77.626601,-75.10511)"
+       xlink:title="Tornar a veure el exercici"
        id="a6966"
-       xlink:title="Tornar a veure el exercici">
+       transform="matrix(1.0648741,0,0,1.0648741,-77.626601,-75.10511)">
       <svg:text
          style="font-size:37.74631119px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
          xml:space="preserve"
@@ -35634,5 +35628,17 @@
            y="747.30878"
            x="705.83563">Tornar a l'exercici</svg:tspan></svg:text>
     </svg:a>
+    <svg:rect
+       inkscape:export-ydpi="259.6308"
+       inkscape:export-xdpi="259.6308"
+       inkscape:export-filename=""
+       style="font-size:8px;fill:none;stroke:#c4aa32;stroke-width:1.95197308;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2476-8-2-6"
+       y="101.40643"
+       x="-184.49846"
+       ry="11.916622"
+       rx="17.552689"
+       height="708.48792"
+       width="1018.74" />
   </svg:g>
 </svg:svg>
