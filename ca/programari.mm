@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1317556548265" ID="ID_1987649862" MODIFIED="1317776000181" STYLE="bubble">
+<node COLOR="#000000" CREATED="1317556548265" ID="ID_1987649862" MODIFIED="1319153809625" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15,8 +15,8 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="20"/>
-<hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <node COLOR="#0033ff" CREATED="1317569566688" HGAP="-145" ID="ID_1459260305" MODIFIED="1317774094369" POSITION="right" STYLE="fork" TEXT="ES DIVIDEIX EN" VSHIFT="-5">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
@@ -31,7 +31,21 @@
 <node COLOR="#111111" CREATED="1317569690248" HGAP="35" ID="ID_1741600068" MODIFIED="1317581446077" STYLE="bubble" TEXT="SCRIPTS">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1317569693992" HGAP="35" ID="ID_1053285696" MODIFIED="1317581463492" STYLE="bubble" TEXT="FITXERS DE CONFIGURACI&#xd3; ">
+<node COLOR="#111111" CREATED="1317569693992" HGAP="35" ID="ID_1053285696" MODIFIED="1319153699526" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      FITXERS DE
+    </p>
+    <p style="text-align: center">
+      CONFIGURACI&#211;&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#111111" CREATED="1317569704631" HGAP="35" ID="ID_1450936801" MODIFIED="1317774474093" STYLE="bubble" VSHIFT="-5">
@@ -47,8 +61,7 @@
       <font size="2">de l'aplicaci&#243;</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#111111" CREATED="1317581487576" HGAP="37" ID="ID_1648688587" MODIFIED="1317583886557" STYLE="bubble" TEXT="..." VSHIFT="-3"/>
@@ -80,6 +93,22 @@
 </node>
 <node COLOR="#111111" CREATED="1317569701304" HGAP="36" ID="ID_1145950530" MODIFIED="1317579993421" STYLE="bubble" TEXT="MANUALS" VSHIFT="1">
 <font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1319152490861" HGAP="36" ID="ID_1871183067" MODIFIED="1319152698050" STYLE="bubble" VSHIFT="3">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      FORMATS, PROTOCOLS,
+    </p>
+    <p style="text-align: center">
+      EST&#192;NDARDS
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node COLOR="#111111" CREATED="1317569704631" HGAP="35" ID="ID_379515771" MODIFIED="1317579993419" STYLE="bubble" TEXT="..." VSHIFT="-5">
 <font NAME="SansSerif" SIZE="12"/>
@@ -216,7 +245,7 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1317773483990" HGAP="29" ID="ID_1418674016" MODIFIED="1317775218330" STYLE="bubble">
+<node COLOR="#00b439" CREATED="1317773483990" HGAP="29" ID="ID_1418674016" MODIFIED="1319152406278" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -229,7 +258,7 @@
       D'ESCRIPTORI
     </p>
     <p style="text-align: center">
-      I SISTEMES
+      SISTEMES
     </p>
     <p style="text-align: center">
       DE FINESTRES
@@ -240,14 +269,14 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1317772250135" HGAP="30" ID="ID_1716703676" MODIFIED="1317775218325" STYLE="bubble">
+<node COLOR="#00b439" CREATED="1317772250135" HGAP="30" ID="ID_1716703676" MODIFIED="1319152416557" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      BIBLIOTECAS
+      BIBLIOTEQUES
     </p>
     <p style="text-align: center">
       <i><font color="#333333" size="4">LIBRERIES</font></i>
@@ -277,8 +306,7 @@
       <i><font color="#333333" size="3">DRIVERS</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1317775115635" HGAP="19" ID="ID_522041508" MODIFIED="1317775218319" STYLE="fork" TEXT="com" VSHIFT="-8">
