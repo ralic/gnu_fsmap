@@ -1,8 +1,9 @@
 # To do things for the maps  first line is firt to be done:
 
-* Update translation for taiwan
-* add advantages to zh_tw
-* prepare presentation ICOS2011
+* write quetxua translation and make all the maps    ended for 3 november if lucky
+* fix brasilian translation and start derivatives    ended for 15 november if lucky
+* Update and fix german translation		     ended before 2012 if lucky
+* Update and fix italian translation                 ended february if lucky
 * Update all the translations and try to archieve version 5 for then
 * update translation formularies 
 * upgrade to V5 the fr exercice chasse-erreurs.svg, it's in v4.x
@@ -12,7 +13,7 @@
 Simultaneous detalls to be done in every map reedited:
 * add V.5 to all updated versions with relative and absolute link.   ES, CA, EN done.
 * Change scribus by Moodle for new maps k12 or so, its more used.
-* change in all maps the new debian logo to the old one.
+* change in all maps the new debian logo to the old one because it was not successfull.
 * Remove the helping links from all V5 because with maps-guide they arent necessary
 
 * remove the word competitivity in all new V5, it's considered countervalue too
