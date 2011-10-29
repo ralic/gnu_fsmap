@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1317556548265" ID="ID_1987649862" MODIFIED="1319153809625" STYLE="bubble">
+<node COLOR="#000000" CREATED="1317556548265" ID="ID_1987649862" MODIFIED="1319899891793" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15,15 +15,15 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="20"/>
-<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
 <hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
-<node COLOR="#0033ff" CREATED="1317569566688" HGAP="-145" ID="ID_1459260305" MODIFIED="1317774094369" POSITION="right" STYLE="fork" TEXT="ES DIVIDEIX EN" VSHIFT="-5">
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1317569566688" HGAP="-94" ID="ID_1459260305" MODIFIED="1319899833009" POSITION="right" STYLE="fork" TEXT="ES DIVIDEIX EN" VSHIFT="7">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1317569656955" HGAP="13" ID="ID_1245517962" MODIFIED="1317583861324" STYLE="bubble" TEXT="PROGRAMES" VSHIFT="21">
+<node COLOR="#00b439" CREATED="1317569656955" HGAP="19" ID="ID_1245517962" MODIFIED="1319893834270" STYLE="bubble" TEXT="PROGRAMES" VSHIFT="2">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1317579808051" HGAP="14" ID="ID_1276504854" MODIFIED="1317583869388" STYLE="fork" TEXT="com" VSHIFT="-37">
+<node COLOR="#990000" CREATED="1317579808051" HGAP="21" ID="ID_1276504854" MODIFIED="1319893783950" STYLE="fork" TEXT="com" VSHIFT="-8">
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1317569682175" HGAP="30" ID="ID_1451392720" MODIFIED="1317581451391" STYLE="bubble" TEXT="APLICACIONS">
 <font NAME="SansSerif" SIZE="12"/>
@@ -44,8 +44,7 @@
       CONFIGURACI&#211;&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#111111" CREATED="1317569704631" HGAP="35" ID="ID_1450936801" MODIFIED="1317774474093" STYLE="bubble" VSHIFT="-5">
@@ -67,12 +66,12 @@
 <node COLOR="#111111" CREATED="1317581487576" HGAP="37" ID="ID_1648688587" MODIFIED="1317583886557" STYLE="bubble" TEXT="..." VSHIFT="-3"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1317569668591" HGAP="14" ID="ID_1688089496" MODIFIED="1317583855556" STYLE="bubble" TEXT="DADES" VSHIFT="-13">
+<node COLOR="#00b439" CREATED="1317569668591" HGAP="23" ID="ID_1688089496" MODIFIED="1319893837886" STYLE="bubble" TEXT="DADES" VSHIFT="15">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1317579808051" HGAP="51" ID="ID_651676376" MODIFIED="1317583893204" STYLE="fork" TEXT="com" VSHIFT="18">
+<node COLOR="#990000" CREATED="1317579808051" HGAP="38" ID="ID_651676376" MODIFIED="1319897448341" STYLE="fork" TEXT="com" VSHIFT="-9">
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#111111" CREATED="1317569682175" HGAP="30" ID="ID_1614938377" MODIFIED="1317581610760" STYLE="bubble">
+<node COLOR="#111111" CREATED="1317569682175" HGAP="45" ID="ID_1614938377" MODIFIED="1319899889921" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -82,41 +81,48 @@
       IMATGES
     </p>
     <p style="text-align: left">
-      per editar, visualitzar ...
+      &#160;&#160;per editar,
+    </p>
+    <p style="text-align: left">
+      &#160;&#160;visualitzar ...
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1317569690248" HGAP="35" ID="ID_141733971" MODIFIED="1317579993422" STYLE="bubble" TEXT="SONS">
+<node COLOR="#111111" CREATED="1317569690248" HGAP="46" ID="ID_141733971" MODIFIED="1319893225261" STYLE="bubble" TEXT="SONS">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1317569701304" HGAP="36" ID="ID_1145950530" MODIFIED="1317579993421" STYLE="bubble" TEXT="MANUALS" VSHIFT="1">
+<node COLOR="#111111" CREATED="1317569701304" HGAP="44" ID="ID_1145950530" MODIFIED="1319893228653" STYLE="bubble" TEXT="MANUALS" VSHIFT="1">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1319152490861" HGAP="36" ID="ID_1871183067" MODIFIED="1319152698050" STYLE="bubble" VSHIFT="3">
+<node COLOR="#111111" CREATED="1319152490861" HGAP="45" ID="ID_1871183067" MODIFIED="1319893232181" STYLE="bubble" VSHIFT="3">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p style="text-align: center">
-      FORMATS, PROTOCOLS,
+    <p style="text-align: left">
+      FORMATS
     </p>
-    <p style="text-align: center">
+    <p style="text-align: left">
+      PROTOCOLS
+    </p>
+    <p style="text-align: left">
       EST&#192;NDARDS
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node COLOR="#111111" CREATED="1317569704631" HGAP="35" ID="ID_379515771" MODIFIED="1317579993419" STYLE="bubble" TEXT="..." VSHIFT="-5">
+<node COLOR="#111111" CREATED="1317569704631" HGAP="45" ID="ID_379515771" MODIFIED="1319893238245" STYLE="bubble" TEXT="..." VSHIFT="-5">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1317562424150" HGAP="17" ID="ID_1897817801" MODIFIED="1317774095308" POSITION="left" STYLE="fork" VSHIFT="-16">
+<node COLOR="#0033ff" CREATED="1317562424150" HGAP="27" ID="ID_1897817801" MODIFIED="1319897514077" POSITION="left" STYLE="fork" VSHIFT="-11">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -131,7 +137,6 @@
   </body>
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
-<arrowlink COLOR="#009966" DESTINATION="ID_548764214" ENDARROW="None" ENDINCLINATION="-99;-30;" ID="Arrow_ID_1309059699" STARTARROW="Default" STARTINCLINATION="4;29;"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1317557208387" HGAP="24" ID="ID_386212683" MODIFIED="1317573297993" STYLE="bubble" TEXT="DESENVOLUPAMENT" VSHIFT="1">
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -174,7 +179,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1317571183975" HGAP="75" ID="ID_106515795" MODIFIED="1317774093638" POSITION="right" STYLE="fork" VSHIFT="-5">
+<node COLOR="#0033ff" CREATED="1317571183975" HGAP="65" ID="ID_106515795" MODIFIED="1319899837737" POSITION="right" STYLE="fork" VSHIFT="20">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -190,7 +195,7 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1317581231578" HGAP="21" ID="ID_1451528906" MODIFIED="1317775986757" STYLE="bubble" VSHIFT="9">
+<node COLOR="#00b439" CREATED="1317581231578" HGAP="50" ID="ID_1451528906" MODIFIED="1319893868470" STYLE="bubble" VSHIFT="9">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -207,7 +212,7 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1317581276217" HGAP="19" ID="ID_1908999760" MODIFIED="1317775989357" STYLE="bubble" VSHIFT="7">
+<node COLOR="#00b439" CREATED="1317581276217" HGAP="50" ID="ID_1908999760" MODIFIED="1319899851737" STYLE="bubble" VSHIFT="6">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -225,27 +230,28 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1317771885347" HGAP="6" ID="ID_1730301988" MODIFIED="1317775208909" POSITION="left" STYLE="fork" VSHIFT="7">
+<node COLOR="#0033ff" CREATED="1317771885347" HGAP="-11" ID="ID_1730301988" MODIFIED="1319893961838" POSITION="left" STYLE="fork" VSHIFT="7">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      SEGONS LA
+      SEGONS COM
     </p>
     <p style="text-align: center">
-      SEVA FUNCI&#211;
+      FUNCIONEN
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1317772244503" HGAP="29" ID="ID_548764214" MODIFIED="1317775218333" STYLE="bubble" TEXT="APLICACIONS" VSHIFT="-1">
+<node COLOR="#00b439" CREATED="1317772244503" HGAP="29" ID="ID_548764214" MODIFIED="1319892998392" STYLE="bubble" TEXT="APLICACIONS" VSHIFT="-1">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1317773483990" HGAP="29" ID="ID_1418674016" MODIFIED="1319152406278" STYLE="bubble">
+<node COLOR="#00b439" CREATED="1317773483990" HGAP="29" ID="ID_1418674016" MODIFIED="1319893403245" STYLE="bubble" VSHIFT="6">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -264,12 +270,11 @@
       DE FINESTRES
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1317772250135" HGAP="30" ID="ID_1716703676" MODIFIED="1319152416557" STYLE="bubble">
+<node COLOR="#00b439" CREATED="1317772250135" HGAP="30" ID="ID_1716703676" MODIFIED="1319893410349" STYLE="bubble" VSHIFT="11">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -282,8 +287,7 @@
       <i><font color="#333333" size="4">LIBRERIES</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
@@ -332,13 +336,26 @@
 <node COLOR="#00b439" CREATED="1317772260471" HGAP="32" ID="ID_876629372" MODIFIED="1317775218309" STYLE="bubble" TEXT="MALWARE">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1317772445517" ID="ID_92824359" MODIFIED="1317775218311" STYLE="fork" TEXT="com" VSHIFT="-7">
+<node COLOR="#990000" CREATED="1317772445517" HGAP="102" ID="ID_92824359" MODIFIED="1319897436317" STYLE="fork" TEXT="com" VSHIFT="-9">
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1317772414957" ID="ID_1008867969" MODIFIED="1317775218312" STYLE="bubble" TEXT="VIRUS">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#111111" CREATED="1317772419085" ID="ID_874567184" MODIFIED="1317775218312" STYLE="bubble" TEXT="CUCS">
 <font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1319894235922" ID="ID_1306906142" MODIFIED="1319894650244" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      TROIANS
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node COLOR="#111111" CREATED="1317772422869" ID="ID_682634563" MODIFIED="1317775218313" STYLE="bubble" TEXT="SPYWARE">
 <font NAME="SansSerif" SIZE="12"/>
@@ -349,7 +366,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1317562384615" HGAP="71" ID="ID_1030567000" MODIFIED="1317774092754" POSITION="right" STYLE="fork" VSHIFT="-118">
+<node COLOR="#0033ff" CREATED="1317562384615" HGAP="59" ID="ID_1030567000" MODIFIED="1319897588613" POSITION="right" STYLE="fork" VSHIFT="-100">
 <richcontent TYPE="NODE"><html>
   <head>
     
