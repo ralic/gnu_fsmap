@@ -29,17 +29,17 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="2.6676613"
-   inkscape:cx="678.87202"
-   inkscape:cy="66.434897"
+   inkscape:zoom="1.3338307"
+   inkscape:cx="441.20701"
+   inkscape:cy="280.55592"
    inkscape:document-units="px"
-   inkscape:current-layer="layer6"
+   inkscape:current-layer="capa1"
    showgrid="false"
-   inkscape:window-width="1539"
-   inkscape:window-height="890"
-   inkscape:window-x="311"
-   inkscape:window-y="35"
-   inkscape:window-maximized="0"
+   inkscape:window-width="1920"
+   inkscape:window-height="1060"
+   inkscape:window-x="1918"
+   inkscape:window-y="-3"
+   inkscape:window-maximized="1"
    showguides="true"
    inkscape:guide-bbox="true"
    units="cm" />
@@ -35196,6 +35196,42 @@
        offset="1"
        style="stop-color:#ffffff;stop-opacity:0;" />
   </svg:linearGradient>
+  <inkscape:perspective
+     sodipodi:type="inkscape:persp3d"
+     inkscape:vp_x="0 : 0.5 : 1"
+     inkscape:vp_y="0 : 1000 : 0"
+     inkscape:vp_z="1 : 0.5 : 1"
+     inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+     id="perspective5039" />
+  <svg:linearGradient
+     y2="425.39993"
+     x2="-395.84943"
+     y1="274.711"
+     x1="-344.15295"
+     gradientTransform="matrix(-0.591458,0,0,0.591458,210.022,142.232)"
+     gradientUnits="userSpaceOnUse"
+     id="linearGradient2449"
+     xlink:href="#linearGradient2555"
+     inkscape:collect="always" />
+  <svg:linearGradient
+     id="linearGradient2555"
+     inkscape:collect="always">
+    <svg:stop
+       id="stop2557"
+       offset="0"
+       style="stop-color: rgb(255, 255, 255); stop-opacity: 1;" />
+    <svg:stop
+       id="stop2559"
+       offset="1"
+       style="stop-color: rgb(255, 255, 255); stop-opacity: 0;" />
+  </svg:linearGradient>
+  <inkscape:perspective
+     id="perspective4864"
+     inkscape:persp3d-origin="128 : 85.333333 : 1"
+     inkscape:vp_z="256 : 128 : 1"
+     inkscape:vp_y="0 : 1000 : 0"
+     inkscape:vp_x="0 : 128 : 1"
+     sodipodi:type="inkscape:persp3d" />
 </svg:defs>
 <svg:metadata
    id="metadata5699">
@@ -35222,7 +35258,7 @@
      height="836.96198"
      width="1071.4081"
      id="rect21327"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ad1c0c;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
   <svg:a
      id="a18185"
      xlink:href="http://www.guia-ubuntu.org/index.php?title=Iceweasel"
@@ -36077,9 +36113,9 @@
        id="tspan13034-7">This hypermap is released free as in freedom with the</svg:tspan></svg:text>
   <svg:a
      xlink:href="COPYING.txt"
-     transform="translate(-4,0)"
+     id="a14093"
      xlink:title="GFDL licence itself"
-     id="a14093">
+     transform="translate(-4,0)">
     <svg:text
        id="text5683-2-5-6-6"
        y="8.1642027"
@@ -36110,7 +36146,7 @@
        sodipodi:role="line"
        x="964.41016"
        y="-9.5688295"
-       id="tspan13034-74-2">2011-04-06</svg:tspan></svg:text>
+       id="tspan13034-74-2">2012-02-09</svg:tspan></svg:text>
   <svg:a
      id="a14284"
      xlink:href="http://es.gnu.org/~reneme/fsmap"
@@ -36159,7 +36195,7 @@
      id="a11235"
      xlink:href="http://es.wikipedia.org/wiki/Moodle"
      xlink:title="WikipediA sobre el programa Moodle"
-     transform="matrix(0.60435355,0,0,0.60435355,57.447026,385.51141)">
+     transform="matrix(0.60435355,0,0,0.60435355,57.447026,375.51141)">
     <svg:g
        transform="matrix(0.06973775,0,0,0.06973775,-51.173703,612.56117)"
        id="g36669">
@@ -36211,7 +36247,7 @@
     </svg:g>
   </svg:a>
   <svg:a
-     transform="matrix(0.6825269,0,0,0.6825269,44.669893,236.61246)"
+     transform="matrix(0.6825269,0,0,0.6825269,44.669893,230.61246)"
      id="a13414"
      xlink:href="http://es.wikipedia.org/wiki/Sugar_(interfaz_gráfica_de_usuario)"
      xlink:title="Wikipedia sobre el interfaz gráfica de usuario sugar">
@@ -36255,6 +36291,25 @@
          y="757.51978"
          x="532.71863"
          id="tspan11997-8-7-2-6-7">http://en.wikipedia.org/wiki/File:XO_Logo.svg</svg:tspan></svg:text>
+  </svg:a>
+  <svg:a
+     transform="translate(1.3042012,37.035837)"
+     id="a80748-6"
+     xlink:title="The logo was taken from the arab wikipedia and this is the license"
+     xlink:href="http://openiconlibrary.sourceforge.net/LICENSES.html">
+    <svg:text
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       xml:space="preserve"
+       y="757.51978"
+       x="532.71863"
+       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
+       inkscape:export-xdpi="259.6308"
+       inkscape:export-ydpi="259.6308"
+       id="text11995-6-7-6-5-3-3"><svg:tspan
+         style="font-size:12px;text-align:start;text-anchor:start"
+         y="757.51978"
+         x="532.71863"
+         id="tspan11997-8-7-2-6-7-2">http://openiconlibrary.sourceforge.net/LICENSES.html</svg:tspan></svg:text>
   </svg:a>
 </svg:g>
 <svg:g
@@ -44319,13 +44374,13 @@
   <svg:text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     x="-144.34575"
-     y="850.46576"
+     x="-146.46628"
+     y="842.99591"
      id="text15103-61"><svg:tspan
        sodipodi:role="line"
-       x="-144.34575"
-       y="850.46576"
-       id="tspan15109-5">.                     Sugar                  OLPC team                          CCbySA2.5      </svg:tspan></svg:text>
+       x="-146.46628"
+       y="842.99591"
+       id="tspan15109-5">.                      Sugar                  OLPC team                          CCbySA2.5      </svg:tspan></svg:text>
   <svg:text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
@@ -44478,7 +44533,7 @@
        style="font-size:12px;text-align:start;text-anchor:start"
        id="tspan4308-4-22"
        y="173.33759"
-       x="-141.877">swirl             Debian                'Cathbard Druid'      Debian Open Use Logo License  http://debian-art.org/content/show.php?content=72219  it will be changed to</svg:tspan></svg:text>
+       x="-141.877">swirl             Debian                'Cathbard Druid'      Debian Open Use Logo License  http://debian-art.org/content/show.php?content=72219   sometimes changed to</svg:tspan></svg:text>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      xml:space="preserve"
@@ -48758,7 +48813,7 @@
     </svg:g>
   </svg:a>
   <svg:a
-     transform="translate(0.43614487,47.133412)"
+     transform="translate(0.43614487,35.133412)"
      style="display:inline"
      id="a45177-2-9"
      xlink:href="http://trisquel.info/en/"
@@ -48776,6 +48831,84 @@
          y="825.58832"
          id="tspan4308-4-0-0-8-7-2-7"
          style="font-size:12px;text-align:start;text-anchor:start">.                      Moodle                René Mérou                        GFDL 1.3 or &gt;         http://es.gnu.org/~reneme/fsmap/fsmap-contents.svg (this document) </svg:tspan></svg:text>
+  </svg:a>
+  <svg:text
+     xml:space="preserve"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+     x="-146.03407"
+     y="880.71051"
+     id="text15103-61-0"><svg:tspan
+       sodipodi:role="line"
+       x="-146.03407"
+       y="880.71051"
+       id="tspan15109-5-6">.                      WordPress  Open Icon Library  Multiply License included LGPL3  </svg:tspan></svg:text>
+  <svg:a
+     id="a33531"
+     xlink:href="http://wordpress.org/"
+     xlink:title="See wordpress home page">
+    <svg:g
+       inkscape:label="Layer 1"
+       id="layer1-55"
+       transform="matrix(0.07574523,0,0,0.07574523,-207.4713,846.91448)">
+      <svg:rect
+         inkscape:export-ydpi="7.7063322"
+         inkscape:export-xdpi="7.7063322"
+         inkscape:export-filename="C:\Documents and Settings\Molumen\Desktop\path3511111.png"
+         transform="scale(-1,1)"
+         ry="35.487503"
+         rx="35.487503"
+         y="328.84921"
+         x="-619.14587"
+         height="234.98955"
+         width="235.00784"
+         id="rect1942"
+         style="fill:#434343;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="7.7063322"
+         inkscape:export-xdpi="7.7063322"
+         inkscape:export-filename="C:\Documents and Settings\Molumen\Desktop\path3511111.png"
+         sodipodi:nodetypes="ccccsssc"
+         id="path1950"
+         d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+         style="opacity:0.40772549;fill:url(#linearGradient2449);fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 410.75767,423.32619 45.45686,111.11678 c -14.88306,-10.13588 -25.36865,-15.57595 -38.89087,-41.41625 -10.37377,-26.97995 -10.75671,-36.66124 -6.56599,-69.70053 z"
+         id="path5137"
+         sodipodi:nodetypes="cccc" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 505.20693,465.24752 28.78935,75.25637 c -18.29439,7.09176 -38.27482,7.88995 -60.60915,1.51522 l 31.8198,-76.77159 z"
+         id="path5139"
+         sodipodi:nodetypes="cccc" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="M 593.59528,421.5151 550.6638,533.43282 c 11.85713,-10.2694 24.0139,-14.0114 38.89087,-42.42641 9.89844,-23.63461 8.87625,-45.5274 4.04061,-69.49131 z"
+         id="path5143"
+         sodipodi:nodetypes="cccc" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="M 575.41253,388.47593 C 520.99921,332.93321 441.99836,355.42892 415.30336,413.43388 l 148.13528,0.35714 c -3.82801,-11.64778 -2.97828,-21.51908 11.97389,-25.31509 z"
+         id="path5145"
+         sodipodi:nodetypes="cccc" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 460.45807,409.54885 0,8.92858 c -13.90391,-1.67317 -12.68248,5.55092 -10.71429,13.21428 l 29.64286,74.28571 21.78571,-51.07142 -10,-23.92858 c -3.63288,-6.41046 -3.70885,-13.52692 -18.57143,-12.85714 l 0.35715,-7.85714 -12.5,-0.71429 z"
+         id="path5657"
+         sodipodi:nodetypes="ccccccccc" />
+      <svg:path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 539.0295,407.406 0,11.42857 c -7.7555,0.45506 -17.09187,-1.95339 -12.14286,13.92857 l 26.78571,70.35715 14.64286,-41.07144 c 5.07705,-18.23313 -0.2765,-35.71399 -6.42857,-52.85714 L 539.0295,407.406 z"
+         id="path5659"
+         sodipodi:nodetypes="ccccccc" />
+    </svg:g>
   </svg:a>
 </svg:g>
 <svg:style
