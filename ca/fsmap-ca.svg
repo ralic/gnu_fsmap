@@ -6683,17 +6683,17 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="1.0717735"
-   inkscape:cx="510.89316"
-   inkscape:cy="405.95128"
+   inkscape:zoom="2.143547"
+   inkscape:cx="687.41948"
+   inkscape:cy="213.79694"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
-   inkscape:window-width="1920"
-   inkscape:window-height="1060"
-   inkscape:window-x="1918"
-   inkscape:window-y="-3"
-   inkscape:window-maximized="1"
+   inkscape:window-width="843"
+   inkscape:window-height="733"
+   inkscape:window-x="1920"
+   inkscape:window-y="11"
+   inkscape:window-maximized="0"
    showguides="true"
    inkscape:guide-bbox="true" />
 <svg:metadata
@@ -7903,9 +7903,9 @@
        id="tspan13671-1-54">PHP</svg:tspan></svg:text>
   <svg:a
      id="a7288"
-     xlink:href="http://www.apache.org/"
-     xlink:title="Site officiel (Apache) [en]"
-     transform="translate(80.78997,33.763904)">
+     transform="translate(80.78997,33.763904)"
+     xlink:href="http://ca.wikipedia.org/wiki/WordPress"
+     xlink:title="Viquipèdia : WordPress">
     <svg:text
        id="text15103-50-2-5-2-8-7"
        y="592.15491"
@@ -8280,7 +8280,7 @@
          x="791.07843"
          y="806.01715"
          id="tspan4310-9-7-1-9-0-6-7-6-1"
-         style="font-size:9px">V.5 2012-02-09</svg:tspan></svg:text>
+         style="font-size:9px">V.5 2012-03-26</svg:tspan></svg:text>
   </svg:a>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
@@ -18753,8 +18753,8 @@
      transform="matrix(1.3407403,0,0,1.3407403,724.63083,-552.14809)"
      style="display:inline"
      id="a33531"
-     xlink:href="http://wordpress.org/"
-     xlink:title="See wordpress home page">
+     xlink:href="http://ca.wordpress.org/"
+     xlink:title="pàgina principal de WordPress">
     <svg:g
        inkscape:label="Layer 1"
        id="layer1-55"
