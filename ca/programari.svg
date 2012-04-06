@@ -50,9 +50,9 @@
      inkscape:window-height="1060"
      id="namedview11085"
      showgrid="false"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="440.42347"
-     inkscape:cy="143.93694"
+     inkscape:zoom="1.2316035"
+     inkscape:cx="644.28433"
+     inkscape:cy="372.04932"
      inkscape:window-x="1918"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -4481,20 +4481,11 @@
            id="glyph10497" />
       </font>
     </defs>
-    <rect
-       style="fill:#e8dab4;fill-opacity:1;stroke:#a85041;stroke-width:1.05571532;stroke-opacity:1"
-       id="rect6845"
-       width="390.02274"
-       height="19.626034"
-       x="629.54443"
-       y="679.78717"
-       rx="19.563084"
-       ry="11.916622" />
     <a
        xlink:href="fsmap-ca.svg"
-       xlink:title="veure més informació sobre el programari lliure"
+       transform="matrix(0.79347129,0,0,0.79347129,26.218726,122.75411)"
        id="a11141"
-       transform="matrix(0.79347129,0,0,0.79347129,26.218726,122.75411)">
+       xlink:title="veure més informació sobre el programari lliure">
       <g
          id="g11134">
         <g
@@ -4545,19 +4536,19 @@
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
        inkscape:export-filename=""
-       style="font-size:8px;fill:none;stroke:#c4aa32;stroke-width:1.95197308;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="font-size:8px;fill:none;stroke:#c4aa32;stroke-width:1.92415011;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2476-8-2-6"
        y="22.175861"
        x="15.678677"
-       ry="11.916622"
+       ry="11.57933"
        rx="17.552689"
-       height="708.48792"
+       height="688.43463"
        width="1018.74" />
     <a
        id="a13790"
        xlink:href="http://h.says.it"
        xlink:title="Web de René Mérou[es]"
-       transform="translate(236.22044,-165.42044)">
+       transform="translate(267.47044,-162.67044)">
       <text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -4576,7 +4567,7 @@
        id="a6141"
        xlink:href="http://es.gnu.org/~reneme/fsmap/ca/maps-ca.svg"
        xlink:title="mapes, exercicis i tot el material [enllaç absolut]"
-       transform="translate(156.4423,-85.695041)">
+       transform="translate(183.6923,-82.945041)">
       <text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -4589,23 +4580,23 @@
            x="795.07843"
            y="806.01715"
            id="tspan4310-9-7-1-9-0-6-7-6-1"
-           style="font-size:9px">V.5.6 2011-14-10</tspan></text>
+           style="font-size:9px">V.5.7 2012-04-06</tspan></text>
     </a>
     <text
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        xml:space="preserve"
        id="text4306-65-54-43-4-0-2-8-9-6-3-1-5"
-       y="705.02325"
-       x="783.57416"
+       y="707.77325"
+       x="814.8241"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><tspan
          style="font-size:9px;fill:#0000ff"
          id="tspan4310-9-7-1-9-0-6-7-6-1-2-5-9"
-         y="720.02325"
-         x="783.57416">h@es.gnu.org</tspan></text>
+         y="722.77325"
+         x="814.8241">h@es.gnu.org</tspan></text>
     <g
-       transform="matrix(0.11231,0,0,0.11231,1266.9138,730.83442)"
+       transform="matrix(0.11231,0,0,0.11231,879.41381,744.33442)"
        id="g21393-9"
        style="stroke:#000cff;stroke-opacity:1"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -4633,7 +4624,7 @@
       </g>
     </g>
     <a
-       transform="translate(152.82224,-93.128251)"
+       transform="translate(-234.67775,-79.628251)"
        id="a15831"
        xlink:href="http://es.gnu.org/~reneme/fsmap/ca/fsmap-ca.svg"
        xlink:title="Darrera versió d'aquest hipermapa conceptual">
@@ -4655,7 +4646,7 @@
        id="a14136"
        xlink:href="http://es.gnu.org/~reneme/fsmap/fsmap-contents.svg"
        xlink:title="de la llicència d'aquest mapa i els seus continguts [EN]"
-       transform="translate(438.59249,-140.92864)">
+       transform="translate(51.092499,-127.42864)">
       <text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -4674,39 +4665,39 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        xml:space="preserve"
        id="text4306-65-54-43-4-0-2-8"
-       y="695.14984"
-       x="837.89508"
+       y="708.64984"
+       x="450.39508"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
        inkscape:export-xdpi="259.6308"
        inkscape:export-ydpi="259.6308"><tspan
          style="font-size:9px"
          id="tspan4310-9-7-1-9-0-6-7"
-         y="710.14984"
-         x="837.89508">) en:</tspan></text>
+         y="723.64984"
+         x="450.39508">) en:</tspan></text>
     <a
        id="a14140-6"
-       xlink:href="http://es.gnu.org/~reneme/fsmap/ca"
+       xlink:href="http://es.gnu.org/~reneme/fsmap/ca/programari.svg"
        xlink:title="Traducció al català, exercicis, ..."
-       transform="translate(418.59249,-143.14895)">
+       transform="translate(31.092499,-129.64895)">
       <text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
          inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-         x="502.61996"
+         x="536.62"
          y="838"
          id="text4306-65-54-43-4-0-2-82-0"
          xml:space="preserve"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><tspan
-           x="502.61996"
+           x="536.62"
            y="853"
            id="tspan4310-9-7-1-9-0-6-9-0"
-           style="font-size:9px;fill:#0000ff">es.gnu.org/~reneme/fsmap/ca</tspan></text>
+           style="font-size:9px;fill:#0000ff">es.gnu.org/~reneme/fsmap/ca/programari.svg</tspan></text>
     </a>
     <a
        xlink:href="maps-guide-ca.svg"
-       xlink:title="mapes i exercicis [enllaç relatiu]"
+       transform="translate(170.07224,-90.37825)"
        id="a18624"
-       transform="translate(138.82224,-93.128251)">
+       xlink:title="mapes i exercicis [enllaç relatiu]">
       <text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -4725,15 +4716,15 @@
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
        inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       x="822.13818"
-       y="674.3432"
+       x="786.13818"
+       y="27.343218"
        id="text4306-65-54-43-4-0-6"
        xml:space="preserve"
        style="font-size:20.4355545px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"><tspan
-         x="822.13818"
-         y="693.50153"
+         x="786.13818"
+         y="46.501541"
          id="tspan4310-9-7-1-9-0-3"
-         style="font-size:11px">Mapa mental del programari - introducció al programari</tspan></text>
+         style="font-size:16px">Introducció al programari - Mapa mental del programari </tspan></text>
     <g
        style="fill:#808080;stroke:#808080;font-family:sans-serif"
        text-rendering="optimizeSpeed"
@@ -6841,23 +6832,6 @@
          y="14"
          clip-path="url(#clipPath91-33)"
          id="text48963">APLICACIONS</text>
-    </g>
-    <g
-       style="fill:#009966;stroke:#009966;stroke-linecap:butt;font-family:sans-serif"
-       text-rendering="optimizeSpeed"
-       transform="matrix(0.89977497,0,0,0.89977497,-1679.2233,-615.67356)"
-       id="g48965">
-      <path
-         style="fill:none"
-         inkscape:connector-curvature="0"
-         d="m 2382,970 c -4,29 -24,73 -123,103"
-         clip-path="url(#clipPath1-4)"
-         id="path48967" />
-      <polygon
-         style="stroke:none"
-         points="2382,970 2382,970 2385,980 2375,979 "
-         clip-path="url(#clipPath1-4)"
-         id="polygon48969" />
     </g>
     <g
        style="font-size:18px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:sans-serif"
