@@ -6737,10 +6737,10 @@
      inkscape:collect="always"
      xlink:href="#linearGradient2862"
      id="linearGradient38702"
-     x1="141.15486"
-     y1="609.63751"
-     x2="237.89194"
-     y2="708.54102"
+     x1="159.44492"
+     y1="626.78778"
+     x2="292.72031"
+     y2="749.78479"
      gradientUnits="userSpaceOnUse" />
   <svg:linearGradient
      inkscape:collect="always"
@@ -6769,14 +6769,14 @@
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
    inkscape:zoom="1.0717735"
-   inkscape:cx="654.43366"
-   inkscape:cy="369.65812"
+   inkscape:cx="748.02629"
+   inkscape:cy="419.4887"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="968"
-   inkscape:window-x="-2"
+   inkscape:window-height="1060"
+   inkscape:window-x="1918"
    inkscape:window-y="-3"
    inkscape:window-maximized="1"
    showguides="true"
@@ -6852,14 +6852,14 @@
      id="g5725" />
   <svg:path
      sodipodi:type="arc"
-     style="fill:none;stroke:url(#linearGradient38702);stroke-width:24.58732796;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:none;stroke:url(#linearGradient38702);stroke-width:24.58732795999999965;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="path34170-3"
      sodipodi:cx="183.74147"
      sodipodi:cy="652.55151"
      sodipodi:rx="45.852898"
      sodipodi:ry="45.852898"
      d="m 229.59437,652.55151 a 45.852898,45.852898 0 1 1 -91.7058,0 45.852898,45.852898 0 1 1 91.7058,0 z"
-     transform="matrix(-0.6766313,0.05875056,-0.05875056,-0.6766313,137.48763,911.19697)" />
+     transform="matrix(-0.67718112,-0.05203135,0.05203135,-0.67718112,65.297747,931.91099)" />
   <svg:path
      sodipodi:type="arc"
      style="opacity:0.61111109;fill:none;stroke:url(#linearGradient38718);stroke-width:17.34220123;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -6868,7 +6868,7 @@
      sodipodi:cy="652.55151"
      sodipodi:rx="45.852898"
      sodipodi:ry="45.852898"
-     d="m 229.59437,652.55151 a 45.852898,45.852898 0 1 1 -91.7058,0 45.852898,45.852898 0 1 1 91.7058,0 z"
+     d="m 229.59437,652.55151 c 0,25.32386 -20.52904,45.8529 -45.8529,45.8529 -25.32386,0 -45.8529,-20.52904 -45.8529,-45.8529 0,-25.32385 20.52904,-45.85289 45.8529,-45.85289 25.32386,0 45.8529,20.52904 45.8529,45.85289 z"
      transform="matrix(1.2593324,0.24992106,-0.24992106,1.2593324,387.48791,-304.52643)" />
   <svg:path
      sodipodi:type="arc"
@@ -6878,7 +6878,7 @@
      sodipodi:cy="652.55151"
      sodipodi:rx="45.852898"
      sodipodi:ry="45.852898"
-     d="m 229.59437,652.55151 a 45.852898,45.852898 0 1 1 -91.7058,0 45.852898,45.852898 0 1 1 91.7058,0 z"
+     d="m 229.59437,652.55151 c 0,25.32386 -20.52904,45.8529 -45.8529,45.8529 -25.32386,0 -45.8529,-20.52904 -45.8529,-45.8529 0,-25.32385 20.52904,-45.85289 45.8529,-45.85289 25.32386,0 45.8529,20.52904 45.8529,45.85289 z"
      transform="matrix(1.0644951,0.11099019,-0.11099019,1.0644951,-135.38117,-13.053039)" />
   <svg:a
      id="a45434"
@@ -8425,7 +8425,7 @@
          x="791.07843"
          y="806.01715"
          id="tspan4310-9-7-1-9-0-6-7-6-1"
-         style="font-size:9px">V.5 2012-02-16</svg:tspan></svg:text>
+         style="font-size:9px">V.5 2012-04-17</svg:tspan></svg:text>
   </svg:a>
   <svg:text
      style="font-size:15.07472992px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
@@ -8707,9 +8707,9 @@
        style="font-size:21.78363037px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">per a</svg:tspan></svg:text>
   <svg:a
      xlink:href="hipermapa/valors.svg"
-     xlink:title="mostrar els valors"
+     transform="matrix(0.94217067,0,0,0.94217067,23.796349,17.039412)"
      id="a15550"
-     transform="matrix(0.94217067,0,0,0.94217067,23.796349,17.039412)">
+     xlink:title="mostrar els valors">
     <svg:g
        id="g15545">
       <svg:rect
@@ -9319,9 +9319,9 @@
        style="font-size:21.78363037px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">respecten</svg:tspan></svg:text>
   <svg:a
      xlink:href="maps-guide-ca.svg"
-     xlink:title="mapes i exercicis [enllaç relatiu]"
+     transform="matrix(0.94217067,0,0,0.94217067,12.848273,2.230381)"
      id="a18624"
-     transform="matrix(0.94217067,0,0,0.94217067,12.848273,2.230381)">
+     xlink:title="mapes i exercicis [enllaç relatiu]">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"

@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="fsmap-zh_tw.svg"
-   inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/zh_tw/fsmap-zh_tw-3000.png"
-   inkscape:export-xdpi="258.3732"
-   inkscape:export-ydpi="258.3732">Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
+   inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/zh_tw/fsmap-zh_tw-A4-600ppp.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -43175,9 +43175,9 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="4.3299647"
-   inkscape:cx="936.29787"
-   inkscape:cy="100.37597"
+   inkscape:zoom="0.76543685"
+   inkscape:cx="736.70438"
+   inkscape:cy="463.45412"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
@@ -43194,7 +43194,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title />
+      <dc:title></dc:title>
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -44944,9 +44944,9 @@
   </svg:a>
   <svg:a
      xlink:href="maps-guide-zh_tw.svg"
-     xlink:title="see the maps guide"
+     id="a18624"
      transform="translate(6.3236,-7.3000522)"
-     id="a18624">
+     xlink:title="see the maps guide">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -55293,9 +55293,9 @@
   </svg:a>
   <svg:a
      xlink:href="presentations/translations.svg"
-     id="a18624-2"
+     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)"
      transform="translate(58.283287,-19.261881)"
-     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
+     id="a18624-2">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
