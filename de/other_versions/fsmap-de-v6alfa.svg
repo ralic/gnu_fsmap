@@ -42836,8 +42836,8 @@
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
    inkscape:zoom="3.0612584"
-   inkscape:cx="151.8602"
-   inkscape:cy="184.70239"
+   inkscape:cx="693.99711"
+   inkscape:cy="175.67966"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
@@ -42863,6 +42863,122 @@
    inkscape:groupmode="layer"
    id="capa1"
    transform="translate(200.4423,-77.60054)">
+  <svg:a
+     id="a21504"
+     xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
+     xlink:title="IBM Open source projects [en]"
+     transform="translate(20.539298,196.75072)">
+    <svg:text
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
+       xml:space="preserve"
+       id="text7642-0-3-8-3"
+       y="502.246"
+       x="798.96997"
+       sodipodi:linespacing="125%"><svg:tspan
+         id="tspan5494-9-0-5-8"
+         y="502.246"
+         x="798.96997">IBM</svg:tspan></svg:text>
+  </svg:a>
+  <svg:a
+     id="a21500"
+     transform="translate(63.950581,196.63523)"
+     xlink:href="http://code.google.com/intl/en_ALL/opensource/"
+     xlink:title="Google and Open Source [en][es][pt]...">
+    <svg:text
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
+       xml:space="preserve"
+       id="text7642-0-3-8-3-89"
+       y="502.41101"
+       x="725.68799"
+       sodipodi:linespacing="125%"><svg:tspan
+         id="tspan5494-9-0-5-8-6"
+         y="502.41101"
+         x="725.68799">Google,</svg:tspan></svg:text>
+  </svg:a>
+  <svg:text
+     x="677.72675"
+     y="699.17267"
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
+     id="text36256"><svg:tspan
+       x="677.72675"
+       y="699.17267"
+       style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
+       id="tspan36258">FIRMEN:</svg:tspan></svg:text>
+  <svg:a
+     id="a16623"
+     xlink:href="http://www.nasa.gov/"
+     xlink:title="NASA,  National Aeronautics and Space Administration home page [en]"
+     transform="translate(-15.67063,193.38988)">
+    <svg:text
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
+       xml:space="preserve"
+       id="text7642-0-3-8-3-3"
+       y="475.72601"
+       x="834.91602"
+       sodipodi:linespacing="125%"><svg:tspan
+         id="tspan5494-9-0-5-8-33"
+         y="475.72601"
+         x="834.91602">NASA</svg:tspan></svg:text>
+  </svg:a>
+  <svg:a
+     id="a21496-0"
+     transform="translate(-14.248095,181.96734)"
+     xlink:href="http://www.unesco.org/"
+     xlink:title="UNESCO home page, United Nations Educational, Scientific and Cultural Organization [en]">
+    <svg:text
+       id="text21476-9"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
+       xml:space="preserve"
+       y="487.116"
+       x="795.578"
+       sodipodi:linespacing="125%"><svg:tspan
+         id="tspan21478-7"
+         y="487.116"
+         x="795.578">UNESCO,</svg:tspan></svg:text>
+  </svg:a>
+  <svg:text
+     x="600.68585"
+     y="669.1189"
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
+     id="text36247"><svg:tspan
+       x="600.68585"
+       y="669.1189"
+       style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
+       id="tspan36249">INSTITUTIONEN:</svg:tspan></svg:text>
+  <svg:a
+     id="a21488"
+     transform="translate(-108.37318,166.92591)"
+     xlink:href="http://de.wikipedia.org/wiki/Wikipedia"
+     xlink:title="Wikipedia Die freie Enzyklopädie">
+    <svg:text
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
+       xml:space="preserve"
+       id="text7642-0-3-8-3-8-8"
+       y="472.37201"
+       x="757.88098"
+       sodipodi:linespacing="125%"><svg:tspan
+         id="tspan5494-9-0-5-8-3-6"
+         y="472.37201"
+         x="757.88098">Wikipedia,</svg:tspan></svg:text>
+  </svg:a>
+  <svg:a
+     id="a21492"
+     transform="translate(-108.37318,166.92591)"
+     xlink:href="http://www.greenpeace.de/"
+     xlink:title="Greenpeace Deutschland">
+    <svg:text
+       id="text21480"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
+       xml:space="preserve"
+       y="471.34299"
+       x="833.78998"
+       sodipodi:linespacing="125%"><svg:tspan
+         id="tspan21482"
+         y="471.34299"
+         x="833.78998"> Greenpeace</svg:tspan></svg:text>
+  </svg:a>
   <svg:a
      transform="matrix(1.227716,0,0,1.227716,385.33636,345.89798)"
      style="display:inline"
@@ -44085,7 +44201,7 @@
   </svg:a>
   <svg:a
      id="a45415"
-     transform="translate(-64.235491,23.555)"
+     transform="translate(-64.235491,27.555)"
      xlink:href="http://en.wikipedia.org/wiki/GNewSense"
      xlink:title="Wikipedia[en].  gNewSense is an operating system Linux distribution based on Ubuntu. Its goal is to maintain the user-friendliness of Ubuntu, but with all non-free software removed.">
     <svg:text
@@ -44101,7 +44217,7 @@
   </svg:a>
   <svg:a
      id="a45419"
-     transform="translate(-6.6600086,17.311437)"
+     transform="translate(-10.660009,23.311437)"
      xlink:href="http://en.wikipedia.org/wiki/Trisquel"
      xlink:title="Wikipedia[en]. Trisquel GNU/Linux is an OS Linux distribution using a free version of the Linux kernel (from Linux-libre). The main goals of the project are a fully free software system that must be easy, complete, and with good language support.">
     <svg:text
@@ -44117,7 +44233,7 @@
   </svg:a>
   <svg:a
      id="a38057"
-     transform="translate(1.9280231,23.270734)"
+     transform="translate(1.9280231,27.270734)"
      xlink:href="http://de.wikipedia.org/wiki/Ubuntu"
      xlink:title="Wikipedia: Ubuntu ist eine freie und kostenlose Linux-Distribution, die auf Debian basiert. Der Name der Distribution bedeutet auf Zulu etwa „Menschlichkeit“ und bezeichnet eine afrikanische Philosophie.">
     <svg:text
@@ -44138,8 +44254,8 @@
   <svg:a
      id="a45423-9"
      xlink:href="http://www.uclinux.org/"
-     transform="translate(46.87994,20.386712)"
-     xlink:title="Pagina web del projecte uClinux [en]">
+     transform="translate(36.87994,20.386712)"
+     xlink:title="Siehe die Webseite von uClinux [en]">
     <svg:text
        id="text15103-2-8-9"
        y="508.06299"
@@ -44153,9 +44269,9 @@
   </svg:a>
   <svg:a
      id="a45423-9-1-5-7"
-     transform="translate(50.027292,37.348524)"
-     xlink:href="http://www.opensuse.org/en/"
-     xlink:title="Pàgina oficial de Open Suse">
+     transform="translate(44.027292,37.348524)"
+     xlink:href="http://www.opensuse.org/de/"
+     xlink:title="Siehe die Webseite von openSUSE">
     <svg:text
        id="text15103-2-8-9-5-6-1"
        y="506.56094"
@@ -44184,7 +44300,8 @@
   <svg:a
      id="a24021"
      xlink:href="http://www.ubuntu.com/"
-     xlink:title="Siehe die Webseite von Ubuntu [en]">
+     xlink:title="Siehe die Webseite von Ubuntu [en]"
+     transform="translate(0,4)">
     <svg:g
        id="g50802"
        transform="translate(-50.314307,65.03829)">
@@ -44251,7 +44368,7 @@
     </svg:g>
   </svg:a>
   <svg:a
-     transform="matrix(1.268728,0,0,1.268728,176.3122,303.07628)"
+     transform="matrix(1.268728,0,0,1.268728,174.3122,303.07628)"
      style="display:inline"
      id="a16463"
      xlink:href="http://www.gnewsense.org/Main.de/HomePage"
@@ -44353,7 +44470,7 @@
   <svg:a
      id="a45350"
      xlink:href="http://trisquel.info/de"
-     transform="matrix(1.152663,0,0,1.152663,50.768379,-29.62418)"
+     transform="matrix(1.152663,0,0,1.152663,46.768379,-29.62418)"
      xlink:title="Siehe die Webseite von Trisquel">
     <svg:g
        transform="matrix(0.43904265,0,0,0.43904265,-51.706162,477.75883)"
@@ -48577,22 +48694,6 @@
        id="tspan4310-9-7-1-9-0-6-7-6-1-5"
        style="font-size:9px">V.6α 2012-05-16</svg:tspan></svg:text>
   <svg:a
-     id="a21504-0"
-     xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
-     xlink:title="IBM Open source projects"
-     transform="translate(0.92941,166.94681)">
-    <svg:text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text7642-0-3-8-3-6"
-       y="502.24622"
-       x="796.96991"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan5494-9-0-5-8-5"
-         y="502.24622"
-         x="796.96991">IBM</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
      id="a7288-2"
      transform="translate(-89.789558,-46.341434)"
      xlink:href="http://ca.wikipedia.org/wiki/WordPress"
@@ -49319,24 +49420,24 @@
   <svg:text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     x="280.57416"
-     y="624.16406"
+     x="288.88965"
+     y="647.26263"
      id="text15103-50-2-8"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
      inkscape:export-xdpi="259.51529"
      inkscape:export-ydpi="259.51529"><svg:tspan
        sodipodi:role="line"
-       x="280.57416"
-       y="624.16406"
+       x="288.88965"
+       y="647.26263"
        id="tspan13015-1-1" /><svg:tspan
        sodipodi:role="line"
-       x="280.57416"
-       y="639.16406"
-       id="tspan13454">traduccions,</svg:tspan><svg:tspan
+       x="288.88965"
+       y="662.26263"
+       id="tspan13454">Übersetzungen,</svg:tspan><svg:tspan
        sodipodi:role="line"
-       x="280.57416"
-       y="654.16406"
-       id="tspan31378">localitzacions,</svg:tspan></svg:text>
+       x="288.88965"
+       y="677.26263"
+       id="tspan31378">Lokalisierungen,</svg:tspan></svg:text>
   <svg:a
      transform="translate(-116.61056,-75.7963)"
      id="a45474-4"
@@ -49659,65 +49760,69 @@
   <svg:text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     x="272.72467"
-     y="577.24512"
+     x="286.58383"
+     y="577.70715"
      id="text15103-50-2-8-7"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
      inkscape:export-xdpi="259.51529"
      inkscape:export-ydpi="259.51529"><svg:tspan
        sodipodi:role="line"
-       x="272.72467"
-       y="577.24512"
+       x="286.58383"
+       y="577.70715"
        id="tspan31376" /><svg:tspan
        sodipodi:role="line"
-       x="272.72467"
-       y="592.24512"
-       id="tspan20002">sons,</svg:tspan><svg:tspan
+       x="286.58383"
+       y="592.70715"
+       id="tspan20006">Bildern,</svg:tspan><svg:tspan
        sodipodi:role="line"
-       x="272.72467"
-       y="607.24512"
-       id="tspan20004">imatges,</svg:tspan><svg:tspan
+       x="286.58383"
+       y="607.70715"
+       id="tspan50188">Vorlagen,</svg:tspan><svg:tspan
        sodipodi:role="line"
-       x="272.72467"
-       y="622.24512"
-       id="tspan20006">plantilles,</svg:tspan></svg:text>
+       x="286.58383"
+       y="622.70715"
+       id="tspan50190">Übersetzungen,</svg:tspan></svg:text>
   <svg:text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     x="266.99347"
-     y="705.22125"
+     x="277.46671"
+     y="696.59589"
      id="text15103-50-2-8-6"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
      inkscape:export-xdpi="259.51529"
      inkscape:export-ydpi="259.51529"><svg:tspan
        sodipodi:role="line"
-       x="266.99347"
-       y="705.22125"
-       id="tspan13454-0">FAQs, guies,</svg:tspan><svg:tspan
+       x="279.37686"
+       y="696.59589"
+       id="tspan13454-0">FAQs, Anleitungen, </svg:tspan><svg:tspan
        sodipodi:role="line"
-       x="266.99347"
-       y="720.22125"
-       id="tspan31380"> manuals</svg:tspan></svg:text>
+       x="277.46671"
+       y="711.59589"
+       id="tspan50180">Handbücher und</svg:tspan><svg:tspan
+       sodipodi:role="line"
+       x="277.46671"
+       y="726.59589"
+       id="tspan50182">Informationen</svg:tspan><svg:tspan
+       sodipodi:role="line"
+       x="277.46671"
+       y="741.59589"
+       id="tspan31380" /></svg:text>
   <svg:text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     x="280.04727"
-     y="670.24628"
+     x="283.74304"
+     y="643.45197"
      id="text15103-50-2-8-0"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
      inkscape:export-xdpi="259.51529"
      inkscape:export-ydpi="259.51529"><svg:tspan
        sodipodi:role="line"
-       x="280.04727"
-       y="670.24628"
-       id="tspan13454-6">fonts</svg:tspan><svg:tspan
-       sodipodi:role="line"
-       x="280.04727"
-       y="685.24628"
-       id="tspan31372">tipogràfiques,</svg:tspan></svg:text>
+       x="283.74304"
+       y="643.45197"
+       id="tspan31372">Schriftarten,</svg:tspan></svg:text>
   <svg:path
      style="fill:none;stroke:#6400d0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 225.12933,643.07912 7.37042,0.0281"
+     d="m 225.12933,639.07912 7.37042,0.0281"
      id="path33649-2-0-3"
      inkscape:connector-type="polyline"
      inkscape:connector-curvature="0"
@@ -49738,7 +49843,7 @@
      sodipodi:nodetypes="cc" />
   <svg:path
      style="fill:none;stroke:#6400d0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 225.73913,662.53726 6.63208,1.33774"
+     d="m 225.73913,658.53726 6.63208,1.33774"
      id="path45384"
      inkscape:connector-type="polyline"
      inkscape:connector-curvature="0"
@@ -49755,8 +49860,8 @@
   <svg:a
      id="a21492-6-2"
      transform="translate(-237.50593,167.72701)"
-     xlink:href="http://mirror.wikileaks.info/"
-     xlink:title="Ver web de wikileaks">
+     xlink:href="http://www.wikileaks.org/"
+     xlink:title="Siehe die Webseite von WikiLeaks">
     <svg:text
        id="text21480-1-9"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
@@ -49808,7 +49913,7 @@
      id="a11812-1"
      xlink:href="http://www.x.org/wiki/Home"
      xlink:title="X.org home page"
-     transform="translate(329.4455,29.399721)">
+     transform="translate(329.4455,33.399721)">
     <svg:text
        id="text15103-50-2-5-2-8-2-5"
        y="557.01019"
@@ -49834,7 +49939,7 @@
      id="a16962"
      xlink:title="Web oficial de PHP amb molta documentació"
      xlink:href="http://www.php.net/"
-     transform="translate(-82.616271,-13.871879)">
+     transform="translate(-88.616271,-7.871879)">
     <svg:text
        id="text15103-50-2-5-2-8-3"
        y="598.43219"
@@ -49881,7 +49986,7 @@
   <svg:a
      id="a11820-0"
      xlink:href="http://kde.org/"
-     transform="translate(397.30799,-10.144643)"
+     transform="translate(397.30799,-8.144643)"
      xlink:title="web oficial de KDE [en]">
     <svg:text
        id="text15103-50-2-5-2-8-7-7-1-0-8"
@@ -49937,7 +50042,7 @@
        style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif Bold"
        id="tspan5508-5"
        y="639.76166"
-       x="469.01703">ONGs:</svg:tspan><svg:tspan
+       x="469.01703">NGO:</svg:tspan><svg:tspan
        style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif Bold"
        id="tspan5516-2"
        y="654.76166"
@@ -53552,134 +53657,16 @@
          sodipodi:nodetypes="ccccccc" />
     </svg:g>
   </svg:a>
-  <svg:a
-     transform="translate(-15.706676,223.12524)"
-     id="a16623-2"
-     xlink:href="http://www.nasa.gov/"
-     xlink:title="Pàgina de la NASA [en]">
-    <svg:text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text7642-0-3-8-3-3-5"
-       y="475.72589"
-       x="834.91559"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan5494-9-0-5-8-33-5"
-         y="475.72589"
-         x="834.91559">NASA</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
-     id="a21496"
-     transform="translate(-15.305317,211.11362)"
-     xlink:title="Portal de software libre de la UNESCO, Organizacion de las Naciones Uniddas para la educación, la ciencia y la Cultura"
-     xlink:href="http://www.unesco-ci.org/cgi-bin/portals/foss/page.cgi?d=1">
-    <svg:text
-       id="text21476"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       y="487.11606"
-       x="795.57794"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan21478"
-         y="487.11606"
-         x="795.57794">UNESCO,</svg:tspan></svg:text>
-  </svg:a>
   <svg:text
      id="text23414"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      xml:space="preserve"
-     y="652.80835"
-     x="383.23035"><svg:tspan
+     y="652.97168"
+     x="384.8096"><svg:tspan
        id="tspan23416"
        style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif Bold"
-       y="697.80841"
-       x="383.23035">PAÏSOS:</svg:tspan><svg:tspan
-       style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif Bold"
-       id="tspan5613-3"
-       y="712.80841"
-       x="383.23035" /><svg:tspan
-       style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif Bold"
-       id="tspan5617-8-7"
-       y="727.80841"
-       x="383.23035" /></svg:text>
-  <svg:text
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     xml:space="preserve"
-     y="683.13641"
-     x="600.12756"
-     id="text27820-7"><svg:tspan
-       style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif Bold"
-       y="698.13641"
-       x="600.12756"
-       id="tspan27822-3">INSTITUCIONS:</svg:tspan></svg:text>
-  <svg:a
-     id="a21500-6"
-     transform="translate(42.92941,166.94681)"
-     xlink:href="http://www.google.cat/"
-     xlink:title="Pàgina de Google, el cercador més utilitzat [ca]">
-    <svg:text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text7642-0-3-8-3-89-6"
-       y="502.41092"
-       x="725.68781"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan5494-9-0-5-8-6-9"
-         y="502.41092"
-         x="725.68781">Google,</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
-     id="a7731"
-     xlink:href="http://coe.berkeley.edu/labnotes/history_unix.html"
-     xlink:title="Berkeley Engineers: Changing Our World [en]"
-     transform="translate(-208.09409,127.53932)">
-    <svg:text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text7642-0-1"
-       y="541.46234"
-       x="835.63922"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan5494-9-1"
-         y="541.46234"
-         x="835.63922">Berkeley</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
-     id="a7727-0"
-     xlink:href="http://opensource.mit.edu/online_papers.php"
-     transform="translate(-209.01584,127.23931)"
-     xlink:title="Free / opensource research community, MIT, attempting to establish a community in which information will be freely exchanged [en]">
-    <svg:text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text7642-0-3-1-5"
-       y="541.75269"
-       x="778.1507"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan5494-9-0-7-0"
-         y="541.75269"
-         x="778.1507">MIT, </svg:tspan></svg:text>
-  </svg:a>
-  <svg:text
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     xml:space="preserve"
-     y="593.9939"
-     x="426.55801"
-     id="text38193"><svg:tspan
-       style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif Bold"
-       y="668.99396"
-       x="426.55801"
-       id="tspan38195">UNIVERSITATS: </svg:tspan></svg:text>
-  <svg:text
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     xml:space="preserve"
-     y="639.16602"
-     x="635.60626"
-     id="text27820-4"><svg:tspan
-       style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif Bold"
-       id="tspan5621-5-3"
-       y="669.16602"
-       x="635.60626">EMPRESES: </svg:tspan></svg:text>
+       y="697.97174"
+       x="384.8096">LÄNDER:</svg:tspan></svg:text>
   <svg:text
      xml:space="preserve"
      style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:Balker Bold"
@@ -53804,38 +53791,6 @@
      id="path33649-9"
      inkscape:connector-type="polyline"
      inkscape:connector-curvature="0" />
-  <svg:a
-     id="a21488-7"
-     transform="translate(-104.36305,166.97154)"
-     xlink:href="http://ca.wikipedia.org/wiki/Portada"
-     xlink:title="Viquipèdia, l’enciclopèdia lliure [ca]">
-    <svg:text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text7642-0-3-8-3-8-8-7"
-       y="472.37189"
-       x="757.88129"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan5494-9-0-5-8-3-6-1"
-         y="472.37189"
-         x="757.88129">Viquipèdia,</svg:tspan></svg:text>
-  </svg:a>
-  <svg:a
-     id="a21492-3"
-     transform="translate(-106.39489,167.66996)"
-     xlink:title="Pàgina oficial Greenpeace Espanya , comunicats locals [ca]"
-     xlink:href="http://www.greenpeace.org/espana/press/comunicados/greenpeace-i-ecologistes-en-ac">
-    <svg:text
-       id="text21480-3"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       y="471.34305"
-       x="833.7901"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan21482-6"
-         y="471.34305"
-         x="833.7901"> Greenpeace</svg:tspan></svg:text>
-  </svg:a>
   <svg:text
      sodipodi:linespacing="125%"
      x="547.35553"
@@ -53980,32 +53935,16 @@
        x="820.3421"
        y="728.6626"
        id="tspan5500-6-4-6-8">Valencia</svg:tspan></svg:text>
-  <svg:a
-     transform="translate(135.7896,125.76883)"
-     id="a23087-6"
-     xlink:href="http://www.top500.org/stats/list/37/osfam"
-     xlink:title="Estatístiques dels 500 més potents superordinadors, top500.org [en]">
-    <svg:text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       xml:space="preserve"
-       id="text7642-0-8"
-       y="602.65698"
-       x="465.73611"
-       sodipodi:linespacing="125%"><svg:tspan
-         id="tspan5494-9-2"
-         y="602.65698"
-         x="465.73611">El 91% del TOP500 de superordinadors</svg:tspan></svg:text>
-  </svg:a>
   <svg:text
      sodipodi:linespacing="125%"
-     x="593.04724"
-     y="652.81934"
+     x="664.6264"
+     y="652.98267"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
      id="text21484-8"><svg:tspan
-       x="593.04724"
-       y="697.81927"
-       id="tspan21486-9">França, Brasil, Alemanya </svg:tspan></svg:text>
+       x="664.6264"
+       y="697.9826"
+       id="tspan21486-9">Deutschland, Frankreich, Brasilien</svg:tspan></svg:text>
   <svg:a
      id="a45900-9"
      transform="translate(-51.374952,-129.56423)"
@@ -54461,45 +54400,11 @@
        x="-183.16644"
        y="487.60669" />
   </svg:a>
-  <svg:text
-     x="166.20897"
-     y="543.18115"
-     id="text5351-5-2"
-     xml:space="preserve"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     inkscape:export-filename=""
-     inkscape:export-xdpi="259.6308"
-     inkscape:export-ydpi="259.6308"><svg:tspan
-       x="166.20897"
-       y="543.18115"
-       id="tspan5361-5-0"
-       style="font-size:12px">podem llegir</svg:tspan></svg:text>
-  <svg:text
-     x="166.5869"
-     y="528.13483"
-     id="text5351-5"
-     xml:space="preserve"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-     inkscape:export-filename=""
-     inkscape:export-xdpi="259.6308"
-     inkscape:export-ydpi="259.6308"><svg:tspan
-       x="166.5869"
-       y="528.13483"
-       id="tspan5361-5"
-       style="font-size:12px">programes que</svg:tspan><svg:tspan
-       x="166.5869"
-       y="528.13483"
-       style="font-size:12px"
-       id="tspan10239" /><svg:tspan
-       x="166.5869"
-       y="528.13483"
-       style="font-size:12px"
-       id="tspan10241" /></svg:text>
   <svg:a
      id="a45423-9-1-57"
-     transform="translate(46.103466,11.588249)"
-     xlink:href="http://fedoraproject.org/ca/"
-     xlink:title="Pàgina web de Fedora">
+     transform="translate(36.103466,11.588249)"
+     xlink:href="http://fedoraproject.org/de/"
+     xlink:title="Siehe die Webseite von fedora">
     <svg:text
        id="text15103-2-8-9-5-2"
        y="502.06299"
@@ -54783,5 +54688,83 @@
        y="474.05447"
        id="tspan4507"
        style="font-size:24px;font-weight:normal">verteilt</svg:tspan></svg:text>
+  <svg:text
+     xml:space="preserve"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+     x="177.75198"
+     y="517.73779"
+     id="text15103-50-2-8-7-8"
+     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/es/map-es-3000.png"
+     inkscape:export-xdpi="259.51529"
+     inkscape:export-ydpi="259.51529"><svg:tspan
+       sodipodi:role="line"
+       x="177.75198"
+       y="517.73779"
+       id="tspan31376-6" /><svg:tspan
+       sodipodi:role="line"
+       x="177.75198"
+       y="532.73779"
+       id="tspan50237">Programme, die gelesen</svg:tspan><svg:tspan
+       sodipodi:role="line"
+       x="177.75198"
+       y="547.73779"
+       id="tspan50241">werden können</svg:tspan></svg:text>
+  <svg:a
+     id="a7731-0"
+     xlink:href="http://coe.berkeley.edu/labnotes/history_unix.html"
+     xlink:title="Berkeley Engineers: Changing Our World [en]"
+     transform="translate(-240.19191,127.13961)">
+    <svg:text
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
+       xml:space="preserve"
+       id="text7642-0-1-9"
+       y="541.46198"
+       x="835.63898"
+       sodipodi:linespacing="125%"><svg:tspan
+         id="tspan5494-9-1-4"
+         y="541.46198"
+         x="835.63898">Berkeley</svg:tspan></svg:text>
+  </svg:a>
+  <svg:a
+     id="a7727"
+     xlink:href="http://opensource.mit.edu/online_papers.php"
+     xlink:title="Free / opensource research community, MIT, attempting to establish a community in which information will be freely exchanged [en]"
+     transform="translate(-238.19191,127.13961)">
+    <svg:text
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
+       xml:space="preserve"
+       id="text7642-0-3-1"
+       y="541.75299"
+       x="778.151"
+       sodipodi:linespacing="125%"><svg:tspan
+         id="tspan5494-9-0-7"
+         y="541.75299"
+         x="778.151">MIT, </svg:tspan></svg:text>
+  </svg:a>
+  <svg:text
+     x="388.71194"
+     y="669.06012"
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
+     id="text36264"><svg:tspan
+       x="388.71194"
+       y="669.06012"
+       style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
+       id="tspan36266">UNIVERSITÄTEN:</svg:tspan></svg:text>
+  <svg:a
+     id="a22929"
+     xlink:href="http://i.top500.org/stats"
+     xlink:title="Operating system Family share, top500.org [en]">
+    <svg:text
+       sodipodi:linespacing="125%"
+       x="579.55341"
+       y="728.64001"
+       id="text7642-0"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"><svg:tspan
+         x="579.55341"
+         y="728.64001"
+         id="tspan5494-9">92% der TOP500 Supercomputer</svg:tspan></svg:text>
+  </svg:a>
 </svg:g>
 </svg:svg>

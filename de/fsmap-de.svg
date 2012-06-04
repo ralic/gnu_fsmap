@@ -42520,8 +42520,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.6373468"
-     inkscape:cx="135.68153"
-     inkscape:cy="182.27923"
+     inkscape:cx="910.41401"
+     inkscape:cy="258.11302"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
      showgrid="false"
@@ -43108,9 +43108,9 @@
        inkscape:export-ydpi="259.6308" />
     <svg:a
        id="a23083"
-       xlink:href="http://www.top500.org/stats/list/34/osfam"
        xlink:title="Operating system Family share, top500.org"
-       transform="translate(0,2)">
+       transform="translate(0,2)"
+       xlink:href="http://i.top500.org/stats">
       <svg:text
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
          xml:space="preserve"
@@ -43120,7 +43120,7 @@
          sodipodi:linespacing="125%"><svg:tspan
            id="tspan5494-9"
            y="550.76703"
-           x="835.13202">89% der TOP500 Supercomputer</svg:tspan></svg:text>
+           x="835.13202">92% der TOP500 Supercomputer</svg:tspan></svg:text>
     </svg:a>
     <svg:a
        id="a45800"
@@ -44037,22 +44037,6 @@
            x="778.151">MIT, </svg:tspan></svg:text>
     </svg:a>
     <svg:a
-       id="a21512"
-       xlink:href="http://www.nokia.de/"
-       xlink:title="Nokia Deutschland"
-       transform="translate(0,-10)">
-      <svg:text
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
-         xml:space="preserve"
-         id="text7642-0-3-8-7"
-         y="503.05099"
-         x="836.03998"
-         sodipodi:linespacing="125%"><svg:tspan
-           id="tspan5494-9-0-5-5"
-           y="503.05099"
-           x="836.03998">Nokia</svg:tspan></svg:text>
-    </svg:a>
-    <svg:a
        id="a21504"
        xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
        xlink:title="IBM Open source projects [en]"
@@ -44062,15 +44046,15 @@
          xml:space="preserve"
          id="text7642-0-3-8-3"
          y="502.246"
-         x="758.96997"
+         x="798.96997"
          sodipodi:linespacing="125%"><svg:tspan
            id="tspan5494-9-0-5-8"
            y="502.246"
-           x="758.96997">IBM,</svg:tspan></svg:text>
+           x="798.96997">IBM</svg:tspan></svg:text>
     </svg:a>
     <svg:a
        id="a21500"
-       transform="translate(34,-10)"
+       transform="translate(74,-10)"
        xlink:href="http://code.google.com/intl/en_ALL/opensource/"
        xlink:title="Google and Open Source [en][es][pt]...">
       <svg:text
@@ -45056,12 +45040,12 @@
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
          id="tspan36249">INSTITUTIONEN:</svg:tspan></svg:text>
     <svg:text
-       x="640.01001"
+       x="680.01001"
        y="491.95999"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        id="text36256"><svg:tspan
-         x="640.01001"
+         x="680.01001"
          y="491.95999"
          style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#aa4400"
          id="tspan36258">FIRMEN:</svg:tspan></svg:text>
