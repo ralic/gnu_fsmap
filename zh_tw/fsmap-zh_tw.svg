@@ -14,7 +14,7 @@
    height="737"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="fsmap-zh_tw.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/zh_tw/fsmap-zh_tw-A4-600ppp.png"
    inkscape:export-xdpi="600"
@@ -43175,15 +43175,15 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="0.76543685"
-   inkscape:cx="736.70438"
-   inkscape:cy="463.45412"
+   inkscape:zoom="1.0824912"
+   inkscape:cx="451.09904"
+   inkscape:cy="365.63047"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="1060"
-   inkscape:window-x="1918"
+   inkscape:window-height="974"
+   inkscape:window-x="-2"
    inkscape:window-y="-3"
    inkscape:window-maximized="1" />
 <svg:metadata
@@ -43194,7 +43194,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -43215,7 +43215,7 @@
        x="697"
        y="111" /></svg:text>
   <svg:rect
-     style="fill:#fceeec;fill-opacity:1;stroke:#b73030;stroke-width:2.27630043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#fceeec;fill-opacity:1;stroke:#b73030;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3468-0"
      y="112.84703"
      x="-150.90562"
@@ -43234,7 +43234,7 @@
      x="145.86711"
      y="112.98215"
      id="rect3456-3"
-     style="fill:#fceeec;fill-opacity:1;stroke:#b73030;stroke-width:2.18503904;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#fceeec;fill-opacity:1;stroke:#b73030;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308" />
@@ -43242,7 +43242,7 @@
      inkscape:export-ydpi="606.47772"
      inkscape:export-xdpi="606.47772"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-7000.png"
-     style="fill:#fceeec;fill-opacity:1;stroke:#b73030;stroke-width:3.65281177;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#fceeec;fill-opacity:1;stroke:#b73030;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect4499-0"
      y="267.55505"
      x="33.362457"
@@ -43251,7 +43251,7 @@
      height="56.375137"
      width="265.78665" />
   <svg:path
-     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d="m 170.2192,563.64011 82.4005,0 c 18.8596,0 34.0426,3.65086 34.0426,8.18578 l -0.05,47.78601 c -2.9508,0.0817 -15.1326,0.12807 -33.9922,0.12807 l -82.4005,0 c -18.8596,0 -29.9131,0.0322 -33.8863,0.006 l -0.049,-46.92025 c 0.2143,-5.28492 15.0758,-9.18578 33.9354,-9.18578 l 0,-10e-6 z"
      id="rect4356-0"
      sodipodi:nodetypes="cccccccccc"
@@ -43267,12 +43267,12 @@
      x="-46.751976"
      y="112.85049"
      id="rect3464-3"
-     style="fill:#fceeec;fill-opacity:1;stroke:#b73030;stroke-width:3.01103687;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#fceeec;fill-opacity:1;stroke:#b73030;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308" />
   <svg:path
-     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:3.29826641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d="m -52.060871,565.63435 73.699695,0 c 19.522968,0 35.161276,3.93166 35.202597,7.74139 l -0.08981,50.28452 c -13.892727,-0.026 -15.667957,0.0475 -35.112779,0.0513 l -73.699696,0 c -19.522963,0 -27.785285,-0.0894 -35.193521,-0.0333 l -0.04666,-49.56954 c 0,-4.69479 15.71706,-8.47432 35.239941,-8.47432 l 0,-6e-5 z"
      id="rect3472-4"
      sodipodi:nodetypes="cccccccccc"
@@ -43295,9 +43295,9 @@
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"
-     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:3.09518003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:2.52207456;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
     <svg:path
-       style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:3.09518003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:2.52207456;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 34.342424,-15.484305 47.401462,0 c 16.901042,0 30.507294,3.67408 30.507294,8.2378469 l 0.0147,47.4893151 c -6.6871,-0.05438 -25.00916,-0.01312 -30.396974,0.229545 L 35.186174,40.213473 c -4.244792,0.06696 -26.3242603,0.07592 -30.5697959,0.101438 l -0.78125,-47.5613691 c 0,-4.5637669 13.6062539,-8.2378469 30.5072959,-8.2378469 z"
        id="rect3342-4"
        sodipodi:nodetypes="ccccccccc"
@@ -43362,7 +43362,7 @@
      sodipodi:nodetypes="cc"
      inkscape:connector-curvature="0" />
   <svg:path
-     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:2.05067039;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#fae5fd;fill-opacity:1;stroke:#6400d0;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d="m -65.411708,404.08919 51.175357,0 c 10.9660268,0 19.7942938,3.62464 19.7942938,8.12701 l 0,47.22524 c -3.037312,-0.2141 -8.828267,0.34484 -19.7942938,0.34484 l -51.175357,0 c -10.966027,0 -16.990794,-0.24964 -19.677481,-0.25201 l -0.116813,-47.31807 c 0,-4.50237 8.828267,-8.12701 19.794294,-8.12701 z"
      id="rect3472-1-0"
      sodipodi:nodetypes="ccccccccc"
@@ -43467,7 +43467,7 @@
      x="149.10168"
      y="684.28784"
      id="rect3628-7"
-     style="fill:#f3fdf9;fill-opacity:1;stroke:#015c58;stroke-width:2.597121;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     style="fill:#f3fdf9;fill-opacity:1;stroke:#015c58;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308" />
@@ -43480,7 +43480,7 @@
      inkscape:export-ydpi="259.6308"
      inkscape:connector-curvature="0" />
   <svg:rect
-     style="fill:#fceeec;fill-opacity:1;stroke:#b73030;stroke-width:1.93201911;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#fceeec;fill-opacity:1;stroke:#b73030;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3460-7"
      y="113.01341"
      x="288.38159"
@@ -43499,7 +43499,7 @@
      x="405.20331"
      y="412.86172"
      id="rect3271-6"
-     style="fill:#fbfbbd;fill-opacity:1;stroke:#c8a200;stroke-width:1.6598891;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#fbfbbd;fill-opacity:1;stroke:#c8a200;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308" />
@@ -43510,7 +43510,7 @@
      x="427.01932"
      y="110.31853"
      id="rect3173-9"
-     style="fill:#f6fbfb;fill-opacity:1;stroke:#2e2dff;stroke-width:2.84459019;stroke-miterlimit:4;stroke-opacity:0.99117599;stroke-dasharray:none;stroke-dashoffset:0"
+     style="fill:#f6fbfb;fill-opacity:1;stroke:#2e2dff;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:0.99117599000000001;stroke-dasharray:none;stroke-dashoffset:0"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308" />
@@ -43551,26 +43551,18 @@
      inkscape:connector-curvature="0" />
   <svg:g
      id="g28243">
-    <svg:g
-       style="fill:#f2ffff;fill-opacity:1"
-       inkscape:export-ydpi="259.6308"
-       inkscape:export-xdpi="259.6308"
-       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-       id="g7051"
-       transform="matrix(0.72566523,0,0,1.1122434,-126.54322,301.55106)">
-      <svg:rect
-         inkscape:export-ydpi="606"
-         inkscape:export-xdpi="606"
-         inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-7000.png"
-         rx="35.76902"
-         style="fill:#f6fbfb;fill-opacity:1;stroke:#0d0cff;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect2383-0"
-         y="-22.278374"
-         x="729.36493"
-         ry="25.08058"
-         height="67.439491"
-         width="397.479" />
-    </svg:g>
+    <svg:rect
+       width="288.43671"
+       height="75.009132"
+       ry="27.89571"
+       x="402.73154"
+       y="276.77209"
+       id="rect2383-0"
+       style="fill:#f6fbfb;fill-opacity:1;stroke:#0d0cff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       rx="25.956335"
+       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-7000.png"
+       inkscape:export-xdpi="606"
+       inkscape:export-ydpi="606" />
     <svg:text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -43593,7 +43585,7 @@
      sodipodi:nodetypes="cc"
      inkscape:connector-curvature="0" />
   <svg:rect
-     style="fill:#fbfbbd;fill-opacity:1;stroke:#c8a200;stroke-width:1.37133253;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#fbfbbd;fill-opacity:1;stroke:#c8a200;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3601-7"
      y="645.97418"
      x="574.50189"
@@ -43699,50 +43691,50 @@
   </svg:a>
   <svg:text
      sodipodi:linespacing="125%"
-     x="370.68622"
+     x="362.68622"
      y="706.52057"
      id="text5640-2"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#aa4400;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"><svg:tspan
-       x="370.68622"
+       x="362.68622"
        y="706.52057"
        id="tspan5579-8"
        style="font-size:14px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">會議 :</svg:tspan></svg:text>
   <svg:text
      sodipodi:linespacing="125%"
-     x="371.06915"
+     x="363.06915"
      y="720.48175"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#aa4400;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
      id="text45772"><svg:tspan
-       x="371.06915"
+       x="363.06915"
        y="735.48175"
        id="tspan45774"
        style="font-size:14px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">部落格 :</svg:tspan></svg:text>
   <svg:text
      sodipodi:linespacing="125%"
-     x="610.1059"
+     x="604.1059"
      y="706.82117"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#aa4400;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
      id="text45788"><svg:tspan
-       x="610.1059"
+       x="604.1059"
        y="721.82117"
        id="tspan45790"
        style="font-size:14px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">論壇 :</svg:tspan></svg:text>
   <svg:text
      sodipodi:linespacing="125%"
-     x="582.88135"
+     x="576.88135"
      y="691.60541"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#aa4400;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
      id="text45783"><svg:tspan
-       x="582.88135"
+       x="576.88135"
        y="736.60541"
        id="tspan45785"
        style="font-size:14px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">郵件討論 :</svg:tspan></svg:text>
   <svg:rect
-     style="fill:#f6fbfb;fill-opacity:1;stroke:#2e2dff;stroke-width:2.17233133;stroke-miterlimit:4;stroke-opacity:0.99117599;stroke-dasharray:none;stroke-dashoffset:0"
+     style="fill:#f6fbfb;fill-opacity:1;stroke:#2e2dff;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:0.99117599000000001;stroke-dasharray:none;stroke-dashoffset:0"
      id="rect2397-8"
      y="117.76251"
      x="724.18091"
@@ -43769,7 +43761,7 @@
      id="a23083"
      xlink:href="http://www.top500.org/stats/list/37/osfam"
      xlink:title="Operating system Family share, top500.org"
-     transform="translate(-4,14)">
+     transform="translate(-10,14)">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        xml:space="preserve"
@@ -43785,7 +43777,7 @@
   </svg:a>
   <svg:a
      id="a45813"
-     transform="translate(-116.59474,193.94305)"
+     transform="translate(-122.59474,193.94305)"
      xlink:href="http://icos.org.tw/"
      xlink:title="ICOS(國際開放源碼研討會)">
     <svg:text
@@ -43802,7 +43794,7 @@
   </svg:a>
   <svg:a
      id="a45836"
-     transform="translate(-205.325,-3.958177)"
+     transform="translate(-215.325,-3.958177)"
      xlink:title="Planet GNU, Aggregation of development blogs from the GNU Project"
      xlink:href="http://planet.gnu.org/">
     <svg:text
@@ -43819,7 +43811,7 @@
   </svg:a>
   <svg:a
      id="a45847"
-     transform="translate(-239.325,-2.927877)"
+     transform="translate(-249.325,-2.927877)"
      xlink:href="http://blog.ofset.org/planet/"
      xlink:title="blog of OFSET, organisation for free software in education and teaching">
     <svg:text
@@ -43836,7 +43828,7 @@
   </svg:a>
   <svg:a
      id="a45857"
-     transform="translate(-117.42,-8.8394)"
+     transform="translate(-123.42,-8.8394)"
      xlink:title="Linux Forums, a comprehensive Linux Forum"
      xlink:href="http://www.linuxforums.org/">
     <svg:text
@@ -43857,7 +43849,7 @@
      id="a45869"
      xlink:href="http://www.linuxquestions.org/"
      xlink:title="LinuxQuestions.org, where Linux users come for help"
-     transform="translate(34.9915,-31.29837)">
+     transform="translate(28.9915,-31.29837)">
     <svg:text
        id="text45851"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
@@ -43878,7 +43870,7 @@
      id="a45879"
      xlink:href="http://i18n.debian.net/"
      xlink:title="DebianI18n, FrontPage [en]"
-     transform="translate(-44.379462,-33.549844)">
+     transform="translate(-50.379462,-33.549844)">
     <svg:text
        id="text45864"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
@@ -43893,7 +43885,7 @@
   </svg:a>
   <svg:a
      id="a45888"
-     transform="translate(-8.379463,-33.622644)"
+     transform="translate(-14.379463,-33.622644)"
      xlink:href="http://lists.linux.org.tw/cgi-bin/mailman/listinfo"
      xlink:title="lists.linux.org.tw">
     <svg:text
@@ -43910,7 +43902,7 @@
   </svg:a>
   <svg:a
      id="a45905"
-     transform="translate(6.048499,-78.173774)"
+     transform="translate(0.048499,-78.173774)"
      xlink:href="http://slat.org/slat/"
      xlink:title="SLAT ,中華民國軟體自由協會">
     <svg:text
@@ -44226,7 +44218,7 @@
   </svg:a>
   <svg:a
      id="a45588"
-     transform="translate(126.5874,-17.6528)"
+     transform="translate(120.5874,-17.6528)"
      xlink:title="Greater London Linux User Group"
      xlink:href="http://www.gllug.org.uk/">
     <svg:text
@@ -44247,7 +44239,7 @@
   <svg:a
      id="a45683"
      xlink:href="http://www.gnu.org/software/emacs/emacs.html"
-     transform="translate(285.858,-3.4304)"
+     transform="translate(279.858,-3.4304)"
      xlink:title="emacs wiki">
     <svg:text
        sodipodi:linespacing="125%"
@@ -44261,7 +44253,7 @@
          id="tspan5541-0-3-1-1">emacswiki,</svg:tspan></svg:text>
   </svg:a>
   <svg:a
-     transform="translate(377.118,-5.7138)"
+     transform="translate(371.118,-5.7138)"
      id="a45683-1"
      xlink:href="http://wiki.debian.org.tw"
      xlink:title="紀錄 Debian 中文應用與社群資訊的 WikiWiki 系統">
@@ -44280,7 +44272,7 @@
      id="a45740"
      xlink:title="Open and Free Technology Community web site"
      xlink:href="http://www.oftc.net/oftc/"
-     transform="translate(81.942,-21.05439)">
+     transform="translate(71.942,-21.05439)">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        xml:space="preserve"
@@ -44293,7 +44285,7 @@
          x="422.237">OFTC,</svg:tspan></svg:text>
   </svg:a>
   <svg:a
-     transform="translate(129.139,-18.2165)"
+     transform="translate(119.139,-18.2165)"
      id="a45740-3"
      xlink:href="http://freenode.net/"
      xlink:title="Free node  首頁">
@@ -44564,7 +44556,7 @@
      id="a7731"
      xlink:href="http://coe.berkeley.edu/labnotes/history_unix.html"
      xlink:title="Berkeley Engineers: Changing Our World"
-     transform="translate(-4,8)">
+     transform="translate(-10,8)">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        xml:space="preserve"
@@ -44578,12 +44570,12 @@
   </svg:a>
   <svg:text
      sodipodi:linespacing="125%"
-     x="831.63898"
+     x="825.63898"
      y="489.483"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
      id="text21484"><svg:tspan
-       x="831.63898"
+       x="825.63898"
        y="534.48297"
        id="tspan21486"
        style="font-size:14px">法國, 西班牙, 德國, 巴西 </svg:tspan></svg:text>
@@ -44591,7 +44583,7 @@
      id="a7727"
      xlink:href="http://opensource.mit.edu/online_papers.php"
      xlink:title="Free / opensource research community, MIT, attempting to establish a community in which information will be freely exchanged,"
-     transform="translate(-4,8)">
+     transform="translate(-10,8)">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        xml:space="preserve"
@@ -44616,7 +44608,7 @@
   <svg:a
      id="a21504"
      xlink:href="http://www.ibm.com/developerworks/views/opensource/projects.jsp"
-     transform="translate(72,16)"
+     transform="translate(66,16)"
      xlink:title="IBM 首頁">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
@@ -44631,7 +44623,7 @@
   </svg:a>
   <svg:a
      id="a21500"
-     transform="translate(76,16)"
+     transform="translate(70,16)"
      xlink:href="http://www.google.com"
      xlink:title="Google 首頁">
     <svg:text
@@ -44649,7 +44641,7 @@
      id="a16623"
      xlink:href="http://www.nasa.gov/"
      xlink:title="National Aeronautics and Space Administration, NASA 首頁"
-     transform="translate(-4,28)">
+     transform="translate(-10,28)">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
        xml:space="preserve"
@@ -44663,7 +44655,7 @@
   </svg:a>
   <svg:a
      id="a21488"
-     transform="translate(73.812872,1.4854135)"
+     transform="translate(67.812872,1.4854135)"
      xlink:href="http://wikipedia.tw/"
      xlink:title="維基百科，人人可編輯的自由百科全書">
     <svg:text
@@ -44680,7 +44672,7 @@
   </svg:a>
   <svg:a
      id="a21492"
-     transform="translate(-4,16)"
+     transform="translate(-10,16)"
      xlink:href="http://www.greenpeace.org/"
      xlink:title="Geenpeace 首頁">
     <svg:text
@@ -44696,7 +44688,7 @@
   </svg:a>
   <svg:a
      id="a21496"
-     transform="translate(-4,16)"
+     transform="translate(-10,16)"
      xlink:href="http://www.unesco.org/"
      xlink:title="UNESCO  首頁">
     <svg:text
@@ -44813,7 +44805,7 @@
      id="a13790"
      xlink:href="http://h.says.it"
      xlink:title="René Mérou's web page"
-     transform="translate(-251.005,-80.223514)">
+     transform="translate(-253.005,-80.223514)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -44845,10 +44837,10 @@
          x="792.495"
          y="813.93597"
          id="tspan4310-9-7-1-9-0-6-7-6-1"
-         style="font-size:9px">V.5.5 2011-10-09</svg:tspan></svg:text>
+         style="font-size:9px">V.5.5 2012-06-15</svg:tspan></svg:text>
   </svg:a>
   <svg:g
-     transform="matrix(0.11231,0,0,0.11231,986.09,814.54752)"
+     transform="matrix(0.11231,0,0,0.11231,984.09,814.54752)"
      id="g21393-9"
      style="stroke:#000cff;stroke-opacity:1"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
@@ -44879,7 +44871,7 @@
      transform="translate(13.8353, 329.377)"
      id="g5725" />
   <svg:text
-     x="709.9798"
+     x="699.9798"
      y="646.52057"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -44887,18 +44879,18 @@
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/ca/ejercicios/map-ca-exercici-800-troba-els-errors.png"
      inkscape:export-xdpi="69.204079"
      inkscape:export-ydpi="69.204079"><svg:tspan
-       x="709.9798"
+       x="699.9798"
        y="706.52057"
        style="font-size:14px;font-weight:normal;text-anchor:end;fill:#aa4400;-inkscape-font-specification:DejaVu Serif"
        id="tspan6663">協會:</svg:tspan></svg:text>
   <svg:text
      sodipodi:linespacing="125%"
-     x="370.01999"
+     x="362.01999"
      y="721.14203"
      id="text5640-2-4-7-8"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#aa4400;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"><svg:tspan
-       x="370.01999"
+       x="362.01999"
        y="721.14203"
        id="tspan5579-8-3-8-8"
        style="font-weight:normal;-inkscape-font-specification:DejaVu Serif"><svg:tspan
@@ -44906,23 +44898,23 @@
          id="tspan12953">使用者社群 :</svg:tspan></svg:tspan></svg:text>
   <svg:text
      sodipodi:linespacing="125%"
-     x="581.93402"
+     x="575.93402"
      y="749.93359"
      id="text5640-2-4-7-8-4"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#aa4400;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"><svg:tspan
-       x="581.93402"
+       x="575.93402"
        y="749.93359"
        id="tspan5579-8-3-8-8-3"
        style="font-size:14px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">維基百科 :</svg:tspan></svg:text>
   <svg:text
      sodipodi:linespacing="125%"
-     x="370.84943"
+     x="362.84943"
      y="750.013"
      id="text5640-2-4-7-8-49"
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#aa4400;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"><svg:tspan
-       x="370.84943"
+       x="362.84943"
        y="750.013"
        id="tspan5579-8-3-8-8-2"
        style="font-size:14px;font-weight:normal;-inkscape-font-specification:DejaVu Serif">網路即時聊天室 :</svg:tspan></svg:text>
@@ -44944,9 +44936,9 @@
   </svg:a>
   <svg:a
      xlink:href="maps-guide-zh_tw.svg"
-     id="a18624"
-     transform="translate(6.3236,-7.3000522)"
-     xlink:title="see the maps guide">
+     xlink:title="see the maps guide"
+     transform="translate(4.3236,-7.3000522)"
+     id="a18624">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -45476,59 +45468,59 @@
        id="tspan22900"
        style="font-size:14px">一致性, 自由性</svg:tspan></svg:text>
   <svg:text
-     x="640.39728"
+     x="634.39728"
      y="473.71307"
      id="text5506"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"><svg:tspan
-       x="640.39728"
+       x="634.39728"
        y="473.71307"
        id="tspan5508"
        style="font-size:14px;font-weight:normal;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif">非政府組織 :</svg:tspan></svg:text>
   <svg:text
-     x="640.74884"
+     x="634.74884"
      y="501.95999"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
      id="text12920"><svg:tspan
-       x="640.74884"
+       x="634.74884"
        y="501.95999"
        style="font-size:14px;font-weight:normal;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif"
        id="tspan12922">機關 :</svg:tspan></svg:text>
   <svg:text
-     x="640.66681"
+     x="634.66681"
      y="517.95996"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
      id="text12916"><svg:tspan
-       x="640.66681"
+       x="634.66681"
        y="517.95996"
        style="font-size:14px;font-weight:normal;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif"
        id="tspan12918">公司 : </svg:tspan></svg:text>
   <svg:text
-     x="639.82306"
+     x="633.82306"
      y="533.95996"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
      id="text12912"><svg:tspan
-       x="639.82306"
+       x="633.82306"
        y="533.95996"
        style="font-size:14px;font-weight:normal;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif"
        id="tspan12914">國家 :</svg:tspan></svg:text>
   <svg:text
-     x="640.60822"
+     x="634.60822"
      y="549.95996"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif"
      id="text12907"><svg:tspan
-       x="640.60822"
+       x="634.60822"
        y="549.95996"
        style="font-size:14px;font-weight:normal;text-align:start;text-anchor:start;fill:#aa4400;-inkscape-font-specification:DejaVu Serif"
        id="tspan12909">大學 :</svg:tspan></svg:text>
   <svg:a
      id="a9876"
      xlink:href="http://es.gnu.org/~reneme/fsmap/zh_tw/fsmap-zh_tw.svg"
-     transform="translate(-69.40373,-8.6042878)"
+     transform="translate(-71.40373,-8.6042878)"
      xlink:title="最新版本之概念描述圖">
     <svg:text
        inkscape:export-ydpi="259.6308"
@@ -45547,7 +45539,7 @@
   <svg:a
      id="a14136-6"
      xlink:href="http://es.gnu.org/~reneme/fsmap/fsmap-contents.svg"
-     transform="translate(180.056,-57.256876)"
+     transform="translate(178.056,-57.256876)"
      xlink:title="閱讀此授權與內容">
     <svg:text
        inkscape:export-ydpi="259.6308"
@@ -45568,19 +45560,19 @@
      xml:space="preserve"
      id="text4306-65-54-43-4-0-2-8-2"
      y="779.21313"
-     x="596.66101"
+     x="594.66101"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:9px"
        id="tspan4310-9-7-1-9-0-6-7-0"
        y="794.21313"
-       x="596.66101">) 下載點:</svg:tspan></svg:text>
+       x="594.66101">) 下載點:</svg:tspan></svg:text>
   <svg:a
      id="a14140"
      xlink:href="http://es.gnu.org/~reneme/fsmap/zh_tw"
      xlink:title="traditional chinese traslation, exercises, ..."
-     transform="translate(197.451,-59.538309)">
+     transform="translate(195.451,-59.538309)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -45600,40 +45592,40 @@
      xml:space="preserve"
      id="text4306-65-54-43-4-0-2-8-9-0"
      y="790.72144"
-     x="378.935"
+     x="376.935"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:9px"
        id="tspan4310-9-7-1-9-0-6-7-6-2"
        y="805.72144"
-       x="378.935">) 繁體中文版本，翻譯 ：</svg:tspan></svg:text>
+       x="376.935">) 繁體中文版本，翻譯 ：</svg:tspan></svg:text>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
      xml:space="preserve"
      id="text4306-65-54-43-4-0-2-8-9-6-3"
      y="790.00073"
-     x="565.54102"
+     x="563.54102"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:9px;fill:#0000ff"
        id="tspan4310-9-7-1-9-0-6-7-6-1-2"
        y="805.00073"
-       x="565.54102">ceasar.sun@gmail.com</svg:tspan></svg:text>
+       x="563.54102">ceasar.sun@gmail.com</svg:tspan></svg:text>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
      xml:space="preserve"
      id="text4306-65-54-43-4-0-2-8-9-6-3-1"
      y="790.00073"
-     x="295.89001"
+     x="293.89001"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:9px;fill:#0000ff"
        id="tspan4310-9-7-1-9-0-6-7-6-1-2-5"
        y="805.00073"
-       x="295.89001">h@es.gnu.org</svg:tspan></svg:text>
+       x="293.89001">h@es.gnu.org</svg:tspan></svg:text>
   <svg:a
      transform="matrix(1.13303,0,0,1.13303,172.52599,325.23711)"
      style="display:inline"
@@ -55293,9 +55285,9 @@
   </svg:a>
   <svg:a
      xlink:href="presentations/translations.svg"
-     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)"
+     id="a18624-2"
      transform="translate(58.283287,-19.261881)"
-     id="a18624-2">
+     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -55863,7 +55855,7 @@
        style="font-size:14px">可閱讀之指令</svg:tspan></svg:text>
   <svg:a
      id="a21488-6"
-     transform="translate(9.0343314,15.045456)"
+     transform="translate(3.0343314,15.045456)"
      xlink:href="http://en.wikipedia.org/wiki/Wikipedia"
      xlink:title="Wikipedia web page about wikipedia">
     <svg:text
@@ -55890,7 +55882,7 @@
      id="a12897"
      xlink:href="http://ceasarfree.blogspot.com/"
      xlink:title="孫振凱"
-     transform="translate(38,-29.704654)">
+     transform="translate(36,-29.704654)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -55911,7 +55903,7 @@
      id="a12945"
      xlink:title="自由軟體實驗室"
      xlink:href="http://free.nchc.org.tw"
-     transform="translate(-13.995495,-26.708255)">
+     transform="translate(-15.995495,-26.708255)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -55931,17 +55923,17 @@
      xml:space="preserve"
      id="text4306-65-54-43-4-0-2-8-2-2-6"
      y="790.69507"
-     x="632.43756"
+     x="630.43756"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:9px"
        id="tspan4310-9-7-1-9-0-6-7-0-0-1"
        y="805.69507"
-       x="632.43756">) , 來自</svg:tspan></svg:text>
+       x="630.43756">) , 來自</svg:tspan></svg:text>
   <svg:a
      id="a45879-0"
-     transform="translate(-94.92244,67.637744)"
+     transform="translate(-98.92244,67.637744)"
      xlink:href="http://osdc.tw/"
      xlink:title="臺灣開放原始碼開發者會議 (Open Source Developers' Conference, Taiwan )">
     <svg:text
