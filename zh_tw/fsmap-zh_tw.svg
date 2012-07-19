@@ -43274,17 +43274,17 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="0.76543687"
-   inkscape:cx="586.63711"
-   inkscape:cy="388.95686"
+   inkscape:zoom="0.5412456"
+   inkscape:cx="842.02279"
+   inkscape:cy="649.21686"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
-   inkscape:window-width="1920"
-   inkscape:window-height="1060"
-   inkscape:window-x="1918"
-   inkscape:window-y="-3"
-   inkscape:window-maximized="1" />
+   inkscape:window-width="1882"
+   inkscape:window-height="507"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0" />
 <svg:metadata
    id="metadata5699">
   <rdf:RDF>
@@ -44919,7 +44919,7 @@
      id="a13790"
      xlink:href="http://h.says.it"
      xlink:title="René Mérou's web page"
-     transform="translate(-253.005,-88.223514)">
+     transform="translate(-329.005,-88.223514)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -44951,7 +44951,7 @@
          x="792.495"
          y="813.93597"
          id="tspan4310-9-7-1-9-0-6-7-6-1"
-         style="font-size:9px">V.5.5 2012-06-15</svg:tspan></svg:text>
+         style="font-size:9px">V.5.5 2012-07-19</svg:tspan></svg:text>
   </svg:a>
   <svg:g
      transform="matrix(0.11231,0,0,0.11231,984.09,806.54752)"
@@ -45050,9 +45050,9 @@
   </svg:a>
   <svg:a
      xlink:href="maps-guide-zh_tw.svg"
-     id="a18624"
+     xlink:title="see the maps guide"
      transform="translate(4.3236,-15.300052)"
-     xlink:title="see the maps guide">
+     id="a18624">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -45706,14 +45706,14 @@
      xml:space="preserve"
      id="text4306-65-54-43-4-0-2-8-9-0"
      y="782.72144"
-     x="376.935"
+     x="336.935"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:9px"
        id="tspan4310-9-7-1-9-0-6-7-6-2"
        y="797.72144"
-       x="376.935">) 繁體中文版本，翻譯 ：</svg:tspan></svg:text>
+       x="336.935">) 自由軟體概念圖，正體中文版本，翻譯 ：</svg:tspan></svg:text>
   <svg:text
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
      xml:space="preserve"
@@ -45732,14 +45732,14 @@
      xml:space="preserve"
      id="text4306-65-54-43-4-0-2-8-9-6-3-1"
      y="782.00073"
-     x="293.89001"
+     x="215.89001"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"><svg:tspan
        style="font-size:9px;fill:#0000ff"
        id="tspan4310-9-7-1-9-0-6-7-6-1-2-5"
        y="797.00073"
-       x="293.89001">h@es.gnu.org</svg:tspan></svg:text>
+       x="215.89001">h@es.gnu.org</svg:tspan></svg:text>
   <svg:a
      transform="matrix(1.13303,0,0,1.13303,172.52599,317.23711)"
      style="display:inline"
@@ -55399,9 +55399,9 @@
   </svg:a>
   <svg:a
      xlink:href="presentations/translations.svg"
-     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)"
+     id="a18624-2"
      transform="translate(58.283287,-27.261881)"
-     id="a18624-2">
+     xlink:title="點選此進行翻譯(已經有部分完成且提供統一介面以方便翻譯或提供注解)">
     <svg:text
        inkscape:export-ydpi="259.6308"
        inkscape:export-xdpi="259.6308"
@@ -56061,6 +56061,25 @@
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;text-anchor:end;fill:#000000;fill-opacity:1;font-family:DejaVu Serif"
          y="638.18103"
          x="750.0929">OSDC.TW</svg:tspan></svg:text>
+  </svg:a>
+  <svg:a
+     id="a12899-9"
+     xlink:href="http://es.gnu.org/~reneme/fsmap/en/exercises/with-relations-and-icons.svg"
+     xlink:title="First exercise of the didactic unit [absolute link]"
+     transform="translate(-9.792178,-39.321022)">
+    <svg:text
+       inkscape:export-ydpi="259.6308"
+       inkscape:export-xdpi="259.6308"
+       inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
+       x="766.495"
+       y="798.93597"
+       id="text4306-65-54-43-4-0-2-8-9-6-6"
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"><svg:tspan
+         x="766.495"
+         y="813.93597"
+         id="tspan4310-9-7-1-9-0-6-7-6-1-9"
+         style="font-size:9px">traditional chinese - 正體中文</svg:tspan></svg:text>
   </svg:a>
 </svg:g>
 </svg:svg>
