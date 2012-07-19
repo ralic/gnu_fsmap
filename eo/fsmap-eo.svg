@@ -41535,15 +41535,15 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="0.93355185"
-   inkscape:cx="355.5886"
-   inkscape:cy="423.94876"
+   inkscape:zoom="1.4142136"
+   inkscape:cx="651.79485"
+   inkscape:cy="285.10411"
    inkscape:document-units="px"
    inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
-   inkscape:window-height="1060"
-   inkscape:window-x="1918"
+   inkscape:window-height="998"
+   inkscape:window-x="-2"
    inkscape:window-y="-3"
    inkscape:window-maximized="1" />
 <svg:metadata
@@ -41554,7 +41554,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </svg:metadata>
@@ -42331,23 +42331,6 @@
      inkscape:export-xdpi="259.6308"
      inkscape:export-ydpi="259.6308"
      inkscape:connector-curvature="0" />
-  <svg:text
-     x="651.46899"
-     y="587.849"
-     xml:space="preserve"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
-     inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-     inkscape:export-xdpi="259.6308"
-     inkscape:export-ydpi="259.6308"
-     id="text22854-8"><svg:tspan
-       x="651.46899"
-       y="587.849"
-       style="font-size:24px;font-weight:normal"
-       id="tspan22856-4"> </svg:tspan><svg:tspan
-       x="651.46899"
-       y="610.349"
-       id="tspan10307-5"
-       style="font-size:24px;font-weight:normal" /></svg:text>
   <svg:path
      d="m 602.42678,588.14241 14.5979,16.31519"
      id="path10321-6"
