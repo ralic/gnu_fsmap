@@ -14,7 +14,7 @@
    inkscape:export-xdpi="68.930984"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/fr/présentations/avantages-800.png"
    sodipodi:docname="advantages.svg"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.3.1 r9886"
    version="1.1"
    id="svg10911"
    height="739"
@@ -33,8 +33,8 @@
      inkscape:current-layer="capa1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1060"
-     inkscape:window-x="1918"
+     inkscape:window-height="976"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <svg:defs
@@ -27825,10 +27825,10 @@
          style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
          id="tspan8140">more agile</svg:tspan></svg:text>
     <svg:a
-       xlink:href="traductions.svg"
-       xlink:title="Voir un exemple de plusieurs traductions sur la carte"
+       xlink:href="translations.svg"
+       id="a25210"
        transform="matrix(1.0655677,0,0,1.0655677,35.346047,-27.919403)"
-       id="a25210">
+       xlink:title="Voir un exemple de plusieurs traductions sur la carte">
       <svg:image
          style="filter:url(#filter25158)"
          y="500.1308"
@@ -28356,9 +28356,9 @@
          x="-34.234917">2011-08-30</svg:tspan></svg:text>
     <svg:a
        xlink:href="../ejercicios/"
-       xlink:title="Ejercicios para iniciar la unidad didáctica sobre software libre"
+       transform="translate(-921.3779,347.71251)"
        id="a18624-4"
-       transform="translate(-921.3779,347.71251)">
+       xlink:title="Ejercicios para iniciar la unidad didáctica sobre software libre">
       <svg:text
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -28375,9 +28375,9 @@
     </svg:a>
     <svg:a
        xlink:href="xerrada-lliurex2010.svg"
-       id="a7924"
+       transform="translate(7.6392786,10.408155)"
        xlink:title="veure xerrada del congres de lliurex 2010"
-       transform="translate(7.6392786,10.408155)">
+       id="a7924">
       <svg:text
          id="text7920"
          y="453.91574"
