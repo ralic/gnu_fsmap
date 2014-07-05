@@ -15,7 +15,7 @@
    height="744.09448"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="fsmap-fr-source-8-12.svg"
    inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/fr/fsmap-fr-3000.png"
    inkscape:export-xdpi="258.52103"
@@ -32,13 +32,14 @@
    inkscape:document-units="px"
    inkscape:current-layer="layer1"
    showgrid="false"
-   inkscape:window-width="1024"
-   inkscape:window-height="719"
-   inkscape:window-x="0"
-   inkscape:window-y="0"
+   inkscape:window-width="1920"
+   inkscape:window-height="974"
+   inkscape:window-x="-2"
+   inkscape:window-y="-3"
    inkscape:window-maximized="1"
    showguides="true"
    inkscape:guide-bbox="true" />
+
 
 
 
@@ -56090,11 +56091,11 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
      style="opacity:0.33730158;fill:#0000ff;fill-opacity:1;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686;stroke-dasharray:none;display:inline" />
   <svg:rect
      ry="0"
-     rx="4.9826226"
+     rx="3.8861935"
      y="427.6666"
-     x="-130.33469"
-     height="357.01056"
-     width="564.09906"
+     x="-6.2043543"
+     height="322.52991"
+     width="439.96872"
      id="rect15122-3-2-1"
      style="opacity:0.33730158;fill:#0000ff;fill-opacity:1;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686;stroke-dasharray:none;display:inline" />
 </svg:g>
