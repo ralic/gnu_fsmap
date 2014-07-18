@@ -26,11 +26,11 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="0.43502663"
-   inkscape:cx="672.93895"
-   inkscape:cy="162.12495"
+   inkscape:zoom="0.87005326"
+   inkscape:cx="571.3713"
+   inkscape:cy="365.80251"
    inkscape:document-units="px"
-   inkscape:current-layer="layer1"
+   inkscape:current-layer="capa1"
    showgrid="false"
    inkscape:window-width="1920"
    inkscape:window-height="974"
@@ -39,6 +39,7 @@
    inkscape:window-maximized="1"
    showguides="true"
    inkscape:guide-bbox="true" />
+
 
 
 
@@ -50284,6 +50285,75 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
 </svg:metadata>
 <svg:g
    style="display:inline"
+   inkscape:label="control"
+   id="layer1"
+   inkscape:groupmode="layer">
+  <svg:rect
+     ry="0"
+     rx="9.1198006"
+     y="9.0038338"
+     x="9.4835243"
+     height="727.92957"
+     width="1032.4827"
+     id="rect15122"
+     style="opacity:0.006;fill:#0000ff;fill-opacity:0.74809157999999998;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686000000003;stroke-dasharray:none;display:inline" />
+  <svg:rect
+     ry="0"
+     rx="9.1198006"
+     y="10.466712"
+     x="10.632905"
+     height="729.91473"
+     width="1032.4827"
+     id="rect15122-5"
+     style="opacity:0.006;fill:#0000ff;fill-opacity:0.74809157999999998;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686000000003;stroke-dasharray:none;display:inline" />
+  <svg:rect
+     ry="0"
+     rx="5.0285339"
+     y="367.33438"
+     x="18.88179"
+     height="328.46741"
+     width="569.29694"
+     id="rect15122-3"
+     style="opacity:0.006;fill:#0000ff;fill-opacity:0.74809157999999998;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686000000003;stroke-dasharray:none;display:inline" />
+  <svg:rect
+     ry="0"
+     rx="3.8861935"
+     y="5.1257024"
+     x="2.1473677"
+     height="283.45184"
+     width="439.96875"
+     id="rect15122-3-2"
+     style="opacity:0.006;fill:#0000ff;fill-opacity:0.74809157999999998;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686000000003;stroke-dasharray:none;display:inline" />
+  <svg:rect
+     ry="0"
+     rx="5.6169686"
+     y="12.971724"
+     x="402.95157"
+     height="366.21866"
+     width="635.91553"
+     id="rect15122-3-2-9"
+     style="opacity:0.006;fill:#0000ff;fill-opacity:0.74809157999999998;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686000000003;stroke-dasharray:none;display:inline" />
+  <svg:rect
+     ry="0"
+     rx="3.9368451"
+     y="368.44229"
+     x="587.25635"
+     height="325.67899"
+     width="445.70325"
+     id="rect15122-3-2-9-5"
+     style="opacity:0.006;fill:#0000ff;fill-opacity:0.74809157999999998;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686000000003;stroke-dasharray:none;display:inline" />
+  <svg:rect
+     ry="0"
+     rx="3.8861935"
+     y="427.6666"
+     x="-6.2043543"
+     height="322.52991"
+     width="439.96872"
+     id="rect15122-3-2-1"
+     style="opacity:0.006;fill:#0000ff;fill-opacity:0.74809157999999998;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686000000003;stroke-dasharray:none;display:inline" />
+</svg:g>
+<svg:g
+   style="display:inline"
    transform="translate(200.4423,-77.60054)"
    id="capa1"
    inkscape:groupmode="layer"
@@ -54256,7 +54326,7 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
   </svg:a>
   <svg:path
      style="fill:#0000ff;stroke:#0000ff;stroke-width:0.47243172;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-     d="m 527.00824,800.29813 c 88.6168,-0.1015 88.6168,-0.1015 88.6168,-0.1015"
+     d="m 523.00824,800.29813 c 88.6168,-0.1015 88.6168,-0.1015 88.6168,-0.1015"
      id="path15194"
      inkscape:connector-curvature="0" />
   <svg:rect
@@ -54934,7 +55004,7 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
        sodipodi:cy="506.582"
        sodipodi:rx="92.10582"
        sodipodi:ry="89.396828"
-       d="m 357.5873,506.582 c 0,49.37251 -41.23718,89.39683 -92.10582,89.39683 -50.86864,0 -92.10582,-40.02432 -92.10582,-89.39683 0,-49.3725 41.23718,-89.39683 92.10582,-89.39683 50.86864,0 92.10582,40.02433 92.10582,89.39683 z"
+       d="m 357.5873,506.582 a 92.10582,89.396828 0 1 1 -184.21164,0 92.10582,89.396828 0 1 1 184.21164,0 z"
        transform="matrix(0.694853,0,0,0.715909,75.5294,89.3333)" />
     <svg:path
        sodipodi:type="arc"
@@ -54944,7 +55014,7 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
        sodipodi:cy="506.582"
        sodipodi:rx="92.10582"
        sodipodi:ry="89.396828"
-       d="m 357.5873,506.582 c 0,49.37251 -41.23718,89.39683 -92.10582,89.39683 -50.86864,0 -92.10582,-40.02432 -92.10582,-89.39683 0,-49.3725 41.23718,-89.39683 92.10582,-89.39683 50.86864,0 92.10582,40.02433 92.10582,89.39683 z"
+       d="m 357.5873,506.582 a 92.10582,89.396828 0 1 1 -184.21164,0 92.10582,89.396828 0 1 1 184.21164,0 z"
        transform="matrix(0.694853,0,0,0.715909,267.529,-102.667)" />
     <svg:path
        sodipodi:type="arc"
@@ -54954,7 +55024,7 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
        sodipodi:cy="506.582"
        sodipodi:rx="92.10582"
        sodipodi:ry="89.396828"
-       d="m 357.5873,506.582 c 0,49.37251 -41.23718,89.39683 -92.10582,89.39683 -50.86864,0 -92.10582,-40.02432 -92.10582,-89.39683 0,-49.3725 41.23718,-89.39683 92.10582,-89.39683 50.86864,0 92.10582,40.02433 92.10582,89.39683 z"
+       d="m 357.5873,506.582 a 92.10582,89.396828 0 1 1 -184.21164,0 92.10582,89.396828 0 1 1 184.21164,0 z"
        transform="matrix(0.694853,0,0,0.715909,75.5294,-294.667)" />
     <svg:path
        sodipodi:type="arc"
@@ -54964,7 +55034,7 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
        sodipodi:cy="506.582"
        sodipodi:rx="92.10582"
        sodipodi:ry="89.396828"
-       d="m 357.5873,506.582 c 0,49.37251 -41.23718,89.39683 -92.10582,89.39683 -50.86864,0 -92.10582,-40.02432 -92.10582,-89.39683 0,-49.3725 41.23718,-89.39683 92.10582,-89.39683 50.86864,0 92.10582,40.02433 92.10582,89.39683 z"
+       d="m 357.5873,506.582 a 92.10582,89.396828 0 1 1 -184.21164,0 92.10582,89.396828 0 1 1 184.21164,0 z"
        transform="matrix(0.694853,0,0,0.715909,-116.471,-102.667)" />
   </svg:g>
   <svg:rect
@@ -55573,7 +55643,7 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
          x="502.61996">es.gnu.org/~reneme/fsmap/fr</svg:tspan></svg:text>
   </svg:a>
   <svg:a
-     transform="translate(-59.294481,-87.296887)"
+     transform="translate(-63.294481,-87.296887)"
      xlink:title="René Mérou's web page"
      xlink:href="http://h.says.it"
      id="a13790-0-4">
@@ -55595,18 +55665,18 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
      inkscape:export-ydpi="259.6308"
      inkscape:export-xdpi="259.6308"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-     x="794.1546"
+     x="790.1546"
      y="783.10498"
      id="text4306-65-54-43-4-0-2-8-9-6-6"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"><svg:tspan
-       x="794.1546"
+       x="790.1546"
        y="798.10498"
        id="tspan4310-9-7-1-9-0-6-7-6-1-9"
-       style="font-size:9px">V.6α 2012-07-09</svg:tspan></svg:text>
+       style="font-size:9px">V.6α 2014-07-14</svg:tspan></svg:text>
   <svg:a
      xlink:title="Voir le matériel didactique"
-     transform="translate(-147.69078,-15.464381)"
+     transform="translate(-151.69078,-15.464381)"
      xlink:href="http://es.gnu.org/~reneme/fsmap/fr/maps-guide-fr.svg"
      id="a18624-3">
     <svg:text
@@ -55640,19 +55710,19 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
      inkscape:export-ydpi="259.6308"
      inkscape:export-xdpi="259.6308"
      inkscape:export-filename="/home/h/Desktop/detodo/mapas conceptuales/fsmap/map-es-3000.png"
-     x="487.60065"
+     x="483.60065"
      y="782.6402"
      id="text4306-65-54-43-4-0-2-8-9-6-3-1-0"
      xml:space="preserve"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"><svg:tspan
-       x="487.60065"
+       x="483.60065"
        y="797.6402"
        id="tspan4310-9-7-1-9-0-6-7-6-1-2-5-5"
        style="font-size:9px;fill:#0000ff">h@es.gnu.org</svg:tspan></svg:text>
   <svg:a
      xlink:href="http://www.mallorcaweb.net/rene/svg/fsmap-tra-en-cl.html"
      xlink:title="cliquez ici pour la traduction (formulaire pour traduire facilement ou pour envoyer des commentaires et signaler des erreurs)"
-     transform="translate(-57.554791,-16.258835)"
+     transform="translate(-61.554791,-16.258835)"
      id="a18624-2-2">
     <svg:text
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
@@ -55960,7 +56030,7 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
        x="173.87794">respectent</svg:tspan></svg:text>
   <svg:a
      xlink:title="Voir le matériel didactique"
-     transform="translate(-149.69078,-15.464381)"
+     transform="translate(-153.69078,-15.464381)"
      xlink:href="http://es.gnu.org/~reneme/fsmap/fr/maps-guide-fr.svg"
      id="a18624-3-1">
     <svg:text
@@ -55990,7 +56060,7 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
        y="755.33582"
        x="497.77353"
        sodipodi:role="line"
-       id="tspan15838">et enterprises</svg:tspan></svg:text>
+       id="tspan15838">et entreprises</svg:tspan></svg:text>
   <svg:text
      id="text15103-50-2-8-3-23-8"
      y="740.39441"
@@ -56029,75 +56099,6 @@ Copyright (c) 2005-2006-2007-2008-2009-2010-2011 Jean-René Mérou Sánchez
      inkscape:connector-type="polyline"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
-</svg:g>
-<svg:g
-   style="display:inline"
-   inkscape:label="control"
-   id="layer1"
-   inkscape:groupmode="layer">
-  <svg:rect
-     ry="0"
-     rx="9.1198006"
-     y="9.0038338"
-     x="9.4835243"
-     height="727.92957"
-     width="1032.4827"
-     id="rect15122"
-     style="opacity:0.33730158;fill:#0000ff;fill-opacity:1;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686;stroke-dasharray:none;display:inline" />
-  <svg:rect
-     ry="0"
-     rx="9.1198006"
-     y="10.466712"
-     x="10.632905"
-     height="729.91473"
-     width="1032.4827"
-     id="rect15122-5"
-     style="opacity:0.33730158;fill:#0000ff;fill-opacity:1;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686;stroke-dasharray:none;display:inline" />
-  <svg:rect
-     ry="0"
-     rx="5.0285339"
-     y="367.33438"
-     x="18.88179"
-     height="328.46741"
-     width="569.29694"
-     id="rect15122-3"
-     style="opacity:0.33730158;fill:#0000ff;fill-opacity:1;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686;stroke-dasharray:none;display:inline" />
-  <svg:rect
-     ry="0"
-     rx="3.8861935"
-     y="5.1257024"
-     x="2.1473677"
-     height="283.45184"
-     width="439.96875"
-     id="rect15122-3-2"
-     style="opacity:0.33730158;fill:#0000ff;fill-opacity:1;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686;stroke-dasharray:none;display:inline" />
-  <svg:rect
-     ry="0"
-     rx="5.6169686"
-     y="12.971724"
-     x="402.95157"
-     height="366.21866"
-     width="635.91553"
-     id="rect15122-3-2-9"
-     style="opacity:0.33730158;fill:#0000ff;fill-opacity:1;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686;stroke-dasharray:none;display:inline" />
-  <svg:rect
-     ry="0"
-     rx="3.9368451"
-     y="368.44229"
-     x="587.25635"
-     height="325.67899"
-     width="445.70325"
-     id="rect15122-3-2-9-5"
-     style="opacity:0.33730158;fill:#0000ff;fill-opacity:1;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686;stroke-dasharray:none;display:inline" />
-  <svg:rect
-     ry="0"
-     rx="3.8861935"
-     y="427.6666"
-     x="-6.2043543"
-     height="322.52991"
-     width="439.96872"
-     id="rect15122-3-2-1"
-     style="opacity:0.33730158;fill:#0000ff;fill-opacity:1;stroke:#2222aa;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.99215686;stroke-dasharray:none;display:inline" />
 </svg:g>
 <svg:script
    ns1:version="12.06-12110506"
