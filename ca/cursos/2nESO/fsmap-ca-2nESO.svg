@@ -34454,7 +34454,7 @@
        inkscape:export-ydpi="259.6308" />
     <svg:a
        id="a23087"
-       xlink:href="http://www.top500.org/stats/list/37/osfam"
+       xlink:href="http://top500.org/statistics/details/osfam/1"
        xlink:title="Estatístiques dels 500 més potents superordinadors, top500.org [en]"
        transform="translate(-9.636039,-3.0398449)">
       <svg:text
@@ -34466,7 +34466,7 @@
          sodipodi:linespacing="125%"><svg:tspan
            id="tspan5494-9"
            y="550.76709"
-           x="835.13165">El 91% del TOP500 de superordinadors</svg:tspan></svg:text>
+           x="835.13165">El 97% del TOP500 de superordinadors</svg:tspan></svg:text>
     </svg:a>
     <svg:a
        id="a29086"

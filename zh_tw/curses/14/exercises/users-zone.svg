@@ -42856,7 +42856,7 @@
      inkscape:export-ydpi="259.6308" />
   <svg:a
      id="a23083"
-     xlink:href="http://www.top500.org/stats/list/37/osfam"
+     xlink:href="http://top500.org/statistics/details/osfam/1"
      xlink:title="Operating system Family share, top500.org"
      transform="matrix(1.4509175,0,0,1.4509175,-600.81614,-287.41974)">
     <svg:text
@@ -42870,7 +42870,7 @@
          y="550.76703"
          x="835.13202">TOP500 <svg:tspan
    style="font-size:14px"
-   id="tspan12951">超級電腦中佔</svg:tspan> 91%</svg:tspan></svg:text>
+   id="tspan12951">超級電腦中佔</svg:tspan> 97%</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a29086"

@@ -89,7 +89,7 @@ msgstr ""
 #. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>
 #: fsmap-en.svg:35196
 #, no-wrap
-msgid "89% of the TOP500 supercomputers"
+msgid "97% of the TOP500 supercomputers"
 msgstr ""
 
 #. type: Content of: <svg:svg><svg:g><svg:a><svg:text><svg:tspan>

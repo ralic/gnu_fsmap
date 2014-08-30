@@ -38378,7 +38378,7 @@
   <svg:a
      transform="translate(-237.47416,155.18292)"
      id="a23087"
-     xlink:href="http://www.top500.org/stats/list/37/osfam"
+     xlink:href="http://top500.org/statistics/details/osfam/1"
      xlink:title="Estadísticas de los 500 superordenadores más potentes[en]">
     <svg:text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
@@ -38390,7 +38390,7 @@
          id="tspan5494-9"
          y="542.76709"
          x="833.13165"
-         style="font-size:11px">El 91% del TOP500 de superordinadores</svg:tspan></svg:text>
+         style="font-size:11px">El 97% del TOP500 de superordinadores</svg:tspan></svg:text>
   </svg:a>
   <svg:a
      id="a11812"
