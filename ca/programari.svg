@@ -22,7 +22,7 @@
    image-rendering="auto"
    id="svg9915"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="programari.svg"
    style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Dialog">
   <metadata
@@ -47,13 +47,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1060"
+     inkscape:window-height="974"
      id="namedview11085"
      showgrid="false"
      inkscape:zoom="1.2316035"
-     inkscape:cx="644.28433"
+     inkscape:cx="477.83466"
      inkscape:cy="372.04932"
-     inkscape:window-x="1918"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:current-layer="g9918"
@@ -4483,9 +4483,9 @@
     </defs>
     <a
        xlink:href="fsmap-ca.svg"
-       transform="matrix(0.79347129,0,0,0.79347129,26.218726,122.75411)"
+       xlink:title="veure més informació sobre el programari lliure"
        id="a11141"
-       xlink:title="veure més informació sobre el programari lliure">
+       transform="matrix(0.79347129,0,0,0.79347129,26.218726,122.75411)">
       <g
          id="g11134">
         <g
@@ -4614,8 +4614,7 @@
            sodipodi:cx="98"
            sodipodi:cy="98"
            sodipodi:rx="88"
-           sodipodi:ry="88"
-           d="m 186,98 c 0,48.60106 -39.39894,88 -88,88 -48.601058,0 -88,-39.39894 -88,-88 0,-48.601058 39.398942,-88 88,-88 48.60106,0 88,39.398942 88,88 z" />
+           sodipodi:ry="88" />
         <path
            inkscape:connector-curvature="0"
            d="M 97.28125,43 C 71.21839,43 49.38119,61.152555 43.71875,85.5 L 70,85.5 C 74.741911,75.172905 85.17979,68 97.28125,68 c 16.55999,-2e-6 30,13.44 30,30 -1e-5,16.56 -13.44,30 -30,30 C 85.17978,128 74.741911,120.8271 70,110.5 l -26.28125,0 c 5.66243,24.34745 27.49963,42.5 53.5625,42.5 30.36,0 54.99999,-24.64 55,-55 0,-30.36 -24.64001,-55.000002 -55,-55 z"
@@ -4808,8 +4807,7 @@
          clip-path="url(#clipPath3-5)"
          cx="81.5"
          cy="43"
-         id="ellipse48399"
-         d="M 162,43 C 162,66.195959 125.95892,85 81.5,85 37.041078,85 1,66.195959 1,43 1,19.804041 37.041078,1 81.5,1 125.95892,1 162,19.804041 162,43 z" />
+         id="ellipse48399" />
     </g>
     <g
        style="font-size:20px;font-family:sans-serif"
@@ -5591,7 +5589,7 @@
          xml:space="preserve"
          y="34"
          clip-path="url(#clipPath37-8)"
-         id="text48627">LIBRERIES</text>
+         id="text48627">LIBRARIES</text>
     </g>
     <g
        style="font-size:16px;fill:#808080;stroke:#808080;font-family:sans-serif"
