@@ -14,7 +14,7 @@
    height="744.09448"
    id="svg5694"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="zona-valors-3rESO.svg"
    inkscape:export-filename="map-ca-12000.png"
    inkscape:export-xdpi="1033.4735"
@@ -35430,7 +35430,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="297.46898"
+     inkscape:cx="847.46898"
      inkscape:cy="79.75569"
      inkscape:document-units="px"
      inkscape:current-layer="capa1"
@@ -35460,10 +35460,10 @@
      id="capa1"
      transform="translate(200.4423,-77.60054)">
     <svg:a
-       id="a9621"
-       xlink:title="veure una altra forma de mostrar els valors"
+       xlink:href="../../../hipermapa/valors.svg"
        transform="translate(1.3406753e-7,-3.8649558e-6)"
-       xlink:href="/home/h/../../../hipermapa/valors.svg">
+       xlink:title="veure una altra forma de mostrar els valors"
+       id="a9621">
       <svg:rect
          inkscape:export-ydpi="259.6308"
          inkscape:export-xdpi="259.6308"
@@ -35727,9 +35727,9 @@
          id="tspan30308"> i sobretot llibertat</svg:tspan></svg:text>
     <svg:a
        xlink:href="4zones-3rESO.svg"
-       transform="matrix(2.6031434,0,0,2.6031434,-1230.269,-1323.818)"
+       id="a42070"
        xlink:title="Tornar a veure les 4 zones"
-       id="a42070">
+       transform="matrix(2.6031434,0,0,2.6031434,-1230.269,-1323.818)">
       <svg:text
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
          xml:space="preserve"
@@ -35746,9 +35746,9 @@
     </svg:a>
     <svg:a
        xlink:href="amb-relacions-i-icones-3rESO.svg"
-       xlink:title="Tornar a veure el exercici"
+       transform="matrix(1.0648741,0,0,1.0648741,-77.626601,-75.10511)"
        id="a6966"
-       transform="matrix(1.0648741,0,0,1.0648741,-77.626601,-75.10511)">
+       xlink:title="Tornar a veure el exercici">
       <svg:text
          style="font-size:37.74631119px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif"
          xml:space="preserve"
